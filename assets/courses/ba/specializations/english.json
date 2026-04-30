@@ -1,0 +1,1064 @@
+﻿{
+  "meta": {
+    "title": "Online Bachelor’s Degree in English – Career Focused Program",
+    "description": "Explore language, literature, and communication with the BA in English program at Teksversity. Build strong writing, analytical, and critical thinking skills.",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "course",
+          "name": "BA in English (Bachelor of Arts)",
+          "image": "https://teksversity.com/_next/static/media/ba-english.png",
+          "description": "Explore the BA in English program at Teksversity. Learn literature, language, communication, and creative writing with expert mentorship and 100% placement support.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Teksversity"
+          },
+          "url": "https://teksversity.com/courses/ba-english",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "120"
+          },
+          "offers": {
+            "@type": "AggregateOffer",
+            "url": "https://teksversity.com/courses/ba-english",
+            "priceCurrency": "INR",
+            "lowPrice": "55000",
+            "highPrice": "75000",
+            "offerCount": "1",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is a BA in English course all about?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The Bachelor of Arts in English is a 3-year undergraduate program that focuses on English literature, language, and communication skills. Students explore poetry, drama, fiction, literary theory, and linguistics   gaining strong analytical and creative writing skills essential for journalism, content creation, teaching, and media careers."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the eligibility criteria for a BA English course?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To pursue a BA English degree in India, candidates must have completed 10+2 or equivalent from a recognized board with at least 45–50% marks. Admissions are usually merit-based or through entrance exams conducted by universities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What subjects are taught in a BA English program?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The BA English syllabus 2025 includes British Literature, Indian Writing in English, American Literature, Literary Criticism, Linguistics, and Communication Studies. Modern universities also include digital writing, creative writing, content editing, and media communication as skill-based electives."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the scope of BA English in India in 2026?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The scope of BA English in 2025 is vast, covering roles in digital media, education, public relations, publishing, content marketing, and corporate communications. With the rise of the digital economy, skilled communicators and writers are in high demand across industries."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the top career opportunities after a BA in English?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Graduates can become content writers, journalists, editors, copywriters, teachers, communication specialists, translators, or public relations executives. Many also work in digital marketing, publishing, or corporate communications roles."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the higher education options after BA English?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Students can pursue MA English, Journalism, Mass Communication, MBA, or Creative Writing courses. Many also specialize in TESOL, Linguistics, or Digital Marketing to enhance global career prospects."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the trending skills BA English students should learn in 2026?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In 2025, students should focus on SEO writing, blogging, content strategy, storytelling, public speaking, and social media management. Learning tools like Grammarly, WordPress, and Canva improves employability in digital careers."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the average salary after BA English in India?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The average BA English salary in India ranges from ₹2.5 to ₹5 lakh per annum for freshers, depending on the role and industry. Experienced professionals in digital marketing, media, or communications can earn ₹8–10 LPA or more."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is BA English a good course for future career growth?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, BA English offers excellent long-term growth opportunities in education, digital marketing, media, and publishing. It enhances communication, creativity, and analytical skills   all of which are highly valued in 2025’s job market."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I prepare for government exams after a BA in English?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! BA English helps in preparing for UPSC, SSC, Banking, and State Government Exams, as the course improves language proficiency, reasoning, and general awareness   crucial for competitive exams."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+
+  "category": "specialization",
+
+  "formDetails": {
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "courseName": "Bachelor of Arts in English",
+    "universities": [
+      {
+        "university": "amity-university",
+        "image": {
+          "src": "/home/universitylogos/amity.webp",
+          "alt": "amity",
+          "url": "/university/amity-university"
+        },
+        "accreditations": ["ISO", "NAAC A+", "UGC", "AICTE"],
+        "rating": 4.6,
+        "duration": "3 years",
+        "courseFee": { "range": "99,000", "note": "Total program fee" },
+        "brochure": "",
+        "button": [{ "name": "Enroll Now", "link": "", "form": true }],
+        "productId": 193,
+        "sourceId": 151,
+        "universityName": "Amity University"
+      }
+    ]
+  },
+
+  "banner": {
+    "name": "Online Bachelor’s Degree in English with Placement Assistance",
+    "position": 1,
+    "mainHeading": "BA in English – Master the Art of Expression and Thought.",
+    "description": "The BA in English degree blends literature, linguistics, and communication to help learners analyze, interpret, and create powerful content.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/ugbanerimages/ba/ba_in_english.webp",
+      "alt": "ba in english"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose This Program?"],
+      "benefits": [
+        "Study global and Indian English literature with expert mentors.",
+        "Develop strong analytical, writing, and communication skills.",
+        "Learn creative, academic, and professional writing techniques.",
+        "Explore linguistics, media studies, and literary criticism.",
+        "Receive personalized career guidance and placement support.",
+        "Engage in creative writing, storytelling, and publishing projects.",
+        "Gain exposure to modern content creation and digital media trends.",
+        "Participate in debates, reading circles, and cultural studies.",
+        "Build editing, proofreading, and content development expertise.",
+        "Prepare for diverse careers in writing, media, teaching, or research."
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["Overview of", "BA in English Program"],
+    "overViewImage": {
+      "src": "/home/overview/overview3.webp",
+      "alt": "overview.webp"
+    },
+    "subHeading": "Explore Words, Cultures, and Ideas That Shape the World.",
+    "description": "The Bachelor of Arts in English at Teksversity offers an immersive journey into literature, culture, and communication. This online bachelor’s degree in English equips students with both intellectual depth and practical skills for real-world careers. From Shakespeare to postmodern literature, and from creative writing to digital content creation, the curriculum connects classical knowledge with modern communication demands. Students also gain valuable exposure to media writing, storytelling, and professional communication, preparing them for roles in content writing, editing, teaching, and digital marketing. The program emphasizes critical analysis, creativity, and linguistic excellence, empowering learners to become confident communicators.",
+    "keyPoints": [
+      "Master English language and communication with clarity and confidence.",
+      "Analyze and interpret literary texts from diverse periods and genres.",
+      "Build creative and academic writing expertise.",
+      "Strengthen linguistic, editorial, and storytelling abilities.",
+      "Develop professional readiness for careers or higher studies."
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": ["Why Choose BA in English in", "Teksversity?"],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": {
+      "type": "richText",
+      "content": [
+        {
+          "type": "text",
+          "value": "At Teksversity, the BA in "
+        },
+        {
+          "type": "link",
+          "value": "English program",
+          "url": "/courses/ma/english"
+        },
+        {
+          "type": "text",
+          "value": " isn’t just about studying literature it’s about shaping thinkers, communicators, and creative professionals for the modern world. The program bridges classical literary knowledge with contemporary skills like digital communication, content strategy, and storytelling. Each subject is carefully designed to nurture analytical depth, linguistic precision, and creative flair that employers value across industries."
+        }
+      ]
+    },
+    "description": [
+      {
+        "firstDescription": "Students learn directly from experienced faculty and industry mentors, engaging in workshops, projects, and live interactive sessions that connect theory with real-world application. The curriculum also integrates media studies, creative writing labs, and linguistic research, helping learners adapt to evolving communication trends in journalism, marketing, and digital platforms. Through guided mentorship, students gain the confidence to express ideas clearly, critically, and creatively"
+      },
+      {
+        "secondDescription": "What truly sets Teksversity apart is its commitment to career readiness and lifelong learning. Learners receive personalized placement support, resume-building guidance, and portfolio development assistance, along with internship opportunities in publishing, content, and education sectors. Beyond academics, students join a vibrant learning community through literary clubs, alumni talks, and cross-domain collaborations, ensuring a holistic growth experience that blends education with inspiration."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": ["Key Highlights of", "BA in English Program"],
+    "sections": [
+      { "name": "Learning Experience", "value": "LearningExperience" },
+      { "name": "Support & Assistance", "value": "SupportandAssistance" },
+      { "name": "Career Support", "value": "CareerSupport" },
+      {
+        "name": "Networking & Peer Learning",
+        "value": "NetworkingandPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "LearningExperience": {
+        "keyPoints": [
+          "In-depth study of literature, linguistics, and culture",
+          "Creative writing and professional communication workshops",
+          "Film, media, and storytelling sessions",
+          "Critical theory and analytical discussions",
+          "Research-based projects and presentations",
+          "Interactive mentorship by literature experts"
+        ]
+      },
+      "SupportandAssistance": {
+        "keyPoints": [
+          "Dedicated faculty mentorship and counseling",
+          "24/7 online access to lectures and study materials",
+          "Recorded sessions for flexible learning",
+          "Personalized academic guidance and evaluations",
+          "Assistance with research papers and publications",
+          "Internship and project coordination support"
+        ]
+      },
+      "CareerSupport": {
+        "keyPoints": [
+          "100% placement assistance and professional mentoring",
+          "Resume and profile building workshops",
+          "Internship opportunities in media and education sectors",
+          "Career guidance for writing, editing, and communication roles",
+          "Support for higher education pathways (MA, MBA, etc.)",
+          "Networking with industry professionals"
+        ]
+      },
+      "NetworkingandPeerLearning": {
+        "keyPoints": [
+          "Group projects and reading discussions",
+          "Literary debates and creative writing contests",
+          "Webinars with authors, editors, and educators",
+          "Alumni sessions and knowledge-sharing events",
+          "Cross-domain collaborations and workshops",
+          "Virtual literary and communication clubs"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our", "Course Brochure"],
+    "description": "Embrace the world of language, creativity, and expression with Teksversity’s BA in English program. This degree is designed to help you explore timeless literature, sharpen your communication skills, and connect classic texts with today’s evolving media and creative industries.",
+    "subHeading": "What You’ll Get in the Brochure:",
+    "highlights": [
+      "Comprehensive BA English curriculum and course structure.",
+      "Core skills, writing labs, and creative workshops.",
+      "Admission guidelines and eligibility requirements.",
+      "Internship programs and diverse career pathways.",
+      "Learning resources, faculty mentorship, and placement support."
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/brochure/DB3.webp",
+      "alt": "DB3"
+    }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 8,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 9,
+    "heading": ["Take the Leap", "Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "flexible online learning"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "advanced lms"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "global certification"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "no cost emi"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affrordable fees"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ugc/naac recognized universities"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "expert faculty"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "online live and recorded sessions"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "industry-aligned curriculum"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "dual certifications"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ai enhanced learning"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "job focused training"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affordable and quality learning"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "placement and career support"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "view all" },
+        "link": "null"
+      }
+    }
+  },
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },
+      {
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+  "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      },
+      "formBackground": {
+        "src": "/home/formbg.webp",
+        "alt": "Spin and Win Form Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 12,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is a BA in English course all about?",
+        "answer": "The Bachelor of Arts in English is a 3-year undergraduate program that focuses on English literature, language, and communication skills. Students explore poetry, drama, fiction, literary theory, and linguistics   gaining strong analytical and creative writing skills essential for journalism, content creation, teaching, and media careers."
+      },
+      {
+        "question": "What are the eligibility criteria for a BA English course?",
+        "answer": "To pursue a BA English degree in India, candidates must have completed 10+2 or equivalent from a recognized board with at least 45–50% marks. Admissions are usually merit-based or through entrance exams conducted by universities."
+      },
+      {
+        "question": "What subjects are taught in a BA English program?",
+        "answer": "The BA English syllabus 2025 includes British Literature, Indian Writing in English, American Literature, Literary Criticism, Linguistics, and Communication Studies. Modern universities also include digital writing, creative writing, content editing, and media communication as skill-based electives."
+      },
+      {
+        "question": "What is the scope of BA English in India in 2026?",
+        "answer": "The scope of BA English in 2025 is vast, covering roles in digital media, education, public relations, publishing, content marketing, and corporate communications. With the rise of the digital economy, skilled communicators and writers are in high demand across industries."
+      },
+      {
+        "question": "What are the top career opportunities after a BA in English?",
+        "answer": "Graduates can become content writers, journalists, editors, copywriters, teachers, communication specialists, translators, or public relations executives. Many also work in digital marketing, publishing, or corporate communications roles."
+      },
+      {
+        "question": "What are the higher education options after BA English?",
+        "answer": "Students can pursue MA English, Journalism, Mass Communication, MBA, or Creative Writing courses. Many also specialize in TESOL, Linguistics, or Digital Marketing to enhance global career prospects."
+      },
+      {
+        "question": "What are the trending skills BA English students should learn in 2026?",
+        "answer": "In 2025, students should focus on SEO writing, blogging, content strategy, storytelling, public speaking, and social media management. Learning tools like Grammarly, WordPress, and Canva improves employability in digital careers."
+      },
+      {
+        "question": "What is the average salary after BA English in India?",
+        "answer": "The average BA English salary in India ranges from ₹2.5 to ₹5 lakh per annum for freshers, depending on the role and industry. Experienced professionals in digital marketing, media, or communications can earn ₹8–10 LPA or more."
+      },
+      {
+        "question": "Is BA English a good course for future career growth?",
+        "answer": "Yes, BA English offers excellent long-term growth opportunities in education, digital marketing, media, and publishing. It enhances communication, creativity, and analytical skills   all of which are highly valued in 2025’s job market."
+      },
+      {
+        "question": "Can I prepare for government exams after a BA in English?",
+        "answer": "Absolutely! BA English helps in preparing for UPSC, SSC, Banking, and State Government Exams, as the course improves language proficiency, reasoning, and general awareness   crucial for competitive exams."
+      }
+    ]
+  },
+
+  "letsTalk": {
+    "position": 13,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 14,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "BA in English",
+      "Bachelor's in English online",
+      "BA English literature",
+      "Online bachelor's degree in English",
+      "Bachelor of Arts in English",
+      "Bachelor's in English",
+      "Bachelor in English literature",
+      "BA English online degree",
+      "BA degree in English",
+      "Online English bachelor's degree"
+    ]
+  }
+}

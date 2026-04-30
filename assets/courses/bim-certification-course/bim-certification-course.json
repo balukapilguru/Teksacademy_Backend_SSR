@@ -1,0 +1,1051 @@
+﻿{
+  "meta": {
+    "title": "BIM Certificate Course | Building Information Modeling",
+    "description": "Learn building information modeling with a BIM certificate course covering industry tools, core workflows, and real-world project applications.",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Course",
+          "name": "BIM Certification Course",
+          "image": "https://teksversity.com/_next/image?url=https%3A%2F%2Fteksversity.s3.us-east-1.amazonaws.com%2Fwebsite%2Fassets%2Fcertificate%2FbannerImages%2Fcertification%2Fbim-certificate.webp&w=1920&q=75",
+          "description": "The BIM Certification Course at Teksversity provides hands-on training in Building Information Modeling (BIM) processes used in architecture, engineering, and construction projects to build industry-ready skills.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Teksversity"
+          },
+          "url": "https://teksversity.com/courses/bim-certification-course",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.7",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "127"
+          },
+          "offers": {
+            "@type": "AggregateOffer",
+            "url": "https://teksversity.com/courses/bim-certification-course",
+            "priceCurrency": "INR",
+            "lowPrice": "50000",
+            "highPrice": "50000",
+            "offerCount": "1",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is the BIM Certification Course about?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The BIM Certification Course teaches Building Information Modeling concepts, tools, and workflows used in architecture, engineering, and construction projects through practical training."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What software and skills are covered in the BIM course?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Learners gain experience in BIM modeling, project coordination, 3D construction workflows, digital design collaboration, and industry-standard BIM tools used in AEC projects."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who should take the BIM Certification Course?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The course is suitable for civil engineers, architects, construction professionals, and students who want to build careers in digital construction and BIM-based project design."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What career opportunities are available after BIM certification?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Graduates can work as BIM Modelers, BIM Coordinators, Digital Construction Engineers, Architectural Technicians, or AEC Design Specialists."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does the BIM course include practical projects?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the training includes real-world BIM modeling tasks, collaborative design exercises, and project-based workflows aligned with construction industry practices."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+  "category": "certifications",
+
+  "formDetails": {
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "courseName": "BIM Certification Course",
+    "universities": [
+      {
+        "university": "TEKSVERITY INSTITUTE OF ADVANCED LEARNING",
+        "image": {
+          "src": "/home/Teksversity_navbar.webp",
+          "alt": "teksversity"
+        },
+        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "rating": 4.8,
+        "duration": "4-6 Months",
+        "courseFee": {
+          "range": "45,000 - 55,000",
+          "note": "Total program fee"
+        },
+        "brochure": "/Downloadbrouchers/IT-courses/DownloadBroucher/Teksversity-BIM.pdf",
+        "button": [
+          {
+            "name": "Know More",
+            "link": "",
+            "form": false
+          },
+          { "name": "Enroll Now", "link": "", "form": true }
+        ],
+        "productId": 286,
+        "sourceId": 148,
+        "universityName": "Teksversity"
+      }
+    ]
+  },
+
+  "banner": {
+    "name": "BIM Certificate Course-Shape Tomorrow’s Structures",
+    "position": 1,
+    "mainHeading": "BIM Certificate Course-Shape Tomorrow’s Structures",
+    "description": "Step into the future of digital construction with our BIM Certificate Course. Gain the skills to design, plan, and manage building projects using advanced Building Information Modeling tools. Ideal for architects, civil engineers, and design professionals aiming to build a strong foundation in BIM technology, project coordination, and 3D modeling for the construction industry.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/certificate/bannerImages/certification/bim-certificate.webp",
+      "alt": "BIM Certification Course with Building Information Modelling"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Should You Join This Course?"],
+      "benefits": [
+        "Master Building Information Modeling (BIM) concepts and digital workflows.",
+        "Learn BIM Revit training for architecture, structure, and MEP design.",
+        "Understand construction documentation, visualization, and project coordination.",
+        "Get trained by certified BIM professionals with real industry experience.",
+        "Work on real-time projects through BIM online training courses.",
+        "Receive career mentorship, interview preparation, and placement assistance.",
+        "Gain certification-ready expertise for global BIM online courses.",
+        "Join a future-ready profession transforming the architecture and construction landscape."
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["Overview of", "BIM Certificate Course"],
+    "overViewImage": {
+      "src": "/certificate/overview.webp",
+      "alt": "BIM Certificate Course – Program Overview"
+    },
+    "subHeading": "Become a Certified BIM Professional with Real-World Design Skills!",
+    "description": "The BIM online training course at Teksversity equips learners with the technical and analytical skills needed to excel in the digital construction era. Gain hands-on experience in Revit software, model-based design, and project management workflows aligned with global BIM standards. Combining conceptual knowledge with practical exposure, the course enables you to create intelligent 3D models, manage project data, and collaborate efficiently across multidisciplinary teams. Through real-world assignments and simulations, you’ll learn how BIM improves construction accuracy and reduces rework.",
+    "keyPoints": [
+      "Understand BIM processes, terminologies, and applications in construction.",
+      "Create, modify, and manage architectural, structural, and MEP models in Revit.",
+      "Collaborate effectively using BIM coordination and data management tools.",
+      "Develop 3D visualizations and prepare professional construction documentation.",
+      "Prepare for global BIM and Revit certifications with guided mentorship."
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": ["Why choose ", "BIM Certification at Teksversity?"],
+    "subHeading": ["Celebrating", " Excellence"],
+    "title": ["13 Years of", " Legacy", "(Commitment, Growth, Success)"],
+    "legacyCards": [
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "4.72/5",
+        "label": "Overall Program Rating"
+      },
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "99/100",
+        "label": "Sessions Rated 4+/5"
+      },
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "4.8/5",
+        "label": "Average Session Rating"
+      }
+    ],
+    "image": "url",
+    "initialDescription": "At Teksversity, we believe in transforming learners into design-ready professionals through practical, project-driven learning. Our top BIM Revit training is designed and delivered by certified industry experts who bring real-world architectural and construction experience into every classroom session.",
+    "description": [
+      {
+        "firstDescription": "Unlike traditional software training, Teksversity offers simulation-based exercises and live project collaboration, giving you the ability to apply your knowledge in realistic construction scenarios. You’ll gain exposure to Revit modeling, BIM workflows, and digital documentation practices followed by top architectural and engineering firms."
+      },
+      {
+        "secondDescription": "We also offer career-focused support that includes resume preparation, portfolio guidance, and placement assistance to help you land your first BIM role confidently."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": ["Key Highlights of", "BIM Certificate Course"],
+    "sections": [
+      {
+        "name": "Comprehensive Curriculum",
+        "value": "ComprehensiveCurriculum"
+      },
+      {
+        "name": "Hands-On Learning",
+        "value": "HandsOnLearning"
+      },
+      {
+        "name": "Expert Mentorship",
+        "value": "ExpertMentorship"
+      },
+      {
+        "name": "Career & Placement Support",
+        "value": "CareerAndPlacementSupport"
+      }
+    ],
+    "tabsData": {
+      "ComprehensiveCurriculum": {
+        "keyPoints": [
+          "Covers Revit Architecture, Structure, and MEP modules.",
+          "Includes BIM fundamentals, data management, and coordination workflows.",
+          "Focuses on real-world project simulation and collaboration tools.",
+          "Provides hands-on practice for certification readiness."
+        ]
+      },
+      "HandsOnLearning": {
+        "keyPoints": [
+          "Work on live design and construction projects using Revit.",
+          "Create coordinated 3D models and analyze design performance.",
+          "Simulate project workflows from concept to documentation.",
+          "Build a professional BIM portfolio under mentor guidance."
+        ]
+      },
+      "ExpertMentorship": {
+        "keyPoints": [
+          "Learn directly from experienced BIM consultants and trainers.",
+          "Receive personalized feedback and project evaluations.",
+          "Stay updated with new BIM technologies and industry standards.",
+          "Get certification guidance for Revit and BIM professional exams."
+        ]
+      },
+      "CareerAndPlacementSupport": {
+        "keyPoints": [
+          "Get dedicated career counseling and resume optimization.",
+          "Access mock interviews and job preparation workshops.",
+          "Explore internship and placement opportunities in architect/infra firms.",
+          "Build a strong, future-ready career in digital construction technology."
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Your", "Free Brochure"],
+    "description": "Get complete details of the Top BIM Certificate Course at Teksversity including curriculum, tools, certification pathways, and placement assistance. Explore how this course can help you build the digital design and coordination skills needed to excel in the global construction industry.",
+    "subHeading": "What You’ll Get in the Brochure:",
+    "highlights": [
+      "Full course curriculum with detailed Revit and BIM modules.",
+      "Program duration, fees, and flexible batch options.",
+      "Project-based learning, mentorship, and certification guidance.",
+      "Placement assistance, success stories, and career growth support."
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/certificate/brochuree.webp",
+      "alt": "Download BIM Certificate Course Brochure"
+    }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ],
+    "universityOfferings": [
+      {
+        "university": "TEKSVERITY INSTITUTE OF ADVANCED LEARNING",
+        "image": {
+          "src": "/certificate/Teksversity_In1.webp",
+          "alt": "Teksversity"
+        },
+        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "rating": 4.8,
+        "duration": "4-6 Months",
+        "courseFee": {
+          "range": "40,000 - 50,000",
+          "note": "Total program fee"
+        },
+        "button": {
+          "text": "Enroll Now",
+          "icon": { "src": "null", "alt": "null" },
+          "link": "null"
+        }
+      }
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 8,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 9,
+    "heading": ["Take the Leap", "Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "flexible online learning"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "advanced lms"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "global certification"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "no cost emi"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affrordable fees"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ugc/naac recognized universities"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "expert faculty"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "online live and recorded sessions"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "industry-aligned curriculum"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "dual certifications"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ai enhanced learning"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "job focused training"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affordable and quality learning"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "placement and career support"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "view all" },
+        "link": "null"
+      }
+    }
+  },
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },
+      {
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+  "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      },
+      "formBackground": {
+        "src": "/home/formbg.webp",
+        "alt": "Spin and Win Form Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 13,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is BIM, and what career roles does this course prepare me for?",
+        "answer": "BIM (Building Information Modeling) is a smart 3D model-based process that gives architecture, engineering, and construction (AEC) professionals the insight and tools to more efficiently plan, design, construct, and manage buildings. This course prepares you for roles like BIM Modeler, BIM Coordinator, or Revit Specialist."
+      },
+      {
+        "question": "Are there any prerequisites to enroll in the BIM Certification Course?",
+        "answer": "No specific prior BIM experience is mandatory. This course is ideal for Civil Engineers, Architects, Mechanical Engineers, and Construction Managers. Basic knowledge of technical drawing (CAD) is helpful but not essential."
+      },
+      {
+        "question": "What industry-standard software will I learn in this course?",
+        "answer": "The core of the BIM curriculum focuses on mastering Autodesk Revit (for modeling and documentation), often supplemented with modules on Navisworks (for clash detection) and BIM 360 (for cloud collaboration)."
+      },
+      {
+        "question": "Does the course cover both 3D modeling and advanced BIM concepts like 4D/5D?",
+        "answer": "Yes. You will learn core 3D modeling for Architecture, Structure, and MEP. The course also progresses to advanced concepts like Clash Detection, Quantity Takeoff (5D), and Construction Scheduling (4D)."
+      },
+      {
+        "question": "How is the software access provided for an online course?",
+        "answer": "We provide guidance on utilizing Autodesk educational licenses or free trials for Revit and other necessary software, ensuring you have uninterrupted access for hands-on practice throughout your course duration."
+      },
+      {
+        "question": "Does this course help me achieve the official Autodesk certification?",
+        "answer": "Yes. The curriculum is meticulously designed to align with the objectives of the Autodesk Certified User (ACU) in Revit exam, helping you prepare thoroughly to gain a globally recognized vendor credential."
+      },
+      {
+        "question": "What kind of practical projects will I complete?",
+        "answer": "You will work on comprehensive, real-world projects such as creating a complete 3D building model, generating construction documents, and performing a clash detection analysis between structural and MEP elements."
+      },
+      {
+        "question": "How does learning BIM compare to traditional 2D CAD drafting?",
+        "answer": "BIM is a paradigm shift. Unlike 2D CAD which creates static lines, BIM creates an intelligent, data-rich 3D model that enables better collaboration, automatic documentation updates, and error reduction (clash detection)."
+      },
+      {
+        "question": "Is the course 100% online, and are there flexible study options?",
+        "answer": "Yes, the course is 100% online, delivered via a blend of expert-led live sessions and self-paced recorded content on our LMS, giving you the flexibility to learn while managing your current job or studies."
+      },
+      {
+        "question": "Does Teksversity offer placement assistance specifically for BIM roles?",
+        "answer": "Yes. Our career services include specialized resume formatting for the AEC industry, mock interviews focused on BIM workflows, and connections to firms actively hiring for BIM Modeler and Coordinator roles."
+      }
+    ]
+  },
+
+  "letsTalk": {
+    "position": 14,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today—Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 15,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "BIM manager certification online",
+      "Revit bim online course",
+      "BIM certification course in india",
+      "BIM certification cost",
+      "Best bim training institute in india",
+      "BIM management master online",
+      "Masters in bim online",
+      "Online bim software"
+    ]
+  }
+}

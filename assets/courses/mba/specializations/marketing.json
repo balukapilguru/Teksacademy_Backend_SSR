@@ -1,0 +1,1062 @@
+﻿{
+  "meta": {
+    "title": "Flexible Online PG in MBA in Marketing with Job Assistance",
+    "description": "Build your expertise in branding, digital strategy, and consumer behavior with the MBA in Marketing at Teksversity. This program prepares professionals to lead campaigns.",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "course",
+          "name": "MBA in Marketing",
+          "image": "",
+          "description": "Explore the MBA in Marketing program focusing on digital marketing, branding, consumer behavior, sales strategies, advertising, and market analytics with practical exposure and dedicated career support.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Teksversity"
+          },
+          "url": "",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "153"
+          },
+          "offers": {
+            "@type": "AggregateOffer",
+            "url": "",
+            "priceCurrency": "INR",
+            "lowPrice": "",
+            "highPrice": "",
+            "offerCount": "1",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is an MBA in Marketing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An MBA in Marketing is a specialized management program that focuses on consumer behavior, branding, digital marketing, sales strategies, advertising, and market analysis. It prepares you for leadership roles in modern marketing across industries."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What skills will I gain through an MBA in Marketing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You will develop expertise in branding, market research, digital marketing, sales management, campaign planning, advertising strategies, consumer psychology, and marketing analytics."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is an MBA in Marketing suitable for students from any background?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes! Students from commerce, engineering, arts, or any field can join. The program starts from the fundamentals and builds your skills in marketing strategy, creativity, and analytics."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What subjects are covered in the MBA in Marketing curriculum?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The curriculum typically includes Marketing Management, Consumer Behavior, Digital Marketing, Brand Management, Sales & Distribution, Advertising, Business Strategy, Product Management, Market Analytics, and International Marketing."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What tools or platforms will I learn during the MBA in Marketing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You will work with key marketing tools such as Google Analytics, CRM platforms, digital advertising tools, social media marketing dashboards, market research platforms, and campaign performance tools."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What career opportunities can I expect after completing an MBA in Marketing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Graduates can build careers as Marketing Managers, Brand Managers, Digital Marketing Specialists, Product Managers, Sales Managers, Market Research Analysts, Advertising Executives, and Growth Strategists."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which industries hire MBA in Marketing professionals?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Industries like FMCG, retail, IT, telecom, e-commerce, banking, healthcare, media, hospitality, and advertising agencies recruit marketing and branding professionals."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the salary outlook after an MBA in Marketing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "MBA Marketing offers strong growth potential. Professionals with skills in digital marketing, branding, and sales management can quickly move into high-paying managerial and leadership roles."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does Teksversity provide practical exposure for MBA in Marketing students?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes! Teksversity ensures hands-on learning through real marketing case studies, live digital campaigns, branding exercises, market research projects, and practical tools used in the marketing industry."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can working professionals pursue an MBA in Marketing at Teksversity?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely. Teksversity offers flexible learning options such as weekend classes, online and hybrid modes, making it convenient for professionals who want to advance their careers while working."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "formDetails": {
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "courseName": "Master of Business Administration in Marketing",
+    "universities": [
+      {
+        "university": "jain-university",
+        "image": {
+          "src": "/home/universitylogos/jain.webp",
+          "alt": "jain",
+          "url": "/university/jain-university"
+        },
+        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "rating": 4.8,
+        "duration": "2 Years",
+        "courseFee": { "range": "1,96,000", "note": "Total program fee" },
+        "brochure": "/Downloadbrouchers/JAIN/MBA-JAIN/marketing-brochure-MBA-jain.pdf",
+        "button": [
+          {
+            "name": "Know More",
+            "link": "/university/jain-university",
+            "form": false
+          },
+          { "name": "Enroll Now", "link": "", "form": true }
+        ],
+        "productId": 162,
+        "sourceId": 155,
+        "universityName": "Jain University"
+      }
+    ]
+  },
+
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+  "category": "specialization",
+  "banner": {
+    "name": "MBA in Marketing - Master Branding, Digital Strategy, and Market Leadership",
+    "position": 1,
+    "mainHeading": "MBA in Marketing - Master Branding, Digital Strategy, and Market Leadership",
+    "description": "Earn your Master of Business Administration in Marketing (MBA in Marketing) degree and develop creative, analytical, and leadership skills to shape successful marketing strategies in today’s competitive business environment",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/pgbanerimages/mba/mba_Marketing.webp",
+      "alt": "MBA in Marketing with Branding, Digital Strategy, and Market Leadership"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose This Program?"],
+      "benefits": [
+        "Comprehensive and industry-driven MBA in Marketing curriculum",
+        "Learn from marketing leaders and experienced professionals",
+        "Real-world projects on branding, advertising, and market research",
+        "Focus on digital marketing, consumer behavior, and sales management",
+        "Strengthen strategic, analytical, and creative skills",
+        "Hands-on exposure through marketing simulations and case studies",
+        "Blend of business management and innovative marketing practices",
+        "100% placement assistance and personalized career guidance"
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["Overview of", "MBA in Marketing Program"],
+    "overViewImage": {
+      "src": "/home/overview/overview4.webp",
+      "alt": "MBA in Marketing – Program Overview"
+    },
+    "subHeading": "Build a Future in Marketing Strategy and Brand Management",
+    "description": "The MBA in Marketing program at Teksversity offers advanced understanding of market analysis, branding, and strategic communication. This program empowers learners with the tools and insights to create data-driven campaigns and lead marketing teams across industries.Through live projects, simulations, and interactive learning, students explore key areas such as digital marketing, global branding, and consumer engagement. The MBA Marketing courses online provide flexible study options for working professionals looking to upskill and grow their marketing careers. Graduates can pursue roles in brand management, advertising, digital marketing, sales, or market research.",
+    "keyPoints": [
+      "Understand core principles of marketing and consumer psychology",
+      "Gain expertise in digital marketing and branding strategy",
+      "Develop analytical, creative, and leadership skills",
+      "Apply ethical and data-driven marketing practices",
+      "Build readiness for leadership roles in marketing and business management"
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": ["Why Choose MBA in Marketing", "in Teksversity?"],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "Choosing Teksversity for your online MBA in Marketing means joining a program that integrates creativity with business strategy. The curriculum is built to develop a holistic understanding of market trends, digital platforms, and customer experience management.",
+    "description": [
+      {
+        "firstDescription": "Students engage in practical assignments, brand simulations, and campaign strategy sessions guided by industry and academic experts. Teksversity emphasizes employability through career workshops, mentorship, and professional networking. Personalized feedback and progress tracking ensure every learner evolves as a confident marketing strategist."
+      },
+      {
+        "secondDescription": "At Teksversity, your Executive MBA Marketing journey is not just about learning concepts it’s about mastering innovation, leadership, and influence to shape successful brands and businesses."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": ["Key Highlights of", "MBA in Marketing Program"],
+    "sections": [
+      { "name": "Learning Experience", "value": "LearningExperience" },
+      { "name": "Support & Assistance", "value": "SupportandAssistance" },
+      { "name": "Career Support", "value": "CareerSupport" },
+      {
+        "name": "Networking & Peer Learning",
+        "value": "NetworkingandPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "LearningExperience": {
+        "keyPoints": [
+          "Case studies on digital and traditional marketing strategies",
+          "Campaign design and brand management projects",
+          "Workshops on consumer behavior and analytics",
+          "Communication and storytelling skill-building sessions",
+          "Strategy planning and product positioning exercises",
+          "Guest lectures by top marketing professionals",
+          "Cross-functional marketing collaboration projects",
+          "Peer brainstorming and creative review sessions",
+          "Continuous assessment and personalized learning feedback"
+        ]
+      },
+      "SupportandAssistance": {
+        "keyPoints": [
+          "Dedicated academic and professional mentorship",
+          "24/7 access to online learning resources",
+          "Regular progress and career tracking",
+          "Recorded sessions and downloadable course material",
+          "Personalized academic counseling and reviews",
+          "Technical and academic support desk",
+          "Internship and project-based learning guidance",
+          "Flexible learning options for professionals",
+          "Regular performance and growth assessments"
+        ]
+      },
+      "CareerSupport": {
+        "keyPoints": [
+          "100% placement and career guidance",
+          "Resume and portfolio enhancement sessions",
+          "Mock interviews and personal branding training",
+          "Career counseling and professional networking",
+          "Internship and corporate collaborations",
+          "Guest lectures and expert-led webinars",
+          "Personality development and communication mastery",
+          "Support for leadership and management roles",
+          "Continuous career growth and mentorship support"
+        ]
+      },
+      "NetworkingandPeerLearning": {
+        "keyPoints": [
+          "Marketing hackathons and case competitions",
+          "Peer collaborations and research discussions",
+          "Expert webinars and industry Q&A sessions",
+          "Alumni networking and success interactions",
+          "Global marketing community engagement",
+          "Student-led creative campaigns and events",
+          "Virtual networking meetups and sessions"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our", "Course Brochure"],
+    "description": "Explore your path to creative excellence and business success with Teksversity’s MBA in Marketing program. Designed for aspiring marketers and professionals, this MBA Marketing courses online program bridges strategic thinking with digital innovation.",
+    "subHeading": "What You’ll Get in the Brochure:",
+    "highlights": [
+      "Detailed MBA in Marketing curriculum and structure",
+      "Career pathways and role opportunities",
+      "Admission and eligibility information",
+      "Internship and placement support overview",
+      "Learning resources and mentorship features"
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/brochure/DB4.webp",
+      "alt": "Download MBA in Marketing Program Brochure"
+    }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 8,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 9,
+    "heading": ["Take the Leap", "Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "null" },
+        "link": "null"
+      }
+    }
+  },
+
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },{
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+  "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      },
+      "formBackground": {
+        "src": "/home/formbg.webp",
+        "alt": "Spin and Win Form Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 12,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is an MBA in Marketing?",
+        "answer": "An MBA in Marketing is a specialized management program that focuses on consumer behavior, branding, digital marketing, sales strategies, advertising, and market analysis. It prepares you for leadership roles in modern marketing across industries."
+      },
+      {
+        "question": "What skills will I gain through an MBA in Marketing?",
+        "answer": "You will develop expertise in branding, market research, digital marketing, sales management, campaign planning, advertising strategies, consumer psychology, and marketing analytics."
+      },
+      {
+        "question": "Is an MBA in Marketing suitable for students from any background?",
+        "answer": "Yes! Students from commerce, engineering, arts, or any field can join. The program starts from the fundamentals and builds your skills in marketing strategy, creativity, and analytics."
+      },
+      {
+        "question": "What subjects are covered in the MBA in Marketing curriculum?",
+        "answer": "The curriculum typically includes Marketing Management, Consumer Behavior, Digital Marketing, Brand Management, Sales & Distribution, Advertising, Business Strategy, Product Management, Market Analytics, and International Marketing."
+      },
+      {
+        "question": "What tools or platforms will I learn during the MBA in Marketing?",
+        "answer": "You will work with key marketing tools such as Google Analytics, CRM platforms, digital advertising tools, social media marketing dashboards, market research platforms, and campaign performance tools."
+      },
+      {
+        "question": "What career opportunities can I expect after completing an MBA in Marketing?",
+        "answer": "Graduates can build careers as Marketing Managers, Brand Managers, Digital Marketing Specialists, Product Managers, Sales Managers, Market Research Analysts, Advertising Executives, and Growth Strategists."
+      },
+      {
+        "question": "Which industries hire MBA in Marketing professionals?",
+        "answer": "Industries like FMCG, retail, IT, telecom, e-commerce, banking, healthcare, media, hospitality, and advertising agencies recruit marketing and branding professionals."
+      },
+      {
+        "question": "What is the salary outlook after an MBA in Marketing?",
+        "answer": "MBA Marketing offers strong growth potential. Professionals with skills in digital marketing, branding, and sales management can quickly move into high-paying managerial and leadership roles."
+      },
+      {
+        "question": "Does Teksversity provide practical exposure for MBA in Marketing students?",
+        "answer": "Yes! Teksversity ensures hands-on learning through real marketing case studies, live digital campaigns, branding exercises, market research projects, and practical tools used in the marketing industry."
+      },
+      {
+        "question": "Can working professionals pursue an MBA in Marketing at Teksversity?",
+        "answer": "Absolutely. Teksversity offers flexible learning options such as weekend classes, online and hybrid modes, making it convenient for professionals who want to advance their careers while working."
+      }
+    ]
+  },
+
+  "letsTalk": {
+    "position": 13,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 14,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "MBA in marketing",
+      "Online MBA in marketing",
+      "Executive MBA marketing",
+      "MBA marketing courses online",
+      "Top marketing MBA programs",
+      "Online MBA marketing",
+      "MBA marketing courses",
+      "MBA with marketing specialization",
+      "MBA and marketing",
+      "Marketing executive MBA"
+    ]
+  }
+}

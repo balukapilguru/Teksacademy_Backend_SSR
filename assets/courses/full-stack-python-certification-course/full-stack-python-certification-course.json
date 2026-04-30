@@ -1,0 +1,1448 @@
+{
+  "meta": {
+    "title": "Full Stack Python Developer Course | Learn by Building",
+    "description": "Build real development skills with a Full Stack Python Developer Course focused on practical work, real applications, and guided learning.",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Course",
+          "name": "Python Certification Course",
+          "image": "https://teksversity.com/_next/image?url=https%3A%2F%2Fteksversity.s3.us-east-1.amazonaws.com%2Fwebsite%2Fassets%2Fcertificate%2FbannerImages%2Fcertification%2Fpython-certificate.webp&w=1920&q=75",
+          "description": "The Python Certification Course at Teksversity provides practical training in Python programming, covering core concepts, object-oriented programming, and real-world project development.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Teksversity"
+          },
+          "url": "https://teksversity.com/courses/full-stack-python-certification-course",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.7",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "120"
+          },
+          "offers": {
+            "@type": "AggregateOffer",
+            "url": "https://teksversity.com/courses/full-stack-python-certification-course",
+            "priceCurrency": "INR",
+            "lowPrice": "50000",
+            "highPrice": "50000",
+            "offerCount": "1",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is the Python Certification Course about?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The course teaches Python programming fundamentals, object-oriented concepts, and application development through practical coding projects."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What topics are covered in the Python course?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Students learn Python syntax, OOP principles, problem-solving, scripting, and real-world project development workflows."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is this Python course suitable for beginners?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the program starts with programming basics and gradually progresses into object-oriented design and practical Python applications."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What career opportunities are available after Python certification?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Graduates can pursue roles such as Python Developer, Software Developer, Backend Developer, or Full Stack Developer."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does the Python course include practical projects?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, learners build real-world Python applications and coding projects to demonstrate programming and development skills."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+  "category": "certifications",
+
+  "formDetails": {
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "courseName": "Full Stack Python Certification Course",
+    "universities": [
+      {
+        "university": "TEKSVERITY INSTITUTE OF ADVANCED LEARNING",
+        "image": {
+          "src": "/home/Teksversity_navbar.webp",
+          "alt": "teksversity"
+        },
+        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "rating": 4.8,
+        "duration": "4-6 Months",
+        "courseFee": {
+          "range": "45,000 - 55,000",
+          "note": "Total program fee"
+        },
+        "brochure": "/Downloadbrouchers/IT-courses/DownloadBroucher/Teksversity-Full Stack PYTHON.pdf",
+        "button": [
+          {
+            "name": "Know More",
+            "link": "",
+            "form": false
+          },
+          { "name": "Enroll Now", "link": "", "form": true }
+        ],
+        "productId": 392,
+        "sourceId": 148,
+        "universityName": "Teksversity"
+      }
+    ]
+  },
+
+  "banner": {
+    "name": "Full Stack Python Certification Course",
+    "position": 1,
+    "mainHeading": "Full Stack Python Developer Certification Course",
+    "description": "A practical online learning program designed to help you master Full Stack Python skills with AI and build real-world applications from scratch.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "", "alt": "" },
+    "bannerImage": {
+      "src": "/certificate/bannerImages/certification/python-certificate.webp",
+      "alt": "Full Stack Python Certification Course with Practical Training"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose Our", " Full Stack Python Developer Course?"],
+      "benefits": [
+        "AI-driven Python development learning",
+        "Hands-on Real-World Projects",
+        "Online training designed for flexible learning",
+        "Paid Internship Opportunity",
+        "IIT Certification to Strengthen Your Profile",
+        "Career guidance and placement support",
+        "Industry-Relevant Tools and Technologies",
+        "Mentorship from Experienced Industry Professionals"
+      ]
+    },
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["The Overview of ", "Python Programming Certification"],
+    "overViewImage": {
+      "src": "/certificate/overview.webp",
+      "alt": "Full Stack Python Certification Course – Program Overview"
+    },
+    "subHeading": "Your gateway to becoming a Full Stack Python developer",
+    "description": {
+      "type": "richText",
+      "content": [
+        {
+          "type": "text",
+          "value": "Our Full Stack Python course is designed to help learners understand how modern applications are built using Python and web technologies. Starting from programming basics, the course gradually introduces front-end and"
+        },
+        {
+          "type": "link",
+          "value": " back-end development",
+          "url": "/courses/full-stack-java-certification-course"
+        },
+        {
+          "type": "text",
+          "value": ", databases, and application logic. By the end of the program, learners will be able to build complete applications and understand how real software systems work."
+        }
+      ]
+    },
+
+    "keyPoints": [
+      "Strong foundation in Python programming concepts",
+      "Understanding of how real software systems work",
+      "Ability to design and develop complete applications"
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": [
+      "Why is Teksversity the Right Place",
+      " to Learn Python Developer Certification ?"
+    ],
+    "subHeading": ["Celebrating", "Excellence"],
+    "title": ["13 Years of ", "Legacy", "(Commitment, Growth, Success)"],
+    "LegacyCards": [
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "4.72/5",
+        "label": "Overall Program Rating"
+      },
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "99/100",
+        "label": "Sessions Rated 4+/5"
+      },
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "4.8/5",
+        "label": "Average Session Rating"
+      }
+    ],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "Your journey starts from writing your first “Hello World” program and gradually grows into building complete web applications. Step by step, you learn how real software is created using practical coding sessions instead of only theoretical explanations all with AI integrated.",
+    "description": [
+      {
+        "firstDescription": "During the program, you work with development tools used by professional developers, including Git for version control, modern code editors, and Python frameworks used to build applications. You don’t just learn tools you actually use them while developing projects that reflect real industry work."
+      },
+      {
+        "secondDescription": "By the end of the course, Along with technical training, we guide you with resume preparation, mock interviews, internship opportunities, and placement support, helping you confidently step into your first software development role. "
+      }
+    ]
+  },
+
+ "keyHighlights": {
+    "position": 5,
+    "heading": ["Key Highlights of", "Full Stack Python Certification Course"],
+    "sections": [
+      { "name": "Industry-Driven Curriculum", "value": "LearningExperience" },
+      { "name": "Hands-On Learning Experience ", "value": "SupportAndAssistance" },
+      { "name": "Support & Assistance ", "value": "CareerSupport" },
+      {
+        "name": "Career Intelligence & Placement Support",
+        "value": "NetworkingAndPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "LearningExperience": {
+        "keyPoints":  [
+          "Learn Python concepts used in real development",
+          "Topics designed based on industry needs",
+          "Clear learning path from basics to advanced skills",
+          "Hands-on training with real-world development practice",
+          "Industry-aligned curriculum with the latest technologies"
+        ]
+      },
+      "SupportAndAssistance": {
+        "keyPoints": [
+          "Practice coding during every learning session",
+          "Work on projects while learning concepts",
+          "Build applications step by step",
+          "Learn by solving real programming problems",
+          "Gain confidence through practical development work"
+        ]
+      },
+      "CareerSupport": {
+        "keyPoints": [
+          "Get help from mentors whenever you face difficulties",
+          "Clear your doubts through regular guidance sessions",
+          "Access learning resources to support your practice",
+          "Receive continuous support during your learning journey",
+          "Stay on track with guidance from trainers"
+        ]
+      },
+      "NetworkingAndPeerLearning": {
+        "keyPoints": [
+          "Guidance to create a strong technical resume",
+          "Mock interviews to improve interview confidence",
+          "Tips to handle technical interview questions",
+          "Internship opportunities for practical exposure",
+          "Placement support to start your tech career"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download", " Your Free Brochure"],
+    "description": "Want to explore how this program can help you become a Full Stack Python Developer? Download the Full Stack Python Certification brochure to understand the complete curriculum, AI-integrated learning approach, real-world project experience, and career preparation designed to help you become industry-ready.",
+    "subHeading": "What You’ll Get in the Brochure:",
+    "highlights": [
+      "Explore the complete Full Stack Python learning roadmap",
+      "Understand the tools and technologies used in modern development",
+      "See how real-world projects help build your developer portfolio",
+      "Learn about internship opportunities and placement support"
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/certificate/brochuree.webp",
+      "alt": "Download Full Stack Python Certification Course Brochure"
+    }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "embraceTheEndlessOpportunities": {
+    "position": 7,
+    "heading": [
+      "Embrace future opportunities in ",
+      "Full Stack Python Certification Course"
+    ],
+    "sections": [
+      {
+        "title": "Global Python Developer Market",
+        "data": "Python has emerged as a preferred programming language for developers worldwide. The global Python market continues to expand across industries such as web development, data science, machine learning, and automation. (Source: Statista, Grand View Research)",
+        "icon": {
+          "src": "/certificate/opportunities/revenue.webp",
+          "alt": "revenue.webp"
+        }
+      },
+      {
+        "title": "Employment Growth",
+        "data": "The demand for Python developers is projected to grow by over 22% by 2030 as Python becomes the backbone for AI, data analytics, and backend web development (Source: U.S. Bureau of Labor Statistics, NaukriJobsHub).",
+        "icon": {
+          "src": "/certificate/opportunities/growth.webp",
+          "alt": "growth.webp"
+        }
+      },
+      {
+        "title": "Average Salary in India",
+        "data": "The average salary for a Python developer in India ranges between ₹5,00,000 to ₹12,00,000 per annum, depending on skill set, experience, and location (Source: Glassdoor, PayScale, Indeed).",
+        "icon": {
+          "src": "/certificate/opportunities/salary.webp",
+          "alt": "salary.webp"
+        }
+      },
+      {
+        "title": "Growth of the Industry",
+        "data": "The global IT industry is rapidly expanding, with Python at its core. The worldwide software development market is projected to surpass $1 trillion by 2030, growing at a CAGR of 25% (Source: Statista, MarketsandMarkets).",
+        "icon": {
+          "src": "/certificate/opportunities/industry.webp",
+          "alt": "industry.webp"
+        }
+      }
+    ]
+  },
+
+  "advancedTools": {
+    "position": 8,
+    "heading": ["Explore 15+ ", " Core Technologies"],
+    "roles": [
+      {
+        "name": "python",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-python/tools/python.webp",
+          "alt": "python.webp"
+        }
+      },
+      {
+        "name": "SQL",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-python/tools/sql.webp",
+          "alt": "sql.webp"
+        }
+      },
+      {
+        "name": "MySQL",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-python/tools/mysql.webp",
+          "alt": "mysql.webp"
+        }
+      },
+      {
+        "name": "Python GUI",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-python/tools/react.webp",
+          "alt": "react.webp"
+        }
+      },
+      {
+        "name": "django",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-python/tools/django.webp",
+          "alt": "django.webp"
+        }
+      },
+      {
+        "name": "jupyter",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-python/tools/jupyter.webp",
+          "alt": "jupyter.webp"
+        }
+      },
+      {
+        "name": "python PDBC",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-python/tools/pc.webp",
+          "alt": "pc.webp"
+        }
+      },
+      {
+        "name": "visual studio code",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-python/tools/vscode.webp",
+          "alt": "vscode.webp"
+        }
+      },
+      {
+        "name": "bootstrap",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-python/tools/bb.webp",
+          "alt": "bb.webp"
+        }
+      },
+      {
+        "name": "react",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-python/tools/react.webp",
+          "alt": "react.webp"
+        }
+      },
+      {
+        "name": "pycharm",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-python/tools/pc.webp",
+          "alt": "pc.webp"
+        }
+      },
+      {
+        "name": "ij",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-python/tools/ij.webp",
+          "alt": "ij.webp"
+        }
+      },
+      {
+        "name": "spring",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-python/tools/spring.webp",
+          "alt": "spring.webp"
+        }
+      }
+    ]
+  },
+
+  "industryProjects": {
+    "position": 9,
+    "heading": ["Industry", "Projects"],
+    "projects": [
+      {
+        "title": "Temperature Converter",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-python/projects/temperature.webp",
+          "alt": "temperature.webp"
+        }
+      },
+      {
+        "title": "BMI Calculator",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-python/projects/bmi.webp",
+          "alt": "bmi.webp"
+        }
+      },
+      {
+        "title": "Simple Voting App",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-python/projects/votingapp.webp",
+          "alt": "votingapp.webp"
+        }
+      },
+      {
+        "title": "Online Polling System",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-python/projects/pollingsystem.webp",
+          "alt": "pollingsystem.webp"
+        }
+      },
+      {
+        "title": "Expense Tracker",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-python/projects/expensestracker.webp",
+          "alt": "expensestracker.webp"
+        }
+      },
+      {
+        "title": "Blogging Platform",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-python/projects/bloggingplatform.webp",
+          "alt": "bloggingplatform.webp"
+        }
+      },
+      {
+        "title": "Real-Time Chat Application",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-python/projects/chat.webp",
+          "alt": "chat.webp"
+        }
+      },
+      {
+        "title": "Online LMS",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-python/projects/lms.webp",
+          "alt": "lms.webp"
+        }
+      },
+      {
+        "title": "Job Board Website",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-python/projects/job.webp",
+          "alt": "job.webp"
+        }
+      },
+      {
+        "title": "To-Do List Application",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-python/projects/todolist.webp",
+          "alt": "todolist.webp"
+        }
+      },
+      {
+        "title": "E-Commerce Website",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-python/projects/ecommerce.webp",
+          "alt": "ecommerce.webp"
+        }
+      },
+      {
+        "title": "Quiz App",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-python/projects/quizzapp.webp",
+          "alt": "quizzapp.webp"
+        }
+      }
+    ]
+  },
+
+  "careerPath": {
+    "position": 10,
+    "heading": ["Full Stack Python", " Career Paths"],
+    "description": "Explore roles, opportunities, and salary growth",
+    "jobCards": [
+      {
+        "role": "Full Stack Developer",
+        "icon": "brackets",
+        "jobMeter": "50,000 open positions",
+        "jobCount": 50000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "5-8 LPA" },
+            { "label": "2 Years", "value": "8-12 LPA" },
+            { "label": "4 Years", "value": "12-18 LPA" },
+            { "label": "6 Years", "value": "15-25 LPA" },
+            { "label": "8 Years", "value": "20-30 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Backend Developer",
+        "icon": "brackets_square",
+        "jobMeter": "40,000 open positions",
+        "jobCount": 40000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "4-8 LPA" },
+            { "label": "2 Years", "value": "6-10 LPA" },
+            { "label": "4 Years", "value": "8-15 LPA" },
+            { "label": "6 Years", "value": "12-20 LPA" },
+            { "label": "8 Years", "value": "15-25 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Frontend Developer",
+        "icon": "eye",
+        "jobMeter": "30,000 open positions",
+        "jobCount": 30000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "4-7 LPA" },
+            { "label": "2 Years", "value": "6-9 LPA" },
+            { "label": "4 Years", "value": "8-12 LPA" },
+            { "label": "6 Years", "value": "10-15 LPA" },
+            { "label": "8 Years", "value": "13 -20 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "DevOps Engineer",
+        "icon": "leaf",
+        "jobMeter": "20,000 open positions",
+        "jobCount": 20000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "6-10 LPA" },
+            { "label": "2 Years", "value": "8-12 LPA" },
+            { "label": "4 Years", "value": "12-18 LPA" },
+            { "label": "6 Years", "value": "15-25 LPA" },
+            { "label": "8 Years", "value": "20-30 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Python Developer",
+        "icon": "plus_circle",
+        "jobMeter": "35,000 open positions",
+        "jobCount": 35000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "4-8 LPA" },
+            { "label": "2 Years", "value": "6-10 LPA" },
+            { "label": "4 Years", "value": "8-12 LPA" },
+            { "label": "6 Years", "value": "12-18 LPA" },
+            { "label": "8 Years", "value": "15-25 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "UI/UX Developer",
+        "icon": "pen_tool",
+        "jobMeter": "15,000 open positions",
+        "jobCount": 15000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "4-8 LPA" },
+            { "label": "2 Years", "value": "6-9 LPA" },
+            { "label": "4 Years", "value": "10-15 LPA" },
+            { "label": "6 Years", "value": "12-18 LPA" },
+            { "label": "8 Years", "value": "15-25 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Application Developer",
+        "icon": "box",
+        "jobMeter": "47,000 open positions",
+        "jobCount": 47000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "3-6 LPA" },
+            { "label": "2 Years", "value": "5-9 LPA" },
+            { "label": "4 Years", "value": "8-14 LPA" },
+            { "label": "6 Years", "value": "12-18 LPA" },
+            { "label": "8 Years", "value": "15-22 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Microservices Developer",
+        "icon": "network",
+        "jobMeter": "12,000 open positions",
+        "jobCount": 12000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "4-7 LPA" },
+            { "label": "2 Years", "value": "6-10 LPA" },
+            { "label": "4 Years", "value": "9-15 LPA" },
+            { "label": "6 Years", "value": "12-20 LPA" },
+            { "label": "8 Years", "value": "15-25 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Solutions Architect",
+        "icon": "helmet",
+        "jobMeter": "6,000 open positions",
+        "jobCount": 6000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "6-10 LPA" },
+            { "label": "2 Years", "value": "10-15 LPA" },
+            { "label": "4 Years", "value": "15-25 LPA" },
+            { "label": "6 Years", "value": "20-35 LPA" },
+            { "label": "8 Years", "value": "25-45 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "API Developer",
+        "icon": "orange_box",
+        "jobMeter": "7,000 open positions",
+        "jobCount": 7000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "4-7 LPA" },
+            { "label": "2 Years", "value": "6-10 LPA" },
+            { "label": "4 Years", "value": "10-14 LPA" },
+            { "label": "6 Years", "value": "12-18 LPA" },
+            { "label": "8 Years", "value": "15-22 LPA" }
+          ]
+        }
+      }
+    ],
+    "button": {
+      "text": "Enroll Now",
+      "icon": { "src": "null", "alt": "null" },
+      "link": "null"
+    }
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 12,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 13,
+    "heading": ["Take the Leap", " Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "null" },
+        "link": "null"
+      }
+    }
+  },
+
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },
+      {
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+  "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      },
+      "formBackground": {
+        "src": "/home/formbg.webp",
+        "alt": "Spin and Win Form Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+  "questionSection": {
+    "position": 17,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is the Python Full Stack Certification Course?",
+        "answer": "The Python Full Stack Certification Course is a career-focused program that trains learners in frontend development, backend development using Python, databases, and real-world web application development to become industry-ready full stack developers."
+      },
+      {
+        "question": "Who can enroll in the Python Full Stack Certification Course?",
+        "answer": "This course is suitable for students, fresh graduates, working professionals, and career switchers. No prior programming experience is required, as the curriculum starts from the basics and progresses to advanced concepts."
+      },
+      {
+        "question": "What technologies are covered in the Python Full Stack course?",
+        "answer": "The course covers HTML, CSS, JavaScript, frontend frameworks, Python, Django or Flask, databases (SQL), APIs, and basic deployment concepts, ensuring complete full stack expertise."
+      },
+      {
+        "question": "Is the Python Full Stack Certification Course suitable for beginners?",
+        "answer": "Yes. The course is designed with a beginner-friendly learning structure, making it ideal for learners with no prior coding background."
+      },
+      {
+        "question": "Does the course include hands-on training and real-world projects?",
+        "answer": "Yes. The course is built around hands-on, practical learning with real-world projects, guided assignments, and industry-based case studies to help learners apply concepts effectively and gain job-ready experience."
+      },
+      {
+        "question": "Will I receive a certification after completing the course?",
+        "answer": "Yes. Learners receive a Python Full Stack Certification upon successful completion, which strengthens resumes and job applications."
+      },
+      {
+        "question": "Is placement assistance provided with this course?",
+        "answer": "Yes. The course includes placement guidance such as resume building, interview preparation, technical mentoring, and career support to help learners prepare for job opportunities."
+      },
+      {
+        "question": "Can working professionals join the Python Full Stack course?",
+        "answer": "Yes. The course is designed to be flexible and suitable for working professionals, enabling them to upskill alongside their job commitments."
+      },
+      {
+        "question": "Is the Python Full Stack curriculum aligned with current industry standards?",
+        "answer": "Yes. The curriculum is regularly updated to match industry trends, in-demand tools, and evolving employer expectations, ensuring learners gain relevant, job-ready skills."
+      },
+      {
+        "question": "What career opportunities are available after completing the Python Full Stack course?",
+        "answer": "Learners can pursue roles such as Python Full Stack Developer, Web Developer, Backend Developer, Software Engineer, or Junior Python Developer after course completion."
+      }
+    ]
+  },
+  "letsTalk": {
+    "position": 18,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today Teksversity is here to guide you"
+    }
+  },
+  "mostSearchedTerms": {
+    "position": 19,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "python certification course",
+      "python programming certification",
+      "best python certification",
+      "python online course certification",
+      "python developer certification",
+      "python programming online course",
+      "full stack python developer course",
+      "python full stack development course",
+      "best python certification course",
+      "best online python course with certificate"
+    ]
+  }
+}

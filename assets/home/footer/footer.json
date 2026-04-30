@@ -1,0 +1,88 @@
+{
+  "footer": {
+    "image": { "src": "/home/Teksversity_navbar.webp", "alt": "teksversity" },
+    "officialAddress": {
+      "heading": "Official Address",
+      "address": [
+        "Teksversity Institute of Advanced Learning, 3rd Floor, Amsri Faust Building, Sarojini Devi Road,",
+        "opp to pista house, Regimental Bazaar, Shivaji Nagar, Secunderabad, Hyderabad - 500025"
+      ]
+    },
+    "socialMedia": {
+      "heading": "Follow Us",
+      "links": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/people/Teksversity/61578853585345/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/teksversity/"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/108117280/admin/dashboard/"
+        },
+        { "platform": "youtube", "url": "https://www.youtube.com/@Teksversity" }
+      ]
+    },
+    "sections": [
+      {
+        "title": "Universities",
+        "items": [
+          { "name": "Jain University", "url": "/university/jain-university" },
+          { "name": "Amity University", "url": "/university/amity-university" }
+        ]
+      },
+      {
+        "title": "Certification Courses",
+        "items": [
+          {
+            "name": "Dual Certification",
+            "url": "/courses"
+          },
+          {
+            "name": "PG  Certification",
+            "url": "/courses"
+          },
+          {
+            "name": "Teksversity Certification",
+            "url": "/courses"
+          },
+          { "name": "Fast Track", "url": "/courses" }
+        ]
+      },
+      {
+        "title": "UG Courses",
+        "items": [
+          { "name": "BBA", "url": "/courses/bba" },
+          { "name": "BCOM", "url": "/courses/bcom" },
+          { "name": "BCA", "url": "/courses/bca" },
+          { "name": "BA", "url": "/courses/ba" }
+        ]
+      },
+      {
+        "title": "PG Courses",
+        "items": [
+          { "name": "MBA", "url": "/courses/mba" },
+          { "name": "MCA", "url": "/courses/mca" },
+          { "name": "MA", "url": "/courses/ma" },
+          { "name": "MCom", "url": "/courses/mcom" },
+          { "name": "MSc", "url": "/courses/ms" }
+        ]
+      },
+      {
+        "title": "Policies",
+        "items": [
+          { "name": "Privacy Policy", "url": "/privacy-policy" },
+          { "name": "Terms & Conditions", "url": "/terms-conditions" }
+        ]
+      }
+    ],
+    "bottomBar": {
+      "madeWith": "Made with ❤️ in Hyderabad, India",
+      "copyright": "Copyright © 2025 Kapil Knowledge Hub Pvt Ltd || All Rights Reserved",
+      "developerNote": "Developed by Infoz IT"
+    }
+  }
+}

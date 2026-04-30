@@ -1,0 +1,1582 @@
+{
+  "meta": {
+    "title": "Online Master of Business Administration with Career Support",
+    "description": "Advance your leadership, management, and strategic business skills with the Online MBA with specialisation —ideal for working professionals seeking flexible learning",
+    "schemaCode": ""
+  },
+  "formDetails": {
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "courseName": "Master of Business Administration",
+    "universities": [
+      {
+        "university": "jain-university",
+        "image": {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain" 
+      },
+        "accreditations": ["ISO", "NAAC A++", "UGC", "AICTE"],
+        "rating": 4.8,
+        "duration": "2 years",
+        "courseFee": { "range": "1,91,000-2,98,000", "note": "Total program fee" },
+        "brochure": "",
+        "button": [
+          {
+            "name": "Know More",
+            "link": "/university/jain-university",
+            "form": false
+          },
+          {
+            "name": "Enroll Now",
+            "link": "",
+            "form": true
+          }
+        ],
+        "productId": "",
+        "sourceId": 155,
+        "universityName": "Jain University"
+      },
+      {
+        "university": "amity-university",
+         "image": {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+        "accreditations": ["ISO", "NAAC A++", "UGC", "AICTE"],
+        "rating": 4.8,
+        "duration": "2 years",
+        "courseFee": { "range": "1,99,000-2,99,000", "note": "Total program fee" },
+        "button": [
+          {
+            "name": "Know More",
+            "link": "/university/amity-university",
+            "form": false
+          },
+          {
+            "name": "Enroll Now",
+            "link": "",
+            "form": true
+          }
+        ],
+        "productId": "",
+        "sourceId": 151,
+        "universityName": "Amity University"
+      }
+    ]
+  },
+
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Specializations", "id": "specializations" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+  "category": "academics",
+  "branch": "Master of Business Administration",
+
+  "banner": {
+    "position": 1,
+    "mainHeading": "Master of Business Administration (MBA)",
+    "description": "Choose your MBA specialization to build targeted expertise in today’s evolving business world-learn, earn, and lead with strategic thinking, leadership skills, and practical training for modern business success.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/pgbanerimages/mba/MBA.webp",
+      "alt": "Master of Business Administration with Strategic Leadership and Management Skills"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose This Program"],
+      "benefits": [
+        "Learn business strategy from industry professionals",
+        "Build strong managerial, analytical, and leadership skills",
+        "Work on real management and industry-focused projects",
+        "Improve decision-making across business functions",
+        "Flexible online MBA for working professionals",
+        "Resume building and placement support",
+        "Attend expert-led management & leadership webinars",
+        "Practice through mock interviews and tasks",
+        "Become job-ready for multi-domain business roles"
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["The overview of", "Master of Business Administration (MBA)"],
+    "overViewImage": {
+      "src": "/home/overview/overview4.webp",
+      "alt": "overview.webp"
+    },
+    "subHeading": "Step Into a Versatile Business Career With an Industry-Driven MBA",
+    "description": "The Master of Business Administration (MBA) at Teksversity strengthens managerial, strategic, and analytical abilities essential for business leadership. Learners build competence in business strategy, operations, finance, HR, marketing, and analytics through practical activities, simulations, and real-world case studies. The program supports working individuals with flexible learning and prepares them for opportunities across industries. Students can also choose from specialized MBA tracks—such as Healthcare Management, Finance, Marketing, Operations, Business Analytics, Pharmaceutical Management, Data Science, HR, and more—to enhance career outcomes.",
+    "keyPoints": [
+      "Understand leadership, strategy, finance, and operations",
+      "Use tools for analysis, reporting, and decision-making",
+      "Strengthen managerial and problem-solving skills",
+      "Apply ethical and structured business practices",
+      "Build readiness for leadership and management roles"
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": [
+      "Why choose Master of Business Administration(MBA)",
+      "in Teksversity?"
+    ],
+    "subHeading": ["Celebrating", " Excellence"],
+    "title": ["13 Years of", " Legacy", "(Commitment, Growth, Success)"],
+    "legacyCards": [
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "4.72/5",
+        "label": "Overall Program Rating"
+      },
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "99/100",
+        "label": "Sessions Rated 4+/5"
+      },
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "4.8/5",
+        "label": "Average Session Rating"
+      }
+    ],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "Teksversity provides a practice-driven MBA designed to help learners master essential business skills across functions like strategy, finance, HR, marketing, and operations. Real case studies and simulation-based learning improve leadership and analytical clarity.",
+    "description": [
+      {
+        "firstDescription": "The program is led by experienced mentors who guide learners through business planning, decision-making, organizational behavior, and performance improvement exercises. Students gain confidence through hands-on management activities aligned with industry expectations."
+      },
+      {
+        "secondDescription": "The flexible online format supports working professionals aiming to advance their careers. Resume support, interview training, and career guidance enable smooth transitions into leadership roles across business development, operations, HR, analytics, and strategic management."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": ["Key Highlights of", "MBA Program"],
+    "sections": [
+      { "name": "Learning Experience", "value": "LearningExperience" },
+      { "name": "Support & Assistance", "value": "SupportandAssistance" },
+      { "name": "Career Support", "value": "CareerSupport" },
+      {
+        "name": "Networking & Peer Learning",
+        "value": "NetworkingandPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "LearningExperience": {
+        "keyPoints": [
+          "Case studies on business, strategy, and leadership",
+          "Projects on planning, reporting, and management",
+          "Workshops on business tools and frameworks",
+          "Leadership training in communication & decisions",
+          "Sessions led by experienced business trainers"
+        ]
+      },
+      "SupportandAssistance": {
+        "keyPoints": [
+          "One-on-one mentorship from business experts",
+          "24/7 access to learning materials",
+          "Recorded classes for flexible learning",
+          "Personalized guidance for academic progress",
+          "Internship assistance in business domains"
+        ]
+      },
+      "CareerSupport": {
+        "keyPoints": [
+          "Placement assistance for management job roles",
+          "Resume building for specialized MBA tracks",
+          "Mock interviews with business experts",
+          "Career mapping for targeted job roles",
+          "Leadership and professional readiness"
+        ]
+      },
+      "NetworkingandPeerLearning": {
+        "keyPoints": [
+          "Webinars with industry and business leaders",
+          "Peer collaboration on management projects",
+          "Alumni sessions with corporate experts",
+          "Group activities in business problem-solving",
+          "Global networking through virtual meetups"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our ", "Course Brochure"],
+    "description": "Download the detailed Master of Business Administration (MBA) brochure to explore program modules, specialization options, career pathways, and placement support. The brochure highlights business tools, teaching methodologies, case studies, and leadership development training.",
+    "subHeading": "What You’ll Get in the Brochure:",
+    "highlights": [
+      "Complete program structure and modules",
+      "Career pathways across business domains",
+      "Admission and eligibility information",
+      "Internship & placement support details",
+      "Tools, faculty, and learning methods"
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/brochure/DB4.webp",
+      "alt": "DB4"
+    }
+  },
+
+  "specializations": {
+    "position": 7,
+    "heading": ["Specializations"],
+    "paragraph": "Choose from our comprehensive suite of analytics and management solutions",
+    "specializations": [
+      {
+        "heading": "Finance",
+        "action": "Explore",
+        "link": "/courses/mba/finance",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/Finance.webp",
+          "alt": "Finance"
+        },
+        "universities": [
+          {
+            "ProductId": 156,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "/Downloadbrouchers/JAIN/MBA-JAIN/finance-brochure-MBA-jain.pdf",
+            "fee": "1,96,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Marketing",
+        "action": "Explore",
+        "link": "/courses/mba/marketing",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/Marketing%20.webp",
+          "alt": "Marketing"
+        },
+        "universities": [
+          {
+            "ProductId": 162,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+             "brochure": "/Downloadbrouchers/JAIN/MBA-JAIN/hr-marketing-brochure-MBA-jain.pdf",
+            "fee": "1,96,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Data Science",
+        "action": "Explore",
+        "link": "/courses/mba/data-science",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/Data_Science.webp",
+          "alt": "Data Science"
+        },
+        "universities": [
+          {
+            "ProductId": 176,
+            "sourceId": 151,
+            "name": "amity-university",
+            "brochure": "/Downloadbrouchers/AMITY/MBA-AMITY/MBA-Data-Science.pdf",
+            "universityName": "Amity University",
+            "fee": "1,99,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Business Analytics",
+        "action": "Explore",
+        "link": "/courses/mba/business-analytics",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/Business_Analytics.webp",
+          "alt": "Business Analytics"
+        },
+        "universities": [
+          {
+            "ProductId": 171,
+            "sourceId": 151,
+            "name": "amity-university",
+            "universityName": "Amity University",
+            "brochure": "/Downloadbrouchers/AMITY/MBA-AMITY/MBA-Business-Analytics.pdf",
+            "fee": "1,99,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Project Management",
+        "action": "Explore",
+        "link": "/courses/mba/project-management",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/Project_Management.webp",
+          "alt": "Project Management"
+        },
+        "universities": [
+          {
+            "ProductId": 207,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "/Downloadbrouchers/JAIN/MBA-JAIN/project-management-brochure-MBA-jain.pdf",
+            "fee": "1,96,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Human Resource Management",
+        "action": "Explore",
+        "link": "/courses/mba/human-resource-management",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/Human_Resource_%20Management.webp",
+          "alt": "Human Resource Management"
+        },
+        "universities": [
+          {
+            "ProductId": 180,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "/Downloadbrouchers/JAIN/MBA-JAIN/human-resources-management-brochure-MBA-jain.pdf",
+            "fee": "1,96,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Human Resource Management and Finance",
+        "action": "Explore",
+        "link": "/courses/mba/human-resource-management-and-finance",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/Human_Resource_Management_Finance.webp",
+          "alt": "Human Resource Management Finance"
+        },
+        "universities": [
+          {
+            "ProductId": 220,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "/Downloadbrouchers/JAIN/MBA-JAIN/hr-finance-brochure-MBA-jain.pdf",
+            "fee": "1,96,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Finance and Marketing",
+        "action": "Explore",
+        "link": "/courses/mba/finance-and-marketing",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/Finance_Marketing.webp",
+          "alt": "Finance Marketing"
+        },
+        "universities": [
+          {
+            "ProductId": 222,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "/Downloadbrouchers/JAIN/MBA-JAIN/finance-and-marketing-brochure-MBA-jain.pdf",
+            "fee": "1,96,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Marketing and Human Resource Management",
+        "action": "Explore",
+        "link": "/courses/mba/marketing-and-human-resource-management",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/Marketing_Human_Resource_management.webp",
+          "alt": "Marketing Human Resource Management"
+        },
+        "universities": [
+          {
+            "ProductId": 224,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "/Downloadbrouchers/JAIN/MBA-JAIN/hr-marketing-brochure-MBA-jain.pdf",
+            "fee": "1,96,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Marketing and Business Analytics",
+        "action": "Explore",
+        "link": "/courses/mba/marketing-and-business-analytics",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/Marketing_Business_Analytics.webp",
+          "alt": "Marketing Business Analytics"
+        },
+        "universities": [
+          {
+            "ProductId": 229,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "",
+            "fee": "1,96,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Finance and Business Analytics",
+        "action": "Explore",
+        "link": "/courses/mba/finance-and-business-analytics",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/Finance_Business_Analytics.webp",
+          "alt": "Finance Business Analytics"
+        },
+        "universities": [
+          {
+            "ProductId": 233,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "",
+            "fee": "1,96,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Human Resource and Business Analytics",
+        "action": "Explore",
+        "link": "/courses/mba/human-resource-and-business-analytics",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/Human_Resourc_Business_Analytics.webp",
+          "alt": "Human Resource Business Analytics"
+        },
+        "universities": [
+          {
+            "ProductId": 237,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "",
+            "fee": "1,96,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Information Technology Management",
+        "action": "Explore",
+        "link": "/courses/mba/information-technology-management",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/Information_Technology_management.webp",
+          "alt": "Information Technology Management"
+        },
+        "universities": [
+          {
+            "ProductId": 240,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "/Downloadbrouchers/JAIN/MBA-JAIN/information-technology-brochure-MBA-jain.pdf",
+            "fee": "1,96,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Supply Chain Production and Operations",
+        "action": "Explore",
+        "link": "/courses/mba/supply-chain-production-and-operations-management",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/Supply_Chain_Production_operation.webp",
+          "alt": "Supply Chain Production Operation"
+        },
+        "universities": [
+          {
+            "ProductId": 241,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "",
+            "fee": "1,96,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Business Intelligence and Analytics",
+        "action": "Explore",
+        "link": "/courses/mba/business-intelligence-and-analytics",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/business_intelligence_analytics.webp",
+          "alt": "Business Intelligence Analytics"
+        },
+        "universities": [
+          {
+            "ProductId": 243,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+             "brochure": "/Downloadbrouchers/JAIN/MBA-JAIN/business-intelligence-and-analytics-brochure-MBA-jain.pdf",
+            "fee": "1,96,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Entrepreneurship and venture creation",
+        "action": "Explore",
+        "link": "/courses/mba/entrepreneurship-and-venture-creation",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/Entrepreneurship.webp",
+          "alt": "Entrepreneurship"
+        },
+        "universities": [
+          {
+            "ProductId": 244,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "",
+            "fee": "1,96,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "International Finance",
+        "action": "Explore",
+        "link": "/courses/mba/international-finance-accredited-by-acca-uk",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/International_Finance.webp",
+          "alt": "International Finance"
+        },
+        "universities": [
+          {
+            "ProductId": 247,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "/Downloadbrouchers/JAIN/MBA-JAIN/international-finance-brochure-MBA-jain.pdf",
+            "fee": "2,98,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Data Science and Analytics",
+        "action": "Explore",
+        "link": "/courses/mba/data-science-and-analytics",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/Data_Science_Analytics.webp",
+          "alt": "Data Science Analytics"
+        },
+        "universities": [
+          {
+            "ProductId": 248,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "",
+            "fee": "2,00,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Digital Marketing and E-Commerce",
+        "action": "Explore",
+        "link": "/courses/mba/digital-marketing-and-e-commerce",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/Digital_Marketing_E-Commerce.webp",
+          "alt": "Digital Marketing E-Commerce"
+        },
+        "universities": [
+          {
+            "ProductId": 250,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "",
+            "fee": "2,00,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Artificial Intelligence",
+        "action": "Explore",
+        "link": "/courses/mba/artificial-intelligence",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/Artificial_Intelligence.webp",
+          "alt": "Artificial Intelligence"
+        },
+        "universities": [
+          {
+            "ProductId": 251,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "/Downloadbrouchers/JAIN/MBA-JAIN/artificial-intelligence-brochure-MBA-jain.pdf",
+            "fee": "2,00,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Banking and Finance",
+        "action": "Explore",
+        "link": "/courses/mba/banking-and-finance",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/Banking_Finance.webp",
+          "alt": "Banking Finance"
+        },
+        "universities": [
+          {
+            "ProductId": 252,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+             "brochure": "/Downloadbrouchers/JAIN/MBA-JAIN/banking-and-finance-brochure-MBA-jain.pdf",
+            "fee": "2,00,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "General Management",
+        "action": "Explore",
+        "link": "/courses/mba/general-management",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/General_Management.webp",
+          "alt": "General Management"
+        },
+        "universities": [
+          {
+            "ProductId": 255,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "/Downloadbrouchers/JAIN/MBA-JAIN/general-management-brochure-MBA-jain.pdf",
+            "fee": "1,96,000",
+            "duration": "24 months 4 sem"
+          },
+          {
+            "ProductId": 361,
+            "sourceId": 151,
+            "name": "amity-university",
+            "brochure": "/Downloadbrouchers/AMITY/MBA-AMITY/MBA-General-Management.pdf",
+            "universityName": "Amity University",
+            "fee": "2,50,000",
+            "duration": "3 years"
+          }
+        ]
+      },
+      {
+        "heading": "AI-Driven Marketing",
+        "action": "Explore",
+        "link": "/courses/mba/ai-driven-marketing",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/AI-Driven_Marketing.webp",
+          "alt": "AI-Driven Marketing"
+        },
+        "universities": [
+          {
+            "ProductId": 256,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "",
+            "fee": "3,00,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "AI-Driven Finance",
+        "action": "Explore",
+        "link": "/courses/mba/ai-driven-finance",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/AI-Driven_Finance.webp",
+          "alt": "AI-Driven Finance"
+        },
+        "universities": [
+          {
+            "ProductId": 258,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "",
+            "fee": "3,00,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "AI-Driven Business Strategy",
+        "action": "Explore",
+        "link": "/courses/mba/ai-driven-business-strategy",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/AI-Driven_Business_Strategy.webp",
+          "alt": "AI-Driven Business Strategy"
+        },
+        "universities": [
+          {
+            "ProductId": 259,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "",
+            "fee": "3,00,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "AI-Driven Human Resources",
+        "action": "Explore",
+        "link": "/courses/mba/ai-driven-human-resources",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/AI-Driven_Human_Resources.webp",
+          "alt": "AI-Driven Human Resources"
+        },
+        "universities": [
+          {
+            "ProductId": 260,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "",
+            "fee": "3,00,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Human Resource Analytics",
+        "action": "Explore",
+        "link": "/courses/mba/human-resource-analytics",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/human_resource_analytics.webp",
+          "alt": "Human Resource Analytics"
+        },
+        "universities": [
+          {
+            "ProductId": 261,
+            "sourceId": 151,
+            "name": "amity-university",
+            "brochure": "/Downloadbrouchers/AMITY/MBA-AMITY/MBA-Human-Resource-Analytics.pdf",
+            "universityName": "Amity University",
+            "fee": "1,99,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Digital Entrepreneurship",
+        "action": "Explore",
+        "link": "/courses/mba/digital-entrepreneurship",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/Digital_Entrepreneurship.webp",
+          "alt": "Digital Entrepreneurship"
+        },
+        "universities": [
+          {
+            "ProductId": 264,
+            "sourceId": 151,
+            "name": "amity-university",
+            "brochure": "/Downloadbrouchers/AMITY/MBA-AMITY/MBA-Digital-Entrepreneurship.pdf",
+            "universityName": "Amity University",
+            "fee": "1,99,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Digital Marketing Management",
+        "action": "Explore",
+        "link": "/courses/mba/digital-marketing-management",
+        "image": {
+          "src": "/pgbanerimages/mba/specializationsicons/Digital_Marketing_Management.webp",
+          "alt": "Digital Marketing Management"
+        },
+        "universities": [
+          {
+            "ProductId": 265,
+            "sourceId": 151,
+            "name": "amity-university",
+            "brochure": "/Downloadbrouchers/AMITY/MBA-AMITY/MBA-Digital-Marketing-Management.pdf",
+            "universityName": "Amity University",
+            "fee": "1,99,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      }
+    ]
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 9,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 10,
+    "heading": ["Take the Leap", " Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "null" },
+        "link": "null"
+      }
+    }
+  },
+
+  "programFeeStructure": {
+    "position": 11
+  },
+
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },{
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+ "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 15,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is an MBA?",
+        "answer": "An MBA (Master of Business Administration) is a postgraduate management program that builds strong skills in business strategy, leadership, finance, marketing, operations, and analytics. It prepares students for managerial and leadership roles across industries."
+      },
+      {
+        "question": "Who can pursue an MBA?",
+        "answer": "Graduates from any stream Commerce, Science, Arts, Engineering, or Management can pursue an MBA. Working professionals can also enroll to upskill and advance into leadership or specialized business roles."
+      },
+      {
+        "question": "What is the duration of the MBA program?",
+        "answer": "The MBA program generally lasts 2 years, structured into semesters that include core subjects, specialization papers, internships, case studies, and industry projects."
+      },
+      {
+        "question": "What specializations are available in an MBA?",
+        "answer": "MBA aspirants can choose from specializations such as Finance, Marketing, HR, Business Analytics, Operations, Logistics, International Business, Entrepreneurship, IT Management, Healthcare Management, Retail Management, and many more."
+      },
+      {
+        "question": "What subjects are covered in an MBA?",
+        "answer": "The curriculum includes Managerial Economics, Accounting, Business Statistics, Marketing Management, Human Resource Management, Financial Management, Business Analytics, Supply Chain, Organizational Behaviour, and strategic business modules."
+      },
+      {
+        "question": "What career opportunities are available after MBA?",
+        "answer": "MBA graduates can become Business Analysts, Marketing Managers, HR Managers, Financial Analysts, Operations Managers, Project Managers, Product Managers, Consultants, Entrepreneurs, and leaders in corporate sectors."
+      },
+      {
+        "question": "What is the expected salary after MBA?",
+        "answer": "Fresh MBA graduates generally earn ₹4–10 LPA, depending on specialization and institute. Experienced professionals or MBA graduates from top B-schools can earn ₹12–30 LPA or higher based on role and industry."
+      },
+      {
+        "question": "Can working professionals pursue an MBA?",
+        "answer": "Yes. Many institutes offer Online MBA, Executive MBA (EMBA), Distance MBA, and Weekend MBA programs tailored for working professionals who want to grow their careers without leaving their jobs."
+      },
+      {
+        "question": "Is MBA a good career choice?",
+        "answer": "Yes. MBA is one of the most popular and rewarding career paths, offering opportunities in corporate leadership, entrepreneurship, global business roles, and specialized managerial positions across all industries."
+      },
+      {
+        "question": "What is the scope of an MBA?",
+        "answer": "The scope of an MBA spans finance, marketing, HR, analytics, IT, operations, logistics, consulting, startup ecosystems, and international business roles. MBA graduates have strong career stability and high-growth opportunities in India and abroad."
+      }
+    ]
+  },
+
+  "letsTalk": {
+    "position": 14,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today—Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 17,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "Master of Business Administration (MBA)",
+      "Online MBA Degree Program",
+      "Online MBA for working professionals",
+      "Best online MBA in India",
+      "Master’s degree in Business Administration",
+      "MBA in Healthcare Management",
+      "MBA in Finance",
+      "MBA in Marketing",
+      "MBA in Business Analytics",
+      "MBA in Human Resource Management"
+    ]
+  }
+}

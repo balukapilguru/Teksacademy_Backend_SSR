@@ -1,0 +1,1418 @@
+﻿{
+  "meta": {
+    "title": "Full Stack Java Developer Course | Industry-Ready Training",
+    "description": "Learn from experts in our Full Stack Java Developer Course with practical training, live projects, and certification to build real-world skills.",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Course",
+          "name": "Java Certification Course",
+          "image": "https://teksversity.com/_next/image?url=https%3A%2F%2Fteksversity.s3.us-east-1.amazonaws.com%2Fwebsite%2Fassets%2Fcertificate%2FbannerImages%2Fcertification%2Fjava-certificate.webp&w=1920&q=75",
+          "description": "The Java Certification Course at Teksversity provides practical training in core Java, object-oriented programming, and real-world application development to build strong programming fundamentals.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Teksversity"
+          },
+          "url": "https://teksversity.com/courses/full-stack-java-certification-course",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "122"
+          },
+          "offers": {
+            "@type": "AggregateOffer",
+            "url": "https://teksversity.com/courses/full-stack-java-certification-course",
+            "priceCurrency": "INR",
+            "lowPrice": "50000",
+            "highPrice": "50000",
+            "offerCount": "1",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is the Java Certification Course about?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The course teaches core Java programming, object-oriented concepts, and application development through practical coding exercises and projects."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What topics are covered in the Java course?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Students learn core Java syntax, OOP principles, data structures basics, application logic, and real-world programming practices."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is this Java course suitable for beginners?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the program starts with programming fundamentals and gradually progresses into object-oriented design and application development."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What career opportunities are available after Java certification?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Graduates can pursue roles such as Java Developer, Software Developer, Backend Developer, or Full Stack Developer."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does the Java course include practical projects?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, learners build real-world Java applications and coding exercises that demonstrate programming and development skills."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+  "category": "certifications",
+
+  "formDetails": {
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "courseName": "Full Stack Java Certification Course",
+    "universities": [
+      {
+        "university": "TEKSVERITY INSTITUTE OF ADVANCED LEARNING",
+        "image": {
+          "src": "/home/Teksversity_navbar.webp",
+          "alt": "teksversity"
+        },
+        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "rating": 4.8,
+        "duration": "4-6 Months",
+        "courseFee": {
+          "range": "45,000 - 55,000",
+          "note": "Total program fee"
+        },
+        "brochure": "/Downloadbrouchers/IT-courses/DownloadBroucher/Teksversity-Full Stack Java.pdf",
+        "button": [
+          {
+            "name": "Know More",
+            "link": "",
+            "form": false
+          },
+          { "name": "Enroll Now", "link": "", "form": true }
+        ],
+        "productId": 391,
+        "sourceId": 148,
+        "universityName": "Teksversity"
+      }
+    ]
+  },
+
+  "banner": {
+    "name": "Online Full Stack Java Certification Course?",
+    "position": 1,
+    "mainHeading": "Full Stack Java Developer Course with Practical Training",
+    "description": "Join the next generation of developers—and start your success story with Java.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/certificate/bannerImages/certification/java-certificate.webp",
+      "alt": "Full Stack Java Certification Course with Industry Skills"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why You Should Join This Course"],
+      "benefits": [
+        "Build enterprise-grade Java apps with real-world scalability.",
+        "Master React, Spring Boot, Docker & Kubernetes.",
+        "Deploy cloud-native microservices with precision.",
+        "Learn from top industry Java architects.",
+        "Work on live DevOps-integrated projects.",
+        "Code AI-ready, API-driven applications.",
+        "Get 1:1 mentorship & placement support.",
+        "Graduate as a future-ready Java innovator."
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["Overview of ", "the Online Java Programming Course"],
+    "overViewImage": {
+      "src": "/certificate/overview.webp",
+      "alt": "Full Stack Java Certification Course – Program Overview"
+    },
+    "subHeading": "Master Java Programming Online",
+    "description": "The Java certification course isn’t just about learning Java it’s about learning to build what the world runs on. From intuitive user interfaces to intelligent, cloud-native systems, you’ll gain the power to turn complex ideas into production-ready realities. Guided by seasoned mentors and backed by an industry-shaped curriculum, this program helps you grow from a learner into a true problem solver—one who builds precision, designs with purpose, and codes with confidence.",
+    "keyPoints": [
+      "Build, scale, and deploy real-world Java systems.",
+      "Master React, Spring Boot & Cloud Deployment.",
+      "Learn by creating real projects every module."
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": [
+      "Why Choose the Full Stack Java Certification in",
+      "Teksversity?"
+    ],
+    "subHeading": ["Celebrating", " Excellence"],
+    "title": ["13 Years of", " Legacy", "(Commitment, Growth, Success)"],
+    "legacyCards": [
+      {
+        "icon": "need to add real content for all cards",
+        "value": "4.72/5",
+        "label": "Overall Program Rating"
+      },
+      {
+        "icon": "sessions",
+        "value": "99/100",
+        "label": "Sessions Rated 4+/5"
+      },
+      {
+        "icon": "average",
+        "value": "4.8/5",
+        "label": "Average Session Rating"
+      }
+    ],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "At Teksversity, you don’t just learn Java you master the art of software engineering. The Java Full Stack Course is crafted for ambitious learners who want to build, innovate, and lead the tech world. You’ll explore how entire digital ecosystems connect from intuitive front-end interfaces to powerful, cloud-native architectures that power global platforms. Every module mirrors a real enterprise workflow, ensuring you graduate with job-ready skills that employers value instantly.",
+    "description": [
+      {
+        "firstDescription": "What truly sets Teksversity apart is its industry-integrated learning approach. The Full Stack Java Developer Course is designed in collaboration with DevOps professionals and software architects who’ve built systems for Fortune 500 companies. Through immersive projects, cloud labs, and production-grade assignments, you’ll gain not only technical expertise but also the strategic mindset of an engineer capable of solving complex, real-world challenges."
+      },
+      {
+        "secondDescription": "The Java Programming Course Online at Teksversity treats your journey as a transformation, not just a training experience. With personalized mentorship, live code reviews, and practical exposure, you’ll evolve into a confident professional. When it’s time to launch your career, our placement support, recruiter connections, and mock interviews ensure you step into your first tech role with clarity, confidence, and industry credibility."
+      }
+    ]
+  },
+  "keyHighlights": {
+    "position": 5,
+    "heading": ["Key Highlights of", "Full Stack Java Developer Course"],
+    "sections": [
+      {
+        "name": "Industry-Driven Curriculum",
+        "value": "Industry-DrivenCurriculum"
+      },
+      {
+        "name": "Hands-On Learning Experience",
+        "value": "Hands-OnLearningExperience"
+      },
+      {
+        "name": "Mentorship That Moves You Forward",
+        "value": "MentorshipThatMovesYouForward"
+      },
+      {
+        "name": "Career Advancement & Placement Support",
+        "value": "CareerAdvancement&PlacementSupport"
+      }
+    ],
+    "tabsData": {
+      "Industry-DrivenCurriculum": {
+        "keyPoints": [
+          "Learn what leading tech companies use not just what textbooks teach.",
+          "Master Java frameworks, APIs, microservices, and cloud-native tools.",
+          "Build scalable, real-world enterprise applications.",
+          "Stay ahead with skills driving FinTech, AI, and automation.",
+          "Graduate with an innovation-first developer mindset."
+        ]
+      },
+      "Hands-OnLearningExperience": {
+        "keyPoints": [
+          "Code, build, and deploy through interactive labs that replicate industry environments.",
+          "Solve real-world challenges that sharpen your debugging and problem-solving skills.",
+          "Work on lifestyle applications to gain job-ready experience.",
+          "Build a professional portfolio that showcases your technical expertise.",
+          "Graduate with the confidence to deliver production-grade solutions."
+        ]
+      },
+      "MentorshipThatMovesYouForward": {
+        "keyPoints": [
+          "Learn directly from senior engineers shaping today’s full-stack landscape.",
+          "Get insider insights on how production systems are designed and scaled.",
+          "Receive personalized code reviews, live Q&As, and career feedback.",
+          "Bridge the gap between learning and real-world problem-solving.",
+          "Grow with mentors who help turn your potential into professional mastery."
+        ]
+      },
+      "CareerAdvancement&PlacementSupport": {
+        "keyPoints": [
+          "Go beyond certification build a career that grows with your skills.",
+          "Get resume guidance, mock interviews, and recruiter connections.",
+          "Access exclusive hiring drives and referral networks.",
+          "Land roles like Java Developer, Full Stack Engineer, or Backend Specialist.",
+          "Turn your Teksversity learning into career-defining success."
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our", "Course Brochure"],
+    "description": "Curious to see why this program is a game-changer?",
+    "subHeading": "What You’ll Discover Inside:",
+    "highlights": [
+      "Detailed curriculum and toolset breakdown",
+      "Real-world project roadmap and mentorship structure",
+      "Trainer expertise and industry experience",
+      "Certification details and learning outcomes",
+      "Flexible fees and EMI options"
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/certificate/brochuree.webp",
+      "alt": "Download Full Stack Java Certification Course Brochure"
+    }
+  },
+
+  "embraceTheEndlessOpportunities": {
+    "position": 7,
+    "heading": ["Embrace future opportunities in", " Full Stack Java"],
+    "sections": [
+      {
+        "title": "Global Java Market Revenue",
+        "data": "The global Java development market is anticipated to grow significantly, with projections reaching approximately $12 billion by 2026, driven by the increasing demand for enterprise applications and web development solutions (Source: MarketsandMarkets).",
+        "icon": {
+          "src": "/certificate/opportunities/revenue.webp",
+          "alt": "revenue.webp"
+        }
+      },
+      {
+        "title": "Employment Growth",
+        "data": "The demand for Full Stack Java developers is expected to grow by 24% from 2022 to 2032, reflecting the need for versatile developers skilled in both front- and back-end technologies (Source: Bureau of Labor Statistics).",
+        "icon": {
+          "src": "/certificate/opportunities/growth.webp",
+          "alt": "growth.webp"
+        }
+      },
+      {
+        "title": "Average Salary in India",
+        "data": "The average salary for Full Stack Java developers in India ranges from ₹8,00,000 to ₹18,00,000 per annum, depending on experience and expertise (Source: Glassdoor, PayScale).",
+        "icon": {
+          "src": "/certificate/opportunities/salary.webp",
+          "alt": "salary.webp"
+        }
+      },
+      {
+        "title": "Size of the Industry",
+        "data": "The Indian software development industry is projected to reach around $350 billion by 2026, highlighting the vast opportunities in software development, including Full Stack Java (Source: NASSCOM).",
+        "icon": {
+          "src": "/certificate/opportunities/industry.webp",
+          "alt": "industry.webp"
+        }
+      }
+    ]
+  },
+
+  "advancedTools": {
+    "position": 8,
+    "heading": ["Explore 15+ ", " Core Technologies"],
+    "roles": [
+      {
+        "name": "java",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-java/tools/java.webp",
+          "alt": "java"
+        }
+      },
+      {
+        "name": "SQL",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-java/tools/sql.webp",
+          "alt": "SQL"
+        }
+      },
+      {
+        "name": "MySQL",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-java/tools/mysql.webp",
+          "alt": "MySQL"
+        }
+      },
+      {
+        "name": "Apache",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-java/tools/asf.webp",
+          "alt": ""
+        }
+      },
+      {
+        "name": "bootstrap",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-java/tools/bb.webp",
+          "alt": "bootstrap"
+        }
+      },
+      {
+        "name": "visual studio code",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-java/tools/vscode.webp",
+          "alt": "visual studio code"
+        }
+      },
+      {
+        "name": "react",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-java/tools/react.webp",
+          "alt": "react"
+        }
+      },
+      {
+        "name": "spring",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-java/tools/spring.webp",
+          "alt": "spring"
+        }
+      },
+      {
+        "name": "eclipse",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-java/tools/eclipse.webp",
+          "alt": "eclipse"
+        }
+      },
+      {
+        "name": "hibernate",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-java/tools/hibernate.webp",
+          "alt": "hibernate"
+        }
+      }
+    ]
+  },
+
+  "industryProjects": {
+    "position": 9,
+    "heading": ["Industry", "Projects"],
+    "projects": [
+      {
+        "title": "Library Management System",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-java/projects/librarymanagementsystem.webp",
+          "alt": "librarymanagementsystem"
+        }
+      },
+      {
+        "title": "Student Information System",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-java/projects/StudentInformation.webp",
+          "alt": "StudentInformation"
+        }
+      },
+      {
+        "title": "Tic-Tac-Toe Game",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-java/projects/Tic_Tac_Toe.webp",
+          "alt": "Tic_Tac_Toe"
+        }
+      },
+      {
+        "title": "Full-Stack E-Commerce Website",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-java/projects/FullStackECommerce.webp",
+          "alt": "FullStackECommerce"
+        }
+      },
+      {
+        "title": "Microservices-Based Online Banking System",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-java/projects/OnlineBanking.webp",
+          "alt": "OnlineBanking"
+        }
+      },
+      {
+        "title": "Online Book Store (Backend)",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-java/projects/OnlineBookStore.webp",
+          "alt": "OnlineBookStore"
+        }
+      },
+      {
+        "title": "Contact Management System",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-java/projects/ContactManagement.webp",
+          "alt": "ContactManagement"
+        }
+      },
+      {
+        "title": "Employee Management System",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-java/projects/EmployeeManagement.webp",
+          "alt": "EmployeeManagement"
+        }
+      },
+      {
+        "title": "Library Management System (Web)",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-java/projects/LibraryManagement.webp",
+          "alt": "LibraryManagement"
+        }
+      },
+      {
+        "title": "To-Do List Application",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-python/projects/todolist.webp",
+          "alt": "todolist"
+        }
+      },
+      {
+        "title": "Student Attendance System",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-java/projects/StudentAttendance.webp",
+          "alt": "StudentAttendance"
+        }
+      },
+      {
+        "title": "Real-Time Chat Application",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-full-stack-development-java/projects/chatapplication.webp",
+          "alt": "chatapplication"
+        }
+      }
+    ]
+  },
+
+  "careerPath": {
+    "position": 10,
+    "heading": ["Full-stack Java course", "Career Paths"],
+    "description": "Explore roles, opportunities, and salary growth",
+    "jobCards": [
+      {
+        "role": "Java Developer",
+        "icon": "",
+        "jobMeter": "28,000 open positions",
+        "jobCount": 28000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "4-8 LPA" },
+            { "label": "2 Years", "value": "6-10 LPA" },
+            { "label": "4 Years", "value": "8-12 LPA" },
+            { "label": "6 Years", "value": "12-18 LPA" },
+            { "label": "8+ Years", "value": "15-25 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Backend Developer",
+        "icon": "",
+        "jobMeter": "22,000 open positions",
+        "jobCount": 22000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "3-6 LPA" },
+            { "label": "2 Years", "value": "5-9 LPA" },
+            { "label": "4 Years", "value": "7-12 LPA" },
+            { "label": "6 Years", "value": "10-15 LPA" },
+            { "label": "8+ Years", "value": "12-20 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Java Architect",
+        "icon": "",
+        "jobMeter": "5,000 open positions",
+        "jobCount": 5000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "6-10 LPA" },
+            { "label": "2 Years", "value": "10-15 LPA" },
+            { "label": "4 Years", "value": "15-25 LPA" },
+            { "label": "6 Years", "value": "20-30 LPA" },
+            { "label": "8+ Years", "value": "25-35 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Java Lead",
+        "icon": "",
+        "jobMeter": "63,500 open positions",
+        "jobCount": 63500,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "6-12 LPA" },
+            { "label": "2 Years", "value": "10-15 LPA" },
+            { "label": "4 Years", "value": "15-25 LPA" },
+            { "label": "6 Years", "value": "18-25 LPA" },
+            { "label": "8+ Years", "value": "25-40 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Java Tester",
+        "icon": "",
+        "jobMeter": "10,000 open positions",
+        "jobCount": 10000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "3-6 LPA" },
+            { "label": "2 Years", "value": "5-9 LPA" },
+            { "label": "4 Years", "value": "7-12 LPA" },
+            { "label": "6 Years", "value": "10-15 LPA" },
+            { "label": "8+ Years", "value": "12-18 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Software Engineer",
+        "icon": "",
+        "jobMeter": "15,000 open positions",
+        "jobCount": 15000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "4-8 LPA" },
+            { "label": "2 Years", "value": "6-10 LPA" },
+            { "label": "4 Years", "value": "8-14 LPA" },
+            { "label": "6 Years", "value": "12-18 LPA" },
+            { "label": "8+ Years", "value": "15-22 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Support Engineer",
+        "icon": "",
+        "jobMeter": "6,500 open positions",
+        "jobCount": 6500,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "3-5 LPA" },
+            { "label": "2 Years", "value": "4-7 LPA" },
+            { "label": "4 Years", "value": "6-10 LPA" },
+            { "label": "6 Years", "value": "18-14 LPA" },
+            { "label": "8+ Years", "value": "10-16 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "DevOps Engineer",
+        "icon": "",
+        "jobMeter": "12,000 open positions",
+        "jobCount": 12000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "4-8 LPA" },
+            { "label": "2 Years", "value": "6-12 LPA" },
+            { "label": "4 Years", "value": "10-16 LPA" },
+            { "label": "6 Years", "value": "14-22 LPA" },
+            { "label": "8+ Years", "value": "18-30 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Technical Consultant",
+        "icon": "",
+        "jobMeter": "4,500 open positions",
+        "jobCount": 4500,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "5-9 LPA" },
+            { "label": "2 Years", "value": "8-12 LPA" },
+            { "label": "4 Years", "value": "12-15 LPA" },
+            { "label": "6 Years", "value": "14-20 LPA" },
+            { "label": "8+ Years", "value": "20-28 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Java Software Engineer",
+        "icon": "",
+        "jobMeter": "15,000 open positions",
+        "jobCount": 15000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "4-8 LPA" },
+            { "label": "2 Years", "value": "6-10 LPA" },
+            { "label": "4 Years", "value": "9-14 LPA" },
+            { "label": "6 Years", "value": "12-20 LPA" },
+            { "label": "8+ Years", "value": "15-25 LPA" }
+          ]
+        }
+      }
+    ],
+    "button": {
+      "text": "Enroll Now",
+      "icon": { "src": null, "alt": null },
+      "link": "#enrollment_link"
+    }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 12,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 13,
+    "heading": ["Take the Leap", " Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "null" },
+        "link": "null"
+      }
+    }
+  },
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },
+      {
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+  "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      },
+      "formBackground": {
+        "src": "/home/formbg.webp",
+        "alt": "Spin and Win Form Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 17,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is the Java Certification Course offered by Teksversity?",
+        "answer": "It’s a complete program covering Core Java, Advanced Java, and modern frameworks like Spring and Hibernate blending theory with hands-on projects to make you job-ready."
+      },
+      {
+        "question": "Who can enroll in this course?",
+        "answer": "Anyone with basic programming knowledge or a passion for software development. Whether you’re a beginner, student, or working professional, this course makes Java accessible and practical."
+      },
+      {
+        "question": "What topics are covered in the Java Developer Course?",
+        "answer": "You’ll master OOP concepts, data structures, collections, JDBC, multithreading, Spring, Spring Boot, Hibernate, REST APIs, MySQL, Git, and Maven building complete end-to-end applications."
+      },
+      {
+        "question": "How long is the program?",
+        "answer": "Typically 6 to 8 months, depending on your learning mode online, offline, or hybrid."
+      },
+      {
+        "question": "Are there hands-on projects?",
+        "answer": "Absolutely. Every module includes live projects that replicate industry use cases. You’ll code, debug, and deploy real applications."
+      },
+      {
+        "question": "Which tools and technologies will I use?",
+        "answer": "Eclipse, IntelliJ IDEA, Spring Boot, Hibernate, Maven, Git, MySQL, REST APIs, Docker, and Kubernetes all standard in the Java ecosystem."
+      },
+      {
+        "question": "Does it include Full Stack Development?",
+        "answer": "Yes! You’ll integrate front-end and back-end using Java, Spring Boot, HTML, CSS, JavaScript, and REST APIs."
+      },
+      {
+        "question": "Is placement support available?",
+        "answer": "Yes Teksversity offers resume building, mock interviews, and job referrals through strong recruiter networks."
+      },
+      {
+        "question": "What career paths can I pursue?",
+        "answer": "You can become a Java Developer, Software Engineer, Full Stack Java Developer, Backend Developer, or Application Developer."
+      },
+      {
+        "question": "Why choose Teksversity?",
+        "answer": "Because Teksversity combines expert trainers, real-time projects, and robust placement support turning you into a confident, job-ready software engineer."
+      }
+    ]
+  },
+
+  "letsTalk": {
+    "position": 18,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today—Teksversity is here to guide you"
+    }
+  },
+  "mostSearchedTerms": {
+    "position": 19,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "Full Stack Java Certification Course",
+      "Java Certification Course",
+      "Java Full Stack Course",
+      "Full Stack Java Developer Course",
+      "Java Programming Course Online",
+      "Java Certificate Course",
+      "Best Java Certification Course Online",
+      "Best Java Course with Certificate",
+      "Java Developer Certification",
+      "Online Java Course for Beginners"
+    ]
+  }
+}

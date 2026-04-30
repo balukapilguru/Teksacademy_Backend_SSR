@@ -1,0 +1,1043 @@
+{
+  "meta": {
+    "title": "Teksversity | Empowering Students with Academic & Industry Skills",
+    "description": "Teksversity offers AI-powered IT courses and online UG & PG programs with expert mentors, certifications, real-time projects & career support."
+  },
+
+  "banner": {
+    "position": 1,
+    "video": "/assets/videossection/glimpse_video_for_website.mp4",
+    "thumbnail": "/home/banner/bannerfinallllllll.webp",
+    "subHeading": "Recognised by"
+  },
+
+  "topScroll": {
+    "position": 2,
+    "list": [
+      {
+        "src": "/assets/img/partners-images/p-3.webp",
+        "alt": "skill_nasscom"
+      },
+      {
+        "src": "/assets/img/partners-images/p-4.webp",
+        "alt": "national skill_development_corporation"
+      },
+      {
+        "src": "/assets/img/partners-images/p-5.webp",
+        "alt": "skill_india"
+      },
+      {
+        "src": "/assets/img/partners-images/p-6.webp",
+        "alt": "skill_msme"
+      },
+      {
+        "src": "/assets/img/partners-images/p-1.webp",
+        "alt": "ddu-gky"
+      },
+      {
+        "src": "/assets/img/partners-images/p-2.webp",
+        "alt": "iso"
+      }
+    ]
+  },
+
+  "ourSuccessStories": {
+    "position": 3,
+    "heading": ["Our Success", "Stories"],
+    "data": {
+      "placedStudents": {
+        "position": 1,
+        "heading": "Placed Students",
+        "cards": {
+          "videoCards": [
+            {
+              "name": "vennela",
+              "videoUrl": "/assets/success_stories_videos/Vennela_frontend.mp4",
+              "thumbnail": {
+                "src": "assets/img/success_Stories/Vennela_python.webp",
+                "alt": "vennela"
+              }
+            },
+            {
+              "name": "Srinivas Rao",
+              "videoUrl": "/assets/success_stories_videos/srinivas_intern.mp4",
+              "thumbnail": {
+                "src": "/assets/img/success_Stories/Srinivas_rao_java.webp",
+                "alt": "srinivas Rao"
+              }
+            },
+            {
+              "name": "Leela Prasad",
+              "videoUrl": "/assets/success_stories_videos/leela_prasad_bim.mp4",
+              "thumbnail": {
+                "src": "/assets/img/success_Stories/leela_prasad_bim.webp",
+                "alt": "leela prasad"
+              }
+            },
+            {
+              "name": "Ruchita",
+              "videoUrl": "/assets/success_stories_videos/Ruchita_fp.mp4",
+              "thumbnail": {
+                "src": "/assets/img/success_Stories/ruchita_sd.webp",
+                "alt": "ruchita"
+              }
+            }
+          ],
+          "placementCards": [
+            {
+              "name": "Shivaji Bakka",
+              "image": {
+                "src": "/assets/img/success_Stories/shivaji_placed_card.webp",
+                "alt": "Shivaji Bakka"
+              }
+            },
+            {
+              "name": "Sailaja",
+              "image": {
+                "src": "/assets/img/success_Stories/sailaja_ft_dm.webp",
+                "alt": "Sailaja"
+              }
+            },
+            {
+              "name": "Sai Raghava",
+              "image": {
+                "src": "/assets/img/success_Stories/sai_raghava_ft_fp.webp",
+                "alt": "Sai Raghava"
+              }
+            },
+            {
+              "name": "Krishna Prasad",
+              "image": {
+                "src": "/assets/img/success_Stories/krishna_placed_card.webp",
+                "alt": "Krishna Prasad"
+              }
+            }
+          ]
+        }
+      },
+      "LearningExperience": {
+        "position": 2,
+        "heading": "Learning Experience",
+        "Cards": {
+          "videoCards": [
+            {
+              "name": "chandravardhan",
+              "videoUrl": "/assets/success_stories_videos/Chandravardhan_fj.mp4",
+              "thumbnail": {
+                "src": "/assets/img/success_Stories/chandravardhan_ps_fj.webp",
+                "alt": "chandravardhan"
+              }
+            },
+            {
+              "name": "shandruth",
+              "videoUrl": "/assets/success_stories_videos/SHANDRUTH_fp.mp4",
+              "thumbnail": {
+                "src": "/assets/img/success_Stories/shandruth_fp.webp",
+                "alt": "shandruth"
+              }
+            },
+            {
+              "name": "srinivas",
+              "videoUrl": "/assets/success_stories_videos/SRINIVAS_ds.mp4",
+              "thumbnail": {
+                "src": "/assets/img/success_Stories/srinivas_ds.webp",
+                "alt": "srinivas"
+              }
+            },
+            {
+              "name": "praveen",
+              "videoUrl": "/assets/success_stories_videos/PRAVEEN_dm.mp4",
+              "thumbnail": {
+                "src": "/assets/img/success_Stories/praveen_dm.webp",
+                "alt": "praveen"
+              }
+            }
+          ],
+          "placementCards": [
+            {
+              "name": "Shravan",
+              "image": {
+                "src": "/assets/img/success_Stories/fj_tc_1.webp",
+                "alt": "Shravan"
+              }
+            },
+            {
+              "name": "Sai Shiva",
+              "image": {
+                "src": "/assets/img/success_Stories/fp_tc_2.webp",
+                "alt": "Sai Shiva"
+              }
+            },
+            {
+              "name": "Bharath Bandarupally",
+              "image": {
+                "src": "/assets/img/success_Stories/bharath_tc_Ds.webp",
+                "alt": "Bharath Bandarupally"
+              }
+            },
+            {
+              "name": "Korra Vinay Kumar",
+              "image": {
+                "src": "/assets/img/success_Stories/Dm_tc_4.webp",
+                "alt": "Korra Vinay Kumar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 4,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": {
+            "src": "/home/companies/zensarrr.webp",
+            "alt": "zensarrr"
+          }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": {
+            "src": "/home/companies/nucleuss.webp",
+            "alt": "nucleuss"
+          }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": {
+            "src": "/home/companies/zerodhaa.webp",
+            "alt": "zerodhaa"
+          }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": {
+            "src": "/home/companies/deloitte.webp",
+            "alt": "deloitte"
+          }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": {
+            "src": "/home/companies/flipkart.webp",
+            "alt": "flipkart"
+          }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "workingProfessionals": {
+    "position": 5,
+    "heading": ["We have created", "38000+ Working Professionals"],
+    "images": [
+      {
+        "image": {
+          "src": "/home/workingprofessionals/Website_Placed%20Students5.webp",
+          "alt": "Placed%20Students5"
+        },
+        "heading": "Mary manisha",
+        "subHeading": "Systyem Engineer at Metilli Interior"
+      },
+      {
+        "image": {
+          "src": "/home/workingprofessionals/Website_Placed%20Students6.webp",
+          "alt": "Placed%20Students6"
+        },
+        "heading": "Abdul Kadhir",
+        "subHeading": "Interior Designer at Tvyaa Interiors"
+      },
+      {
+        "image": {
+          "src": "/home/workingprofessionals/Website_Placed%20Students9.webp",
+          "alt": "Placed%20Students9"
+        },
+        "heading": "Poojitha",
+        "subHeading": "GIS Engineer at GeoVista"
+      },
+      {
+        "image": {
+          "src": "/home/workingprofessionals/Website_Placed%20Students4.webp",
+          "alt": "Placed%20Students4"
+        },
+        "heading": "Avinash",
+        "subHeading": "Architect Designer at Jacobs"
+      },
+      {
+        "image": {
+          "src": "/home/workingprofessionals/Website_Placed%20Students19.webp",
+          "alt": "Placed%20Students19"
+        },
+        "heading": "Sara Akshara",
+        "subHeading": "Digital Marketing at Vsoft IT"
+      },
+      {
+        "image": {
+          "src": "/home/workingprofessionals/Website_Placed%20Students2.webp",
+          "alt": "Placed%20Students2"
+        },
+        "heading": "Chaitanya",
+        "subHeading": "Associate Engineer at L&T"
+      },
+      {
+        "image": {
+          "src": "/home/workingprofessionals/Website_Placed%20Students3.webp",
+          "alt": "Placed%20Students3"
+        },
+        "heading": "Kalyan",
+        "subHeading": "Developer at Soft Inc"
+      },
+      {
+        "image": {
+          "src": "/home/workingprofessionals/Website_Placed%20Students7.webp",
+          "alt": "Placed%20Students7"
+        },
+        "heading": "Bhavani",
+        "subHeading": "Developer at SDWOT"
+      },
+      {
+        "image": {
+          "src": "/home/workingprofessionals/Website_Placed%20Students12.webp",
+          "alt": "Placed%20Students12"
+        },
+        "heading": "saisudhir",
+        "subHeading": "Developer at Lexys Labs"
+      },
+      {
+        "image": {
+          "src": "/home/workingprofessionals/Website_Placed%20Students13.webp",
+          "alt": "Placed%20Students13"
+        },
+        "heading": "Venkata s",
+        "subHeading": "AutoCAD Engineer at RMSI"
+      },
+      {
+        "image": {
+          "src": "/home/workingprofessionals/Website_Placed%20Students11.webp",
+          "alt": "Placed%20Students11"
+        },
+        "heading": "Nitish",
+        "subHeading": "Developer at App IT"
+      },
+      {
+        "image": {
+          "src": "/home/workingprofessionals/Website_Placed%20Students14.webp",
+          "alt": "Placed%20Students14"
+        },
+        "heading": "B Nikitha",
+        "subHeading": "Data Analyst at Delta Tech."
+      },
+      {
+        "image": {
+          "src": "/home/workingprofessionals/Website_Placed%20Students15.webp",
+          "alt": "Placed%20Students15"
+        },
+        "heading": "Sravanthi",
+        "subHeading": "System Engineer at TCS"
+      },
+      {
+        "image": {
+          "src": "/home/workingprofessionals/Website_Placed%20Students.webp",
+          "alt": "Placed%20Students20"
+        },
+        "heading": "B Tharuni",
+        "subHeading": "AutoCAD Designer at RMSI"
+      },
+      {
+        "image": {
+          "src": "/home/workingprofessionals/Website_Placed%20Students16.webp",
+          "alt": "Placed%20Students16"
+        },
+        "heading": "Sahana",
+        "subHeading": "System Engineer at Pure Spectrum"
+      },
+      {
+        "image": {
+          "src": "/home/workingprofessionals/Website_Placed%20Students17.webp",
+          "alt": "Placed%20Students17"
+        },
+        "heading": "Anita Sharma",
+        "subHeading": "GIS Engineer at RMSI"
+      },
+      {
+        "image": {
+          "src": "/home/workingprofessionals/Website_Placed%20Students18.webp",
+          "alt": "Placed%20Students18"
+        },
+        "heading": "M ROHIT",
+        "subHeading": "GIS Engineer at GeoVista"
+      },
+      {
+        "image": {
+          "src": "/home/workingprofessionals/Website_Placed%20Students10.webp",
+          "alt": "Placed%20Students10"
+        },
+        "heading": "M Roja",
+        "subHeading": "Developer at Clinistats"
+      },
+      {
+        "image": {
+          "src": "/home/workingprofessionals/Website_Placed%20Students8.webp",
+          "alt": "Placed%20Students8"
+        },
+        "heading": "Poojitha",
+        "subHeading": "GIS Engineer at RMSI"
+      },
+      {
+        "image": {
+          "src": "/home/workingprofessionals/Website_Placed%20Students20.webp",
+          "alt": "Placed%20Students20"
+        },
+        "heading": "Shiva kumar",
+        "subHeading": "System Engineer at PSS Software"
+      }
+    ]
+  },
+
+  "certificationCards": {
+    "position": 3,
+    "heading": ["Learn Industry Skills With ", "University Certification"],
+    "subCategory": [
+      { "name": "Dual Certification Course", "value": "dualCertification" },
+      {
+        "name": "Post Graduation Certification Course",
+        "value": "postGraduationCertification"
+      },
+      { "name": "Certification course", "value": "certification" },
+      { "name": "Fast Track Course", "value": "fastTrack" }
+    ],
+    "button": {
+      "name": "View All Courses",
+      "link": null,
+      "form": true
+    }
+  },
+
+  "academicsCards": {
+    "position": 4,
+    "heading": ["Bridge Academics & Industry skills With ", "Teksversity"],
+    "category": [
+      { "name": "Under Graduation", "value": "ug" },
+      { "name": "Post Graduation", "value": "pg" }
+    ],
+    "button": {
+      "name": "View All Courses",
+      "link": "/courses",
+      "form": true
+    }
+  },
+
+  "excelWithTeksacademy": {
+    "position": 8,
+    "title": "Excel with Teks Academy",
+    "features": [
+      {
+        "leftSection": [
+          {
+            "title": "Free",
+            "subtitle": "Career Guidance",
+            "icon": "career-guidance"
+          },
+          {
+            "title": "IIT",
+            "subtitle": "Approved Curriculum",
+            "icon": "curriculum"
+          },
+          {
+            "title": "Dedicated",
+            "subtitle": "Student Dashboard",
+            "icon": "dashboard"
+          },
+          {
+            "title": "Classroom",
+            "subtitle": "& Online Trainings",
+            "icon": "classroom"
+          },
+          {
+            "title": "Class",
+            "subtitle": "Recordings",
+            "icon": "recordings"
+          }
+        ],
+        "rightSection": [
+          {
+            "title": "Course",
+            "subtitle": "Materials",
+            "icon": "course-materials"
+          },
+          {
+            "title": "Module",
+            "subtitle": "Based Assessments",
+            "icon": "assessments"
+          },
+          {
+            "title": "Hands",
+            "subtitle": "On Projects",
+            "icon": "projects"
+          },
+          {
+            "title": "Internship",
+            "subtitle": "Opportunity",
+            "icon": "internship"
+          },
+          {
+            "title": "100%",
+            "subtitle": "Job Assistance",
+            "icon": "job-assistance"
+          }
+        ]
+      }
+    ],
+    "form": {
+      "title": "Request Call Back",
+      "isForm": true,
+      "submitButton": {
+        "text": "Request Call Back"
+      }
+    },
+    "image": {
+      "alt": "Excel with Teks Academy illustration",
+      "url": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fexcel%2Fteks_logo.webp&w=640&q=75"
+    }
+  },
+
+  "careerServices": {
+    "position": 9,
+    "title": ["Career Services ", "in a Nutshell"],
+    "careerServices": [
+      {
+        "title": "Technical Seminars",
+        "icon": "seminar"
+      },
+      {
+        "title": "Mock Interviews",
+        "icon": "interview"
+      },
+      {
+        "title": "CRT & Job Ready Skills",
+        "icon": "skills"
+      },
+      {
+        "title": "Dedicated Job Portal",
+        "icon": "job-portal"
+      },
+      {
+        "title": "Internship opportunity in a IT Company",
+        "icon": "internship"
+      }
+    ],
+    "cards": [
+      {
+        "title": "Technical Seminars Dedicated Job Portal",
+        "image": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fnutshell%2Fnutshell.webp&w=1920&q=75"
+      },
+      {
+        "title": "Mock Interviews CRT & Job Ready Skills",
+        "image": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fnutshell%2Fnutshell.webp&w=1920&q=75"
+      },
+      {
+        "title": "Internship Opportunity in a IT Company",
+        "image": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fnutshell%2Fnutshell.webp&w=1920&q=75"
+      }
+    ],
+    "button": {
+      "text": "Request Call Back",
+      "link": "/request-call-back"
+    },
+    "image": {
+      "alt": "Career services section illustration",
+      "url": "/assets/images/career-services.png"
+    }
+  },
+
+  "aboutTeksAcandemy": {
+    "position": 11,
+    "title": "About Teks Academy",
+    "image": {
+      "alt": "About Teks Academy section image",
+      "url": "/assets/images/about-teks-academy.png"
+    },
+    "heading": ["Teks ", "Making Job Cracking Easier!"],
+    "description": {
+      "subHeading1": "OUR MISSION :",
+      "text1": "Our transformative mission at Teks Academy - The best software training institute in India is to empower students and working professionals with the most advanced software courses.",
+      "subHeading2": "OUR VISION :",
+      "text2": "Our vision is to make modern technical education accessible to every aspiring student, including those from non-English medium backgrounds, rural areas, and financially weaker sections."
+    },
+    "button": {
+      "text": "Learn More",
+      "icon": "arrow-right",
+      "link": "/about-us"
+    },
+    "statistics": [
+      {
+        "count": "120+",
+        "label": "Trainers",
+        "icon": "trainer"
+      },
+      {
+        "count": "48K+",
+        "label": "Trained Students",
+        "icon": "students"
+      },
+      {
+        "count": "39K+",
+        "label": "Professionals",
+        "icon": "professionals"
+      },
+      {
+        "count": "14+",
+        "label": "Years",
+        "icon": "years"
+      }
+    ]
+  },
+
+  "eLearningApp": {
+    "position": 13,
+    "title": "The Future of Learning is Here",
+    "heading": "Teks Academy E-Learning App",
+    "description": "Hello technophiles, are you ready to learn 30+ IT & Non-IT advanced courses at your fingertips? Get the Teks Academy’s advanced E-Learning mobile app offers the opportunity to learn from expert mentors, track your progress, practice with real-time projects, and ace interviews – all in one powerful app.",
+    "features": [
+      "Interactive video lessons",
+      "Mock interviews & assessments",
+      "Real-time project tracking",
+      "Certification & placement support"
+    ],
+    "buttons": [
+      {
+        "platform": "iOS",
+        "text": "Download for iOS",
+        "icon": "apple",
+        "link": "https://apps.apple.com/in/app/teks-academy/id6741759994"
+      },
+      {
+        "platform": "Android",
+        "text": "Download for Android",
+        "icon": "android",
+        "link": "https://play.google.com/store/apps/details?id=com.teksacademystudentmobile&pcampaignid=web_share"
+      }
+    ],
+    "image": {
+      "alt": "Teks Academy E-Learning mobile app illustration",
+      "url": "/assets/images/e-learning-app.png"
+    }
+  },
+
+   "awards": {
+    "title": "Awards",
+    "cards": [
+      {
+        "title": "Most Promising Data Science Training Institutes - 2023",
+        "organization": "Silicon India",
+        "year": "2023",
+        "description": "Most Promising Data Science Training Institutes - 2023 by Silicon India.",
+        "image": {
+          "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2FAwards%2FArtboard1.webp&w=640&q=75",
+          "alt": "Silicon India Data Science Award 2023"
+        }
+      },
+      {
+        "title": "Best Emerging Real-Time Training Academy of the Year",
+        "organization": "Pride of Indian Education Awards",
+        "year": "2023",
+        "description": "Best Emerging Real-Time Training Academy of the Year - PRIDE OF INDIAN EDUCATION Awards by Brands Impact.",
+        "image": {
+          "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2FAwards%2FArtboard2.webp&w=640&q=75",
+          "alt": "Pride of Indian Education Award 2023"
+        }
+      },
+      {
+        "title": "Best Online Training Institute of the Year",
+        "organization": "Hybiz TV Education Excellence Awards",
+        "year": "2023",
+        "description": "Best Online Training Institute of the Year - Hybiz TV Education Excellence Awards 2023.",
+        "image": {
+          "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2FAwards%2FArtboard3.webp&w=640&q=75",
+          "alt": "Hybiz TV Education Excellence Award 2023"
+        }
+      },
+      {
+        "title": "Most Innovative Online Education Platform 2023 - South India",
+        "organization": "Corporate Vision",
+        "year": "2023",
+        "description": "Most Innovative Online Education Platform 2023 - South India in Education and Training Awarded by Corporate Vision.",
+        "image": {
+          "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2FAwards%2FArtboard4.webp&w=640&q=75",
+          "alt": "Corporate Vision Education Award 2023"
+        }
+      },
+      {
+        "title": "Most Trusted Education Brand",
+        "organization": "India's Brand Leadership Awards",
+        "year": "2024",
+        "description": "Most Trusted Education Brand recognized for outstanding contribution made by Teks Academy.",
+        "image": {
+          "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2FAwards%2FArtboard5.webp&w=640&q=75",
+          "alt": "Most Trusted Education Brand Award 2024"
+        }
+      },
+      {
+        "title": "Indian Iconic Skill & Career Empowering Institute",
+        "organization": "Certificate of Excellence",
+        "year": "2025",
+        "description": "Indian Iconic Skill & Career Empowering Institute 2025.",
+        "image": {
+          "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2FAwards%2Fteks_pride.webp&w=640&q=75",
+          "alt": "Indian Iconic Skill & Career Empowering Institute 2025"
+        }
+      }
+    ]
+  },
+
+  "gallery": {
+    "position": 14,
+    "heading": ["Gallery"],
+    "images": [
+      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage3.webp&w=640&q=75`", "alt": "image5" },
+      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage4.webp&w=640&q=75", "alt": "image6" },
+      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage5.webp&w=640&q=75", "alt": "image7" },
+      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage6.webp&w=640&q=75", "alt": "image8" },
+      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage7.webp&w=640&q=75", "alt": "image9" },
+      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage3.webp&w=640&q=75", "alt": "image3" },
+      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage4.webp&w=640&q=75", "alt": "image4" },
+      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage10.webp&w=640&q=75", "alt": "image10" },
+      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage11.webp&w=640&q=75", "alt": "image11" },
+      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage12.webp&w=640&q=75", "alt": "image12" },
+      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage14.webp&w=640&q=75", "alt": "image14" },
+      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage15.webp&w=640&q=75", "alt": "image15" },
+      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage16.webp&w=640&q=75", "alt": "image16" },
+      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage24.webp&w=640&q=75", "alt": "image24" },
+      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage41.webp&w=640&q=75", "alt": "image41" }
+    ]
+  },
+
+  "featuredIn": {
+    "position": 15,
+    "heading": ["Featured In"],
+    "images": [
+      {
+        "image": { "src": "/home/featuredin/v6.webp", "alt": "v6" }
+      },
+      {
+        "image": { "src": "/home/featuredin/zee.webp", "alt": "zee" }
+      },
+      {
+        "image": { "src": "/home/featuredin/cnn.webp", "alt": "cnn" }
+      },
+      {
+        "image": { "src": "/home/featuredin/daily.webp", "alt": "daily" }
+      },
+      {
+        "image": { "src": "/home/featuredin/enadu.webp", "alt": "enadu" }
+      },
+      {
+        "image": { "src": "/home/featuredin/hans.webp", "alt": "hans" }
+      },
+      {
+        "image": { "src": "/home/featuredin/hindhu.webp", "alt": "hindhu" }
+      },
+      {
+        "image": { "src": "/home/featuredin/hmtv.webp", "alt": "hmtv" }
+      },
+      {
+        "image": { "src": "/home/featuredin/india.webp", "alt": "india" }
+      },
+      {
+        "image": {
+          "src": "/home/featuredin/indian_express.webp",
+          "alt": "image-alt"
+        }
+      },
+      {
+        "image": { "src": "/home/featuredin/lokal.webp", "alt": "lokal" }
+      },
+      {
+        "image": { "src": "/home/featuredin/metro.webp", "alt": "metro" }
+      },
+      {
+        "image": { "src": "/home/featuredin/ndtv.webp", "alt": "ndtv" }
+      },
+      {
+        "image": { "src": "/home/featuredin/tv5.webp", "alt": "tv5" }
+      },
+      {
+        "image": { "src": "/home/featuredin/andhra.webp", "alt": "andhra" }
+      }
+    ]
+  },
+
+  "faq": {
+    "position": 16,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What types of programs does Teksversity offer?",
+        "answer": "Teksversity offers a variety of online programs including undergraduate degrees (BBA, BCom), postgraduate degrees (MBA, MCA, MSc), and doctorate programs (PhD) across multiple disciplines such as business, technology, healthcare, and analytics."
+      },
+      {
+        "question": "What is the duration of the online programs at Teksversity?",
+        "answer": "Teksversity offers undergraduate programs that typically span 3 years and postgraduate programs that are structured as 2-year programs, designed to meet academic standards and evolving industry needs."
+      },
+      {
+        "question": "What specializations are available in Teksversity's programs?",
+        "answer": "Teksversity provides a wide range of specializations in business, technology, healthcare, analytics, and more, ensuring learners can align their education with current industry trends and career goals."
+      },
+      {
+        "question": "Are the programs offered by Teksversity recognized and valid for career growth?",
+        "answer": "Yes, all programs are delivered in collaboration with accredited academic institutions and are recognized for employment, further education, and career advancement across various sectors."
+      },
+      {
+        "question": "What makes Teksversity’s online education different from other platforms?",
+        "answer": "Teksversity stands out by offering dual certification—combining academic credentials with industry-recognized certifications—along with a learning approach that blends flexibility, expert instruction, and hands-on project experience."
+      },
+      {
+        "question": "What is the fee structure for the programs at Teksversity?",
+        "answer": "Program fees vary depending on the specialization and academic partner, generally ranging from ₹1,10,000 to ₹2,92,000 for postgraduate studies. Detailed fee information is provided during the enrollment process."
+      },
+      {
+        "question": "What is the mode of learning at Teksversity?",
+        "answer": "All programs are delivered 100% online through a mix of live classes, self-paced content, real-world projects, and case-based learning—providing flexibility without compromising on educational quality."
+      },
+      {
+        "question": "Who can join a program at Teksversity?",
+        "answer": "Teksversity programs are ideal for individuals from different backgrounds—working professionals, students, career switchers, and anyone looking to upgrade their skills and academic qualifications."
+      },
+      {
+        "question": "What does the dual certification model include?",
+        "answer": "Learners receive both an academic degree from an accredited institution and an additional industry-oriented certification from Teksversity, helping them stand out in the competitive job market."
+      },
+      {
+        "question": "Does Teksversity offer placement or career support?",
+        "answer": "Yes, career support includes resume building, mock interviews, skill development sessions, and access to job opportunities through industry connections and placement assistance."
+      },
+      {
+        "question": "How can I enroll in a program at Teksversity?",
+        "answer": "Enrollment is simple and fully online. Prospective learners can apply through the Teksversity website and receive personalized guidance from the admissions team throughout the onboarding process"
+      }
+    ]
+  },
+
+  "mostSearchedTerms": {
+    "position": 17,
+    "locations": ["Hyderabad", "Visakhapatnam", "Bangalore"],
+    "courses": [
+      "Software courses in Secunderabad",
+      "Best Software training institute in Dilsukhnagar",
+      "Top software courses training in Hitech City",
+      "Best software course training in Ameerpet",
+      "Best data science course in Kukatpally",
+      "AutoCAD course in Mehdipatnam",
+      "Best software training institute in Bangalore",
+      "Best digital marketing course in Hyderabad",
+      "Data Science course training in Visakhapatnam",
+      "Best Python course in Visakhapatnam",
+      "Best Java course in Bangalore",
+      "Data Science course in Marathahalli",
+      "Best software training institute in Hyderabad",
+      "Best Digital Marketing Course in Vizag",
+      "Data science course in Hyderabad",
+      "Java Course Training in Hyderabad",
+      "Python Course in Hyderabad"
+    ]
+  }
+}

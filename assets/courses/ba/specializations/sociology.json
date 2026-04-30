@@ -1,0 +1,1047 @@
+﻿{
+  "meta": {
+    "title": "Bachelor's Degree in Sociology with Placement Assistance",
+    "description": "Explore social systems, human behavior, and global change with the BA in Sociology program. Learn from experts, gain research skills, and build a strong foundation.",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "course",
+          "name": "BA in Sociology",
+          "image": "https://teksversity.com/_next/static/media/ba-sociology.png",
+          "description": "Explore the BA in Sociology program at Teksversity. Learn social theories, research methods, cultural studies, and gain practical skills for careers in research, HR, NGOs, and public policy.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Teksversity"
+          },
+          "url": "https://teksversity.com/courses/ba/sociology",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "120"
+          },
+          "offers": {
+            "@type": "AggregateOffer",
+            "url": "https://teksversity.com/courses/ba/sociology",
+            "priceCurrency": "INR",
+            "lowPrice": "50000",
+            "highPrice": "70000",
+            "offerCount": "1",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is a BA in Sociology course all about?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A Bachelor of Arts in Sociology is a 3-year undergraduate program that explores human relationships, social structures, and cultural patterns. The course helps students understand society, behavior, and change, preparing them for roles in research, public policy, education, HR, and social development."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the eligibility criteria for BA Sociology in 2026?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To apply for a BA Sociology course, students must have completed 10+2 in any stream from a recognized board with at least 45–50% marks. Some universities conduct entrance exams, while others admit students based on merit or cut-off marks."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What subjects are taught in the BA Sociology syllabus?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The BA Sociology syllabus 2025 includes key subjects like Introduction to Sociology, Indian Society, Social Research Methods, Social Psychology, Rural and Urban Sociology, Gender Studies, Development Studies, and Social Change. Modern programs also include data analytics and research tools aligned with NEP 2020."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the scope of BA Sociology in India in 2026?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The scope of BA Sociology is rapidly expanding across sectors like education, social research, NGOs, corporate HR, CSR, and government projects. As India focuses more on social development, mental health, and policy planning, sociology graduates are in demand for their analytical and problem-solving skills."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the best career opportunities after a BA in Sociology?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "After a BA in Sociology, graduates can work as Social Researchers, Policy Analysts, HR Executives, Community Development Officers, NGO Coordinators, and Educators. Many also qualify for civil services and government exams like UPSC, SSC, and State PSC."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What higher education options are available after BA Sociology?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Students can pursue MA in Sociology, MSW (Master of Social Work), MBA in HR, Public Policy, or Development Studies. For academic or research careers, students can go for MPhil or PhD in Sociology."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the average salary for BA Sociology graduates in India?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The average BA Sociology salary in India (2026) ranges from ₹3–6 LPA for entry-level jobs. With experience or higher education, professionals in policy, research, or HR roles can earn between ₹8–12 LPA, depending on their skill set and industry."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which skills should BA Sociology students focus on to build a strong career?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Students should master data interpretation (SPSS, Excel), research design, report writing, communication, and critical thinking. Learning Power BI, digital survey tools, and presentation skills helps in securing modern jobs in social research and corporate HR."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are online and distance BA Sociology courses worth pursuing in 2026?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Many UGC-recognized universities such as IGNOU, DU-SOL, and Amity Online offer distance and online BA Sociology courses with equal credibility. These programs provide flexibility, affordable fees, and valid degrees accepted for jobs and higher studies."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is BA Sociology a good course for the future in 2026?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Definitely! BA Sociology is a future-ready course that builds analytical, social, and research-oriented skills. With India’s focus on community development, mental health, and inclusive growth, it’s one of the most relevant and rewarding degrees for 2026–27."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+
+  "category": "specialization",
+
+  "formDetails": {
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "courseName": "Bachelor of Arts in Sociology",
+    "universities": [
+      {
+        "university": "amity-university",
+        "image": {
+          "src": "/home/universitylogos/amity.webp",
+          "alt": "amity",
+          "url": "/university/amity-university"
+        },
+        "accreditations": ["ISO", "NAAC A+", "UGC", "AICTE"],
+        "rating": 4.6,
+        "duration": "3 years",
+        "courseFee": { "range": "99,000", "note": "Total program fee" },
+        "brochure": "",
+        "button": [
+          { "name": "Enroll Now", "link": "", "form": true }
+        ],
+        "productId": 192,
+        "sourceId": 151,
+        "universityName": "Amity University"
+      }
+    ]
+  },
+
+  "banner": {
+    "name": "Online BCom Degree with 100% Placement Assistance",
+    "position": 1,
+    "mainHeading": "BA in Sociology – Understand Society, People, and the Power of Change.",
+    "description": "The BA in Sociology program offers a deep understanding of how societies function and evolve. Focuses on human behavior, culture, social structures, and global transformation.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/ugbanerimages/ba/ba_in_sociology.webp",
+      "alt": "ba in sociology"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose This Program?"],
+      "benefits": [
+        "Study human behavior, culture, and societal evolution.",
+        "Gain analytical, critical thinking, and research skills.",
+        "Understand global social issues and policy development.",
+        "Learn from sociological theories and real-world applications.",
+        "Receive expert mentorship and career support.",
+        "Conduct community-based research and data analysis projects.",
+        "Explore interdisciplinary themes like gender, environment, and digital society.",
+        "Strengthen communication, leadership, and problem-solving abilities.",
+        "Develop ethical awareness and cultural sensitivity.",
+        "Prepare for careers in social research, public policy, and education."
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["Overview of", "BA in Sociology Program"],
+    "overViewImage": {
+      "src": "/home/overview/overview3.webp",
+      "alt": "overview.webp"
+    },
+    "subHeading": "Explore the Science of Society and Social Change.",
+    "description": "The Bachelor of Arts in Sociology online program at Teksversity is designed for learners who want to understand how social systems operate and influence human life. It combines theoretical insights with practical research to help students analyze and interpret social patterns, power dynamics, and global inequalities. This online bachelor's degree in sociology integrates modern topics such as digital sociology, gender studies, urbanization, and environmental sociology, helping learners connect traditional concepts with contemporary social realities. Students also gain essential skills in data analysis, community engagement, and communication, which are highly valued in public administration, HR, social services, and corporate sectors.",
+    "keyPoints": [
+      "Analyze social structures, institutions, and interactions.",
+      "Conduct sociological research using qualitative and quantitative methods.",
+      "Understand global and cultural diversity.",
+      "Develop communication and critical reasoning skills.",
+      "Apply sociological insights to modern workplace and community settings."
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": ["Why Choose BA in Sociology in", "Teksversity?"],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "Choosing Teksversity for your Bachelor of Arts degree online means enrolling in a multidisciplinary program that connects academic excellence with real-world relevance. The curriculum blends social sciences, humanities, and communication studies to help learners understand the complexities of human behavior, culture, and society. With expert-led sessions and interactive discussions, students gain the ability to analyze issues critically and express ideas with clarity and confidence.",
+    "description": [
+      {
+        "firstDescription": "At Teksversity, learning goes beyond textbooks it’s experiential, creative, and career-focused. Students participate in projects, debates, and research writing, strengthening their intellectual perspective and problem-solving abilities. Dedicated career workshops, resume-building sessions, and internship support ensure every learner develops the professional edge needed to succeed in diverse fields such as media, administration, public relations, or educatio"
+      },
+      {
+        "secondDescription": "What truly defines the BA experience at Teksversity is its emphasis on personal growth and purposeful learning. Each learner is guided through continuous mentorship, progress tracking, and opportunities to collaborate across domains. The program empowers students to think independently, communicate effectively, and contribute meaningfully to their careers and communities making their BA journey both transformative and impactful."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": ["Key Highlights of", "BA in Sociology Program"],
+    "sections": [
+      { "name": "Learning Experience", "value": "LearningExperience" },
+      { "name": "Support & Assistance", "value": "SupportandAssistance" },
+      { "name": "Career Support", "value": "CareerSupport" },
+      {
+        "name": "Networking & Peer Learning",
+        "value": "NetworkingandPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "LearningExperience": {
+        "keyPoints": [
+          "Study classical and contemporary sociological theories",
+          "Explore social institutions, culture, and globalization",
+          "Conduct community-based and online research projects",
+          "Learn social data collection and analysis techniques",
+          "Participate in real-world case studies and simulations",
+          "Develop ethical and culturally informed perspectives"
+        ]
+      },
+      "SupportandAssistance": {
+        "keyPoints": [
+          "Dedicated mentor support for academic growth",
+          "24/7 access to online study materials and recorded lectures",
+          "Personalized feedback on research and writing assignments",
+          "Regular discussion forums and Q&A sessions",
+          "Guidance for internships, projects, and publications"
+        ]
+      },
+      "CareerSupport": {
+        "keyPoints": [
+          "100% placement assistance and professional mentoring",
+          "Resume-building and interview preparation workshops",
+          "Career counseling for social and corporate sectors",
+          "Opportunities in HR, NGOs, public policy, and education",
+          "Support for pursuing higher studies (MA, MSW, MBA, etc.)"
+        ]
+      },
+      "NetworkingandPeerLearning": {
+        "keyPoints": [
+          "Virtual study groups and peer discussions",
+          "Sociology and social research clubs",
+          "Guest sessions with sociologists and policy experts",
+          "Interdisciplinary webinars and workshops",
+          "Collaborative research and presentation opportunities"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our", "Course Brochure"],
+    "description": "Gain complete insights into how Teksversity’s BA in Sociology program empowers you to analyze societies, understand diverse cultures, and drive meaningful change. The brochure provides a detailed look at how this degree bridges theory and practice.",
+    "subHeading": "What You’ll Get in the Brochure:",
+    "highlights": [
+      "Detailed BCom curriculum and subjects overview",
+      "Complete course structure and detailed curriculum overview.",
+      "Key skill outcomes and practical research opportunities.",
+      "Admission criteria, eligibility, and fee information.",
+      "Career paths, internships, and placement assistance.",
+      "Learning resources, mentorship, and student support services."
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/brochure/DB3.webp",
+      "alt": "DB3"
+    }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 8,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 9,
+    "heading": ["Take the Leap", "Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "flexible online learning"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "advanced lms"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "global certification"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "no cost emi"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affrordable fees"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ugc/naac recognized universities"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "expert faculty"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "online live and recorded sessions"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "industry-aligned curriculum"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "dual certifications"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ai enhanced learning"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "job focused training"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affordable and quality learning"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "placement and career support"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "view all" },
+        "link": "null"
+      }
+    }
+  },
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },{
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+  "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      },
+      "formBackground": {
+        "src": "/home/formbg.webp",
+        "alt": "Spin and Win Form Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 12,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is a BA in Sociology course all about?",
+        "answer": "A Bachelor of Arts in Sociology is a 3-year undergraduate program that explores human relationships, social structures, and cultural patterns. The course helps students understand society, behavior, and change, preparing them for roles in research, public policy, education, HR, and social development."
+      },
+      {
+        "question": "What are the eligibility criteria for BA Sociology in 2026?",
+        "answer": "To apply for a BA Sociology course, students must have completed 10+2 in any stream from a recognized board with at least 45–50% marks. Some universities conduct entrance exams, while others admit students based on merit or cut-off marks."
+      },
+      {
+        "question": "What subjects are taught in the BA Sociology syllabus?",
+        "answer": "The BA Sociology syllabus 2025 includes key subjects like Introduction to Sociology, Indian Society, Social Research Methods, Social Psychology, Rural and Urban Sociology, Gender Studies, Development Studies, and Social Change. Modern programs also include data analytics and research tools aligned with NEP 2020."
+      },
+      {
+        "question": "What is the scope of BA Sociology in India in 2026?",
+        "answer": "The scope of BA Sociology is rapidly expanding across sectors like education, social research, NGOs, corporate HR, CSR, and government projects. As India focuses more on social development, mental health, and policy planning, sociology graduates are in demand for their analytical and problem-solving skills."
+      },
+      {
+        "question": "What are the best career opportunities after a BA in Sociology?",
+        "answer": "After a BA in Sociology, graduates can work as Social Researchers, Policy Analysts, HR Executives, Community Development Officers, NGO Coordinators, and Educators. Many also qualify for civil services and government exams like UPSC, SSC, and State PSC."
+      },
+      {
+        "question": "What higher education options are available after BA Sociology?",
+        "answer": "Students can pursue MA in Sociology, MSW (Master of Social Work), MBA in HR, Public Policy, or Development Studies. For academic or research careers, students can go for MPhil or PhD in Sociology."
+      },
+      {
+        "question": "What is the average salary for BA Sociology graduates in India?",
+        "answer": "The average BA Sociology salary in India (2026) ranges from ₹3–6 LPA for entry-level jobs. With experience or higher education, professionals in policy, research, or HR roles can earn between ₹8–12 LPA, depending on their skill set and industry."
+      },
+      {
+        "question": "Which skills should BA Sociology students focus on to build a strong career?",
+        "answer": "Students should master data interpretation (SPSS, Excel), research design, report writing, communication, and critical thinking. Learning Power BI, digital survey tools, and presentation skills helps in securing modern jobs in social research and corporate HR."
+      },
+      {
+        "question": "Are online and distance BA Sociology courses worth pursuing in 2026?",
+        "answer": "Yes. Many UGC-recognized universities such as IGNOU, DU-SOL, and Amity Online offer distance and online BA Sociology courses with equal credibility. These programs provide flexibility, affordable fees, and valid degrees accepted for jobs and higher studies."
+      },
+      {
+        "question": "Is BA Sociology a good course for the future in 2026?",
+        "answer": "Definitely! BA Sociology is a future-ready course that builds analytical, social, and research-oriented skills. With India’s focus on community development, mental health, and inclusive growth, it’s one of the most relevant and rewarding degrees for 2026–27."
+      }
+    ]
+  },
+
+  "letsTalk": {
+    "position": 13,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 14,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "BA in Sociology",
+      "Bachelor of Arts in Sociology",
+      "Bachelor's in Sociology",
+      "Online Bachelor's Degree in Sociology",
+      "Bachelor of Arts in Sociology Online",
+      "Arts in Sociology",
+      "Online Bachelor's in Sociology",
+      "BA in Sociology Online",
+      "BA Degree in Sociology",
+      "Online Sociology Bachelor's Degree"
+    ]
+  }
+}

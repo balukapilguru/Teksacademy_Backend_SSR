@@ -1,0 +1,954 @@
+﻿{
+  "meta": {
+    "title": "Online MCom in Financial Technology with 100% Job Assistance",
+    "description": "Learn digital finance, blockchain, AI-driven banking & financial innovation with the MCom in FinTech— designed for ready fintech analysts and developers.",
+    "schemaCode": {}
+  },
+
+  "formDetails": {
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "courseName": "Master of Commerce in Financial Technology",
+    "universities": [
+      {
+        "university": "amity-university",
+        "image": {
+          "src": "/home/universitylogos/amity.webp",
+          "alt": "amity",
+          "url": "/university/amity-university"
+        },
+        "accreditations": ["ISO", "NAAC A++", "UGC", "AICTE"],
+        "rating": 4.5,
+        "duration": "24 months 4 sem",
+        "courseFee": { "range": "1,20,000", "note": "Total program fee" },
+        "brochure": "/Downloadbrouchers/AMITY/MCOM-AMITY/MCOM-Financial-Technology.pdf",
+        "button": [
+          { "name": "Enroll Now", "link": "", "form": true }
+        ],
+        "productId": 287,
+        "sourceId": 151,
+        "universityName": "Amity University"
+      }
+    ]
+  },
+
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+  "category": "specialization",
+  "banner": {
+    "name": "MCom in Financial Technology – Build Expertise in Digital Finance, Blockchain, AI & Financial Innovation",
+    "position": 1,
+    "mainHeading": "MCom in Financial Technology – Build Expertise in Digital Finance, Blockchain, AI & Financial Innovation",
+    "description": "Earn your MCom in Financial Technology and develop advanced skills in digital finance, blockchain systems, financial automation, AI-enabled banking, payment technologies, and financial analytics.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": {
+      "src": "ugbanerimages/bca/specialization/bca_+Artificial_Intelligence.webp",
+      "alt": "null"
+    },
+    "bannerImage": {
+      "src": "/pgbanerimages/mcom/financil_technology.webp",
+      "alt": "MCom in Financial Technology with Digital Finance and Financial Innovation Skills"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose This Program?"],
+      "benefits": [
+        "Curriculum aligned with evolving fintech industry needs",
+        "Learn from fintech experts, digital finance leaders and analysts",
+        "Practical exposure to blockchain, AI, payments and automation",
+        "Build strong analytical and technology-driven finance skills",
+        "Gain hands-on experience with financial technologies and tools",
+        "Blends commerce knowledge with modern digital finance",
+        "100% placement assistance and career guidance",
+        "Designed for future-ready fintech professionals"
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": [
+      "Overview of",
+      "MCom in Financial Technology"
+    ],
+    "overViewImage": {
+      "src": "/home/overview/overview7.webp",
+      "alt": "MCom in Financial Technology – Program Overview"
+    },
+    "subHeading": "Master Digital Finance, Financial Innovation & Emerging Technologies",
+    "description": "The MCom in Financial Technology at Teksversity equips students with advanced competencies in financial technologies, digital banking, blockchain, AI, machine learning, algorithmic finance, and payment systems.This future-focused fintech master’s program prepares learners for high-demand roles in digital finance, financial analytics, payment innovation, and corporate technology-driven finance. Through hands-on projects, case studies, simulations, and industry-led sessions, students gain practical exposure to tools defining the next generation of financial systems.",
+    "keyPoints": [
+      "Master core technologies shaping digital finance",
+      "Build skills in blockchain, data modeling and financial AI",
+      "Apply fintech tools for payments, automation and analytics",
+      "Strengthen leadership and digital problem-solving abilities",
+      "Prepare for tech-driven finance, banking and innovation roles"
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": [
+      "Why Choose MCom in Financial Technology Program at",
+      "Teksversity?"
+    ],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "Teksversity’s MCom in Financial Technology is designed to prepare learners for the digital transformation happening across global finance. Guided by industry professionals, fintech analysts, and digital banking experts, the curriculum combines practical technology training with strong financial foundations.",
+    "description": [
+      {
+        "firstDescription": "Students participate in blockchain demos, AI finance applications, data modeling workshops, payment system labs, and financial automation exercises. The program integrates hands-on use of fintech tools, digital platforms, analytics frameworks, and financial databases."
+      },
+      {
+        "secondDescription": "Recognized as a leading pathway for MCom in FinTech, it equips students with competitive skills for future-ready digital finance roles with expert mentorship and career-focused development."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": [
+      "Key Highlights of",
+      "MCom in Financial Technology Program"
+    ],
+    "sections": [
+      { "name": "Learning Experience", "value": "LearningExperience" },
+      { "name": "Support & Assistance", "value": "SupportandAssistance" },
+      { "name": "Career Support", "value": "CareerSupport" },
+      {
+        "name": "Networking & Peer Learning",
+        "value": "NetworkingandPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "LearningExperience": {
+        "keyPoints": [
+          "Case studies in digital finance, payments and blockchain",
+          "Labs for financial analytics, automation and modeling",
+          "Workshops on AI-driven finance tools and fintech platforms",
+          "Leadership and innovation-focused training",
+          "Critical-thinking and technology problem-solving sessions",
+          "Live sessions with fintech entrepreneurs and digital leaders",
+          "Cross-functional digital finance teamwork",
+          "Peer learning and collaborative fintech innovation",
+          "Continuous assessments and performance insights"
+        ]
+      },
+      "SupportandAssistance": {
+        "keyPoints": [
+          "Dedicated academic and fintech mentor support",
+          "24/7 access to digital learning materials",
+          "Expert counseling and skill progress tracking",
+          "Recorded lectures and complete reference resources",
+          "Personalized academic and project support",
+          "Technical and platform assistance",
+          "Internships in fintech and digital finance projects",
+          "Flexible online learning system",
+          "Regular student performance reviews"
+        ]
+      },
+      "CareerSupport": {
+        "keyPoints": [
+          "100% placement and internship assistance",
+          "Resume building tailored for fintech and digital roles",
+          "Interview preparation for analyst and tech-finance jobs",
+          "Personalized career pathways and planning",
+          "Mock interviews and communication training",
+          "Industry tie-ups in fintech, banking and digital services",
+          "Webinars with fintech professionals",
+          "Leadership development for digital finance careers",
+          "Ongoing career progress tracking"
+        ]
+      },
+      "NetworkingandPeerLearning": {
+        "keyPoints": [
+          "Guest sessions by fintech founders and innovators",
+          "Peer collaboration on digital finance projects",
+          "Alumni talks and fintech career success stories",
+          "Group discussions and tech-finance competitions",
+          "Global virtual fintech meetups",
+          "Cross-platform team projects and simulations",
+          "Student-led innovation challenges",
+          "Professional networking forums",
+          "Real-world digital finance simulations"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our", "Course Brochure"],
+    "description": "Explore digital finance, blockchain technologies, AI in finance, payment innovation, and financial automation with Teksversity’s MCom in Financial Technology a future-ready program for fintech professionals",
+    "subHeading": "What You’ll Get in the Brochure:",
+    "highlights": [
+      "Detailed MCom in Financial Technology curriculum",
+      "Digital finance and fintech career pathways",
+      "Admission guidelines and eligibility",
+      "Internship and placement roadmap",
+      "Tools, projects and mentorship support"
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/brochure/DB1.webp",
+      "alt": "Download MCom in Financial Technology Program Brochure"
+    }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 8,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 9,
+    "heading": ["Take the Leap", "Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "flexible online learning"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "advanced lms"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "global certification"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "no cost emi"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affrordable fees"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ugc/naac recognized universities"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "expert faculty"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "online live and recorded sessions"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "industry-aligned curriculum"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "dual certifications"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ai enhanced learning"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "job focused training"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affordable and quality learning"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "placement and career support"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "view all" },
+        "link": "null"
+      }
+    }
+  },
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },{
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+  "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      },
+      "formBackground": {
+        "src": "/home/formbg.webp",
+        "alt": "Spin and Win Form Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 12,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is an MCom in Financial Technology (FinTech)?",
+        "answer": "MCom in Financial Technology is a postgraduate program that integrates finance, banking and accounting with modern digital technologies such as AI, blockchain, data analytics, cloud systems and digital payments. It prepares students for technology-driven roles in the finance sector."
+      },
+      {
+        "question": "Who should pursue this course?",
+        "answer": "This program is suitable for graduates in commerce, business, finance or accounting who want to specialize in tech-enabled financial services, digital banking, financial analytics and modern financial systems."
+      },
+      {
+        "question": "What skills will I gain from this program?",
+        "answer": "Students develop expertise in digital payments, blockchain, financial data analytics, AI in finance, fintech product development, risk modeling, cybersecurity fundamentals and automation tools used in financial institutions."
+      },
+      {
+        "question": "What subjects are included in this specialization?",
+        "answer": "The curriculum includes Digital Finance, Blockchain in Finance, Financial Analytics, e-Commerce and Payments, Financial Modeling, AI and Machine Learning Applications, Risk Management, Cybersecurity and FinTech Innovations."
+      },
+      {
+        "question": "What career opportunities are available after MCom in Financial Technology?",
+        "answer": "Graduates can work as FinTech Analysts, Digital Banking Specialists, Financial Data Analysts, Blockchain Finance Executives, Risk and Compliance Analysts, Payment System Executives and Financial Technology Consultants."
+      },
+      {
+        "question": "Is FinTech only related to digital payments?",
+        "answer": "No. FinTech also includes digital banking, financial analytics, lending technology, investment platforms, blockchain applications, insurance technology (InsurTech), regulatory technology (RegTech), personal finance tools and financial automation."
+      },
+      {
+        "question": "What are the eligibility criteria for this program?",
+        "answer": "Applicants must have a bachelor's degree in Commerce, Business Administration, Accounting or a related finance stream. Some institutions may require entrance exams or merit-based admission."
+      },
+      {
+        "question": "Does the program include practical training?",
+        "answer": "Yes. Students gain hands-on experience through case studies, financial analytics tools, digital banking simulations, fintech applications, blockchain models and real-time finance projects with practical labs."
+      },
+      {
+        "question": "Which tools and technologies will I learn?",
+        "answer": "You will work with tools such as Python for Finance, Power BI, Tableau, SQL, RPA tools, blockchain platforms, financial modeling software, AI-driven finance tools and digital payment systems."
+      },
+      {
+        "question": "What is the future scope of FinTech professionals?",
+        "answer": "FinTech professionals are in high demand across banks, NBFCs, financial institutions, startups and global fintech companies. Career growth is strong in digital banking, financial analytics, AI-driven finance, blockchain finance and financial automation."
+      }
+    ]
+  },
+
+  "letsTalk": {
+    "position": 13,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 14,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "MCom in Financial Technology",
+      "Online masters in financial technology",
+      "MCom in fintech",
+      "Fintech master's program",
+      "Masters in fintech",
+      "Fintech masters degree",
+      "Masters in financial technology",
+      "Fintech masters degree online",
+      "Best fintech masters",
+      "Masters in finance and technology"
+    ]
+  }
+}

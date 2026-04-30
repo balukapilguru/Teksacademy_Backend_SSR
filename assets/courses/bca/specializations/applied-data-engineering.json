@@ -1,0 +1,1047 @@
+﻿{
+  "meta": {
+    "title": "Online BCA in Applied Data Engineering with Career Support",
+    "description": "Build a strong foundation in big data systems with the BCA in Applied Data Engineering program. Learn data pipelines, cloud tools, and automation with live projects.",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "course",
+          "name": "BCA in Applied Data Engineering",
+          "image": "https://teksversity.com/_next/static/media/bca-data-analytics.png",
+          "description": "Explore the BCA in Applied Data Engineering program at Teksversity. Learn Python, SQL, data pipelines, cloud computing, machine learning, and data visualization with hands-on projects and expert mentorship.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Teksversity"
+          },
+          "url": "https://teksversity.com/courses/bca/applied-data-engineering",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "120"
+          },
+          "offers": {
+            "@type": "AggregateOffer",
+            "url": "https://teksversity.com/courses/bca/applied-data-engineering",
+            "priceCurrency": "INR",
+            "lowPrice": "60000",
+            "highPrice": "80000",
+            "offerCount": "1",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is BCA in Applied Data Engineering?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The BCA in Applied Data Engineering is an undergraduate program that blends computer applications with data science and analytics. It focuses on programming, database management, and data engineering techniques to analyze and process large-scale datasets for modern business solutions."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the duration and structure of the BCA in Applied Data Engineering course?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The program is a three-year undergraduate degree, divided into six semesters. Each semester covers core computer science concepts, data management techniques, analytics tools, and practical lab sessions for real-world learning."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the main objectives of the BCA in Applied Data Engineering program?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The course aims to build strong technical and analytical skills in students. It focuses on data collection, processing, visualization, and machine learning, helping learners become industry-ready professionals in data-driven domains."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What subjects are taught in the BCA Applied Data Engineering syllabus?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Key subjects include Programming in Python, Data Structures, Database Management Systems, Machine Learning, Artificial Intelligence, Big Data Analytics, Cloud Computing, and Data Visualization Tools."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What skills will I develop through this program?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Students gain hands-on expertise in programming, data modeling, statistical analysis, database design, and data visualization. They also learn tools like Tableau, Power BI, and Hadoop, making them job-ready for data-centric roles."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What career opportunities are available after completing BCA in Applied Data Engineering?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Graduates can work as Data Engineers, Data Analysts, Database Developers, Cloud Data Architects, or Business Intelligence Analysts in IT, finance, and tech industries."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What makes this course different from a regular BCA?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Unlike a traditional BCA focused mainly on software development, BCA in Applied Data Engineering emphasizes data pipelines, cloud platforms, analytics, and scalable data systems that power AI and business intelligence applications."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does Teksversity offer internships or practical learning during the course?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes! Teksversity provides internships, live projects, and real-world data case studies to help students apply classroom learning to real business and technology challenges."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I pursue higher studies after completing this BCA program?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely. After graduation, students can go for MCA, MBA in Business Analytics, M.Sc. in Data Science, or PG Diplomas in AI, Cloud, and Big Data, depending on their career goals."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Why should I choose Teksversity for BCA in Applied Data Engineering?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Teksversity offers an industry-focused curriculum, expert mentors, hands-on labs, and 100% placement assistance. The program bridges theory with real-world data applications, ensuring students graduate with both knowledge and employability skills."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+
+  "category": "specialization",
+
+  "formDetails": {
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "courseName": "Bachelor of Computer Applications in Applied Data Engineering",
+    "universities": [
+      {
+        "university": "amity-university",
+        "image": {
+          "src": "/home/universitylogos/amity.webp",
+          "alt": "amity",
+          "url": "/university/amity-university"
+        },
+        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "rating": 4.6,
+        "duration": "3 years",
+        "courseFee": { "range": "2,25,000", "note": "Total program fee" },
+        "brochure":"/Downloadbrouchers/AMITY/BCA-AMITY/BCA-Applied-Data-Engineering.pdf",
+        "button": [
+          { "name": "Enroll Now", "link": "", "form": true }
+        ],
+        "productId": 218,
+        "sourceId": 151,
+        "universityName": "Amity University"
+      }
+    ]
+  },
+
+  "banner": {
+    "name": "BCA in Applied Data Engineering",
+    "position": 1,
+    "mainHeading": "BCA in Applied Data Engineering – Build the Backbone of Modern Data Systems.",
+    "description": "The BCA in Applied Data Engineering degree blends computer science fundamentals with advanced data pipeline engineering, preparing students for high-demand roles.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/ugbanerimages/bca/BCA_in_APPLIED_DATA_ENGINEERING.webp",
+      "alt": "bca in applied data engineering"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose This Program?"],
+      "benefits": [
+        "Master data pipelines, ETL, and database management.",
+        "Learn cloud data tools like AWS, Azure, and Google Cloud.",
+        "Gain hands-on skills in Python, SQL, and Spark.",
+        "Work on real-time big data projects and use cases.",
+        "Get 100% placement guidance and mentorship."
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["Overview of ", "BCA in Applied Data Engineering Program"],
+    "overViewImage": {
+      "src": "/home/overview/overview2.webp",
+      "alt": "overview2.webp"
+    },
+    "subHeading": "Turn Raw Data into Reliable Systems. Power the World of Analytics",
+    "description": "The Bachelor’s in Applied Data Engineering at Teksversity is crafted for learners who want to specialize in building and maintaining robust data systems. This online BCA in Data Engineering combines software development, cloud computing, and big data technologies to help students create end-to-end data solutions. Students gain expertise in data modeling, integration, automation, and real-time processing using tools like Hadoop, Apache Spark, and Kafka. The curriculum emphasizes both technical depth and applied practice, ensuring that graduates are ready for roles like Data Engineer, Cloud Engineer, ETL Developer, or Big Data Specialist.",
+    "keyPoints": [
+      "Design and maintain large-scale data architectures.",
+      "Build efficient ETL pipelines for analytics workflows.",
+      "Implement data security and governance standards.",
+      "Work with modern data tools and cloud environments.",
+      "Apply engineering principles to real-world data problems."
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": [
+      "Why Choose BCA in Applied Data Engineering in",
+      "Teksversity?"
+    ],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "At Teksversity, the BCA in Applied Data Engineering is designed with direct input from data professionals and tech experts. The program emphasizes applied learning combining theoretical knowledge with live simulations, case studies, and data projects.",
+    "description": [
+      {
+        "firstDescription": "Students work on real-time challenges from data integration to automation while learning the latest industry tools. Alongside academic training, the course also includes career coaching, placement assistance, and professional mentorship to prepare students for the competitive tech market."
+      },
+      {
+        "secondDescription": "With flexible online learning, lab access, and global exposure, Teksversity ensures every learner graduates as a job-ready data engineer equipped for tomorrow’s data infrastructure challenges."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": ["Key Highlights of", "BCA in Applied Data Engineering Program"],
+    "sections": [
+      { "name": "Learning Experience", "value": "LearningExperience" },
+      { "name": "Support & Assistance", "value": "SupportandAssistance" },
+      { "name": "Career Support", "value": "CareerSupport" },
+      {
+        "name": "Networking & Peer Learning",
+        "value": "NetworkingandPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "LearningExperience": {
+        "keyPoints": [
+          "Real-world data pipeline and ETL projects",
+          "Advanced database design and optimization",
+          "Training in Hadoop, Spark, and cloud tools",
+          "Data automation and orchestration practice",
+          "Industry case studies and problem-solving sessions",
+          "Mentorship from data engineering professionals"
+        ]
+      },
+      "SupportandAssistance": {
+        "keyPoints": [
+          "Dedicated mentor support and progress tracking",
+          "24/7 online classroom and lab access",
+          "Recorded sessions for review and learning",
+          "Personalized project and code feedback",
+          "Internship and certification support",
+          "Regular performance evaluation and improvement"
+        ]
+      },
+      "CareerSupport": {
+        "keyPoints": [
+          "100% placement assistance and interview training",
+          "Resume & LinkedIn profile optimization",
+          "Mock technical interviews and career guidance",
+          "Internship and corporate tie-ups",
+          "Job placement in cloud and data roles",
+          "Ongoing career growth and skill mentorship"
+        ]
+      },
+      "NetworkingandPeerLearning": {
+        "keyPoints": [
+          "Group projects and data hackathons",
+          "Peer learning and problem-solving challenges",
+          "Guest sessions from data architects and engineers",
+          "Alumni talks and success sessions",
+          "Industry webinars and networking events",
+          "Collaborative data pipeline workshops"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our", "Course Brochure"],
+    "description": "Access the BCA in Applied Data Engineering brochure from Teksversity to discover how this program equips you with the technical skills and practical expertise to design, manage, and optimize data systems for today’s digital enterprises. Learn how our curriculum integrates modern data tools, cloud platforms, and analytics workflows for real-world impact.",
+    "subHeading": "What You’ll Get in the Brochure:",
+    "highlights": [
+      "Complete course curriculum and subjects.",
+      "Skill outcomes and project-based learning modules.",
+      "Admission and eligibility details.",
+      "Internship and placement opportunities.",
+      "Tools, certifications, and mentorship highlights."
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/brochure/DB2.webp",
+      "alt": "DB2"
+    }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 8,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 9,
+    "heading": ["Take the Leap", "Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "flexible online learning"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "advanced lms"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "global certification"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "no cost emi"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affrordable fees"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ugc/naac recognized universities"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "expert faculty"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "online live and recorded sessions"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "industry-aligned curriculum"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "dual certifications"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ai enhanced learning"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "job focused training"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affordable and quality learning"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "placement and career support"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "view all" },
+        "link": "null"
+      }
+    }
+  },
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },{
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+  "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      },
+      "formBackground": {
+        "src": "/home/formbg.webp",
+        "alt": "Spin and Win Form Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 12,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is BCA in Applied Data Engineering?",
+        "answer": "The BCA in Applied Data Engineering is an undergraduate program that blends computer applications with data science and analytics. It focuses on programming, database management, and data engineering techniques to analyze and process large-scale datasets for modern business solutions."
+      },
+      {
+        "question": "What is the duration and structure of the BCA in Applied Data Engineering course?",
+        "answer": "The program is a three-year undergraduate degree, divided into six semesters. Each semester covers core computer science concepts, data management techniques, analytics tools, and practical lab sessions for real-world learning."
+      },
+      {
+        "question": "What are the main objectives of the BCA in Applied Data Engineering program?",
+        "answer": "The course aims to build strong technical and analytical skills in students. It focuses on data collection, processing, visualization, and machine learning, helping learners become industry-ready professionals in data-driven domains."
+      },
+      {
+        "question": "What subjects are taught in the BCA Applied Data Engineering syllabus?",
+        "answer": "Key subjects include Programming in Python, Data Structures, Database Management Systems, Machine Learning, Artificial Intelligence, Big Data Analytics, Cloud Computing, and Data Visualization Tools."
+      },
+      {
+        "question": "What skills will I develop through this program?",
+        "answer": "Students gain hands-on expertise in programming, data modeling, statistical analysis, database design, and data visualization. They also learn tools like Tableau, Power BI, and Hadoop, making them job-ready for data-centric roles."
+      },
+      {
+        "question": "What career opportunities are available after completing BCA in Applied Data Engineering?",
+        "answer": "Graduates can work as Data Engineers, Data Analysts, Database Developers, Cloud Data Architects, or Business Intelligence Analysts in IT, finance, and tech industries."
+      },
+      {
+        "question": "What makes this course different from a regular BCA?",
+        "answer": "Unlike a traditional BCA focused mainly on software development, BCA in Applied Data Engineering emphasizes data pipelines, cloud platforms, analytics, and scalable data systems that power AI and business intelligence applications."
+      },
+      {
+        "question": "Does Teksversity offer internships or practical learning during the course?",
+        "answer": "Yes! Teksversity provides internships, live projects, and real-world data case studies to help students apply classroom learning to real business and technology challenges."
+      },
+      {
+        "question": "Can I pursue higher studies after completing this BCA program?",
+        "answer": "Absolutely. After graduation, students can go for MCA, MBA in Business Analytics, M.Sc. in Data Science, or PG Diplomas in AI, Cloud, and Big Data, depending on their career goals."
+      },
+      {
+        "question": "Why should I choose Teksversity for BCA in Applied Data Engineering?",
+        "answer": "Teksversity offers an industry-focused curriculum, expert mentors, hands-on labs, and 100% placement assistance. The program bridges theory with real-world data applications, ensuring students graduate with both knowledge and employability skills."
+      }
+    ]
+  },
+
+  "letsTalk": {
+    "position": 13,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 14,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "BCA in Applied Data Engineering",
+      "UG in Applied Data Engineering",
+      "Online Bachelors in Applied Data Engineering",
+      "Best BCA in Applied Data Engineering course online",
+      "BCA in Applied Engineering course online India",
+      "BCA with professional certificate in Applied Data Engineering program",
+      "Professional certificate in Applied Data Engineering",
+      "Applied Engineering degree online",
+      "Applied Engineering courses",
+      "Applied Engineering programs"
+    ]
+  }
+}

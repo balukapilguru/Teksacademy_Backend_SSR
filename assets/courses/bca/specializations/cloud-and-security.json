@@ -1,0 +1,1035 @@
+﻿{
+  "meta": {
+    "title": "Join an Online Degree with BCA in Cloud and Security",
+    "description": ": Master cloud technology and cybersecurity with the BCA in Cloud and Security program at Teksversity. Learn AWS, Azure, ethical hacking, and data protection.",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is BCA in Cloud and Security?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "BCA in Cloud and Security is an undergraduate program that focuses on cloud computing, cybersecurity, data protection, and network management. It equips students with the technical and analytical skills required to build, secure, and manage cloud-based infrastructure."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why should I choose Teksversity for BCA in Cloud and Security?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Teksversity offers an industry-aligned BCA in Cloud and Security program designed by experts. The course emphasizes hands-on learning through labs, projects, and mentorship from industry professionals, ensuring students are career-ready upon graduation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the core subjects taught in this course?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The BCA in Cloud and Security program includes subjects such as Cloud Computing, Cybersecurity Fundamentals, Network Security, Operating Systems, Data Structures, and Ethical Hacking. Students also learn about cloud platforms like AWS, Azure, and Google Cloud."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the eligibility criteria for BCA in Cloud and Security?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Students who have completed 10+2 or equivalent from a recognized board, preferably with Mathematics or Computer Science, are eligible to apply for the program."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What kind of career opportunities can I expect after completing BCA in Cloud and Security?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Graduates can work as Cloud Engineers, Cybersecurity Analysts, Network Administrators, Information Security Specialists, or System Engineers in IT companies, startups, or government organizations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does the program include practical training or internships?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Teksversity ensures students gain practical exposure through internships, workshops, live projects, and case studies that simulate real-world cybersecurity and cloud challenges."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What technical skills will I gain during the course?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Students develop expertise in cloud deployment, network configuration, system security, encryption techniques, and risk assessment. The course also enhances problem-solving and analytical thinking abilities."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I pursue higher studies after completing this course?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Absolutely! After completing BCA in Cloud and Security, students can pursue MCA, M.Sc in Cybersecurity, MBA in IT Management, or certifications like AWS Solutions Architect, CEH, or CISSP to advance their career."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What kind of placement assistance does Teksversity provide?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Teksversity offers 100% placement support through resume building, interview training, corporate tie-ups, and career mentoring. The placement cell ensures students are guided toward top tech companies and emerging startups."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is this course relevant in today’s technology-driven world?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "With the growing demand for secure cloud infrastructure, professionals skilled in cloud computing and cybersecurity are highly sought after. This program prepares students for the future of digital technology by combining both skill sets in one curriculum."
+          }
+        }
+      ]
+    }
+  },
+
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+
+  "category": "specialization",
+
+  "formDetails": {
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "courseName": "Bachelor of Computer Applications in Cloud and Security",
+    "universities": [
+      {
+        "university": "amity-university",
+        "image": {
+          "src": "/home/universitylogos/amity.webp",
+          "alt": "amity",
+          "url": "/university/amity-university"
+        },
+        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "rating": 4.6,
+        "duration": "3 years",
+        "courseFee": { "range": "2,25,000", "note": "Total program fee" },
+        "brochure":"/Downloadbrouchers/AMITY/BCA-AMITY/BCA-Cloud-Security.pdf",
+        "button": [
+          { "name": "Enroll Now", "link": "", "form": true }
+        ],
+        "productId": 212,
+        "sourceId": 151,
+        "universityName": "Amity University"
+      }
+    ]
+  },
+
+  "banner": {
+    "position": 1,
+    "mainHeading": "BCA in Cloud and Security – Build, Secure, and Manage the Future of Digital Infrastructure",
+    "description": "The ultimate program that equips you with technical and strategic skills to manage modern IT systems and secure digital infrastructures against emerging cyber threats.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/ugbanerimages/bca/bca_Cloud_security.webp",
+      "alt": "bca cloud security"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose This Program"],
+      "benefits": [
+        "Industry-aligned curriculum in cloud and cyber security",
+        "Learn AWS, Azure, and Google Cloud with real-time labs",
+        "Hands-on ethical hacking and network defense training",
+        "Projects in cloud deployment and security automation",
+        "Prepare for global certifications and secure IT careers"
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["The overview of", "BCA in Cloud and Security Program"],
+    "overViewImage": {
+      "src": "/home/overview/overview2.webp",
+      "alt": "overview.webp"
+    },
+    "subHeading": "Master the Cloud. Defend the Future.",
+    "description": "The BCA (Bachelor of Computer Applications) in Cloud and Security at Teksversity is built for learners who want to lead in the evolving world of IT infrastructure and cyber defense. This program blends computer science fundamentals with advanced modules in cloud computing, information security, and data protection. Students gain hands-on experience with AWS, Azure, and Google Cloud platforms, learning to deploy, secure, and monitor cloud-based systems. Through simulation labs and real-world projects, learners build resilience against modern cyber threats and develop operational expertise for enterprise environments. Graduates can pursue careers as Cloud Engineers, Cybersecurity Analysts, Network Administrators, or Information Security Specialists.",
+    "keyPoints": [
+      "Learn to design, deploy, and secure cloud environments",
+      "Gain expertise in ethical hacking and threat management",
+      "Understand network, data, and information security protocols",
+      "Build real-world experience with AWS, Azure, and Google Cloud",
+      "Prepare for top IT certifications and high-demand tech roles"
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": [
+      "Why Choose BCA in Cloud and Security in",
+      "Teksversity?"
+    ],
+    "subHeading": ["Celebrating", " Excellence"],
+    "title": ["13 Years of", " Legacy", "(Commitment, Growth, Success)"],
+    "legacyCards": [
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "4.72/5",
+        "label": "Overall Program Rating"
+      },
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "99/100",
+        "label": "Sessions Rated 4+/5"
+      },
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "4.8/5",
+        "label": "Average Session Rating"
+      }
+    ],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "Choosing Teksversity for your BCA in Cloud Computing and Cyber Security means mastering the dual power of cloud technology and data protection under one comprehensive program. With a balance of theoretical concepts and practical sessions, students gain hands-on skills to manage cloud infrastructures and safeguard critical digital assets.",
+    "description": [
+      {
+        "firstDescription": "At Teksversity, students learn directly from industry professionals with experience in cloud architecture, network security, and ethical hacking. Through guided internships, simulation-based training, and certification-focused learning, the program prepares graduates for global tech careers. Beyond the classroom, Teksversity ensures strong placement support, personalized mentorship, and continuous career development."
+      },
+      {
+        "secondDescription": "Your BCA with Cloud Computing and Cyber Security at Teksversity is more than a degree it’s your launchpad to becoming a cloud expert and cybersecurity defender in the digital-first world. With access to cutting-edge tools, real-time projects, and peer collaboration, students gain the confidence to innovate and solve complex digital challenges. Teksversity empowers you to lead the future of secure cloud ecosystems with skill, strategy, and vision."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": ["Key Highlights of", "BCA in Cloud and Security Program"],
+    "sections": [
+      { "name": "Learning Experience", "value": "LearningExperience" },
+      { "name": "Support & Assistance", "value": "SupportandAssistance" },
+      { "name": "Career Support", "value": "CareerSupport" },
+      {
+        "name": "Networking & Peer Learning",
+        "value": "NetworkingandPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "LearningExperience": {
+        "keyPoints": [
+          "Real-time cloud deployment projects",
+          "Virtual labs for ethical hacking and security testing",
+          "Hands-on AWS, Azure, and Google Cloud training",
+          "Case studies in cloud migration and cyber resilience",
+          "Practical exposure to data protection systems",
+          "Expert-led workshops on network and cloud security"
+        ]
+      },
+      "SupportandAssistance": {
+        "keyPoints": [
+          "Dedicated mentorship in cloud and cyber domains",
+          "Access to 24/7 online labs and learning resources",
+          "Personalized project reviews and skill feedback",
+          "Flexible hybrid and online learning options",
+          "Technical and academic support throughout the course",
+          "Internship assistance with top IT firms"
+        ]
+      },
+      "CareerSupport": {
+        "keyPoints": [
+          "100% placement assistance with IT and cloud companies",
+          "Resume and LinkedIn portfolio development",
+          "Mock interviews and certification readiness sessions",
+          "Industry tie-ups for cloud and cybersecurity roles",
+          "Career counseling and mentoring for tech careers",
+          "Guidance for AWS, Azure, and CEH certifications"
+        ]
+      },
+      "NetworkingandPeerLearning": {
+        "keyPoints": [
+          "Cloud security hackathons and simulation projects",
+          "Peer-led collaboration and team assignments",
+          "Expert masterclasses from cloud architects",
+          "Alumni networking and industry exposure",
+          "Knowledge-sharing and innovation challenges",
+          "Virtual workshops and cybersecurity events"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our ", "Course Brochure"],
+    "description": "Get complete insights into the BCA in Cloud and Security program at Teksversity your key to mastering cloud computing and cyber defense. Explore how this comprehensive program combines technical training, real-world practice, and mentorship.",
+    "subHeading": "What You’ll Get in the Brochure:",
+    "highlights": [
+      "Complete course structure and cloud security modules",
+      "Skill outcomes and certification pathways",
+      "Admission and eligibility details",
+      "Internship and placement opportunities",
+      "Learning tools, labs, and mentorship support"
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/brochure/DB2.webp",
+      "alt": "DB2"
+    }
+  },
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 9,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 10,
+    "heading": ["Take the Leap", " Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "null" },
+        "link": "null"
+      }
+    }
+  },
+
+  "programFeeStructure": {
+    "position": 11
+  },
+
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },{
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+ "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 15,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is BCA in Cloud and Security?",
+        "answer": "BCA in Cloud and Security is an undergraduate program that focuses on cloud computing, cybersecurity, data protection, and network management. It equips students with the technical and analytical skills required to build, secure, and manage cloud-based infrastructure."
+      },
+      {
+        "question": "Why should I choose Teksversity for BCA in Cloud and Security?",
+        "answer": "Teksversity offers an industry-aligned BCA in Cloud and Security program designed by experts. The course emphasizes hands-on learning through labs, projects, and mentorship from industry professionals, ensuring students are career-ready upon graduation."
+      },
+      {
+        "question": "What are the core subjects taught in this course?",
+        "answer": "The BCA in Cloud and Security program includes subjects such as Cloud Computing, Cybersecurity Fundamentals, Network Security, Operating Systems, Data Structures, and Ethical Hacking. Students also learn about cloud platforms like AWS, Azure, and Google Cloud."
+      },
+      {
+        "question": "What are the eligibility criteria for BCA in Cloud and Security?",
+        "answer": "Students who have completed 10+2 or equivalent from a recognized board, preferably with Mathematics or Computer Science, are eligible to apply for the program."
+      },
+      {
+        "question": "What kind of career opportunities can I expect after completing BCA in Cloud and Security?",
+        "answer": "Graduates can work as Cloud Engineers, Cybersecurity Analysts, Network Administrators, Information Security Specialists, or System Engineers in IT companies, startups, or government organizations."
+      },
+      {
+        "question": "Does the program include practical training or internships?",
+        "answer": "Yes, Teksversity ensures students gain practical exposure through internships, workshops, live projects, and case studies that simulate real-world cybersecurity and cloud challenges."
+      },
+      {
+        "question": "What technical skills will I gain during the course?",
+        "answer": "Students develop expertise in cloud deployment, network configuration, system security, encryption techniques, and risk assessment. The course also enhances problem-solving and analytical thinking abilities."
+      },
+      {
+        "question": "Can I pursue higher studies after completing this course?",
+        "answer": "Absolutely! After completing BCA in Cloud and Security, students can pursue MCA, M.Sc in Cybersecurity, MBA in IT Management, or certifications like AWS Solutions Architect, CEH, or CISSP to advance their career."
+      },
+      {
+        "question": "What kind of placement assistance does Teksversity provide?",
+        "answer": "Teksversity offers 100% placement support through resume building, interview training, corporate tie-ups, and career mentoring. The placement cell ensures students are guided toward top tech companies and emerging startups."
+      },
+      {
+        "question": "How is this course relevant in today’s technology-driven world?",
+        "answer": "With the growing demand for secure cloud infrastructure, professionals skilled in cloud computing and cybersecurity are highly sought after. This program prepares students for the future of digital technology by combining both skill sets in one curriculum."
+      }
+    ]
+  },
+
+  "letsTalk": {
+    "position": 16,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today—Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 17,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "BCA cloud computing and cyber security",
+      "BCA in cloud and security",
+      "BCA in cloud computing and cyber security",
+      "BCA cloud computing and cyber security syllabus",
+      "BCA cloud technology and information security",
+      "BCA cloud computing course details",
+      "BCA with cloud computing and cyber security",
+      "BCA cloud and security",
+      "BCA in cloud and security program",
+      "online degree in cloud and security"
+    ]
+  }
+}

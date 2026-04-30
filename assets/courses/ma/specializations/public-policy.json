@@ -1,0 +1,1032 @@
+﻿{
+  "meta": {
+    "title": "MA in Public Policy Online Program in India | Teksversity",
+    "description": "Shape your career with MA in Public Policy Online Program in India at Teksversity. Learn policy analysis, public administration, leadership, and strategic policy skills",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@type": "course",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is an MBA in Finance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "An MBA in Finance is a specialized management program that trains you in financial planning, investment analysis, corporate finance, banking operations, and strategic financial decision-making. It prepares you for leadership roles in the finance and business sector."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What skills will I gain through an MBA in Finance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You will develop strong skills in financial analysis, budgeting, risk management, investment planning, portfolio management, forecasting, business valuation, and strategic financial decision-making."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a strong math background to pursue an MBA in Finance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Not necessarily. Basic number skills are sufficient as the program teaches financial concepts from the fundamentals. With consistent practice and guidance, students from any background can excel in finance."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What subjects are included in the MBA in Finance curriculum?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The curriculum typically covers Corporate Finance, Financial Management, Investment Banking, Financial Markets, Derivatives, Portfolio Management, Risk Management, Strategic Finance, Accounting, and International Finance."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What tools or software will I learn in the MBA in Finance program?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You will work with essential finance tools like Excel (advanced), financial modeling software, Bloomberg basics, statistical tools, portfolio management platforms, and forecasting tools used in top financial institutions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What career opportunities can I expect after completing an MBA in Finance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "MBA Finance graduates can work as Financial Analysts, Investment Bankers, Credit Analysts, Portfolio Managers, Risk Analysts, Corporate Finance Managers, Banking Officers, and Wealth Management Consultants."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which industries hire MBA in Finance professionals?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Industries such as banking, financial services, stock markets, insurance, fintech, consulting, real estate, corporate enterprises, and investment firms actively recruit finance professionals."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the salary outlook after an MBA in Finance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Finance is one of the highest-paying MBA specializations. With expertise in financial modeling, investment analysis, and corporate finance, professionals can quickly grow into well-paid managerial and leadership roles."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Teksversity provide practical exposure for MBA in Finance students?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Teksversity focuses on real-time learning through financial case studies, portfolio simulations, budgeting exercises, live projects, and industry-oriented financial tools to build strong practical knowledge."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can working professionals pursue an MBA in Finance at Teksversity?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Absolutely! Teksversity offers flexible learning options like weekend classes, online programs, and hybrid models, making it ideal for working professionals who want to upgrade their financial career without affecting their job."
+          }
+        }
+      ]
+    }
+  },
+
+  "formDetails": {
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "courseName": "Master of Arts in Public Policy",
+    "universities": [
+      {
+        "university": "jain-university",
+        "image": {
+          "src": "/home/universitylogos/jain.webp",
+          "alt": "jain",
+          "url": "/university/jain-university"
+        },
+        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "rating": 4.5,
+        "duration": "24 months 4 sem",
+        "courseFee": { "range": "90,000", "note": "Total program fee" },
+        "brochure": "/Downloadbrouchers/JAIN/MA-JAIN/MA-public-policy.pdf",
+        "button": [
+          {
+            "name": "Know More",
+            "link": "/university/jain-university",
+            "form": false
+          },
+          { "name": "Enroll Now", "link": "", "form": true }
+        ],
+        "productId": 314,
+        "sourceId": 155,
+        "universityName": "Jain University"
+      }
+    ]
+  },
+
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+  "category": "specialization",
+  "banner": {
+    "name": "MA in Public Policy",
+    "position": 1,
+    "mainHeading": "MA in Public Policy – Develop Expertise in Policy & Public Leadership",
+    "description": "Earn your MA in Public Policy and gain advanced skills in governance models, public systems, policy research, impact assessment, economic policy, and strategic policymaking.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/pgbanerimages/ma/Public_Policy.webp",
+      "alt": "MA in Public Policy with Governance and Administrative Leadership Skills"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose This Program"],
+      "benefits": [
+        "Curriculum aligned with evolving public policy and governance needs",
+        "Learn from policy experts, government advisors and senior researchers",
+        "Practical exposure to policy design, evaluation and administrative systems",
+        "Build strong analytical, socio-economic and decision-making skills",
+        "Hands-on training with policy tools, frameworks and public systems analysis",
+        "Blends social science foundations with modern policy applications",
+        "100% placement assistance and continuous career support",
+        "Designed for future-ready policy professionals"
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["Overview of", "MA in Public Policy"],
+    "overViewImage": {
+      "src": "/home/overview/overview5.webp",
+      "alt": "MA in Public Policy – Program Overview"
+    },
+    "subHeading": "Master Policy Research, Governance Systems & Strategic Public Leadership",
+    "description": "The Online MA in Public Policy at Teksversity provides a deep understanding of how public systems operate and how policies shape social, economic and administrative outcomes. The curriculum merges governance studies, public administration, economic policy, development frameworks and research methodologies to cultivate strong analytical and leadership skills. Through real-world simulations, policy labs, case-based learning, and socio-economic assessments, learners develop the ability to design, evaluate and implement impactful policies. This program prepares graduates for influential careers across government institutions, public sector bodies, NGOs, consulting firms, international agencies and development organizations.",
+    "keyPoints": [
+      "Master key concepts in governance and public policy",
+      "Build skills in policy design and evaluation",
+      "Use tools for data-driven policy decisions",
+      "Strengthen leadership and public problem-solving",
+      "Prepare for roles in governance and policy research"
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": ["Why Choose MA in Public Policy", "in Teksversity?"],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "Teksversity’s MA in Public Policy integrates practical policy training with strong interdisciplinary foundations. Guided by policy researchers, economists, governance experts, and public sector professionals, the curriculum develops strategic thinking and advanced policy competencies.",
+    "description": [
+      {
+        "firstDescription": "Students participate in real-world policy case studies, governance simulations, socio-economic analyses, impact assessment workshops, and public administration exercises. The program emphasizes applied learning through policy labs, public system models, and analytical tools."
+      },
+      {
+        "secondDescription": "Recognized as one of the best online public policy master’s degrees, it equips learners with advanced knowledge and professional readiness for leadership roles in governance, development, and policy innovation."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": ["Key Highlights of", "MA in Public Policy"],
+    "sections": [
+      { "name": "Learning Experience", "value": "LearningExperience" },
+      { "name": "Support & Assistance", "value": "SupportandAssistance" },
+      { "name": "Career Support", "value": "CareerSupport" },
+      {
+        "name": "Networking & Peer Learning",
+        "value": "NetworkingandPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "LearningExperience": {
+        "keyPoints": [
+          "Case studies in governance, policy issues & public systems",
+          "Labs for policy analysis, impact studies & development frameworks",
+          "Workshops on economic policy, public administration & data tools",
+          "Leadership and decision-making training",
+          "Critical-thinking & public problem-solving sessions",
+          "Expert talks from policy leaders & governance professionals",
+          "Cross-functional collaboration in policy research",
+          "Peer learning & public policy review discussions",
+          "Continuous assessments & performance tracking"
+        ]
+      },
+      "SupportandAssistance": {
+        "keyPoints": [
+          "Dedicated academic & public policy mentor guidance",
+          "24/7 access to online policy learning resources",
+          "Expert counseling & progress monitoring",
+          "Recorded sessions & complete study materials",
+          "Personalized support for research and assignments",
+          "Technical & platform assistance",
+          "Internships in policy, governance & development projects",
+          "Flexible online learning for working professionals",
+          "Regular academic performance reviews"
+        ]
+      },
+      "CareerSupport": {
+        "keyPoints": [
+          "100% placement & internship assistance",
+          "Resume building for policy, research & governance roles",
+          "Interview preparation for analyst, researcher & advisor positions",
+          "Personalized career planning & pathways",
+          "Mock interviews & communication training",
+          "Industry and public sector collaboration opportunities",
+          "Webinars with policymakers & development experts",
+          "Leadership development for governance careers",
+          "Ongoing career mentorship & guidance"
+        ]
+      },
+      "NetworkingandPeerLearning": {
+        "keyPoints": [
+          "Guest sessions by policy experts & governance leaders",
+          "Peer collaboration on public policy projects",
+          "Alumni talks & success stories in governance and development",
+          "Group discussions & policy competitions",
+          "Virtual public policy meetups & expert panels",
+          "Cross-sector teamwork & simulations",
+          "Student-led research & innovation discussions",
+          "Professional networking forums",
+          "Real-world policy analysis simulations"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our", "Course Brochure"],
+    "description": "Explore governance, public systems, socio-economic policy, development frameworks, and administrative leadership with Teksversity’s MA in Public Policy a future-ready program for policy professionals.",
+    "subHeading": "Inside the Brochure:",
+    "highlights": [
+      "Detailed MA in Public Policy curriculum",
+      "Policy research & governance career pathways",
+      "Admission criteria & eligibility",
+      "Internship & placement roadmap",
+      "Tools, projects & mentorship information"
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/certificate/brochuree.webp",
+      "alt": "Download MA in Public Policy Program Brochure"
+    }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 8,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 9,
+    "heading": ["Take the Leap", "Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "flexible online learning"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "advanced lms"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "global certification"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "no cost emi"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affrordable fees"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ugc/naac recognized universities"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "expert faculty"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "online live and recorded sessions"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "industry-aligned curriculum"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "dual certifications"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ai enhanced learning"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "job focused training"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affordable and quality learning"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "placement and career support"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "view all" },
+        "link": "null"
+      }
+    }
+  },
+  "testimonials": {
+    "position": 10,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },
+      {
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+  "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      },
+      "formBackground": {
+        "src": "/home/formbg.webp",
+        "alt": "Spin and Win Form Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 12,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is an MA in Public Policy?",
+        "answer": "An MA in Public Policy is a postgraduate program that focuses on understanding, analyzing, and designing policies that address social, economic, and political issues. It trains students to evaluate public problems and create effective solutions for government, NGOs, and private sectors."
+      },
+      {
+        "question": "Who should pursue an MA in Public Policy?",
+        "answer": "This course is ideal for students interested in governance, social impact, public administration, law, economics, international relations, and development studies. It also suits working professionals in government, NGOs, and corporate social responsibility roles."
+      },
+      {
+        "question": "What skills will I gain from this program?",
+        "answer": "Students learn policy analysis, economic reasoning, data-driven decision-making, program evaluation, leadership, communication, public finance, and research methods. They also develop strong critical thinking and problem-solving skills."
+      },
+      {
+        "question": "What subjects are covered in the MA in Public Policy curriculum?",
+        "answer": "Typical subjects include Public Policy Analysis, Economics for Policy, Governance & Institutions, Public Administration, Data Analytics, Development Policy, Research Methods, Public Finance, and Law & Policy."
+      },
+      {
+        "question": "What career opportunities are available after an MA in Public Policy?",
+        "answer": "Graduates can work as Policy Analysts, Research Associates, Public Affairs Specialists, Program Managers, Development Consultants, Government Officers, CSR Executives, and Data Analysts in national and international organizations."
+      },
+      {
+        "question": "Is an MA in Public Policy suitable for non-political science students?",
+        "answer": "Yes. Students from any background—engineering, commerce, arts, management, or science—can pursue it. The program starts with foundational courses that help students understand policy concepts easily."
+      },
+      {
+        "question": "What are the eligibility criteria?",
+        "answer": "Applicants must hold a bachelor’s degree in any discipline from a recognized university. Some institutions may require entrance exams, interviews, or work experience."
+      },
+      {
+        "question": "Which industries hire Public Policy graduates?",
+        "answer": "Public Policy graduates are hired by government ministries, international NGOs, think tanks, research organizations, consulting firms, UN agencies, media houses, CSR departments, and development bodies."
+      },
+      {
+        "question": "What is the scope of Public Policy in India?",
+        "answer": "Public Policy is rapidly growing in India due to increasing demand for evidence-based policymaking in governance, digital transformation, healthcare, education, sustainability, and economic development."
+      },
+      {
+        "question": "Can I pursue higher studies after an MA in Public Policy?",
+        "answer": "Yes. Students can pursue PhD in Public Policy, Public Administration, Development Studies, Economics, Political Science, or International Relations."
+      }
+    ]
+  },
+  "letsTalk": {
+    "position": 13,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today—Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 14,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "MA in Public Policy",
+      "Online public policy masters",
+      "Master of arts in public policy",
+      "MA in public policy in India",
+      "Online master's degree public policy",
+      "Public policy masters program",
+      "Master's degree in public policy",
+      "Policy masters degrees",
+      "MA public policy online",
+      "Online masters degree public policy"
+    ]
+  }
+}

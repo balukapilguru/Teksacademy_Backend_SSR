@@ -1,0 +1,1007 @@
+{
+  "meta": {
+    "title": "AutoCAD Certification Course | Online AutoCAD Classes with Certificate",
+    "description": "Learn AutoCAD Online with Teksversity’s AutoCAD Certification Course. Get expert training, live projects, and a professional certificate to boost your design career.",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@type": "Course",
+      "name": "AutoCAD Certification Course",
+      "url": "https://teksversity.com/courses/autocad-certification-training-course",
+      "description": "The AutoCAD Certification Course by Teksversity equips learners with practical skills in 2D and 3D drafting, technical drawing standards, and real-world design workflows for engineering and architectural applications through hands-on training and projects.",
+      "provider": {
+        "@type": "Organization",
+        "name": "Teksversity",
+        "url": "https://teksversity.com"
+      },
+      "educationalCredentialAwarded": "AutoCAD Certification",
+      "hasCourseInstance": [
+        {
+          "@type": "CourseInstance",
+          "courseMode": "Online",
+          "inLanguage": "en"
+        },
+        {
+          "@type": "CourseInstance",
+          "courseMode": "Offline",
+          "location": {
+            "@type": "Place",
+            "name": "Teksversity",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Hyderabad",
+              "addressCountry": "IN"
+            }
+          },
+          "inLanguage": "en"
+        }
+      ]
+    }
+  },
+
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+  "category": "certifications",
+  "formDetails": {
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "courseName": "AutoCAD Certification Training Course",
+    "universities": [
+      {
+        "university": "TEKSVERITY INSTITUTE OF ADVANCED LEARNING",
+        "image": {
+          "src": "/home/Teksversity_navbar.webp",
+          "alt": "teksversity"
+        },
+        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "rating": 4.8,
+        "duration": "4-6 Months",
+        "courseFee": {
+          "range": "45,000 - 55,000",
+          "note": "Total program fee"
+        },
+        "brochure": "/Downloadbrouchers/IT-courses/DownloadBroucher/autocad.pdf",
+        "button": [
+          {
+            "name": "Know More",
+            "link": "",
+            "form": false
+          },
+          { "name": "Enroll Now", "link": "", "form": true }
+        ],
+        "productId": 242,
+        "sourceId": 148,
+        "universityName": "Teksversity"
+      }
+    ]
+  },
+  "banner": {
+    "name": "AutoCAD Certification Course",
+    "position": 1,
+    "mainHeading": "AutoCAD Certification Course",
+    "description": "Embrace the best career opportunities! Get into the world of design and drafting with a professional AutoCAD Certification Course that transforms you into a skilled designer ready to create, visualize, and build with precision. Learn the tools that power the architecture, engineering, and manufacturing industries worldwide.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/certificate/bannerImages/certification/revit-certificate.webp",
+      "alt": "revit-certificate.webp"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Should You Join This Course?"],
+      "benefits": [
+        "Master 2D and 3D design concepts with practical AutoCAD training.",
+        "Learn professional drafting, modeling, and documentation techniques.",
+        "Get trained by Autodesk-certified AutoCAD experts.",
+        "Work on live design and real-time drawing projects.",
+        "Receive one-on-one mentorship and personalized guidance.",
+        "Earn a globally recognized AutoCAD certification with placement support.",
+        "Enhance your portfolio and open doors to high-paying design opportunities.",
+        "Join one of the most sought-after CAD software programs in the world."
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["Overview of ", "AutoCAD Certification Course"],
+    "overViewImage": {
+      "src": "/certificate/overview.webp",
+      "alt": "overview.webp"
+    },
+    "subHeading": "Become a Master in AutoCAD with Ease!",
+    "description": "The AutoCAD Certification Course is a hands-on training program designed for beginners, engineers, architects, and design professionals. This course covers every stage of digital drafting and modeling from basic drawing commands to complex 3D designs ensuring you gain job-ready CAD skills.",
+    "keyPoints": [
+      "Understand AutoCAD interface, commands, and workspace setup.",
+      "Create professional 2D drawings and convert them into 3D models.",
+      "Use layers, blocks, dimensions, and annotations effectively.",
+      "Generate technical documentation and printing layouts.",
+      "Collaborate on real-world CAD projects with precision and speed."
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": ["Why choose", "AutoCAD Certification at Teksversity?"],
+    "subheading": ["Celebrating", " Excellence"],
+    "title": ["13 Years of", " Legacy", "(Commitment, Growth, Success)"],
+    "LegacyCards": [
+      {
+        "icon": "need to add real content for all cards",
+        "value": "4.72/5",
+        "label": "Overall Program Rating"
+      },
+      {
+        "icon": "sessions",
+        "value": "99/100",
+        "label": "Sessions Rated 4+/5"
+      },
+      {
+        "icon": "average",
+        "value": "4.8/5",
+        "label": "Average Session Rating"
+      }
+    ],
+    "image": "url",
+    "initialDescription": "Choosing Teksversity means joining a learning environment where design meets innovation. Our AutoCAD Certification Course goes beyond the basics offering real-world projects, software mastery, and industry insights from certified professionals.",
+    "description": [
+      {
+        "firstDescription": "At Teksversity, you’ll gain hands-on experience through live projects and drafting simulations that replicate real design challenges. Each module is structured to help you develop strong command over both 2D and 3D drafting, aligning with global AutoCAD certification standards"
+      },
+      {
+        "secondDescription": "Beyond technical skills, we provide career mentorship, resume-building sessions, and placement support, connecting you with top architecture, engineering, and manufacturing companies. With Teksversity, you’re not just learning AutoCAD you’re designing your career success."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": ["Key Highlights of the ", "AutoCAD Certification Course"],
+    "sections": [
+      {
+        "name": "Comprehensive Curriculum",
+        "value": "ComprehensiveCurriculum"
+      },
+      {
+        "name": "Hands-On Learning",
+        "value": "Hands-OnLearning"
+      },
+      {
+        "name": "Expert Mentorship",
+        "value": "ExpertMentorship"
+      },
+      {
+        "name": "Career & Placement Support",
+        "value": "Career&PlacementSupport"
+      }
+    ],
+    "tabsData": {
+      "ComprehensiveCurriculum": {
+        "keyPoints": [
+          "Covers 2D drafting, 3D modeling, and detailed annotation techniques.",
+          "Trains you in design documentation, layout creation, and dimensioning.",
+          "Equips you with skills for architectural, mechanical, and civil drawings.",
+          "Includes advanced tools for rendering, visualization, and collaboration."
+        ]
+      },
+      "Hands-OnLearning": {
+        "keyPoints": [
+          "Practice through live projects and real-world drawing exercises.",
+          "Design complete floor plans, elevations, and mechanical parts.",
+          "Learn to optimize design workflows and apply drafting standards.",
+          "Build a professional portfolio showcasing your AutoCAD expertise."
+        ]
+      },
+      "ExpertMentorship": {
+        "keyPoints": [
+          "Learn from Autodesk-certified trainers with practical industry experience.",
+          "Receive personal feedback on your design projects.",
+          "Get guidance to improve drawing accuracy and design presentation.",
+          "Stay updated with the latest AutoCAD versions and design tools."
+        ]
+      },
+      "Career&PlacementSupport": {
+        "keyPoints": [
+          "Get dedicated placement assistance and portfolio preparation help.",
+          "Access internships with design, construction, and engineering firms.",
+          "Receive resume and LinkedIn optimization support.",
+          "Connect with hiring partners across the global CAD design industry."
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Your", "Free Brochure"],
+    "description": "Get full details of the AutoCAD Certification Course in one place. Explore the course structure, tools, and career outcomes designed to help you become an AutoCAD professional with global opportunities.",
+    "subHeading": "What You’ll Get in the Brochure:",
+    "highlights": [
+      "Complete course curriculum with topics and module list.",
+      "Program duration, fees, and flexible learning options.",
+      "Key features include live sessions, mentor support, and certification prep.",
+      "Career guidance, project portfolio support, and placement opportunities."
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/certificate/brochuree.webp",
+      "alt": "null"
+    }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ],
+    "universityOfferings": [
+      {
+        "university": "TEKSVERITY INSTITUTE OF ADVANCED LEARNING",
+        "image": {
+          "src": "/certificate/Teksversity_In1.webp",
+          "alt": "Teksversity"
+        },
+        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "rating": 4.8,
+        "duration": "4-6 Months",
+        "courseFee": {
+          "range": "40,000 - 50,000",
+          "note": "Total program fee"
+        },
+        "button": {
+          "text": "Enroll Now",
+          "icon": { "src": "null", "alt": "null" },
+          "link": "null"
+        }
+      }
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 8,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 9,
+    "heading": ["Take the Leap", "Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "flexible online learning"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "advanced lms"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "global certification"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "no cost emi"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affrordable fees"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ugc/naac recognized universities"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "expert faculty"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "online live and recorded sessions"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "industry-aligned curriculum"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "dual certifications"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ai enhanced learning"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "job focused training"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affordable and quality learning"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "placement and career support"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "view all" },
+        "link": "null"
+      }
+    }
+  },
+
+  "testimonials": {
+    "position": 10,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },{
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sadhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+  "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      },
+      "formBackground": {
+        "src": "/home/formbg.webp",
+        "alt": "Spin and Win Form Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 13,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is the mode of delivery for this AutoCAD Certification Course?",
+        "answer": "This is a 100% online, self-paced certification course. You can access the course materials, video lectures, and assignments anytime, from anywhere using our Learning Management System (LMS)."
+      },
+      {
+        "question": "Are there any prerequisites to enroll in the AutoCAD certification course?",
+        "answer": "No specific prior professional experience is required. A basic understanding of computers and general technical drawing concepts is beneficial, but the course is designed to take you from foundational to advanced skills."
+      },
+      {
+        "question": "Does the course include the AutoCAD software?",
+        "answer": "The course provides guidance and resources on how to legally obtain access to the necessary software, often including information on educational licenses or trials as per the software vendor's policies."
+      },
+      {
+        "question": "What specific version of AutoCAD will be taught?",
+        "answer": "The curriculum is typically updated to cover the latest stable release of AutoCAD to ensure your skills are current and industry-relevant."
+      },
+      {
+        "question": "Is the Teksversity certification recognized by the industry?",
+        "answer": "Yes, upon successful completion, you will receive a Teksversity industry-recognized certification. The course curriculum is also structured to prepare you for globally recognized vendor certifications like the Autodesk Certified User (ACU) or Certified Professional (ACP) exams."
+      },
+      {
+        "question": "How much time do I have to complete the course?",
+        "answer": "The course is self-paced, and you typically have a flexible access period (e.g., 6 months to 1 year) to complete all modules, including projects and assessments."
+      },
+      {
+        "question": "Does the course cover both 2D drafting and 3D modeling?",
+        "answer": "Absolutely. The comprehensive curriculum is structured to cover both essential 2D drafting commands, layering standards, and advanced 3D modeling and visualization techniques."
+      },
+      {
+        "question": "What kind of support is available if I have questions during my learning?",
+        "answer": "You will have access to expert instructional support (e.g., via email, dedicated forum, or live chat) to clarify doubts, review concepts, and get feedback on your projects."
+      },
+      {
+        "question": "Are there practical projects included in the course?",
+        "answer": "Yes. The course includes multiple hands-on, real-world projects, such as creating complete construction documents or detailed mechanical parts, to ensure practical skill development and a strong portfolio."
+      },
+      {
+        "question": "Does Teksversity offer any career or placement assistance after course completion?",
+        "answer": "While Teksversity does not guarantee job placement, we provide dedicated career support services, which may include resume building, mock interviews, and access to a network of job opportunities through our placement assistance cell."
+      }
+    ]
+  },
+
+  "letsTalk": {
+    "position": 14,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 15,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "AutoCAD training online",
+      "Best online cad certification programs",
+      "AutoCAD certificate program",
+      "2d drafting in AutoCAD",
+      "AutoCAD software certification",
+      "top AutoCAD online training institutes",
+      "Learn AutoCAD online with certificate",
+      "Advanced AutoCAD course online"
+    ]
+  }
+}

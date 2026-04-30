@@ -1,0 +1,1461 @@
+﻿{
+  "meta": {
+    "title": "Best Online Digital Marketing Certification Course with AI | Teksversity",
+    "description": "Advance your career with Teksversity’s AI-driven Digital Marketing Course. Learn SEO, SEM, Social Media & Analytics with live projects, mentors & certification.",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@type": "Course",
+      "name": "Digital Marketing Certification Course",
+      "url": "https://teksversity.com/courses/digital-marketing-certification-course",
+      "description": "The Digital Marketing Certification Course by Teksversity equips learners with practical skills in SEO, social media marketing, paid advertising, content strategy, analytics, and real-world digital campaign execution through hands-on training and projects.",
+      "provider": {
+        "@type": "Organization",
+        "name": "Teksversity",
+        "url": "https://teksversity.com"
+      },
+      "educationalCredentialAwarded": "Digital Marketing Certification",
+      "hasCourseInstance": [
+        {
+          "@type": "CourseInstance",
+          "courseMode": "Online",
+          "inLanguage": "en"
+        },
+        {
+          "@type": "CourseInstance",
+          "courseMode": "Offline",
+          "location": {
+            "@type": "Place",
+            "name": "Teksversity",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Hyderabad",
+              "addressCountry": "IN"
+            }
+          },
+          "inLanguage": "en"
+        }
+      ]
+    }
+  },
+
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+  "category": "certifications",
+  "formDetails": {
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "courseName": "Digital Marketing Certification Course",
+    "universities": [
+      {
+        "university": "TEKSVERITY INSTITUTE OF ADVANCED LEARNING",
+        "image": {
+          "src": "/home/Teksversity_navbar.webp",
+          "alt": "teksversity"
+        },
+        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "rating": 4.8,
+        "duration": "4-6 Months",
+        "courseFee": {
+          "range": "45,000 - 55,000",
+          "note": "Total program fee"
+        },
+        "brochure": "/Downloadbrouchers/IT-courses/DownloadBroucher/Teksversity-Digital Marketing.pdf",
+        "button": [
+          {
+            "name": "Know More",
+            "link": "",
+            "form": false
+          },
+          { "name": "Enroll Now", "link": "", "form": true }
+        ],
+        "productId": 295,
+        "sourceId": 148,
+        "universityName": "Teksversity"
+      }
+    ]
+  },
+
+  "banner": {
+    "name": "Post Graduation Certification in Digital Marketing",
+    "position": 1,
+    "mainHeading": "Digital Marketing Certification Course",
+    "description": "A complete certification designed to make you industry-ready in the evolving digital landscape.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/certificate/bannerImages/certification/digital-certificate.webp",
+      "alt": "Digital Marketing Certification Course with Real-World Projects"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why join Digital Marketing Training?"],
+      "benefits": [
+        "AI-driven marketing strategies & automation tools.",
+        "360° learning in SEO, SEM, Social & Performance Marketing.",
+        "Real-time ad campaign simulations & analytics.",
+        "GenAI-integrated creative marketing curriculum.",
+        "Learn from top industry digital strategists.",
+        "Master Google Analytics, Data Studio & Meta tools.",
+        "Flexible online learning with live mentor sessions.",
+        "Career-focused training with global certification."
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": [
+      "Overview of",
+      "Digital Marketing Certification Course in Teksversity?"
+    ],
+    "overViewImage": {
+      "src": "/certificate/overview.webp",
+      "alt": "Digital Marketing Certification Course – Program Overview"
+    },
+    "subHeading": "AI-Driven Digital Marketing Excellence.",
+    "description": "The Digital Marketing with AI Certification Course is designed to transform learners into data-driven strategists. This program blends AI-powered tools, GenAI-integrated content creation, and real-time campaign analysis giving you an edge in the evolving digital space. From mastering SEO and paid media to automation and analytics, every module is built for real-world impact. With live mentor sessions, interactive projects, and flexible online access, students gain not just knowledge but also career-ready expertise that sets them apart in the competitive digital ecosystem. ",
+    "keyPoints": [
+      "AI- and GenAI-integrated digital curriculum ",
+      "Real-time campaign & analytics labs ",
+      "Flexible online learning ecosystem "
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": [
+      "Why choose the digital marketing certification course at",
+      "Teksversity?"
+    ],
+    "subHeading": ["Celebrating", " Excellence"],
+    "title": ["13 Years of", " Legacy", "(Commitment, Growth, Success)"],
+    "legacyCards": [
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "4.72/5",
+        "label": "Overall Program Rating"
+      },
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "99/100",
+        "label": "Sessions Rated 4+/5"
+      },
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "4.8/5",
+        "label": "Average Session Rating"
+      }
+    ],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "Teksversity redefines the boundaries of marketing education through an immersive Online Digital Marketing Course that integrates AI, GenAI, and automation into every learning experience. The curriculum is engineered for future-ready strategists who understand digital ecosystems beyond surface-level tactics. Students master audience algorithms, automation workflows, and real-time analytics while creating adaptive marketing architectures powered by innovation. With access to cutting-edge tools like ChatGPT, Jasper, and GA4, learners evolve into data-driven professionals capable of building intelligent campaigns that adapt, engage, and convert in an ever-changing digital economy. ",
+    "description": [
+      {
+        "firstDescription": "This program delivers an unmatched interactive learning environment that bridges creativity with technology. Guided by industry mentors, students participate in live strategy sessions, cloud-based simulations, and real-world brand campaigns that mirror global marketing workflows. Each session is built for engagement and outcome-based growth, transforming learners into strategists who understand both digital intelligence and human behavior. The smart learning model ensures flexibility through 24×7 access, collaborative projects, and global insights that enable participants to analyze, adapt, and optimize strategies at scale ensuring readiness for an AI-first world. "
+      },
+      {
+        "secondDescription": "Teksversity’s Best Digital Marketing Certification is more than a credential it’s  a gateway to digital leadership. Every module is aligned with evolving industry trends, from GenAI-powered marketing analytics to creative automation ecosystems. Learners gain mastery over advanced tools like Google Ads, Meta Business Suite, and data-driven performance platforms while developing a strong professional portfolio. With expert mentorship, placement guidance, and personalized career support, students graduate equipped with the capabilities employers value most. This certification doesn’t just prepare learners for jobs it shapes innovators who redefine marketing with intelligence, creativity, and measurable impact.  "
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": ["Key Highlights of", "Digital Marketing Course"],
+    "sections": [
+      {
+        "name": "Industry-Driven Curriculum",
+        "value": "industry-drivenCurriculum"
+      },
+      {
+        "name": "Hands-On Learning Experience",
+        "value": "hands-OnLearningExperience"
+      },
+      {
+        "name": "Expert-Led Mentorship",
+        "value": "expert-LedMentorship"
+      },
+      {
+        "name": "Career Intelligence & Placement Support",
+        "value": "careerIntelligence&PlacementSupport"
+      }
+    ],
+    "tabsData": {
+      "industry-drivenCurriculum": {
+        "keyPoints": [
+          "Immersive AI + GenAI-powered marketing framework.",
+          "Master growth analytics, automation, and CX optimization.",
+          "Real-time ad intelligence with predictive performance models.",
+          "Learn consumer data science for precision targeting.",
+          "Build strategies aligned with next-gen digital ecosystems."
+        ]
+      },
+      "hands-OnLearningExperience": {
+        "keyPoints": [
+          "Simulate live campaigns in AI-driven marketing labs.",
+          "Deploy cross-platform funnels using automation tools.",
+          "Decode engagement metrics through real-time dashboards.",
+          "Apply neuromarketing, A/B testing, and behavioral analytics.",
+          "Graduated with quantifiable, ROI-focused portfolio projects."
+        ]
+      },
+      "expert-LedMentorship": {
+        "keyPoints": [
+          "Learn from global growth architects & brand technologists.",
+          "Gain strategic mentorship from real campaign specialists.",
+          "Personalized AI-based feedback and skill benchmarking.",
+          "Access thought-leadership sessions & innovation meetups.",
+          "Evolve from learner to data-driven digital leader."
+        ]
+      },
+      "careerIntelligence&PlacementSupport": {
+        "keyPoints": [
+          "AI-curated placement pathways and recruiter insights.",
+          "Build elite portfolios with live brand collaborations.",
+          "Certification integrated with digital industry credentials.",
+          "Real-world hiring drives and performance analytics review.",
+          "Unlock global roles in strategy, performance, and automation."
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Your", "Free Brochure"],
+    "description": "Curious to see why this program is redefining digital careers? Download the Digital Marketing Certification brochure to explore the AI-powered curriculum, GenAI integration, and advanced project roadmap that sets future marketers apart. ",
+    "subHeading": "What You’ll Get in the Brochure:",
+    "highlights": [
+      "Master AI-led marketing intelligence. ",
+      "Learn through real-time campaign labs. ",
+      "Build data-driven growth strategies. ",
+      "Earn a globally recognized certification. "
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+
+    "image": {
+      "src": "/certificate/brochuree.webp",
+      "alt": "Download Digital Marketing Certification Course Brochure"
+    }
+  },
+
+  "embraceTheEndlessOpportunities": {
+    "position": 7,
+    "heading": ["Embrace future opportunities in", "Digital Marketing Course"],
+    "sections": [
+      {
+        "title": "Global Market Revenue",
+        "data": "The global digital marketing market is expected to reach $788.2 billion by 2026, driven by the growth of online businesses and increased investment in digital channels. (Source: Markets and Markets)",
+        "icon": {
+          "src": "/certificate/opportunities/revenue.webp",
+          "alt": "industry.webp"
+        }
+      },
+      {
+        "title": "Employment Growth",
+        "data": "The employment growth rate for digital marketing professionals is projected at 30% from 2022 to 2032, highlighting the rising demand for skilled marketers. (Sources: LinkedIn)",
+        "icon": {
+          "src": "/certificate/opportunities/growth.webp",
+          "alt": "growth.webp"
+        }
+      },
+      {
+        "title": "Average Salary in India",
+        "data": "The average salary for digital marketing professionals in India ranges from ₹3,00,000 to ₹20,00,000 per annum, depending on the role and experience. (Source: PayScale, Glassdoor)",
+        "icon": {
+          "src": "/certificate/opportunities/salary.webp",
+          "alt": "salary.webp"
+        }
+      },
+      {
+        "title": "Size of the Indian Industry",
+        "data": "The Indian digital marketing industry is set to grow to $100 billion by 2026, showcasing the immense opportunities in this field. (Sources: NASSCOM)",
+        "icon": {
+          "src": "/certificate/opportunities/industry.webp",
+          "alt": "industry.webp"
+        }
+      }
+    ]
+  },
+
+  "advancedTools": {
+    "position": 8,
+    "heading": ["Explore 15+ ", " Core Technologies"],
+    "roles": [
+      {
+        "name": "SEOQuake",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/tools/seoquake.webp",
+          "alt": "SEOQuake logo"
+        }
+      },
+      {
+        "name": "SEMRush",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/tools/semrush.webp",
+          "alt": "SEMRush logo"
+        }
+      },
+      {
+        "name": "Canva",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/projects/canva.webp",
+          "alt": "Canva logo"
+        }
+      },
+      {
+        "name": "SEO.ai",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/tools/seoai.webp",
+          "alt": "SEO.ai logo"
+        }
+      },
+      {
+        "name": "Seobility",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/tools/seobility.webp",
+          "alt": "Seobility logo"
+        }
+      },
+      {
+        "name": "Google Ads",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/tools/googleadds.webp",
+          "alt": "Google Ads logo"
+        }
+      },
+      {
+        "name": "Google My Business",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/tools/googlebussiness.webp",
+          "alt": "Google My Business logo"
+        }
+      },
+      {
+        "name": "Google Analytics",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/tools/graph.webp",
+          "alt": "Google Analytics logo"
+        }
+      },
+      {
+        "name": "Yoast SEO",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/tools/ylogo.webp",
+          "alt": "Yoast SEO logo"
+        }
+      },
+      {
+        "name": "MOZ",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/tools/moz.webp",
+          "alt": "MOZ logo"
+        }
+      }
+    ]
+  },
+
+  "industryProjects": {
+    "position": 9,
+    "heading": ["Industry", "Projects"],
+    "projects": [
+      {
+        "title": "Keyword Research and SEO Audit",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/projects/seoaudit.webp",
+          "alt": "Research"
+        }
+      },
+      {
+        "title": "Create a Social Media Content Calendar",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/projects/contentcalendar.webp",
+          "alt": "contentcalendar"
+        }
+      },
+      {
+        "title": "Design Social Media Graphics Using Canva",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/projects/canva.webp",
+          "alt": "Social Media Graphics"
+        }
+      },
+
+      {
+        "title": "Set Up a Google My Business Page",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/projects/googlebusinesss.webp",
+          "alt": " Google My Business"
+        }
+      },
+      {
+        "title": "Run a Google Ads Campaign",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/projects/googleads.webp",
+          "alt": "Google Ads Campaign"
+        }
+      },
+      {
+        "title": "Guest Blogging and Backlink Building",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/projects/blog.webp",
+          "alt": "Blogging and Backlink Building"
+        }
+      },
+
+      {
+        "title": "A/B Testing for Facebook Ads",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/projects/testingads.webp",
+          "alt": "Testing for Facebook Ads"
+        }
+      },
+      {
+        "title": "Content Creation for a Real-Life Business Website",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/projects/businesswebsite.webp",
+          "alt": "Real-Life Business Website"
+        }
+      },
+      {
+        "title": "Conduct a Full Website SEO Audit",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/projects/seoaudit.webp",
+          "alt": " Full Website SEO Audit"
+        }
+      },
+
+      {
+        "title": "Advanced Google Analytics Implementation",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/projects/googleanalytics.webp",
+          "alt": "Google Analytics Implementation"
+        }
+      },
+      {
+        "title": "Create and Automate an Email Sales Funnel Using Zoho",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/projects/emailsales.webp",
+          "alt": "Email Sales"
+        }
+      },
+      {
+        "title": "Develop a Social Media Strategy with Influencer Marketing",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/projects/dminfluencermarketing.webp",
+          "alt": "Influencer Marketing"
+        }
+      },
+
+      {
+        "title": "Create a Simple Personal Blog",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/projects/digitalmarketing.webp",
+          "alt": "Simple Personal Blog"
+        }
+      },
+      {
+        "title": "Build and Optimize a LinkedIn Profile",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/projects/g523-8.webp",
+          "alt": "Optimize a LinkedIn Profile"
+        }
+      },
+      {
+        "title": "Run a Facebook Page for a Small Business",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/projects/g8023-8.webp",
+          "alt": "Small Business"
+        }
+      },
+
+      {
+        "title": "Create a 3-Month Email Marketing Campaign",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/projects/emailsales.webp",
+          "alt": "Email Marketing Campaign"
+        }
+      },
+      {
+        "title": "Create a YouTube Channel & Video Marketing Strategy",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/projects/keywordsearch.webp",
+          "alt": "Video Marketing Strategy"
+        }
+      },
+      {
+        "title": "Paid Ad Campaign (Facebook, Instagram, Google Ads)",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/projects/googleads.webp",
+          "alt": "Paid Ad Campaign"
+        }
+      },
+
+      {
+        "title": "Build a Personal Portfolio Website",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/projects/g937-8.webp",
+          "alt": "Personal Portfolio Website"
+        }
+      },
+      {
+        "title": "Optimize a Website for On-Page SEO",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-digital-marketing/projects/seoo.webp",
+          "alt": "On-Page SEO"
+        }
+      }
+    ]
+  },
+
+  "careerPath": {
+    "position": 10,
+    "heading": ["Digital Marketing", " Career Paths"],
+    "description": "Explore roles, opportunities, and salary growth",
+    "jobCards": [
+      {
+        "role": "SEO Specialist",
+        "icon": "brackets",
+        "jobMeter": "12,000 open positions",
+        "jobCount": 12000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "3-6 LPA" },
+            { "label": "2 Years", "value": "5-8 LPA" },
+            { "label": "4 Years", "value": "6-12 LPA" },
+            { "label": "6 Years", "value": "10-15 LPA" },
+            { "label": "8 Years", "value": "12-20 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Social Media Manager",
+        "icon": "brackets_square",
+        "jobMeter": "8,500 open positions",
+        "jobCount": 8500,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "3-6 LPA" },
+            { "label": "2 Years", "value": "5-9 LPA" },
+            { "label": "4 Years", "value": "7-12 LPA" },
+            { "label": "6 Years", "value": "10-15 LPA" },
+            { "label": "8 Years", "value": "12-18 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Digital Marketing Manager",
+        "icon": "eye",
+        "jobMeter": "6,000 open positions",
+        "jobCount": 6000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "4-8 LPA" },
+            { "label": "2 Years", "value": "6-12 LPA" },
+            { "label": "4 Years", "value": "10-15 LPA" },
+            { "label": "6 Years", "value": "12-20 LPA" },
+            { "label": "8 Years", "value": "20-30 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "PPC Specialist",
+        "icon": "leaf",
+        "jobMeter": "5,000 open positions",
+        "jobCount": 5000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "4-8 LPA" },
+            { "label": "2 Years", "value": "5-10 LPA" },
+            { "label": "4 Years", "value": "8-12 LPA" },
+            { "label": "6 Years", "value": "12-18 LPA" },
+            { "label": "8 Years", "value": "15-25 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Email Marketing Specialist",
+        "icon": "plus_circle",
+        "jobMeter": "7,500 open positions",
+        "jobCount": 7500,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "3-6 LPA" },
+            { "label": "2 Years", "value": "5-8 LPA" },
+            { "label": "4 Years", "value": "6-12 LPA" },
+            { "label": "6 Years", "value": "10-15 LPA" },
+            { "label": "8 Years", "value": "12-20 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Brand Manager",
+        "icon": "pen_tool",
+        "jobMeter": "5,500 open positions",
+        "jobCount": 5500,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "4-8 LPA" },
+            { "label": "2 Years", "value": "6-12 LPA" },
+            { "label": "4 Years", "value": "10-15 LPA" },
+            { "label": "6 Years", "value": "12-20 LPA" },
+            { "label": "8 Years", "value": "20-30 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Digital Analytics Specialist",
+        "icon": "box",
+        "jobMeter": "6,000 open positions",
+        "jobCount": 6000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "3-6 LPA" },
+            { "label": "2 Years", "value": "5-10 LPA" },
+            { "label": "4 Years", "value": "8-12 LPA" },
+            { "label": "6 Years", "value": "12-18 LPA" },
+            { "label": "8 Years", "value": "15-25 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Affiliate Marketing Manager",
+        "icon": "network",
+        "jobMeter": "4,500 open positions",
+        "jobCount": 4500,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "4-8 LPA" },
+            { "label": "2 Years", "value": "6-12 LPA" },
+            { "label": "4 Years", "value": "10-15 LPA" },
+            { "label": "6 Years", "value": "12-20 LPA" },
+            { "label": "8 Years", "value": "20-30 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Content Marketing Specialist",
+        "icon": "helmet",
+        "jobMeter": "10,000 open positions",
+        "jobCount": 10000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "3-6 LPA" },
+            { "label": "2 Years", "value": "5-9 LPA" },
+            { "label": "4 Years", "value": "7-12 LPA" },
+            { "label": "6 Years", "value": "10-15 LPA" },
+            { "label": "8 Years", "value": "15-25 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "E-commerce Manager",
+        "icon": "orange_box",
+        "jobMeter": "8,000 open positions",
+        "jobCount": 8000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "4-8 LPA" },
+            { "label": "2 Years", "value": "6-12 LPA" },
+            { "label": "4 Years", "value": "10-15 LPA" },
+            { "label": "6 Years", "value": "12-20 LPA" },
+            { "label": "8 Years", "value": "20-30 LPA" }
+          ]
+        }
+      }
+    ],
+    "button": {
+      "text": "Enroll Now",
+      "icon": { "src": "null", "alt": "null" },
+      "link": "null"
+    }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ],
+    "universityOfferings": [
+      {
+        "university": "TEKSVERITY INSTITUTE OF ADVANCED LEARNING",
+        "image": {
+          "src": "/certificate/Teksversity_In1.webp",
+          "alt": "Teksversity"
+        },
+        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "rating": 4.8,
+        "duration": "4-6 Months",
+        "courseFee": {
+          "range": "40,000 - 50,000",
+          "note": "Total program fee"
+        },
+        "button": {
+          "text": "Enroll Now",
+          "icon": { "src": "null", "alt": "null" },
+          "link": "null"
+        }
+      }
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 12,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 13,
+    "heading": ["Take the Leap", " Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "null" },
+        "link": "null"
+      }
+    }
+  },
+
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },{
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "null"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "null"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "null"
+        },
+        "review": "I enrolled in the Data Science course at Teksversity in March 2025 (online mode). The curriculum covered Python, ML, and real-world projects which I liked because the instructor gave weekly assignments. Placement support is good. Overall, I feel the course helped me build a portfolio and I’d recommend it for working professionals seeking to switch to data science. Truly a great place to learn and grow in Data Science!"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "null"
+        },
+        "review": "Joining TEKSVERSITY has truly changed the way I look at learning. As a student, I was searching for a platform that could help me grow both practically and professionally, and TEKSVERSITY did exactly that. The dual certification programs gave me strong confidence in my skills, and the hands-on learning approach helped me gain real industry-level experience rather than just theoretical knowledge. What touched me the most is how TEKSVERSITY supports financially struggling students through their flexible ZERO down payment EMI options. It really proves that they care about helping students achieve their dreams, no matter their background. Honestly, TEKSVERSITY didn’t just teach me it inspired me to believe in myself and aim higher. Highly recommended to every student who wants to turn their passion into a career."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "null"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "null"
+        },
+        "review": "My experience with Teksversity has been truly amazing!The counselling session with Sireesha reddy mam in secunderabad helped to choose the best course. She cleared all my doubts with lots of patience, the people who takes counselling from her will have a great clarity about the career thankyou Sireesha mam , thankyou teksversity"
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "null"
+        },
+        "review": "Teksversity is where growth meets opportunity! With their dual courses and online degree programs, I was able to learn in multiple directions at once. The mentorship was incredible  it guided me to sharpen my skills, boost my confidence, and truly enjoy the learning journey. Teksversity didn’t just teach me; it transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "null"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "null"
+        },
+        "review": "This institution truly delivers quality education at an affordable price. They offer top trending courses that match today’s industry needs and help students build strong career skills. The teaching is clear, supportive, and practical. They also have tie-ups with top universities, which adds great value to the programs. Highly recommended for anyone looking for good learning and growth opportunities."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "null"
+        },
+        "review": "As a student at Teksversity, I took a Data Science course that gave me strong practical knowledge and hands-on experience. The mentors were supportive and helped me understand every concept clearly. I’m really thankful to have also received a career opportunity through this program  it’s been a great learning journey"
+      }
+    ]
+  },
+
+  "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      },
+      "formBackground": {
+        "src": "/home/formbg.webp",
+        "alt": "Spin and Win Form Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 17,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "Why choose Teksversity’s Digital Marketing Certification Course for a career?",
+        "answer": "Our program provides expert-led, hands-on training in the most effective digital marketing techniques and tools, ensuring you gain the skills and confidence to excel in today’s competitive job market."
+      },
+      {
+        "question": "Who can enroll in Teksversity’s Digital Marketing Training?",
+        "answer": "Our program is open to fresh graduates, working professionals, entrepreneurs, and anyone passionate about starting or advancing their digital marketing career. No prior experience is required—just a commitment to learning and growing your skills."
+      },
+      {
+        "question": "What makes Teksversity’s Digital Marketing Certification Course unique?",
+        "answer": "Our Digital Marketing Certification Course offers immersive hands-on training with cutting-edge strategies, tools, and platforms, equipping you with the real-world skills that employers demand for a successful digital marketing career."
+      },
+      {
+        "question": "Are there any prerequisites to enroll in Teksversity’s Digital Marketing Course?",
+        "answer": "No prior digital marketing knowledge is required. Our expert trainers guide you step-by-step, from foundational concepts to advanced strategies, making it easy for beginners to excel."
+      },
+      {
+        "question": "What topics does Teksversity’s Digital Marketing Course cover?",
+        "answer": "Our course covers essential areas like SEO, SEM, social media marketing, content marketing, analytics, email campaigns, influencer marketing, and more—continuously updated to align with the latest industry trends."
+      },
+      {
+        "question": "Which tools and platforms will I master during Teksversity’s Digital Marketing Training?",
+        "answer": "Our hands-on training covers leading industry tools such as Google Analytics, SEMrush, Facebook Ads Manager, WordPress, and other essential digital marketing platforms to prepare you for real-world success."
+      },
+      {
+        "question": "Does Teksversity offer an online Digital Marketing Course?",
+        "answer": "Yes, we offer flexible online learning options with live instructor-led sessions and self-paced modules, designed to conveniently fit your schedule and learning preferences."
+      },
+      {
+        "question": "Is Teksversity’s Digital Marketing Certification recognized in the industry?",
+        "answer": "Yes, our certification is highly respected and recognized by industry experts and leading employers across the country, providing a valuable credential for your career."
+      },
+      {
+        "question": "Will I receive a certificate after completing Teksversity’s Digital Marketing Training?",
+        "answer": "Absolutely! Upon successful completion of the course and assessments, you will receive an industry-recognized Digital Marketing Certification from Teksversity."
+      },
+      {
+        "question": "What makes Teksversity a best-in-class digital marketing institute?",
+        "answer": "Teksversity’s commitment to a comprehensive curriculum, skilled faculty, and robust placement support has earned us a reputation as one of the best digital marketing institutes."
+      }
+    ]
+  },
+  "letsTalk": {
+    "position": 18,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today—Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 19,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "Digital marketing certification course",
+      "Best digital marketing certification",
+      "Digital marketing training",
+      "Digital marketing with AI",
+      "Online digital marketing course",
+      "Digital marketing course online",
+      "Digital marketing classes online",
+      "Best online digital marketing courses",
+      "Certified digital marketing course",
+      "Digital marketing certificate course online"
+    ]
+  }
+}

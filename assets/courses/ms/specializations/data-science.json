@@ -1,0 +1,1319 @@
+﻿{
+  "meta": {
+    "title": "Online MSC in Data Science with Career Support",
+    "description": "Build expertise in AI, machine learning, big data, and analytics with the Online MSC in Data Science. Master advanced data skills and accelerate your career."
+  },
+
+  "formDetails": {
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "courseName": "Master of Science in Data Science",
+    "universities": [
+      {
+        "university": "amity-university",
+        "image": {
+          "src": "/home/universitylogos/amity.webp",
+          "alt": "amity",
+          "url": "/university/amity-university"
+        },
+        "accreditations": ["ISO", "NAAC A++", "UGC", "AICTE"],
+        "rating": 4.8,
+        "duration": "24 months 4 sem",
+        "courseFee": { "range": "2,50,000", "note": "Total program fee" },
+        "brochure": "/Downloadbrouchers/AMITY/MSC-AMITY/MSC-Data-Science.pdf",
+        "button": [
+          {
+            "name": "Know More",
+            "link": "/university/amity-university",
+            "form": false
+          },
+          {
+            "name": "Enroll Now",
+            "link": "",
+            "form": true
+          }
+        ],
+        "productId": 294,
+        "sourceId": 151,
+        "universityName": "Amity University"
+      }
+    ]
+  },
+
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+  "category": "certifications",
+
+  "banner": {
+    "name": "MSC in Data Science",
+    "position": 1,
+    "mainHeading": "MSC in Data Science – Your Pathway to Advanced Data Expertise",
+    "description": "Build deep expertise in data analysis, AI, and predictive modelling. This program prepares you to turn complex data into powerful business intelligence and drive smarter decisions.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "", "alt": "" },
+    "bannerImage": {
+      "src": "/pgbanerimages/ms/msc_ds.webp",
+      "alt": "MSc in Data Science with Advanced Data Analytics and AI Expertise"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose", "This Program"],
+      "benefits": [
+        "Learn data science from expert practitioners",
+        "Build strong modelling and ML fundamentals",
+        "Work on real data engineering and analytics tasks",
+        "Improve problem-solving and quantitative skills",
+        "Flexible program designed for busy learners",
+        "Resume and placement support included",
+        "Attend AI and data science expert sessions",
+        "Practice through mock interviews and tasks",
+        "Become job-ready for analytics and data roles"
+      ]
+    },
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["The Overview of", "MSC in Data Science"],
+    "overViewImage": {
+      "src": "/home/overview/overview8.webp",
+      "alt": "MSc in Data Science – Program Overview"
+    },
+    "subHeading": "Enter the World of Advanced Data Intelligence",
+    "description": "The MSC in Data Science at Teksversity helps learners build strong analytical, computational, and statistical abilities essential for modern data environments. Students work with machine learning models, big data platforms, visualization tools, and predictive analytics through simulation-based and project-driven learning. The curriculum strengthens the ability to interpret data, build automated workflows, and support complex decision-making. Designed for working individuals, this master of science in data science online program prepares learners for careers in AI, analytics, engineering, and data-led strategy across global industries.",
+    "keyPoints": [
+      "Understand ML, data engineering, and analytics workflows",
+      "Use tools for modelling, dashboards, and automation",
+      "Strengthen statistical and computational analysis",
+      "Apply ethical and responsible data practices",
+      "Develop leadership for technical data roles"
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": ["Why Choose MSC in Data Science", "in Teksversity?"],
+    "subHeading": ["Celebrating", "Excellence"],
+    "title": ["13 Years of ", "Legacy", "(Commitment, Growth, Success)"],
+    "LegacyCards": [
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "4.72/5",
+        "label": "Overall Program Rating"
+      },
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "99/100",
+        "label": "Sessions Rated 4+/5"
+      },
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "4.8/5",
+        "label": "Average Session Rating"
+      }
+    ],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "Teksversity offers a practical, industry-focused MSC in Data Science that combines advanced analytics, machine learning, automation techniques, and data engineering tools. Students work on case studies, simulations, and model-building exercises that replicate real industry applications, helping them strengthen hands-on expertise.",
+    "description": [
+      {
+        "firstDescription": "Guided by experienced data scientists, the curriculum enables learners to master predictive analytics, visualization, ML fundamentals, and data interpretation. The training helps students understand how data science transforms business systems, operations, and product strategy."
+      },
+      {
+        "secondDescription": "The program’s flexible online structure supports working professionals aiming to upgrade their data skills. With resume support, mentorship, and structured placement training, learners gain confidence to move into roles in AI, data engineering, analytics, research, and automation-focused environments."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": ["Key Highlights of", "MSC in Data Science"],
+    "sections": [
+      { "name": "Learning Experience", "value": "LearningExperience" },
+      { "name": "Support & Assistance", "value": "SupportandAssistance" },
+      { "name": "Career Support", "value": "CareerSupport" },
+      {
+        "name": "Networking & Peer Learning",
+        "value": "NetworkingandPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "LearningExperience": {
+        "keyPoints": [
+          "Case studies on ML, analytics, and data modelling",
+          "Projects on dashboards, pipelines, and automation",
+          "Workshops on data tools and cloud technologies",
+          "Leadership training in analytical communication",
+          "Sessions led by data science professionals"
+        ]
+      },
+      "SupportandAssistance": {
+        "keyPoints": [
+          "One-on-one mentoring from data experts",
+          "24/7 access to study resources and tools",
+          "Recorded classes for flexible revision",
+          "Personalized support for academic growth",
+          "Internship assistance for data science roles"
+        ]
+      },
+      "CareerSupport": {
+        "keyPoints": [
+          "Placement help for data and analytics careers",
+          "Resume building for technical job roles",
+          "Mock interviews led by industry experts",
+          "Career mapping for relevant opportunities",
+          "Leadership and professional readiness"
+        ]
+      },
+      "NetworkingandPeerLearning": {
+        "keyPoints": [
+          "Webinars with AI and data industry experts",
+          "Peer collaboration on modelling tasks",
+          "Alumni sessions with data professionals",
+          "Group tasks on ML and strategy models",
+          "Global networking through virtual events"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our", "Course Brochure"],
+    "description": "Download the detailed MSC in Data Science brochure to explore program modules, tools, projects, assessments, admissions, and placement support. Learn how this online master's degree in data science helps you build the expertise needed for analytics, engineering, and AI-driven careers.",
+    "subHeading": "What You’ll Get in the Brochure:",
+    "highlights": [
+      "Complete program structure and module list",
+      "Data science and engineering career pathways",
+      "Admission and eligibility information",
+      "Internship & placement support details",
+      "Tools, faculty, and learning structure"
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": { "src": "/certificate/brochuree.webp", "alt": "Download MSc in Data Science Program Brochure" }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 12,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 13,
+    "heading": ["Take the Leap", " Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "null" },
+        "link": "null"
+      }
+    }
+  },
+
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },{
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+  "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      },
+      "formBackground": {
+        "src": "/home/formbg.webp",
+        "alt": "Spin and Win Form Background"
+      }
+    }
+  },
+  
+  "pricing_summary": {
+    "position": 15,
+    "price_of_course": {
+      "label": "Price of Course",
+      "value": 10000
+    },
+    "discount": {
+      "label": "Discount",
+      "cta_button": {
+        "text": "Spin & Win",
+        "link": "#spin_and_win_promo_link"
+      }
+    },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+    "questionSection": {
+      "position": 17,
+      "heading": ["Frequently asked", "Questions"],
+      "faq": [
+        {
+          "question": "What is an MSc in Data Science?",
+          "answer": "An MSc in Data Science is a postgraduate program that focuses on statistical analysis, machine learning, data engineering, programming, data visualization, and advanced analytics. It prepares students to solve real-world problems using data-driven insights."
+        },
+        {
+          "question": "Who can pursue this course?",
+          "answer": "Students with a background in Computer Science, IT, Mathematics, Statistics, Engineering, or related fields can pursue MSc Data Science. Candidates with strong analytical and mathematical skills are ideal for this program."
+        },
+        {
+          "question": "What is the duration of the MSc Data Science program?",
+          "answer": "The program typically lasts 2 years, divided into semesters that include theory, practical labs, analytics projects, internships, and a final capstone project."
+        },
+        {
+          "question": "What subjects are covered in MSc Data Science?",
+          "answer": "The syllabus includes Statistics, Python Programming, Machine Learning, Deep Learning, Data Mining, Data Visualization, Big Data Analytics, Cloud Computing, NLP, and Predictive Modeling."
+        },
+        {
+          "question": "What skills will I gain from this course?",
+          "answer": "You will gain skills in programming (Python, R), statistical modeling, data wrangling, machine learning algorithms, neural networks, data visualization tools, SQL, big data platforms, and cloud-based analytics deployment."
+        },
+        {
+          "question": "What are the career opportunities after MSc Data Science?",
+          "answer": "Graduates can work as Data Scientists, ML Engineers, Data Analysts, AI Engineers, Data Engineers, Research Analysts, Business Analysts, and Big Data Specialists across IT, finance, healthcare, retail, e-commerce, and more."
+        },
+        {
+          "question": "What is the eligibility criteria for MSc Data Science?",
+          "answer": "Candidates must hold a bachelor’s degree in Computer Science, IT, Statistics, Mathematics, Engineering, or any quantitative field. Some institutions require entrance exams or merit-based admission."
+        },
+        {
+          "question": "Does the program include hands-on training?",
+          "answer": "Yes. Students work on real datasets, machine learning projects, big data tools, cloud platforms, data pipelines, and a final capstone project to gain industry-ready practical skills."
+        },
+        {
+          "question": "Which tools and technologies will I learn?",
+          "answer": "You will learn Python, R, TensorFlow, PyTorch, Scikit-Learn, SQL, Hadoop, Spark, Power BI, Tableau, Jupyter Notebook, AWS, Azure, and Google Cloud."
+        },
+        {
+          "question": "What is the future scope for Data Science professionals?",
+          "answer": "Data Science is one of the fastest-growing fields globally. Professionals have strong opportunities in AI, machine learning, automation, predictive analytics, cloud analytics, and advanced business intelligence roles across every major industry."
+        }
+      ]
+    },
+    "letsTalk": {
+      "position": 18,
+      "heading": ["Confused About Your Next Step?"],
+      "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+      "button": {
+        "name": "Let's Talk",
+        "link": null,
+        "form": true
+      },
+      "callPopup": {
+        "heading": ["Just One Click To Call"],
+        "subHeading": "Toll Free",
+        "image": {
+          "src": "/home/letstalk.webp",
+          "alt": "letstalk.webp"
+        },
+        "phoneNumber": "1800-309-9909",
+        "description": "Get started today Teksversity is here to guide you"
+      }
+    },
+    "mostSearchedTerms": {
+      "position": 19,
+      "locations": ["Hyderabad", "Kakinada"],
+      "courses": [
+        "MSC in Data Science",
+        "Master of science in data science online",
+        "Online master's degree in data science",
+        "Data analyst masters program",
+        "Data science master's online",
+        "Master of science in data science",
+        "Master's degree in data science",
+        "Online data science masters",
+        "Masters in data science India",
+        "Data science masters programs"
+      ]
+    }
+  },
+   "hiringPartners": {
+    "position": 12,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "companies": [
+      {
+        "name": "TCS",
+        "image": {
+          "src": "/home/hiring_companies/tcs.webp",
+          "alt": "TCS Logo"
+        }
+      },
+      {
+        "name": "Adobe",
+        "image": {
+          "src": "/home/hiring_companies/adobe.webp",
+          "alt": "Adobe Logo"
+        }
+      },
+      {
+        "name": "Google",
+        "image": {
+          "src": "/home/hiring_companies/google.webp",
+          "alt": "Google Logo"
+        }
+      },
+      {
+        "name": "Tech Mahindra",
+        "image": {
+          "src": "/home/hiring_companies/techmahindra.webp",
+          "alt": "Tech Mahindra"
+        }
+      },
+      {
+        "name": "Capgemini",
+        "image": {
+          "src": "/home/hiring_companies/capgemini.webp",
+          "alt": "Capgemini Logo"
+        }
+      },
+      {
+        "name": "Infosys",
+        "image": {
+          "src": "/home/hiring_companies/infosys.webp",
+          "alt": "Infosys Logo"
+        }
+      },
+      {
+        "name": "Intel",
+        "image": {
+          "src": "/home/hiring_companies/intel.webp",
+          "alt": "Intel Logo"
+        }
+      },
+      {
+        "name": "Deloitte",
+        "image": {
+          "src": "/home/hiring_companies/deloitte.webp",
+          "alt": "Deloitte Logo"
+        }
+      },
+      {
+        "name": "Microsoft",
+        "image": {
+          "src": "/home/hiring_companies/microsoft.webp",
+          "alt": "Microsoft Logo"
+        }
+      },
+      {
+        "name": "Accenture",
+        "image": {
+          "src": "/home/hiring_companies/accenture.webp",
+          "alt": "Accenture Logo"
+        }
+      },
+      {
+        "name": "AMD",
+        "image": {
+          "src": "/home/hiring_companies/amd.webp",
+          "alt": "AMD Logo"
+        }
+      },
+      {
+        "name": "Apple",
+        "image": {
+          "src": "/home/hiring_companies/apple.webp",
+          "alt": "Apple Logo"
+        }
+      },
+      {
+        "name": "IBM",
+        "image": {
+          "src": "/home/hiring_companies/ibm.webp",
+          "alt": "IBM Logo"
+        }
+      },
+      {
+        "name": "Flipkart",
+        "image": {
+          "src": "/home/hiring_companies/flipkart.webp",
+          "alt": "Flipkart Logo"
+        }
+      },
+      {
+        "name": "Cognizant",
+        "image": {
+          "src": "/home/hiring_companies/cognizant.webp",
+          "alt": "Cognizant Logo"
+        }
+      },
+      {
+        "name": "Oracle",
+        "image": {
+          "src": "/home/hiring_companies/oracle.webp",
+          "alt": "Oracle Logo"
+        }
+      },
+      {
+        "name": "Kapilit",
+        "image": {
+          "src": "/home/hiring_companies/kapilit.webp",
+          "alt": "Kapilit Logo"
+        }
+      },
+      {
+        "name": "Netflix",
+        "image": {
+          "src": "/home/hiring_companies/netflix.webp",
+          "alt": "Netflix Logo"
+        }
+      },
+      {
+        "name": "Axis Bank",
+        "image": {
+          "src": "/home/hiring_companies/axis_bank.webp",
+          "alt": "Axis Bank Logo"
+        }
+      },
+      {
+        "name": "Genpact",
+        "image": {
+          "src": "/home/hiring_companies/genpact.webp",
+          "alt": "Genpact Logo"
+        }
+      },
+      {
+        "name": "Bajaj",
+        "image": {
+          "src": "/home/hiring_companies/bajaj.webp",
+          "alt": "Bajaj Logo"
+        }
+      },
+      {
+        "name": "HDFC",
+        "image": {
+          "src": "/home/hiring_companies/Hdfc.webp",
+          "alt": "HDFC Logo"
+        }
+      },
+      {
+        "name": "ICICI",
+        "image": {
+          "src": "/home/hiring_companies/icici.webp",
+          "alt": "ICICI Logo"
+        }
+      },
+      {
+        "name": "SBI",
+        "image": {
+          "src": "/home/hiring_companies/sbi.webp",
+          "alt": "SBI Logo"
+        }
+      },
+      {
+        "name": "LIC",
+        "image": {
+          "src": "/home/hiring_companies/lic.webp",
+          "alt": "LIC Logo"
+        }
+      },
+      {
+        "name": "Kotak",
+        "image": {
+          "src": "/home/hiring_companies/kotak.webp",
+          "alt": "Kotak Logo"
+        }
+      },
+      {
+        "name": "Tata",
+        "image": {
+          "src": "/home/hiring_companies/tata.webp",
+          "alt": "Tata Logo"
+        }
+      },
+      {
+        "name": "Ujivan",
+        "image": {
+          "src": "/home/hiring_companies/ujivan.webp",
+          "alt": "Ujivan Logo"
+        }
+      },
+      {
+        "name": "Care Health",
+        "image": {
+          "src": "/home/hiring_companies/carehealthinsurance.webp",
+          "alt": "Care Health Logo"
+        }
+      },
+      {
+        "name": "Max Life",
+        "image": {
+          "src": "/home/hiring_companies/maxlife.webp",
+          "alt": "Max Life Logo"
+        }
+      },
+      {
+        "name": "Star Bank",
+        "image": {
+          "src": "/home/hiring_companies/starbank.webp",
+          "alt": "Star Bank Logo"
+        }
+      },
+      {
+        "name": "Kapil Chits",
+        "image": {
+          "src": "/home/hiring_companies/kapil_chits.webp",
+          "alt": "Kapil Chits Logo"
+        }
+      },
+      {
+        "name": "Shriram Chits",
+        "image": {
+          "src": "/home/hiring_companies/sriram_chits.webp",
+          "alt": "Shriram Chits Logo"
+        }
+      },
+      {
+        "name": "Mahindra Finance",
+        "image": {
+          "src": "/home/hiring_companies/mahindhra.webp",
+          "alt": "Mahindra Finance Logo"
+        }
+      },
+      {
+        "name": "Muthut Finance",
+        "image": {
+          "src": "/home/hiring_companies/muthutfinance.webp",
+          "alt": "Muthut Finance Logo"
+        }
+      },
+      {
+        "name": "Karur Bank",
+        "image": {
+          "src": "/home/hiring_companies/karur_bank.webp",
+          "alt": "Karur Bank Logo"
+        }
+      },
+      {
+        "name": "Axis",
+        "image": {
+          "src": "/home/hiring_companies/axis_bank.webp",
+          "alt": "Axis Logo"
+        }
+      },
+      {
+        "name": "L&T Finance",
+        "image": {
+          "src": "/home/hiring_companies/tandtfinance.webp",
+          "alt": "L&T Finance Logo"
+        }
+      }
+    ]
+  },
+
+  "questionSection": {
+    "position": 12,
+    "heading": ["Frequently asked", "Questions"],
+      "faq": [
+    {
+      "question": "What is an MSc in Data Science?",
+      "answer": "An MSc in Data Science is a postgraduate program that focuses on statistical analysis, machine learning, data engineering, programming, data visualization, and advanced analytics. It prepares students to solve real-world problems using data-driven insights."
+    },
+    {
+      "question": "Who can pursue this course?",
+      "answer": "Students with a background in Computer Science, IT, Mathematics, Statistics, Engineering, or related fields can pursue MSc Data Science. Candidates with strong analytical and mathematical skills are ideal for this program."
+    },
+    {
+      "question": "What is the duration of the MSc Data Science program?",
+      "answer": "The program typically lasts 2 years, divided into semesters that include theory, practical labs, analytics projects, internships, and a final capstone project."
+    },
+    {
+      "question": "What subjects are covered in MSc Data Science?",
+      "answer": "The syllabus includes Statistics, Python Programming, Machine Learning, Deep Learning, Data Mining, Data Visualization, Big Data Analytics, Cloud Computing, NLP, and Predictive Modeling."
+    },
+    {
+      "question": "What skills will I gain from this course?",
+      "answer": "You will gain skills in programming (Python, R), statistical modeling, data wrangling, machine learning algorithms, neural networks, data visualization tools, SQL, big data platforms, and cloud-based analytics deployment."
+    },
+    {
+      "question": "What are the career opportunities after MSc Data Science?",
+      "answer": "Graduates can work as Data Scientists, ML Engineers, Data Analysts, AI Engineers, Data Engineers, Research Analysts, Business Analysts, and Big Data Specialists across IT, finance, healthcare, retail, e-commerce, and more."
+    },
+    {
+      "question": "What is the eligibility criteria for MSc Data Science?",
+      "answer": "Candidates must hold a bachelor’s degree in Computer Science, IT, Statistics, Mathematics, Engineering, or any quantitative field. Some institutions require entrance exams or merit-based admission."
+    },
+    {
+      "question": "Does the program include hands-on training?",
+      "answer": "Yes. Students work on real datasets, machine learning projects, big data tools, cloud platforms, data pipelines, and a final capstone project to gain industry-ready practical skills."
+    },
+    {
+      "question": "Which tools and technologies will I learn?",
+      "answer": "You will learn Python, R, TensorFlow, PyTorch, Scikit-Learn, SQL, Hadoop, Spark, Power BI, Tableau, Jupyter Notebook, AWS, Azure, and Google Cloud."
+    },
+    {
+      "question": "What is the future scope for Data Science professionals?",
+      "answer": "Data Science is one of the fastest-growing fields globally. Professionals have strong opportunities in AI, machine learning, automation, predictive analytics, cloud analytics, and advanced business intelligence roles across every major industry."
+    }
+  ]
+  },
+  "letsTalk": {
+    "position": 13,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today—Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 14,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+        "MSC in Data Science",
+    "Master of science in data science online",
+    "Online master's degree in data science",
+    "Data analyst masters program",
+    "Data science master's online",
+    "Master of science in data science",
+    "Master's degree in data science",
+    "Online data science masters",
+    "Masters in data science India",
+    "Data science masters programs"
+    ]
+  }
+}

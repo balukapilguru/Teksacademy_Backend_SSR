@@ -1,0 +1,1202 @@
+{
+  "meta": {
+    "title": "Online Master of Arts (MA) Degree with 100% Career Support",
+    "description": "Build strong analytical, communication, and social science expertise through the Online Master of Arts (MA) program with multiple specializations for career growth.",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is a BBA course?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Bachelor of Business Administration (BBA) is an undergraduate degree that builds strong foundations in management, marketing, finance, and business operations. At Teksversity, the program blends academic theory with practical business exposure, helping students develop leadership and decision-making skills essential for corporate success."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why should I study BBA at Teksversity?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Teksversity’s BBA program focuses on industry-ready learning, offering a mix of classroom teaching, real-world case studies, and personality development sessions. Students also gain hands-on experience through internships and live business projects, ensuring they graduate with both knowledge and confidence to excel in their careers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What subjects are covered in the BBA syllabus?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The BBA syllabus at Teksversity includes core subjects like Business Economics, Financial Accounting, Human Resource Management, Marketing Management, Organizational Behavior, and Business Law. Alongside, students also learn digital marketing, entrepreneurship, and business analytics, aligning the curriculum with modern industry needs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the career opportunities after completing BBA?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "After completing BBA, graduates can explore a wide range of job roles such as Business Analyst, Marketing Executive, Financial Advisor, HR Executive, Operations Manager, or Entrepreneur. Teksversity also provides career guidance and placement support, helping students connect with top recruiters and build strong professional networks."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I pursue higher education after BBA?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes! BBA graduates from Teksversity can pursue advanced studies like MBA, PGDM, M.Com, or specialized master’s programs in areas such as Finance, Marketing, Human Resources, International Business, or Data Analytics to deepen their expertise and expand career prospects."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the duration and eligibility for BBA?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The BBA course duration at Teksversity is three years (six semesters). Students who have completed 10+2 in any stream from a recognized board are eligible to apply. A passion for management and business leadership is an added advantage."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Teksversity provide internships and placement support for BBA students?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Absolutely! Teksversity ensures every BBA student gains real-time industry exposure through internships, workshops, and business simulations. The dedicated placement cell assists students with resume building, interview preparation, and job placements in reputed companies."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What skills will I gain from Teksversity’s BBA course?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Teksversity’s BBA program helps students develop leadership, communication, analytical thinking, financial planning, and marketing strategy skills. Students also gain exposure to digital business tools and emerging technologies, preparing them for today’s dynamic corporate world."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is BBA a good choice for entrepreneurship?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the BBA course at Teksversity is an ideal choice for aspiring entrepreneurs. It provides deep insights into business strategy, operations, and innovation, enabling students to start and manage their own ventures with confidence and clarity."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does Teksversity support overall student development in BBA?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Beyond academics, Teksversity focuses on soft skills, leadership workshops, group discussions, and business competitions that help students grow personally and professionally. The institute encourages practical learning and innovation, making BBA graduates well-rounded business professionals."
+          }
+        }
+      ]
+    }
+  },
+
+  "formDetails": {
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "courseName": "Master of Arts",
+    "universities": [
+      {
+        "university": "jain-university",
+        "image": {
+          "src": "/home/universitylogos/jain.webp",
+          "alt": "jain",
+          "url": "/university/jain-university"
+        },
+        "accreditations": ["ISO", "NAAC A++", "UGC", "AICTE"],
+        "rating": 4.8,
+        "duration": "",
+        "courseFee": { "range": "20,500-90,000", "note": "Total program fee" },
+        "brochure": "",
+ 
+        "button": [
+          {
+            "name": "Know More",
+            "link": "/university/jain-university",
+            "form": false
+          },
+          {
+            "name": "Enroll Now",
+            "link": "",
+            "form": true
+          }
+        ],
+        "sourceId": 155,
+        "universityName": "Jain University"
+      },
+      {
+        "university": "amity-university",
+        "image": {
+          "src": "/home/universitylogos/amity.webp",
+          "alt": "amity",
+          "url": "/university/amity-university"
+        },
+        "accreditations": ["ISO", "NAAC A++", "UGC", "AICTE"],
+        "rating": 4.8,
+        "duration": "",
+        "courseFee": { "range": "1,30,000-1,70,000", "note": "Total program fee" },
+        "button": [
+          {
+            "name": "Know More",
+            "link": "/university/amity-university",
+            "form": false
+          },
+          {
+            "name": "Enroll Now",
+            "link": "",
+            "form": true
+          }
+        ],
+        "sourceId": 151,
+        "universityName": "Amity University"
+      }
+    ]
+  },
+
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Specializations", "id": "specializations" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+  "category": "academics",
+  "branch": "Master of Arts",
+
+  "banner": {
+    "position": 1,
+    "mainHeading": "Master of Arts (MA) – Your Pathway to Academic Depth & Professional Versatility",
+    "description": "Choose your MA specialization to deepen expertise in your preferred field—this program offers focused academic training, advanced analytical skills, and the flexibility to build a versatile career aligned with your passion.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/ugbanerimages/bba/bba.webp",
+      "alt": "Master of Arts with Advanced Humanities and Social Sciences Expertise"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose This Program"],
+      "benefits": [
+        "Learn from expert faculty across major MA disciplines",
+        "Build strong analytical and conceptual understanding",
+        "Gain exposure to research, writing, and critical inquiry",
+        "Work on real case studies and academic projects",
+        "Flexible program ideal for working learners",
+        "Resume and placement support included",
+        "Attend expert-led social science webinars",
+        "Improve confidence through mock interviews",
+        "Become job-ready for academic and industry roles"
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["The overview of", "Master of Arts (MA)"],
+    "overViewImage": {
+      "src": "/home/overview/overview6.webp",
+      "alt": "overview.webp"
+    },
+    "subHeading": "Advance Your Career with a Flexible, Multi-Disciplinary MA Program",
+    "description": "The Online Master of Arts (MA) program at Teksversity strengthens academic, analytical, and professional capabilities across the humanities and social sciences. Students gain deep exposure to key concepts, influential theories, research methodologies, communication frameworks, and discipline-specific perspectives that shape real-world understanding. The curriculum blends foundational learning with practical assignments, projects, presentations, and interactive discussions to build well-rounded academic excellence. With flexible scheduling and expert-guided coursework, this online MA degree supports working professionals aiming for career growth in education, media, policy, governance, research, community development, and various social-impact sectors.",
+    "keyPoints": [
+      "Understand core concepts across MA specializations",
+      "Build strong research and communication abilities",
+      "Strengthen analytical and interpretative skills",
+      "Apply ethical and academically sound practices",
+      "Develop readiness for academic and professional roles"
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": ["Why choose MA", "in Teksversity?"],
+    "subHeading": ["Celebrating", " Excellence"],
+    "title": ["13 Years of", " Legacy", "(Commitment, Growth, Success)"],
+    "legacyCards": [
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "4.72/5",
+        "label": "Overall Program Rating"
+      },
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "99/100",
+        "label": "Sessions Rated 4+/5"
+      },
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "4.8/5",
+        "label": "Average Session Rating"
+      }
+    ],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "Teksversity offers a comprehensive MA degree online that helps learners specialize in fields like English, Sociology, Political Science, Economics, Journalism, Public Policy, and more. Students engage in real academic tasks, research-focused projects, and case-based assignments that strengthen discipline-oriented skills..",
+    "description": [
+      {
+        "firstDescription": "Each specialization integrates academic knowledge with applied skills from mastering digital marketing and financial analytics to developing people management and entrepreneurial insight. This approach ensures that learners are equipped to tackle modern business challenges with strategic and ethical understanding."
+      },
+      {
+        "secondDescription": "The flexible learning model supports students balancing academics with work. Career guidance, resume training, and interview preparation help learners pursue opportunities in education, research, journalism, public policy, governance, NGOs, media, and social development sectors."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": ["Key Highlights of the", "MA Program"],
+    "sections": [
+      { "name": "Learning Experience", "value": "LearningExperience" },
+      { "name": "Support & Assistance", "value": "SupportandAssistance" },
+      { "name": "Career Support", "value": "CareerSupport" },
+      {
+        "name": "Networking & Peer Learning",
+        "value": "NetworkingandPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "LearningExperience": {
+        "keyPoints": [
+          "Case studies across arts and social science fields",
+          "Projects in writing, research, and analysis",
+          "Workshops on academic tools and methodologies",
+          "Training in communication and critical inquiry",
+          "Sessions led by expert faculty and researchers"
+        ]
+      },
+      "SupportandAssistance": {
+        "keyPoints": [
+          "One-on-one academic mentoring support",
+          "24/7 access to study materials and tools",
+          "Recorded classes for flexible learning",
+          "Personalized guidance for study progress",
+          "Internship assistance in related domains"
+        ]
+      },
+      "CareerSupport": {
+        "keyPoints": [
+          "Placement assistance for MA career paths",
+          "Resume building for academic and industry roles",
+          "Mock interviews with subject experts",
+          "Career mapping for better specialization choices",
+          "Leadership and professional readiness support"
+        ]
+      },
+      "NetworkingandPeerLearning": {
+        "keyPoints": [
+          "Webinars with educators and social science experts",
+          "Peer collaboration on research projects",
+          "Alumni sessions from diverse MA fields",
+          "Group tasks in communication and analysis",
+          "Global networking through virtual meets"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our ", "Course Brochure"],
+    "description": "Download the detailed Master of Arts (MA) brochure to explore program structure, specializations, admission pathways, and placement support. Learn how Teksversity’s MA specializations enhance academic, analytical, and professional skill development.",
+    "subHeading": "What You’ll Get in the Brochure:",
+    "highlights": [
+      "Program structure and specialization options",
+      "Career pathways across MA disciplines",
+      "Admission and eligibility details",
+      "Internship and placement assistance",
+      "Tools, faculty, and learning methods"
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/certificate/brochuree.webp",
+      "alt": "brochuree.webp"
+    }
+  },
+
+  "specializations": {
+    "position": 7,
+    "heading": ["Specializations"],
+    "paragraph": "Choose from our comprehensive suite of analytics and management solutions",
+    "specializations": [
+      {
+        "heading": "English",
+        "action": "Explore",
+        "link": "/courses/ma/english",
+        "image": {
+          "src": "/pgbanerimages/ma/specializationsicons/arts_in_english.webp",
+          "alt": "English"
+        },
+        "universities": [
+          {
+            "ProductId": 302,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "/Downloadbrouchers/JAIN/MA-JAIN/MA-english.pdf",
+            "fee": "90,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+
+      {
+        "heading": "Jainlogy and Comparative Religion and Philosophy",
+        "action": "Explore",
+        "link": "/courses/ma/jainology-and-comparative-religion-and-philosophy",
+        "image": {
+          "src": "/pgbanerimages/ma/specializationsicons/ma_jainology.webp",
+          "alt": "Jainology"
+        },
+        "universities": [
+          {
+            "ProductId": 311,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "/Downloadbrouchers/JAIN/MA-jainology-comparative-religions-philosophy.pdf",
+            "fee": "20,500",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+
+      {
+        "heading": "Economics",
+        "action": "Explore",
+        "link": "/courses/ma/economics",
+        "image": {
+          "src": "/pgbanerimages/ma/specializationsicons/ma_economics.webp",
+          "alt": "Economics"
+        },
+        "universities": [
+          {
+            "ProductId": 312,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "",
+            "fee": "90,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+
+      {
+        "heading": "Public Policy",
+        "action": "Explore",
+        "link": "/courses/ma/public-policy",
+        "image": {
+          "src": "/pgbanerimages/ma/specializationsicons/ma_publicpolicy.webp",
+          "alt": "Public Policy"
+        },
+        "universities": [
+          {
+            "ProductId": 314,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "/Downloadbrouchers/JAIN/MA-JAIN/MA-public-policy.pdf",
+            "fee": "90,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+
+      {
+        "heading": "Journalism",
+        "action": "Explore",
+        "link": "/courses/ma/journalism-and-mass-communication",
+        "image": {
+          "src": "/pgbanerimages/ma/specializationsicons/ma_generalism.webp",
+          "alt": "Generalism"
+        },
+        "universities": [
+          {
+            "ProductId": 319,
+            "sourceId": 151,
+            "name": "amity-university",
+            "universityName": "Amity University",
+            "brochure": "/Downloadbrouchers/AMITY/MA-AMITY/MA-Journalism-Mass-Communication.pdf",
+            "fee": "1,70,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+
+      {
+        "heading": "Public Policy and Governance",
+        "action": "Explore",
+        "link": "/courses/ma/public-policy-and-governance",
+        "image": {
+          "src": "/pgbanerimages/ma/specializationsicons/governance.webp",
+          "alt": "Governance"
+        },
+        "universities": [
+          {
+            "ProductId": 320,
+            "sourceId": 151,
+            "name": "amity-university",
+            "universityName": "Amity University",
+            "brochure": "/Downloadbrouchers/AMITY/MA-AMITY/MA-Public-Policy-Governance.pdf",
+            "fee": "1,30,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      }
+    ]
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 9,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 10,
+    "heading": ["Take the Leap", " Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "null" },
+        "link": "null"
+      }
+    }
+  },
+
+  "programFeeStructure": {
+    "position": 11
+  },
+
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },{
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+ "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 15,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is an MA (Master of Arts)?",
+        "answer": "An MA is a postgraduate degree focused on humanities, social sciences, and liberal arts. It enhances analytical thinking, research abilities, communication skills, and domain-specific knowledge across subjects like English, Psychology, Political Science, Economics, Journalism, and more."
+      },
+      {
+        "question": "Who can pursue an MA degree?",
+        "answer": "Graduates from any recognized university with a BA or an equivalent degree in arts, humanities, or social sciences can pursue MA. Many universities also accept graduates from other streams based on eligibility criteria."
+      },
+      {
+        "question": "What is the duration of the MA program?",
+        "answer": "The MA program usually spans 2 years, divided into 4 semesters that include theory classes, seminars, research assignments, and project work depending on the specialization."
+      },
+      {
+        "question": "What specializations are available in an MA?",
+        "answer": "MA offers a wide range of specializations such as English, Economics, Psychology, Political Science, Sociology, Journalism & Mass Communication, Public Administration and Philosophy."
+      },
+      {
+        "question": "What skills will I gain from an MA?",
+        "answer": "Students develop strong communication, critical thinking, research abilities, presentation skills, analytical reasoning, academic writing, and subject-specific expertise useful for careers in teaching, media, research, public policy, and more."
+      },
+      {
+        "question": "What are the career opportunities after completing an MA?",
+        "answer": "MA graduates can work as Teachers, Professors, Content Writers, Editors, Journalists, Researchers, Psychologists (with further training), Social Workers, Policy Analysts, HR Managers, Public Relations Executives, and Government Officers."
+      },
+      {
+        "question": "What is the salary range after MA?",
+        "answer": "Fresh MA graduates typically earn ₹2.5–6 LPA, depending on specialization, skills, and industry. With experience, professionals in research, teaching, HR, media, and public policy can earn ₹7–15 LPA or more."
+      },
+      {
+        "question": "Can working professionals pursue an MA?",
+        "answer": "Yes. Many universities offer distance, online, weekend, and part-time MA programs, making it easy for working professionals to continue their education without leaving their jobs."
+      },
+      {
+        "question": "Is MA a good career choice?",
+        "answer": "Yes. MA is valuable for students interested in humanities, research, media, academics, public policy, social services, and creative fields. It provides strong career stability and opens pathways to higher studies like MPhil, PhD, and competitive exams."
+      },
+      {
+        "question": "What is the scope of MA in today’s job market?",
+        "answer": "MA degree holders are in demand in education, media, public administration, NGOs, HR, training & development, creative industries, and civil services. The rise of communication-driven roles makes MA graduates highly employable across multiple sectors."
+      }
+    ]
+  },
+
+  "letsTalk": {
+    "position": 14,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today—Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 17,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "Master of Arts (MA)",
+      "Master’s in arts",
+      "Online MA course",
+      "MA degree online",
+      "Master of arts course",
+      "MA specializations online",
+      "MA in English program",
+      "MA in Sociology course",
+      "MA in Journalism and Mass Communication",
+      "MA in Public Policy & Governance"
+    ]
+  }
+}

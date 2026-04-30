@@ -1,0 +1,1074 @@
+﻿{
+  "meta": {
+    "title": "Join an Online Degree with a Bachelor of Arts in Economic",
+    "description": "Build a strong foundation in economics with the BA in Economics program at Teksversity. Learn microeconomics, macroeconomics, and data analytics.",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "course",
+          "name": "BA in Economics",
+          "image": "https://teksversity.com/_next/static/media/ba-economics.png",
+          "description": "Explore the BA in Economics program at Teksversity. Learn microeconomics, macroeconomics, econometrics, and policy analysis with expert mentors and 100% placement support.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Teksversity"
+          },
+          "url": "https://teksversity.com/courses/ba-economics",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "120"
+          },
+          "offers": {
+            "@type": "AggregateOffer",
+            "url": "https://teksversity.com/courses/ba-economics",
+            "priceCurrency": "INR",
+            "lowPrice": "65000",
+            "highPrice": "85000",
+            "offerCount": "1",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is a BA in Economics course all about?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The Bachelor of Arts (BA) in Economics is a 3-year undergraduate degree focused on economic theories, market trends, data interpretation, and policy analysis. It equips students with analytical and problem-solving skills to understand financial systems and make informed business or government decisions."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the core subjects in a BA Economics course?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Core subjects include Microeconomics, Macroeconomics, Indian Economy, Econometrics, International Economics, Development Economics, and Public Finance. Many universities also include Data Analytics, Statistics, and Research Methodology to meet industry demands."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the eligibility for a BA in Economics in 2026?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Students must have completed 10+2 or equivalent from a recognized board, ideally with Mathematics, Economics, or Commerce as one of the subjects. Admission is generally merit-based, though some universities conduct entrance exams."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the future scope of a BA in Economics?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The scope of BA in Economics is vast in India and abroad. Graduates find opportunities in banking, finance, consulting, research, data analytics, and public policy. With the digital economy expanding, economics graduates are increasingly valued for data-driven decision-making and economic strategy roles."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the career opportunities after a BA in Economics?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "BA Economics graduates can work as Economic Analysts, Financial Planners, Policy Researchers, Market Analysts, Bank Officers, or Data Consultants. They are also recruited by think tanks, government departments, NGOs, and research organizations."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the higher education options after BA in Economics?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Students can pursue MA Economics, MBA, M.Sc. in Data Analytics, Finance, Public Policy, or International Relations. Those interested in teaching or research can continue towards a PhD. Specialized certifications in data science, financial modeling, or business analytics also enhance career prospects."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What skills should BA Economics students develop in 2026?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Key skills include data visualization (Excel, Power BI), statistical analysis (R, Python, SPSS, Stata), and critical thinking. Building strong communication and presentation abilities, along with real-world internship experience, helps students stand out in competitive job markets."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who are the top recruiters for BA Economics graduates?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Leading recruiters include RBI, SBI, HDFC, Deloitte, EY, KPMG, NITI Aayog, and ICRIER. Additionally, economic research firms, analytics startups, financial institutions, and international NGOs actively hire BA Economics graduates for policy and analytical roles."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the average salary after completing a BA in Economics in India?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The average starting salary for BA Economics graduates ranges between ₹3 LPA to ₹6 LPA. Candidates with skills in data analytics, financial modeling, or econometrics can secure packages of ₹8 LPA or higher in corporate and consulting sectors."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is a BA in Economics a good career choice in 2026–27?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! BA in Economics is one of the most future-ready degrees. With the growing importance of data analytics, digital finance, and global trade, economics graduates enjoy strong career growth and diverse job options in both public and private sectors."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+
+  "category": "specialization",
+
+  "formDetails": {
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "courseName": "Bachelor of Arts in Economics",
+    "universities": [
+      {
+        "university": "amity-university",
+        "image": {
+          "src": "/home/universitylogos/amity.webp",
+          "alt": "amity",
+          "url": "/university/amity-university"
+        },
+        "accreditations": ["ISO", "NAAC A+", "UGC", "AICTE"],
+        "rating": 4.6,
+        "duration": "3 years",
+        "courseFee": { "range": "99,000", "note": "Total program fee" },
+        "brochure": "",
+        "button": [{ "name": "Enroll Now", "link": "", "form": true }],
+        "productId": 225,
+        "sourceId": 151,
+        "universityName": "Amity University"
+      }
+    ]
+  },
+
+  "banner": {
+    "name": "Online BCom Degree with 100% Placement Assistance",
+    "position": 1,
+    "mainHeading": "BA in Economics – Build Analytical Thinking for Tomorrow’s Economists",
+    "description": "Earn your Bachelor of Arts in Economics and develop a deep understanding of economic principles, market dynamics, and policy analysis.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/ugbanerimages/ba/ba_in_econimics.webp",
+      "alt": "ba in economics"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose This Program?"],
+      "benefits": [
+        "Comprehensive and industry-aligned BA in Economics curriculum.",
+        "Learn from experienced economists and policy experts.",
+        "Explore microeconomics, macroeconomics, and econometrics.",
+        "Real-world data interpretation and economic modeling projects.",
+        "Build quantitative, research, and analytical skills.",
+        "Hands-on learning with case studies and simulations.",
+        "Exposure to financial, policy, and development economics.",
+        "100% placement assistance and career mentorship."
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["Overview of", "BA in Economics Program"],
+    "overViewImage": {
+      "src": "/home/overview/overview3.webp",
+      "alt": "overview.webp"
+    },
+    "subHeading": "Understand the World Through the Lens of Economics",
+    "description": {
+      "type": "richText",
+      "content": [
+        {
+          "type": "text",
+          "value": "The Bachelor of Arts in "
+        },
+        {
+          "type": "link",
+          "value": "Economics program",
+          "url": "/courses/ma/economics"
+        },
+        {
+          "type": "text",
+          "value": " at Teksversity offers a deep dive into how economies function, grow, and adapt to change. Designed for students who want to build strong quantitative and analytical reasoning skills, this bachelor’s degree in economics blends theoretical frameworks with real-world applications. Learners gain expertise in market structures, policy design, data analytics, and financial systems preparing them for roles in business, government, finance, and international organizations. Through a mix of lectures, simulations, and practical projects, students learn to analyze trends, predict outcomes, and influence strategic economic decisions."
+        }
+      ]
+    },
+    "keyPoints": [
+      "Understand core principles of microeconomics and macroeconomics.",
+      "Analyze economic trends using data-driven approaches.",
+      "Apply quantitative and econometric tools in real-world contexts.",
+      "Develop problem-solving and policy evaluation skills.",
+      "Prepare for diverse careers or higher studies in economics, finance, or data science."
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": ["Why Choose BA in Economics", "Teksversity?"],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "Choosing Teksversity for your bachelor of economics course means learning from a curriculum crafted to meet both academic and industry standards. The program bridges the gap between theoretical economics and its real-world implications through hands-on exercises, market analysis, and case studies.",
+    "description": [
+      {
+        "firstDescription": "Students learn directly from experienced economists, analysts, and business mentors who emphasize applied learning and practical insights. From financial modeling to policy design and data visualization, every course component aims to develop an analytical mindset and a global economic perspective."
+      },
+      {
+        "secondDescription": "Beyond academics, Teksversity provides personalized career guidance, resume building, and placement preparation. With dedicated mentorship and internship opportunities, we ensure every learner transitions smoothly from the classroom to professional success. At Teksversity, your BA in Economics is not just a degree it’s a stepping stone toward leadership in finance, policy, and data-driven decision-making."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": ["Key Highlights of", "BA in Economics Program"],
+    "sections": [
+      { "name": "Learning Experience", "value": "LearningExperience" },
+      { "name": "Support & Assistance", "value": "SupportandAssistance" },
+      { "name": "Career Support", "value": "CareerSupport" },
+      {
+        "name": "Networking & Peer Learning",
+        "value": "NetworkingandPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "LearningExperience": {
+        "keyPoints": [
+          "Microeconomics and macroeconomics case studies",
+          "Economic data interpretation and forecasting",
+          "Research-based project work",
+          "Quantitative and statistical analysis sessions",
+          "Econometric and financial modeling tools",
+          "Workshops led by industry economists",
+          "Team-based projects and presentations",
+          "Peer learning and academic debates",
+          "Regular progress assessments"
+        ]
+      },
+      "SupportandAssistance": {
+        "keyPoints": [
+          "Dedicated academic mentorship",
+          "24/7 learning platform access",
+          "Counseling and progress monitoring",
+          "Recorded class access for flexible learning",
+          "Personalized academic feedback",
+          "Technical and academic support desk",
+          "Internship and research project assistance",
+          "Hybrid and online learning modes",
+          "Continuous performance tracking"
+        ]
+      },
+      "CareerSupport": {
+        "keyPoints": [
+          "100% placement assistance",
+          "Resume and LinkedIn optimization",
+          "Mock interviews and aptitude training",
+          "Career counseling and pathway mapping",
+          "Internship and job tie-ups with economic research firms",
+          "Networking with finance and analytics professionals",
+          "Professional skill and report writing workshops",
+          "Career portfolio building and guidance",
+          "Progress and career growth tracking"
+        ]
+      },
+      "NetworkingandPeerLearning": {
+        "keyPoints": [
+          "Group discussions on global economic issues",
+          "Peer-reviewed project evaluations",
+          "Interdisciplinary collaborations with finance and data students",
+          "Expert webinars and live Q&A sessions",
+          "Alumni talks and success case studies",
+          "Professional networking forums",
+          "Economic research clubs and competitions",
+          "Virtual meetups and mentorship events",
+          "Collaborative learning initiatives"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our", "Course Brochure"],
+    "description": "Begin your journey toward economic expertise and analytical excellence with Teksversity’s BA in Economics program. Designed for future economists and data-driven thinkers, this degree empowers you to understand, interpret, and influence global financial systems.\nGet complete insights into the BA in Economics program at Teksversity your first step toward mastering economic systems, data analytics, and financial insights. Discover how this online bachelor’s degree blends theory, application, and employability for a thriving career in economics and policy.",
+    "subHeading": "What You’ll Get in the Brochure:",
+    "highlights": [
+      "Detailed BA in Economics curriculum and course modules.",
+      "Skill outcomes and career opportunities.",
+      "Admission criteria and eligibility requirements.",
+      "Internship and placement assistance details.",
+      "Learning tools, mentor profiles, and project highlights."
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/brochure/DB3.webp",
+      "alt": "DB3"
+    }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 8,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 9,
+    "heading": ["Take the Leap", "Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "flexible online learning"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "advanced lms"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "global certification"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "no cost emi"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affrordable fees"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ugc/naac recognized universities"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "expert faculty"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "online live and recorded sessions"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "industry-aligned curriculum"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "dual certifications"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ai enhanced learning"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "job focused training"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affordable and quality learning"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "placement and career support"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "view all" },
+        "link": "null"
+      }
+    }
+  },
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },
+      {
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+  "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      },
+      "formBackground": {
+        "src": "/home/formbg.webp",
+        "alt": "Spin and Win Form Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 12,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is a BA in Economics course all about?",
+        "answer": "The Bachelor of Arts (BA) in Economics is a 3-year undergraduate degree focused on economic theories, market trends, data interpretation, and policy analysis. It equips students with analytical and problem-solving skills to understand financial systems and make informed business or government decisions."
+      },
+      {
+        "question": "What are the core subjects in a BA Economics course?",
+        "answer": "Core subjects include Microeconomics, Macroeconomics, Indian Economy, Econometrics, International Economics, Development Economics, and Public Finance. Many universities also include Data Analytics, Statistics, and Research Methodology to meet industry demands."
+      },
+      {
+        "question": "What is the eligibility for a BA in Economics in 2026?",
+        "answer": "Students must have completed 10+2 or equivalent from a recognized board, ideally with Mathematics, Economics, or Commerce as one of the subjects. Admission is generally merit-based, though some universities conduct entrance exams."
+      },
+      {
+        "question": "What is the future scope of a BA in Economics?",
+        "answer": "The scope of BA in Economics is vast in India and abroad. Graduates find opportunities in banking, finance, consulting, research, data analytics, and public policy. With the digital economy expanding, economics graduates are increasingly valued for data-driven decision-making and economic strategy roles."
+      },
+      {
+        "question": "What are the career opportunities after a BA in Economics?",
+        "answer": "BA Economics graduates can work as Economic Analysts, Financial Planners, Policy Researchers, Market Analysts, Bank Officers, or Data Consultants. They are also recruited by think tanks, government departments, NGOs, and research organizations."
+      },
+      {
+        "question": "What are the higher education options after BA in Economics?",
+        "answer": "Students can pursue MA Economics, MBA, M.Sc. in Data Analytics, Finance, Public Policy, or International Relations. Those interested in teaching or research can continue towards a PhD. Specialized certifications in data science, financial modeling, or business analytics also enhance career prospects."
+      },
+      {
+        "question": "What skills should BA Economics students develop in 2026?",
+        "answer": "Key skills include data visualization (Excel, Power BI), statistical analysis (R, Python, SPSS, Stata), and critical thinking. Building strong communication and presentation abilities, along with real-world internship experience, helps students stand out in competitive job markets."
+      },
+      {
+        "question": "Who are the top recruiters for BA Economics graduates?",
+        "answer": "Leading recruiters include RBI, SBI, HDFC, Deloitte, EY, KPMG, NITI Aayog, and ICRIER. Additionally, economic research firms, analytics startups, financial institutions, and international NGOs actively hire BA Economics graduates for policy and analytical roles."
+      },
+      {
+        "question": "What is the average salary after completing a BA in Economics in India?",
+        "answer": "The average starting salary for BA Economics graduates ranges between ₹3 LPA to ₹6 LPA. Candidates with skills in data analytics, financial modeling, or econometrics can secure packages of ₹8 LPA or higher in corporate and consulting sectors."
+      },
+      {
+        "question": "Is a BA in Economics a good career choice in 2026–27?",
+        "answer": "Absolutely! BA in Economics is one of the most future-ready degrees. With the growing importance of data analytics, digital finance, and global trade, economics graduates enjoy strong career growth and diverse job options in both public and private sectors."
+      }
+    ]
+  },
+
+  "letsTalk": {
+    "position": 16,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 14,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "BA in economics",
+      "Bachelor of arts in economics",
+      "Online bachelor's degree in economics",
+      "Bachelor of economics course",
+      "Bachelor's degree in economics",
+      "Bachelor economics",
+      "Economics BA degree",
+      "Bachelor of economics online",
+      "Bachelor of arts in economics online",
+      "Online BA economics degree"
+    ]
+  }
+}

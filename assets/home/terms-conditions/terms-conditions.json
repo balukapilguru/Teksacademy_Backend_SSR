@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "title": "Terms & Conditions | Teksversity",
+    "description": "Read Teksversity Terms & Conditions to understand website usage, user responsibilities, course policies, payments, refunds, and legal guidelines for accessing our services."
+  },
+  "Admission": {
+    "heading":"Admission:",
+    "points": [
+      "The eligibility criteria for each course will be clearly communicated to the students before admission, and students must provide all required documents and information during the admission process.",
+      "Admission will be confirmed only after the completion of all formalities and payment of full fees."
+    ]
+  },
+  "Fee": {
+    "heading":"Fee:",
+    "points": [
+      "Fees for each course will be clearly communicated to the students before admission, and they are non-refundable except in case of course cancellation by the center or extenuating circumstances that prevent the student from continuing the course, in both cases payment will be refunded after deductions.",
+      "No Course Fee adjustment will be allowed from one course to another course.",
+      "No Course Fee adjustment will be allowed from one student to another student.",
+      "Any request for Course Fee adjustment will not be entertained by the Teksversity under any circumstances.",
+      "All Course Fees are non-transferable and non-refundable.",
+      "Students are advised to choose their courses carefully and make sure that they are fully committed to the course before paying the Course Fee.",
+      "In case a student is unable to complete the course due to valid reasons, the Course Fee will not be refunded or adjusted against any other course.",
+      "Late payment of fees may attract additional charges as per the center’s policy."
+    ]
+  },
+  "CourseMaterial": {
+    "heading":"Course Material:",
+    "points": [
+      "The course material and digital goods provided by the Teksversity is copyrighted and cannot be reproduced or used for commercial purposes without permission.",
+      "Any damage or loss of course material will be the responsibility of the student and may attract additional charges for extra material copy as per the center’s policy."
+    ]
+  },
+  "Attendance": {
+    "heading":"Attendance:",
+    "points": [
+      "Regular attendance is essential for successfully completing the course and obtaining a certificate.",
+      "Students must inform the center in advance if they are unable to attend a class due to valid reasons such as illness or emergencies.",
+      "Make-up classes may be arranged at the discretion of the center and subject to availability of resources."
+    ]
+  },
+  "Conduct": {
+    "heading":"Conduct:",
+    "points": [
+      "Students must conduct themselves respectfully towards the center staff, fellow students, and the center’s property.",
+      "Any form of harassment, discrimination, or bullying will not be tolerated and may lead to immediate expulsion from the center.",
+      "The use of drugs or alcohol within the center’s premises is strictly prohibited and may lead to immediate expulsion from the center."
+    ]
+  },
+  "Examinations": {
+    "heading":"Examinations:",
+    "points": [
+      "The examination schedule and format will be communicated to the students in advance.",
+      "Students must adhere to the rules and regulations of the examination, and any deviation may lead to disqualification or cancellation of the examination.",
+      "Students must return all examination papers and materials to the center after the examination is over."
+    ]
+  },
+  "Certification": {
+    "heading":"Certification:",
+    "points": [
+      "The certificate will only be awarded to students who successfully complete the course as per the center’s criteria.",
+      "The certificate does not guarantee employment or acceptance into any institution."
+    ]
+  },
+  "Liability": {
+    "heading":"Liability:",
+    "points": [
+      "The center may revise its policies, rules and regulations, course structure, fees, timings, or any other aspect of the Teksversity from time to time without prior notice to the students.",
+      "The revised policies will be applicable to all existing and new students."
+    ]
+  },
+  "DisputeResolution": {
+    "heading":"Dispute Resolution:",
+    "points": [
+      "Any dispute arising out of or related to these terms and conditions shall be resolved amicably through mutual discussion and agreement between the Teksversity and the student."
+    ]
+  },
+  "TerminationOfAdmission": {
+    "heading":"Termination of Admission:",
+    "points": [
+      "The center reserves the right to terminate the admission of any student at any time, without assigning any reason.",
+      "In such cases, the center may refund a portion of the fees that completely depends on centers decision and on the duration of the course completed by the student and the center’s policy."
+    ]
+  },
+  "PlacementGuarantee": {
+    "heading":"Placement Guarantee:",
+    "points": [
+      "The center does not provide any placement guarantee to the students but may assist them in finding suitable job opportunities through guidance, counseling, and if any recommendations."
+    ]
+  },
+  "UsingIDCard": {
+    "heading":"Using ID Card:",
+    "points": [
+      "Each student will be issued an identification card (ID card) by the Teksversity, and it must be carried by the student at all times while attending classes or any other activities conducted by the center."
+    ]
+  },
+  "CopyingInstituteContent": {
+    "heading":"Copying Institute Content:",
+    "points": [
+      "Copying or distributing any of the Teksversity’s course material, including lectures, notes, presentations, or any other content, is strictly prohibited Any violation of this rule may lead to immediate expulsion from the center and legal action may be taken against the student."
+    ]
+  },
+  "Absconding": {
+    "heading":"Absconding:",
+    "points": [
+      "Absconding, or leaving the Teksversity without informing the center authorities, is not permitted In case a student wishes to discontinue the course, they must inform the center in writing and complete all formalities as required."
+    ]
+  },
+  "AttendanceAndAbsence": {
+    "heading":"Attendance and Absence:",
+    "points": [
+      "Regular attendance is important for the successful completion of the course.",
+      "Students must inform the center in advance if they are unable to attend a class due to valid reasons such as illness or emergencies.",
+      "If a student is absent for 3 consecutive days without intimation, their admission may be terminated without refund."
+    ]
+  },
+  "TeachingStaff": {
+    "heading":"Teaching Staff:",
+    "points": [
+      "While the center will endeavor to provide training with a specific teaching staff, there is no commitment to do so.",
+      "The center reserves the right to assign trainers on the basis of availability, and students cannot demand a specific trainer."
+    ]
+  },
+  "CourseFees": {
+    "heading":"Course Fees:",
+    "points": [
+      "The Course Fees may vary from student to student, based on their merit and other relevant factors as determined by the center.",
+      "The center reserves the right to change the Course Fees at any time without prior notice."
+    ]
+  },
+  "CourseCurriculum": {
+    "heading":"Course Curriculum:",
+    "points": [
+      "The center reserves the right to update the course curriculum as per its requirements, without any prior notice to the students.",
+      "Students are expected to keep themselves updated with any changes in the course curriculum."
+    ]
+  },
+  "CourseDuration": {
+    "heading":"Course Duration:",
+    "points": [
+      "The course duration may vary from batch to batch, depending on factors such as student’s attendance, training methodology, and other relevant factors as determined by the center.",
+      "The center reserves the right to change the course duration at any time without prior notice."
+    ]
+  },
+  "PaidInternshipSupport": {
+    "heading":"Paid Internship Support:",
+    "points": [
+      "The Teksversity may assist students in finding suitable paid internships based on their skills and interests.",
+      "The Teksversity will not guarantee any specific internship or job placement.",
+      "The Teksversity may charge a separate fee for providing internship support services.",
+      "The Teksversity will not be liable for any issues or disputes that arise between the student and the internship provider."
+    ]
+  },
+  "Project Assignment": {
+    "heading":"Project Assignment:",
+  "points": [
+    "The Teksversity will provide practice projects to the students for their learning and skill development.",
+    "The projects assigned may be either live or previous completed projects, depending on availability and suitability.",
+    "Students must complete the project within the given time frame and submit it to the center for evaluation."
+  ]},
+  "Intellectual Property": {
+    "heading":"Intellectual Property:",
+    "points":[
+    "All intellectual property created by students during the live project or internship will belong to the student.",
+    "The Teksversity may use such intellectual property for promotional or educational purposes with the student's consent.",
+    "The Teksversity will not claim any ownership rights over the student's intellectual property."
+  ]
+}
+}
+
+

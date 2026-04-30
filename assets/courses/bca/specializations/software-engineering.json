@@ -1,0 +1,1047 @@
+﻿{
+  "meta": {
+    "title": "The Online degree with BCA in Software Engineering in India",
+    "description": "Build your career as a software engineer with the BCA in Software Engineering program. Learn coding, software design, and app development with expert mentorship.",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is a BCA in Software Engineering?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A BCA in Software Engineering is a 3-year undergraduate program that focuses on building strong foundations in programming, software development, application design, databases, and core IT technologies required for modern tech careers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who should pursue a BCA in Software Engineering?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Students interested in programming, app development, software design, system analysis, and IT-based roles will benefit most from this course. It’s also suitable for those aiming for higher studies such as MCA or M.Tech."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the eligibility criteria for BCA in Software Engineering?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Candidates must have completed 10+2 from a recognized board in any stream. While basic computer knowledge is an advantage, it is not mandatory, as the program begins with foundational IT and programming concepts."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the duration of the BCA in Software Engineering program?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The BCA in Software Engineering program is a 3-year undergraduate course divided into 6 semesters. It includes classroom theory, hands-on lab sessions, mini-projects each year, and a final major project in the last semester."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What subjects are taught in the BCA Software Engineering syllabus?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The BCA Software Engineering syllabus covers a strong mix of programming, IT fundamentals, and software development concepts. Core subjects include C, C++, Java, Python, Data Structures, DBMS, Operating Systems, Computer Networks, Web Technologies, Software Testing, Cloud Fundamentals, and Software Engineering methodologies. Most programs also include practical labs, mini-projects, and a final-year project."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need prior programming knowledge to join?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, you don’t need any prior programming experience. The course begins with foundational concepts and beginner-friendly programming modules, ensuring students from all academic backgrounds can learn and progress comfortably into advanced software development topics."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What career opportunities are available after BCA in Software Engineering?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Graduates of BCA in Software Engineering can pursue a variety of roles in the IT industry, including Software Developer, Web Developer, Java/Python Developer, UI/UX Designer, QA Tester, System Analyst, Database Administrator, and IT Support Engineer. The program also opens doors to careers in software consulting, cloud computing, and emerging technology roles."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the salary expectations after completing a BCA in Software Engineering?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "After completing a BCA in Software Engineering, fresh graduates can expect a starting salary of ₹3–6 LPA, depending on their skills, internships, and projects. With experience and specialization in areas like software development, web technologies, or database management, salaries can grow significantly, reaching ₹8–12 LPA or more in mid-level roles."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I pursue higher studies after BCA in Software Engineering?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, after completing BCA in Software Engineering, students can opt for MCA, MBA, M.Sc. in Computer Science, or M.Tech (via bridge programs). You can also pursue specialized certifications in software development, cloud computing, cybersecurity, and emerging technologies to enhance career opportunities."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I work while studying BCA in Software Engineering?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, BCA students can work while studying. Many take internships, freelance projects, and part-time IT roles during their second and third years to gain practical experience and enhance their resumes."
+          }
+        }
+      ]
+    }
+  },
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+
+  "category": "specialization",
+
+  "formDetails": {
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "courseName": "Bachelor of Computer Applications in Software Engineering",
+    "universities": [
+      {
+        "university": "amity-university",
+        "image": {
+          "src": "/home/universitylogos/amity.webp",
+          "alt": "amity",
+          "url": "/university/amity-university"
+        },
+        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "rating": 4.6,
+        "duration": "3 years",
+        "courseFee": { "range": "2,25,000", "note": "Total program fee" },
+        "brochure": "/Downloadbrouchers/AMITY/BCA-AMITY/BCA-Software-Engineering.pdf",
+        "button": [{ "name": "Enroll Now", "link": "", "form": true }],
+        "productId": 213,
+        "sourceId": 151,
+        "universityName": "Amity University"
+      }
+    ]
+  },
+
+  "banner": {
+    "position": 1,
+    "mainHeading": "BCA in Software Engineering – Design, Develop, and Innovate with Code",
+    "description": "The ultimate program designed to help you master software development, system design, and modern programming practices to build technology that drives today’s digital world.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/ugbanerimages/bca/BCA_in_SOFTWARE_ENGINEERING.webp",
+      "alt": "bca in software engineering"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose This Program"],
+      "benefits": [
+        "Learn full-stack software development from basics to advanced",
+        "Build real-world applications through live projects and sprints",
+        "Get trained in Agile, DevOps, and version control systems",
+        "Master coding in Python, Java, C++, and web frameworks",
+        "100% placement assistance and career mentorship"
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["The overview of", "BCA in Software Engineering Program"],
+    "overViewImage": {
+      "src": "/home/overview/overview2.webp",
+      "alt": "overview.webp"
+    },
+    "subHeading": "Code Your Career to Create the Next Innovation",
+    "description": {
+      "type": "richText",
+      "content": [
+        {
+          "type": "text",
+          "value": "The Bachelor’s Degree in "
+        },
+        {
+          "type": "link",
+          "value": "Software Engineering",
+          "url": "/courses/mca/software-engineering"
+        },
+        {
+          "type": "text",
+          "value": " at Teksversity is designed for learners who dream of becoming professional developers, software architects, or tech innovators. This comprehensive online program blends theory and practice, focusing on software design, development methodologies, project management, and cloud-based application building. Students work with real development environments, building scalable web, mobile, and enterprise software. They gain strong programming skills, learn version control tools like Git, and master agile workflows. The curriculum also includes modules on UI/UX design, database management, and software testing, ensuring holistic learning for today’s tech-driven roles."
+        }
+      ]
+    },
+    "keyPoints": [
+      "Learn end-to-end software development lifecycle",
+      "Gain expertise in multiple programming languages",
+      "Master software design, testing, and deployment practices",
+      "Understand Agile, DevOps, and CI/CD principles",
+      "Build a strong portfolio of live projects and applications"
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": ["Why Choose BCA in Software Engineering in", "Teksversity?"],
+    "subHeading": ["Celebrating", " Excellence"],
+    "title": ["13 Years of", " Legacy", "(Commitment, Growth, Success)"],
+    "legacyCards": [
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "4.72/5",
+        "label": "Overall Program Rating"
+      },
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "99/100",
+        "label": "Sessions Rated 4+/5"
+      },
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "4.8/5",
+        "label": "Average Session Rating"
+      }
+    ],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "Choosing Teksversity for your BCA in Software Engineering means learning directly from experienced professionals who have engineered real-world products and large-scale digital systems. The curriculum blends innovation, coding excellence, and hands-on learning, preparing students for dynamic roles in startups and enterprise environments alike. Each subject is designed to connect classroom learning with industry applications for true job readiness.",
+    "description": [
+      {
+        "firstDescription": "At Teksversity, students gain mentorship from expert software developers and industry practitioners who guide them through live projects, coding sprints, and simulation-based assessments. This ensures every learner not only understands theoretical concepts but also applies them through practical, performance-driven tasks that mirror real development challenges."
+      },
+      {
+        "secondDescription": "Your BCA in Software Engineering at Teksversity is more than an academic qualification it’s a launchpad to a successful career in technology. With strong placement support, personalized career guidance, and certification-oriented learning, students graduate with the technical confidence and professional mindset to innovate, lead, and shape the future of software development."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": ["Key Highlights of", "BCA in Software Engineering Program"],
+    "sections": [
+      { "name": "Learning Experience", "value": "LearningExperience" },
+      { "name": "Support & Assistance", "value": "SupportandAssistance" },
+      { "name": "Career Support", "value": "CareerSupport" },
+      {
+        "name": "Networking & Peer Learning",
+        "value": "NetworkingandPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "LearningExperience": {
+        "keyPoints": [
+          "Hands-on coding in Python, Java, and C++",
+          "Live web and mobile app development projects",
+          "Practice-based learning with Git and GitHub",
+          "Deep dive into UI/UX and software architecture",
+          "Workshops on DevOps and cloud integration",
+          "Real-time debugging and testing simulations"
+        ]
+      },
+      "SupportandAssistance": {
+        "keyPoints": [
+          "Expert mentorship and 1:1 guidance",
+          "24/7 access to online labs and coding sandboxes",
+          "Continuous code review and performance feedback",
+          "Hybrid or fully online study options",
+          "Dedicated academic and technical support",
+          "Internship assistance with software firms"
+        ]
+      },
+      "CareerSupport": {
+        "keyPoints": [
+          "Placement training and interview preparation",
+          "Resume, portfolio, and GitHub profile building",
+          "Collaboration with IT and software companies",
+          "Job assistance for developer and engineer roles",
+          "Certification guidance for AWS, Java, and Python",
+          "Real-time projects for practical job readiness"
+        ]
+      },
+      "NetworkingandPeerLearning": {
+        "keyPoints": [
+          "Hackathons and collaborative coding challenges",
+          "Project-based teamwork and problem-solving",
+          "Industry webinars and guest lectures",
+          "Peer-led knowledge exchange communities",
+          "Access to alumni networks and industry mentors"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our", "Course Brochure"],
+    "description": "Discover the full details of the BCA in Software Engineering program your gateway to becoming a professional software developer. Explore how this comprehensive program blends technical mastery, project experience, and career support to shape you into an industry-ready engineer.",
+    "subHeading": "Inside the Brochure:",
+    "highlights": [
+      "Full course outline and technical skills covered",
+      "Career pathways and job opportunities",
+      "Internship and placement details",
+      "Tools, frameworks, and programming environments",
+      "Admission process and eligibility"
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/brochure/DB2.webp",
+      "alt": "DB2"
+    }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 9,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 10,
+    "heading": ["Take the Leap", " Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "null" },
+        "link": "null"
+      }
+    }
+  },
+
+  "programFeeStructure": {
+    "position": 11
+  },
+
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },
+      {
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+  "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 15,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is a BCA in Software Engineering?",
+        "answer": "A BCA in Software Engineering is a 3-year undergraduate program that focuses on building strong foundations in programming, software development, application design, databases, and core IT technologies required for modern tech careers."
+      },
+      {
+        "question": "Who should pursue a BCA in Software Engineering?",
+        "answer": "Students interested in programming, app development, software design, system analysis, and IT-based roles will benefit most from this course. It is also suitable for those aiming for higher studies such as MCA or M.Tech."
+      },
+      {
+        "question": "What is the eligibility criteria for BCA in Software Engineering?",
+        "answer": "Candidates must have completed 10+2 from a recognized board in any stream. While basic computer knowledge is an advantage, it is not mandatory, as the program begins with foundational IT and programming concepts."
+      },
+      {
+        "question": "What is the duration of the BCA in Software Engineering program?",
+        "answer": "The BCA in Software Engineering program is a 3-year undergraduate course divided into 6 semesters. It includes classroom theory, hands-on lab sessions, mini-projects each year, and a final major project in the last semester."
+      },
+      {
+        "question": "What subjects are taught in the BCA Software Engineering syllabus?",
+        "answer": "The syllabus includes C, C++, Java, Python, Data Structures, DBMS, Operating Systems, Computer Networks, Web Technologies, Software Testing, Cloud Fundamentals, and Software Engineering methodologies. It also includes practical labs, mini-projects, and a final-year project."
+      },
+      {
+        "question": "Do I need prior programming knowledge to join?",
+        "answer": "No, prior programming knowledge is not required. The course starts with foundational concepts and beginner-friendly programming modules, making it suitable for students from all academic backgrounds."
+      },
+      {
+        "question": "What career opportunities are available after BCA in Software Engineering?",
+        "answer": "Graduates can work as Software Developer, Web Developer, Java/Python Developer, UI/UX Designer, QA Tester, System Analyst, Database Administrator, or IT Support Engineer. Opportunities also exist in software consulting, cloud computing, and emerging technologies."
+      },
+      {
+        "question": "What are the salary expectations after completing a BCA in Software Engineering?",
+        "answer": "Fresh graduates can expect a starting salary of ₹3–6 LPA depending on skills, internships, and projects. With experience and specialization, salaries can grow to ₹8–12 LPA or more in mid-level roles."
+      },
+      {
+        "question": "Can I pursue higher studies after BCA in Software Engineering?",
+        "answer": "Yes, students can pursue MCA, MBA, M.Sc. in Computer Science, or M.Tech (via bridge programs). Specialized certifications in software development, cloud computing, cybersecurity, and emerging technologies are also beneficial."
+      },
+      {
+        "question": "Can I work while studying BCA in Software Engineering?",
+        "answer": "Yes, many students take up internships, freelance projects, and part-time IT roles during their second and third years to gain practical experience and strengthen their resumes."
+      }
+    ]
+  },
+
+  "letsTalk": {
+    "position": 16,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today—Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 17,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "BCA in Software engineering",
+      "Bachelor's degree in software engineering",
+      "Software engineer courses online",
+      "Bachelor of software engineering",
+      "Best courses for software development",
+      "Online degree in software engineering",
+      "Software engineer classes online",
+      "Online software development courses",
+      "Software engineering full course",
+      "Online software development certificate programs"
+    ]
+  }
+}

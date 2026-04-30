@@ -1,0 +1,1036 @@
+﻿{
+  "meta": {
+    "title": "Online BCA in Computer Science & IT Program | Teksversity",
+    "description": "Build your tech career with the BCA in Computer Science and IT program at Teksversity. Learn programming, cybersecurity, and emerging technologies with best mentors.",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the BCA in Computer Science and IT program offer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At Teksversity, the BCA in Computer Science and IT program blends core computer science concepts with practical IT applications. You’ll gain real-world skills in coding, networking, and database management—preparing you for a successful career in software development, system administration, and IT consulting."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why choose Teksversity for BCA in Computer Science and IT?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Teksversity partners with reputed universities offering UGC-approved BCA programs, blending theoretical knowledge with hands-on learning. Through live projects, industry exposure, and personalized career mentoring, Teksversity ensures students graduate as skilled and job-ready IT professionals."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the eligibility criteria for BCA in Computer Science and IT?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "To enroll in the BCA in Computer Science and IT program, candidates must have completed 10+2 from a recognized board, preferably with Mathematics or Computer Science as one of the subjects. Teksversity guides students in choosing the best university that aligns with their academic background and career objectives."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What subjects are covered in the BCA in Computer Science and IT program?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The BCA in Computer Science and IT curriculum includes core subjects such as C, C++, Java, Python, Web Development, Data Structures, Operating Systems, Computer Networks, Database Management Systems, and Cloud Computing. At Teksversity, students receive a perfect balance of theoretical learning and hands-on practical experience to master these technologies."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What career opportunities are available after completing BCA in Computer Science and IT?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Graduates of the BCA in Computer Science and IT program can build careers as Software Developers, System Analysts, Network Administrators, Web Developers, or IT Support Engineers. With Teksversity’s dedicated placement assistance and career mentoring, students are prepared to excel in leading IT companies and corporate organizations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the duration of the BCA in Computer Science and IT course?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The BCA in Computer Science and IT is a 3-year undergraduate program divided into six semesters. At Teksversity, students can pursue this program through regular classroom sessions or flexible online and distance-learning options designed to suit their schedules and career needs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which companies hire BCA in Computer Science and IT graduates?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Leading IT and software companies such as Infosys, TCS, Wipro, Accenture, IBM, Tech Mahindra, and HCL actively recruit BCA graduates. With Teksversity’s strong placement network and dedicated career guidance team, students gain access to top opportunities in both national and multinational firms."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the average salary after completing BCA in Computer Science and IT?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The average starting salary for BCA graduates ranges from ₹3 LPA to ₹8 LPA, depending on technical skills, certifications, and job profile. With Teksversity’s industry-aligned curriculum and placement guidance, students are equipped to land competitive roles in leading IT organizations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I pursue MCA after BCA in Computer Science and IT?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, absolutely! Pursuing an MCA after your BCA is a natural progression that enhances your technical expertise in software engineering, database systems, and advanced programming. Teksversity helps you connect with top universities offering MCA programs focused on career growth and specialization."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Teksversity provide placement and internship support for BCA students?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Teksversity offers comprehensive placement and internship support to ensure every student is industry-ready. From resume building and interview preparation to live projects and internship guidance, Teksversity helps you gain both technical expertise and real-world experience."
+          }
+        }
+      ]
+    }
+  },
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+
+  "category": "specialization",
+
+  "formDetails": {
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "courseName": "Bachelor of Computer Applications in Computer Science and IT",
+    "universities": [
+      {
+        "university": "jain-university",
+        "image": {
+          "src": "/home/universitylogos/jain.webp",
+          "alt": "jain",
+          "url": "/university/jain-university"
+        },
+        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "rating": 4.7,
+        "duration": "3 years",
+        "courseFee": { "range": "1,35,000", "note": "Total program fee" },
+        "brochure": "/Downloadbrouchers/JAIN/BCA-JAIN/computer-science-and-information-technology-brochure-jain-bca.pdf",
+        "button": [
+          {
+            "name": "Know More",
+            "link": "/university/jain-university",
+            "form": false
+          },
+          { "name": "Enroll Now", "link": "", "form": true }
+        ],
+        "productId": 208,
+        "sourceId": 155,
+        "universityName": "Jain University"
+      }
+    ]
+  },
+
+  "banner": {
+    "name": "Online BCom Degree with 100% Placement Assistance",
+    "position": 1,
+    "mainHeading": "BCA in Computer Science and IT – Build the Future with Code and Innovation",
+    "description": "Earn your BCA in Computer Science and IT and master the skills that power the digital world. It equips you with a strong foundation in programming, databases, networks, and cybersecurity.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/ugbanerimages/bca/bca_Computer_sc_andit.webp",
+      "alt": "bca computer science and it"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose This Program"],
+      "benefits": [
+        "Comprehensive and industry-driven BCA curriculum",
+        "Learn from experienced IT and computer science professionals",
+        "Real-world coding assignments and live projects",
+        "Focus on programming, networking, and cybersecurity",
+        "Build analytical, problem-solving, and innovation skills"
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["The overview of", "BCA in Computer Science and IT Program"],
+    "overViewImage": {
+      "src": "/home/overview/overview2.webp",
+      "alt": "overview.webp"
+    },
+    "subHeading": "Build a Future in Technology and Innovation",
+    "description": "The BCA (Bachelor of Computer Applications) in Computer Science and IT program at Teksversity is designed for students who aspire to become skilled technology professionals. It combines computer science fundamentals with modern IT applications, helping learners understand software development, data structures, cloud computing, and cyber defense strategies. Through a blend of theoretical knowledge and hands-on projects, students gain proficiency in programming languages, system design, and IT infrastructure. Graduates of this program can explore careers in software engineering, data analytics, cybersecurity, and network administration.",
+    "keyPoints": [
+      "Gain a strong foundation in programming and system design",
+      "Develop analytical, technical, and coding proficiency",
+      "Understand networking, database, and cybersecurity principles",
+      "Learn emerging technologies and cloud-based solutions",
+      "Build readiness for IT careers or advanced tech studies"
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": ["Why Choose BCA in Computer Science and IT", "Teksversity?"],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": {
+      "type": "richText",
+      "content": [
+        {
+          "type": "text",
+          "value": "Choosing Teksversity for your BCA in "
+        },
+        {
+          "type": "link",
+          "value": "Computer Science and IT",
+          "url": "/courses/mca/computer-science-and-information-technology"
+        },
+        {
+          "type": "text",
+          "value": " means enrolling in a program engineered to build a strong foundation in computing architectures, programming paradigms, and digital systems. The curriculum emphasizes algorithmic thinking, data structures, and software engineering principles that align with the evolving demands of global IT ecosystems. Students gain exposure to modern computing frameworks, distributed systems, and enterprise-level technologies shaping today’s digital infrastructure."
+        }
+      ]
+    },
+    "description": [
+      {
+        "firstDescription": "Teksversity’s BCA program is structured around emerging technologies and research-oriented learning. Learners explore advanced domains such as artificial intelligence, machine learning, data analytics, and cloud-native development. The inclusion of real-time system design, API integration, and automation workflows enables students to develop scalable, high-performance applications with precision and efficiency."
+      },
+      {
+        "secondDescription": "The program goes beyond conventional academics by encouraging innovation, collaboration, and problem-solving through interdisciplinary projects. Students engage with cutting-edge technologies like DevOps, containerization, and cybersecurity protocols, preparing them to architect solutions for complex digital challenges. At Teksversity, the focus is on cultivating technology leaders equipped to drive transformation across industries."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": ["Key Highlights of", "BCA in Computer Science and IT"],
+    "sections": [
+      { "name": "Learning Experience", "value": "LearningExperience" },
+      { "name": "Support & Assistance", "value": "SupportandAssistance" },
+      { "name": "Career Support", "value": "CareerSupport" },
+      {
+        "name": "Networking & Peer Learning",
+        "value": "NetworkingandPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "LearningExperience": {
+        "keyPoints": [
+          "Coding bootcamps and software labs",
+          "Real-time project-based learning",
+          "Workshops on programming and app development",
+          "Network and cybersecurity simulations",
+          "Classes led by experienced developers",
+          "Peer learning and collaboration"
+        ]
+      },
+      "SupportandAssistance": {
+        "keyPoints": [
+          "Dedicated academic and technical mentors",
+          "24/7 online learning platform access",
+          "Personalized progress reports and guidance",
+          "Access to recorded lectures anytime",
+          "Internship assistance and industry tie-ups",
+          "Flexible online and hybrid learning options"
+        ]
+      },
+      "CareerSupport": {
+        "keyPoints": [
+          "100% placement assistance",
+          "Resume and GitHub portfolio enhancement",
+          "Mock interviews and coding test practice",
+          "Career counseling and guidance sessions",
+          "Internship and corporate network access",
+          "Professional skill and soft-skill training"
+        ]
+      },
+      "NetworkingandPeerLearning": {
+        "keyPoints": [
+          "Developer meetups and hackathons",
+          "Peer code review and project teamwork",
+          "Expert tech talks and live coding sessions",
+          "Alumni mentoring and networking groups",
+          "Community challenges and innovation forums"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our", "Course Brochure"],
+    "description": "Get complete insights into the BCA in Computer Science and IT program at Teksversity your path to building a future-ready IT career. Explore how our advanced curriculum integrates software development, cloud computing, and cybersecurity to prepare students for today’s tech-driven world.",
+    "subHeading": "Inside the Brochure:",
+    "highlights": [
+      "Detailed BCA curriculum and specialization modules",
+      "Career pathways and skill outcomes",
+      "Admission and eligibility details",
+      "Internship and placement support highlights",
+      "Learning tools, mentorship, and certification info"
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/brochure/DB2.webp",
+      "alt": "DB2"
+    }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 8,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 9,
+    "heading": ["Take the Leap", "Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "flexible online learning"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "advanced lms"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "global certification"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "no cost emi"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affrordable fees"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ugc/naac recognized universities"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "expert faculty"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "online live and recorded sessions"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "industry-aligned curriculum"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "dual certifications"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ai enhanced learning"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "job focused training"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affordable and quality learning"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "placement and career support"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "view all" },
+        "link": "null"
+      }
+    }
+  },
+
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },
+      {
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+  "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      },
+      "formBackground": {
+        "src": "/home/formbg.webp",
+        "alt": "Spin and Win Form Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 12,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What does the BCA in Computer Science and IT program offer?",
+        "answer": "At Teksversity, the BCA in Computer Science and IT program blends core computer science concepts with practical IT applications. You’ll gain real-world skills in coding, networking, and database management—preparing you for a successful career in software development, system administration, and IT consulting."
+      },
+      {
+        "question": "Why choose Teksversity for BCA in Computer Science and IT?",
+        "answer": "Teksversity partners with reputed universities offering UGC-approved BCA programs, blending theoretical knowledge with hands-on learning. Through live projects, industry exposure, and personalized career mentoring, Teksversity ensures students graduate as skilled and job-ready IT professionals."
+      },
+      {
+        "question": "What are the eligibility criteria for BCA in Computer Science and IT?",
+        "answer": "To enroll in the BCA in Computer Science and IT program, candidates must have completed 10+2 from a recognized board, preferably with Mathematics or Computer Science as one of the subjects. Teksversity guides students in choosing the best university that aligns with their academic background and career objectives."
+      },
+      {
+        "question": "What subjects are covered in the BCA in Computer Science and IT program?",
+        "answer": "The BCA in Computer Science and IT curriculum includes core subjects such as C, C++, Java, Python, Web Development, Data Structures, Operating Systems, Computer Networks, Database Management Systems, and Cloud Computing. At Teksversity, students receive a perfect balance of theoretical learning and hands-on practical experience to master these technologies."
+      },
+      {
+        "question": "What career opportunities are available after completing BCA in Computer Science and IT?",
+        "answer": "Graduates of the BCA in Computer Science and IT program can build careers as Software Developers, System Analysts, Network Administrators, Web Developers, or IT Support Engineers. With Teksversity’s dedicated placement assistance and career mentoring, students are prepared to excel in leading IT companies and corporate organizations."
+      },
+      {
+        "question": "What is the duration of the BCA in Computer Science and IT course?",
+        "answer": "The BCA in Computer Science and IT is a 3-year undergraduate program divided into six semesters. At Teksversity, students can pursue this program through regular classroom sessions or flexible online and distance-learning options designed to suit their schedules and career needs."
+      },
+      {
+        "question": "Which companies hire BCA in Computer Science and IT graduates?",
+        "answer": "Leading IT and software companies such as Infosys, TCS, Wipro, Accenture, IBM, Tech Mahindra, and HCL actively recruit BCA graduates. With Teksversity’s strong placement network and dedicated career guidance team, students gain access to top opportunities in both national and multinational firms."
+      },
+      {
+        "question": "What is the average salary after completing BCA in Computer Science and IT?",
+        "answer": "The average starting salary for BCA graduates ranges from ₹3 LPA to ₹8 LPA, depending on technical skills, certifications, and job profile. With Teksversity’s industry-aligned curriculum and placement guidance, students are equipped to land competitive roles in leading IT organizations."
+      },
+      {
+        "question": "Can I pursue MCA after BCA in Computer Science and IT?",
+        "answer": "Yes, absolutely! Pursuing an MCA after your BCA is a natural progression that enhances your technical expertise in software engineering, database systems, and advanced programming. Teksversity helps you connect with top universities offering MCA programs focused on career growth and specialization."
+      },
+      {
+        "question": "Does Teksversity provide placement and internship support for BCA students?",
+        "answer": "Yes, Teksversity offers comprehensive placement and internship support to ensure every student is industry-ready. From resume building and interview preparation to live projects and internship guidance, Teksversity helps you gain both technical expertise and real-world experience."
+      }
+    ]
+  },
+
+  "letsTalk": {
+    "position": 13,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 14,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "BCA in Computer Science and IT",
+      "BCA in computer science",
+      "Online degree in computer science & IT",
+      "Online BCA in Computer Science and IT Program",
+      "BCA in IT",
+      "BCA computer science",
+      "BCA computer science subjects",
+      "BCA IT course details",
+      "BCA IT course",
+      "Jobs after BCA computer science"
+    ]
+  }
+}

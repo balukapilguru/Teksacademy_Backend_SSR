@@ -1,0 +1,59 @@
+{
+  "page": ["contact","us"],
+  "meta": {
+    "title": "teksversity – contact us",
+    "description": "",
+    "schemaCode": {}
+  },
+
+  "contactSection": {
+    "heading": ["contact","us"],
+    "image": {
+      "src": "/discovery/Contact_us.webp",
+      "alt": "ContactUs"
+    }
+  },
+
+  "locationDetails": {
+    "heading": "Location Details",
+    "branches": [
+      {
+        "id": 1,
+        "name": "Secunderabad",
+        "image": {
+          "src": "/locations/secunderabad.webp",
+          "alt": "secunderabad-branch"
+        },
+        "address": "H.no 5-1-127/4, Flat No. 501, 5th Floor, Amsri Faust Building, SD Road, Secunderabad, Telangana 500003",
+        "phone": "+91 9281466365"
+      },
+      {
+        "id": 2,
+        "name": "Ameerpet",
+        "image": {
+          "src": "/locations/ameerpet.webp",
+          "alt": "ameerpet-branch"
+        },
+        "address": "Ground Floor (GF2), Sree Swathi Anukar Building, Kumar Basti Rd, Besides HDFC Life, Punjagutta Officers Colony, A.M. Road, Ameerpet, Hyderabad, Telangana 500073",
+        "phone": "+91 7815924610"
+      }
+    ]
+  },
+  "communitySection": {
+    "position": 3,
+    "heading": [
+      "Teks Community Makes You!",
+      "Updated, Upskilled and Unbeatable"
+    ],
+    "description": "Learn the latest technologies, advanced skills, connect with experts and grow with a network that pushes you towards success.",
+    "button": {
+      "name": "Join WhatsApp Community",
+      "link": "",
+      "form": false
+    },
+    "image": {
+      "src": "/ebooks/community-card.webp",
+      "alt": "community-card"
+    }
+  }
+}

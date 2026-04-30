@@ -1,0 +1,1045 @@
+﻿{
+  "meta": {
+    "title": "Online MBA in International Finance – ACCA Accredited",
+    "description": "Learn global finance, accounting standards, investment strategy, and ACCA-aligned competencies with the Online MBA in International Finance (Accredited by ACCA, UK)",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is an MBA in Finance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "An MBA in Finance is a specialized management program that trains you in financial planning, investment analysis, corporate finance, banking operations, and strategic financial decision-making. It prepares you for leadership roles in the finance and business sector."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What skills will I gain through an MBA in Finance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You will develop strong skills in financial analysis, budgeting, risk management, investment planning, portfolio management, forecasting, business valuation, and strategic financial decision-making."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a strong math background to pursue an MBA in Finance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Not necessarily. Basic number skills are sufficient as the program teaches financial concepts from the fundamentals. With consistent practice and guidance, students from any background can excel in finance."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What subjects are included in the MBA in Finance curriculum?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The curriculum typically covers Corporate Finance, Financial Management, Investment Banking, Financial Markets, Derivatives, Portfolio Management, Risk Management, Strategic Finance, Accounting, and International Finance."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What tools or software will I learn in the MBA in Finance program?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You will work with essential finance tools like Excel (advanced), financial modeling software, Bloomberg basics, statistical tools, portfolio management platforms, and forecasting tools used in top financial institutions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What career opportunities can I expect after completing an MBA in Finance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "MBA Finance graduates can work as Financial Analysts, Investment Bankers, Credit Analysts, Portfolio Managers, Risk Analysts, Corporate Finance Managers, Banking Officers, and Wealth Management Consultants."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which industries hire MBA in Finance professionals?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Industries such as banking, financial services, stock markets, insurance, fintech, consulting, real estate, corporate enterprises, and investment firms actively recruit finance professionals."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the salary outlook after an MBA in Finance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Finance is one of the highest-paying MBA specializations. With expertise in financial modeling, investment analysis, and corporate finance, professionals can quickly grow into well-paid managerial and leadership roles."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Teksversity provide practical exposure for MBA in Finance students?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Teksversity focuses on real-time learning through financial case studies, portfolio simulations, budgeting exercises, live projects, and industry-oriented financial tools to build strong practical knowledge."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can working professionals pursue an MBA in Finance at Teksversity?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Absolutely! Teksversity offers flexible learning options like weekend classes, online programs, and hybrid models, making it ideal for working professionals who want to upgrade their financial career without affecting their job."
+          }
+        }
+      ]
+    }
+  },
+
+  "formDetails": {
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "courseName": "Master of Business Administration in International Finance",
+    "universities": [
+      {
+        "university": "amity-university",
+        "image": {
+          "src": "/home/universitylogos/amity.webp",
+          "alt": "amity",
+          "url": "/university/amity-university"
+        },
+        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "rating": 4.8,
+        "duration": "2 Years",
+        "courseFee": { "range": "2,99,000", "note": "Total program fee" },
+        "brochure": "",
+ 
+        "button": [
+          { "name": "Enroll Now", "link": "", "form": true }
+        ],
+        "productId": null,
+        "sourceId": 151,
+        "universityName": "Amity University"
+      },
+      {
+        "university": "jain-university",
+        "image": {
+          "src": "/home/universitylogos/jain.webp",
+          "alt": "jain",
+          "url": "/university/jain-university"
+        },
+        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "rating": 4.8,
+        "duration": "2 Years",
+        "courseFee": { "range": "2,98,000", "note": "Total program fee" },
+        "brochure": "/Downloadbrouchers/JAIN/MBA-JAIN/international-finance-brochure-MBA-jain.pdf",
+        "button": [
+          {
+            "name": "Know More",
+            "link": "/university/jain-university",
+            "form": false
+          },
+          { "name": "Enroll Now", "link": "", "form": true }
+        ],
+        "productId": 247,
+        "sourceId": 155,
+        "universityName": "Jain University"
+      }
+    ]
+  },
+
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+  "category": "specialization",
+  "banner": {
+    "name": "MBA in International Finance",
+    "position": 1,
+    "mainHeading": "MBA in International Finance (Accredited by ACCA, UK) – Your Gateway to Global Financial Leadership",
+    "description": "Get globally aligned financial expertise as you master international accounting, learn strategic finance, and find opportunities to lead across multinational organizations with this ACCA-accredited program.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/pgbanerimages/mba/International_Finance.webp",
+      "alt": "MBA in International Finance (ACCA Accredited) with Global Financial Leadership Skills"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose This Program"],
+      "benefits": [
+        "Learn global finance from ACCA-trained experts",
+        "Build strong accounting and financial analysis skills",
+        "Gain exposure to IFRS, taxation & corporate finance",
+        "Work on real market and investment case studies",
+        "Flexible structure for working professionals",
+        "Resume and placement support for finance roles",
+        "Attend expert-led global finance webinars",
+        "Enhance confidence with mock interviews",
+        "Become job-ready for global finance careers"
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": [
+      "Overview of",
+      "MBA in International Finance (Accredited by ACCA, UK)"
+    ],
+    "overViewImage": {
+      "src": "/home/overview/overview4.webp",
+      "alt": "MBA in International Finance (ACCA Accredited) – Program Overview"
+    },
+    "subHeading": "Step Into Global Finance With an ACCA-Aligned MBA",
+    "description": "The MBA in International Finance (Accredited by ACCA, UK) at Teksversity helps learners build the technical, analytical, and strategic skills required for international financial careers. Students gain hands-on expertise in global accounting, corporate finance, risk analysis, taxation, investment decisions, and IFRS frameworks. The curriculum blends classroom learning with practical simulations, case-based training, and ACCA-integrated modules. Designed for working individuals, the program supports flexible upskilling and prepares students for careers in corporate finance, banking, auditing, investments, and international financial management.",
+    "keyPoints": [
+      "Understand global finance, IFRS, and corporate strategy",
+      "Use tools for financial analysis and reporting",
+      "Strengthen quantitative and analytical finance skills",
+      "Apply ethical and compliant financial practices",
+      "Develop leadership for finance and strategy roles"
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": [
+      "Why Choose MBA in International Finance",
+      "in Teksversity?"
+    ],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "Teksversity offers an ACCA-aligned MBA program that equips learners with global finance, accounting, and corporate strategy skills. Students work on simulations, financial reports, and case-driven assessments that mirror real financial environments, building confidence for international roles.",
+    "description": [
+      {
+        "firstDescription": "Expert mentors guide learners through IFRS standards, auditing frameworks, investment analysis, and management accounting principles. This hands-on approach helps students understand real-world financial decision-making with clarity and precision."
+      },
+      {
+        "secondDescription": "The flexible online structure supports working professionals aiming to advance into global finance roles. With resume support, interview training, and structured career guidance, Teksversity ensures successful transitions into corporate finance, auditing, international accounting, banking, and investment management."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": [
+      "Key Highlights of",
+      "MBA in International Finance"
+    ],
+    "sections": [
+      { "name": "Learning Experience", "value": "LearningExperience" },
+      { "name": "Support & Assistance", "value": "SupportandAssistance" },
+      { "name": "Career Support", "value": "CareerSupport" },
+      {
+        "name": "Networking & Peer Learning",
+        "value": "NetworkingandPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "LearningExperience": {
+        "keyPoints": [
+          "Case studies on finance, IFRS, and investment planning",
+          "Projects on budgeting, reporting, and financial models",
+          "Workshops on financial tools and global standards",
+          "Leadership training in financial decision-making",
+          "Sessions led by ACCA-aligned finance trainers"
+        ]
+      },
+      "SupportandAssistance": {
+        "keyPoints": [
+          "One-on-one finance and ACCA mentorship",
+          "24/7 access to learning materials",
+          "Recorded sessions for flexible study",
+          "Personalized support for academic progress",
+          "Internship support in finance roles"
+        ]
+      },
+      "CareerSupport": {
+        "keyPoints": [
+          "Placement assistance for finance job paths",
+          "Resume building for ACCA and finance roles",
+          "Mock interviews with finance specialists",
+          "Career mapping for global job options",
+          "Professional readiness and leadership skills"
+        ]
+      },
+      "NetworkingandPeerLearning": {
+        "keyPoints": [
+          "Webinars with global finance and ACCA experts",
+          "Peer collaboration on finance projects",
+          "Alumni sessions with finance professionals",
+          "Group tasks in corporate financial planning",
+          "Global networking through virtual meetups"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our", "Course Brochure"],
+    "description": "Download the detailed MBA in International Finance (Accredited by ACCA, UK) brochure to explore modules, tools, assessments, admissions, and placement support. Learn how ACCA-integrated training, practical case studies, and financial modelling tasks build your expertise for global financial careers.",
+    "subHeading": "Inside the Brochure:",
+    "highlights": [
+      "Complete program structure and ACCA-linked modules",
+      "Career pathways in global and corporate finance",
+      "Admission and eligibility information",
+      "Internship and placement support details",
+      "Tools, faculty, and learning methodology"
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/brochure/DB4.webp",
+      "alt": "Download MBA in International Finance (ACCA Accredited) Program Brochure"
+    }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 8,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 9,
+    "heading": ["Take the Leap", "Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "flexible online learning"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "advanced lms"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "global certification"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "no cost emi"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affrordable fees"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ugc/naac recognized universities"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "expert faculty"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "online live and recorded sessions"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "industry-aligned curriculum"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "dual certifications"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ai enhanced learning"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "job focused training"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affordable and quality learning"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "placement and career support"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "view all" },
+        "link": "null"
+      }
+    }
+  },
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },{
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+  "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      },
+      "formBackground": {
+        "src": "/home/formbg.webp",
+        "alt": "Spin and Win Form Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 12,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is an MBA in International Finance (Accredited by ACCA, UK)?",
+        "answer": "An MBA in International Finance (Accredited by ACCA, UK) is a globally recognized program that blends advanced financial management with ACCA aligned professional knowledge. It trains students in international accounting standards, financial reporting, taxation, auditing, risk management, and strategic finance to prepare them for high demand careers in global finance."
+      },
+      {
+        "question": "What subjects are covered in this MBA?",
+        "answer": "The curriculum includes IFRS based financial reporting, management accounting, taxation, auditing, corporate governance, financial management, investment analysis, risk management, international finance, strategic leadership, and multiple ACCA aligned subjects designed to build strong global finance expertise."
+      },
+      {
+        "question": "What career roles can I pursue after this MBA?",
+        "answer": "Graduates can work as Financial Analyst, Auditor, Tax Consultant, Investment Analyst, Risk Management Analyst, Corporate Accountant, Compliance Officer, Finance Manager, Business Analyst, or pursue specialized ACCA pathways in MNCs, consulting firms, banks, and global finance organizations."
+      },
+      {
+        "question": "What is the expected salary after completing this MBA?",
+        "answer": "Finance professionals with ACCA aligned qualifications often earn higher than-average salaries. Opportunities are strong across banking, fintech, consulting, MNCs, and global finance operations. With experience and ACCA progression, students can move into senior and high-paying leadership roles."
+      },
+      {
+        "question": "What is the scope of an MBA in International Finance (ACCA)?",
+        "answer": "The scope is extensive due to global IFRS adoption, increased compliance requirements, and the growing need for internationally trained finance professionals. Career options span banking, auditing, consulting, investment firms, corporate finance, insurance, fintech, manufacturing, and global shared service centers."
+      },
+      {
+        "question": "What practical exposure will I get during the course?",
+        "answer": "Students gain practical, real time experience through IFRS case studies, financial modeling, auditing and taxation practice, analytics tools training, finance projects, internships, and ACCA oriented assessments that simulate real business scenarios."
+      },
+      {
+        "question": "What emerging career opportunities are available in this field?",
+        "answer": "Fast growing roles include Financial Data Analyst, Forensic Accounting Expert, Global Tax Advisor, ESG Finance Analyst, Compliance & Regulatory Specialist, Treasury Analyst, and Strategic Finance Partner reflecting trends in digital finance, analytics, and global compliance."
+      },
+      {
+        "question": "Do I need prior accounting knowledge for this MBA?",
+        "answer": "No, prior accounting knowledge is not required. The program starts with foundational concepts and gradually progresses to advanced ACCA aligned modules, making it ideal for students from both commerce and non-commerce backgrounds."
+      },
+      {
+        "question": "What tools and technologies will I learn?",
+        "answer": "You will gain hands on experience with advanced Excel financial modeling, ERP systems like SAP and Oracle, analytics tools such as Power BI and Tableau, accounting software, taxation tools, auditing frameworks, and IFRS reporting standards."
+      },
+      {
+        "question": "How can I apply for the MBA in International Finance (Accredited by ACCA, UK)?",
+        "answer": "You can apply by submitting the application form on our website or contacting us through phone or email. Our admissions team will assist you with eligibility, documentation, and the complete enrollment process."
+      }
+    ]
+  },
+  "letsTalk": {
+    "position": 14,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today—Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 14,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "MBA in International Finance (Accredited by ACCA, UK)",
+      "MBA in International Finance in India",
+      "Online MBA in International Finance",
+      "MBA in International Finance with ACCA",
+      "MBA in International Finance",
+      "MBA in International Finance with ACCA",
+      "MBA Finance International",
+      "MBA International Banking and Finance",
+      "MBA International Business and Finance",
+      "International Financial Management MBA"
+    ]
+  }
+}

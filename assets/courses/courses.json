@@ -1,0 +1,5636 @@
+{
+  "meta": {
+    "title": "Online Courses & Certifications for Career Growth | Teksversity",
+    "description": "Explore online courses and certifications at Teksversity to boost your career. Learn job-ready skills with expert-led training, flexible learning, and industry-focused content."
+  },
+  "heading": "Courses",
+  "subHeading": "Browse our comprehensive course catalog",
+  "searchBar": {
+    "placeholder": "Search courses..."
+  },
+  "sideBar": {
+    "sections": [
+      {
+        "name": "All Courses",
+        "value": "totalCourses",
+        "active": true
+      },
+      {
+        "name": "Certifications",
+        "value": "total",
+        "active": false
+        
+      },
+      {
+        "name": "Academics",
+        "value": "total",
+        "active": false,
+        "subCategory": [
+          {
+            "name": "Under Graduation",
+            "value": "ug",
+            "programs": [
+              { "name": "BBA", "value": "bba" },
+              { "name": "BCOM", "value": "bcom" },
+              { "name": "BCA", "value": "bca" },
+              { "name": "BA", "value": "ba" }
+            ]
+          },
+          {
+            "name": "Post Graduation",
+            "value": "pg",
+            "programs": [
+              { "name": "MBA", "value": "mba" },
+              { "name": "MCA", "value": "mca" },
+              { "name": "MA", "value": "ma" },
+              { "name": "MCOM", "value": "mcom" },
+              { "name": "MSC", "value": "ms" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "courses": [
+    {
+      "programName": "full-stack-python-certification-course",
+      "category": "certifications",
+      "subCategory": "certification",
+      "isTop": true,
+      "image": {
+        "src": "/coursecards/certification/Certifications/Full-Stack-Python-Certification-Course.webp",
+        "alt": "Professional Python Programming Certification Program for Real-World Development"
+      },
+      "heading": "Full Stack Python Certification Course",
+      "feeRange": "45,000 - 55,000",
+      "duration": "4-6 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/full-stack-python-certification-course",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ],
+      "universities": [
+        {
+          "productId": 392,
+          "sourceId": 148,
+          "name": "teksversity",
+          "universityName": "Teksversity"
+        }
+      ],
+      "specializations": [
+        {
+          "name": "Full Stack Python Certification Course",
+          "programName": "full-stack-python-certification-course",
+          "productId": "",
+          "universities": [
+            {
+              "productId": 392,
+              "sourceId": 148,
+              "name": "teksversity",
+              "universityName": "Teksversity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programName": "full-stack-java-certification-course",
+      "category": "certifications",
+      "subCategory": "certification",
+      "isTop": true,
+      "image": {
+        "src": "/coursecards/certification/Certifications/Full-Stack-Java-Certification-Course.webp",
+        "alt": "Industry-Recognized Java Certification Program for Application Development"
+      },
+      "heading": "Full Stack Java Certification Course",
+      "feeRange": "45,000 - 55,000",
+      "duration": "4-6 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/full-stack-java-certification-course",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ],
+      "universities": [
+        {
+          "productId": 391,
+          "sourceId": 148,
+          "name": "teksversity",
+          "universityName": "Teksversity"
+        }
+      ],
+      "specializations": [
+        {
+          "name": "Full Stack Java Certification Course",
+          "programName": "full-stack-java-certification-course",
+          "productId": "",
+          "universities": [
+            {
+              "productId": 391,
+              "sourceId": 148,
+              "name": "teksversity",
+              "universityName": "Teksversity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programName": "data-science-certification-program",
+      "category": "certifications",
+      "subCategory": "certification",
+      "isTop": true,
+      "image": {
+        "src": "/coursecards/certification/Certifications/Data-Science-Certification-Program.webp",
+        "alt": "Comprehensive Online Program in Data Science for Analytical and AI Skills"
+      },
+      "heading": "Data Science Certification Program",
+      "feeRange": "45,000 - 55,000",
+      "duration": "4-6 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/data-science-certification-program",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ],
+      "universities": [
+        {
+          "productId": 390,
+          "sourceId": 148,
+          "name": "teksversity",
+          "universityName": "Teksversity"
+        }
+      ],
+      "specializations": [
+        {
+          "name": "Data Science Certification Program",
+          "programName": "data-science-certification-program",
+          "productId": "",
+          "universities": [
+            {
+              "productId": 390,
+              "sourceId": 148,
+              "name": "teksversity",
+              "universityName": "Teksversity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programName": "aws-and-devops-certification-program",
+      "category": "certifications",
+      "subCategory": "certification",
+      "isTop": true,
+      "image": {
+        "src": "/coursecards/certification/Certifications/AWS-DevOps-Certification-Program.webp",
+        "alt": "AWS Machine Learning Certification Program for Intelligent Cloud Solutions"
+      },
+      "heading": "AWS and DevOps Certification Program",
+      "feeRange": "45,000 - 55,000",
+      "duration": "4-6 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/aws-and-devops-certification-program",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ],
+      "universities": [
+        {
+          "productId": 389,
+          "sourceId": 148,
+          "name": "teksversity",
+          "universityName": "Teksversity"
+        }
+      ],
+      "specializations": [
+        {
+          "name": "AWS and DevOps Certification Program",
+          "programName": "aws-and-devops-certification-program",
+          "productId": "",
+          "universities": [
+            {
+              "productId": 389,
+              "sourceId": 148,
+              "name": "teksversity",
+              "universityName": "Teksversity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programName": "digital-marketing-certification-course",
+      "category": "certifications",
+      "subCategory": "certification",
+      "isTop": true,
+      "image": {
+        "src": "/coursecards/certification/Certifications/Digital-Marketing-Certification-Course.webp",
+        "alt": "Industry-Leading Digital Marketing Certification Program for Growth Careers"
+      },
+      "heading": "Digital Marketing Certification Course",
+      "feeRange": "45,000 - 55,000",
+      "duration": "4-6 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/digital-marketing-certification-course",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ],
+      "universities": [
+        {
+          "productId": 295,
+          "sourceId": 148,
+          "name": "teksversity",
+          "universityName": "Teksversity"
+        }
+      ],
+      "specializations": [
+        {
+          "name": "Digital Marketing Certification Course",
+          "programName": "digital-marketing-certification-course",
+          "productId": "",
+          "universities": [
+            {
+              "productId": 295,
+              "sourceId": 148,
+              "name": "teksversity",
+              "universityName": "Teksversity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programName": "data-analytics-certification-program",
+      "category": "certifications",
+      "subCategory": "certification",
+      "image": {
+        "src": "/coursecards/certification/Certifications/Data-Analytics-Certification-Program.webp",
+        "alt": "Professional Data Analytics Certification Program for Data-Driven Decision Making"
+      },
+      "heading": "Data Analytics Certification Program",
+      "feeRange": "45,000 - 55,000",
+      "duration": "4-6 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/data-analytics-certification-program",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ],
+      "universities": [
+        {
+          "productId": 292,
+          "sourceId": 148,
+          "name": "teksversity",
+          "universityName": "Teksversity"
+        }
+      ],
+      "specializations": [
+        {
+          "name": "Data Analytics Certification Program",
+          "programName": "data-analytics-certification-program",
+          "productId": "",
+          "universities": [
+            {
+              "productId": 292,
+              "sourceId": 148,
+              "name": "teksversity",
+              "universityName": "Teksversity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programName": "salesforce-certification-training-program",
+      "category": "certifications",
+      "subCategory": "certification",
+      "image": {
+        "src": "/coursecards/certification/Certifications/Salesforce-Certification-Training-Program.webp",
+        "alt": "Salesforce Certification Program for CRM and Cloud Platform Expertise"
+      },
+      "heading": "Salesforce Certification Training Program",
+      "feeRange": "45,000 - 55,000",
+      "duration": "4-6 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/salesforce-certification-training-program",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ],
+      "universities": [
+        {
+          "productId": 289,
+          "sourceId": 148,
+          "name": "teksversity",
+          "universityName": "Teksversity"
+        }
+      ],
+      "specializations": [
+        {
+          "name": "Salesforce Certification Training Program",
+          "programName": "salesforce-certification-training-program",
+          "productId": "",
+          "universities": [
+            {
+              "productId": 289,
+              "sourceId": 148,
+              "name": "teksversity",
+              "universityName": "Teksversity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programName": "bim-certification-course",
+      "category": "certifications",
+      "subCategory": "certification",
+      "image": {
+        "src": "/coursecards/certification/Certifications/BIM-Certification-Course.webp",
+        "alt": "Professional BIM Certificate Program for Digital Construction Skills"
+      },
+      "heading": "BIM Certification Course",
+      "feeRange": "45,000 - 55,000",
+      "duration": "4-6 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/bim-certification-course",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ],
+      "universities": [
+        {
+          "productId": 286,
+          "sourceId": 148,
+          "name": "teksversity",
+          "universityName": "Teksversity"
+        }
+      ],
+      "specializations": [
+        {
+          "name": "BIM Certification Course",
+          "programName": "bim-certification-course",
+          "productId": "",
+          "universities": [
+            {
+              "productId": 286,
+              "sourceId": 148,
+              "name": "teksversity",
+              "universityName": "Teksversity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programName": "sap-fico-certification-program",
+      "category": "certifications",
+      "subCategory": "certification",
+      "image": {
+        "src": "/coursecards/certification/Certifications/SAP-FICO-Certification-Program.webp",
+        "alt": "SAP FICO Online Program for Financial Accounting and ERP Skills"
+      },
+      "heading": "SAP FICO Certification Program",
+      "feeRange": "45,000 - 55,000",
+      "duration": "4-6 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/sap-fico-certification-program",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ],
+      "universities": [
+        {
+          "productId": 284,
+          "sourceId": 148,
+          "name": "teksversity",
+          "universityName": "Teksversity"
+        }
+      ],
+      "specializations": [
+        {
+          "name": "SAP FICO Certification Program",
+          "programName": "sap-fico-certification-program",
+          "productId": "",
+          "universities": [
+            {
+              "productId": 284,
+              "sourceId": 148,
+              "name": "teksversity",
+              "universityName": "Teksversity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programName": "medical-coding-certification-course",
+      "category": "certifications",
+      "subCategory": "certification",
+      "image": {
+        "src": "/coursecards/certification/Certifications/Medical-Coding-Certification-Course.webp",
+        "alt": "Online Medical Coding and Billing Program for Healthcare Careers"
+      },
+      "heading": "Medical Coding Certification Course",
+      "feeRange": "45,000 - 55,000",
+      "duration": "4-6 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/medical-coding-certification-course",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ],
+      "universities": [
+        {
+          "productId": 273,
+          "sourceId": 148,
+          "name": "teksversity",
+          "universityName": "Teksversity"
+        }
+      ],
+      "specializations": [
+        {
+          "name": "Medical Coding Certification Course",
+          "programName": "medical-coding-certification-course",
+          "productId": "",
+          "universities": [
+            {
+              "productId": 273,
+              "sourceId": 148,
+              "name": "teksversity",
+              "universityName": "Teksversity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programName": "testing-tools-certification-program",
+      "category": "certifications",
+      "subCategory": "certification",
+      "image": {
+        "src": "/coursecards/certification/Certifications/Testing-Tools-Certification-Program.webp",
+        "alt": "Online Manual Testing Training Program for Software Quality and QA Skills"
+      },
+      "heading": "Testing Tools Certification Program",
+      "feeRange": "45,000 - 55,000",
+      "duration": "4-6 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/testing-tools-certification-program",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ],
+      "universities": [
+        {
+          "productId": 271,
+          "sourceId": 148,
+          "name": "teksversity",
+          "universityName": "Teksversity"
+        }
+      ],
+      "specializations": [
+        {
+          "name": "Testing Tools Certification Program",
+          "programName": "testing-tools-certification-program",
+          "productId": "",
+          "universities": [
+            {
+              "productId": 271,
+              "sourceId": 148,
+              "name": "teksversity",
+              "universityName": "Teksversity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programName": "vlsi-certification-training-program",
+      "category": "certifications",
+      "subCategory": "certification",
+      "image": {
+        "src": "/coursecards/certification/Certifications/VLSI-Certification-Training-Program.webp",
+        "alt": "VLSI Certification Program for Semiconductor and Chip Design Careers"
+      },
+      "heading": "VLSI Certification Training Program",
+      "feeRange": "45,000 - 55,000",
+      "duration": "4-6 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/vlsi-certification-training-program",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ],
+      "universities": [
+        {
+          "productId": 234,
+          "sourceId": 148,
+          "name": "teksversity",
+          "universityName": "Teksversity"
+        }
+      ],
+      "specializations": [
+        {
+          "name": "VLSI Certification Training Program",
+          "programName": "vlsi-certification-training-program",
+          "productId": "",
+          "universities": [
+            {
+              "productId": 234,
+              "sourceId": 148,
+              "name": "teksversity",
+              "universityName": "Teksversity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programName": "multimedia-certification-course",
+      "category": "certifications",
+      "subCategory": "certification",
+      "image": {
+        "src": "/coursecards/certification/Certifications/Multimedia-Certification-Course.webp",
+        "alt": "Professional Animation and Multimedia Training Program for Creative Careers"
+      },
+      "heading": "Multimedia Certification Course",
+      "feeRange": "45,000 - 55,000",
+      "duration": "4-6 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/multimedia-certification-course",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ],
+      "universities": [
+        {
+          "productId": 236,
+          "sourceId": 148,
+          "name": "teksversity",
+          "universityName": "Teksversity"
+        }
+      ],
+      "specializations": [
+        {
+          "name": "Multimedia Certification Course",
+          "programName": "multimedia-certification-course",
+          "productId": "",
+          "universities": [
+            {
+              "productId": 236,
+              "sourceId": 148,
+              "name": "teksversity",
+              "universityName": "Teksversity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programName": "advanced-excel-certification-course",
+      "category": "certifications",
+      "subCategory": "certification",
+      "image": {
+        "src": "/coursecards/certification/Certifications/Advanced-Excel-Certification-Course.webp",
+        "alt": "Advanced Excel Training Program for Data Analysis and Reporting"
+      },
+      "heading": "Advanced Excel Certification Course",
+      "feeRange": "45,000 - 55,000",
+      "duration": "4-6 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/advanced-excel-certification-course",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ],
+      "universities": [
+        {
+          "productId": 239,
+          "sourceId": 148,
+          "name": "teksversity",
+          "universityName": "Teksversity"
+        }
+      ],
+      "specializations": [
+        {
+          "name": "Advanced Excel Certification Course",
+          "programName": "advanced-excel-certification-course",
+          "productId": "",
+          "universities": [
+            {
+              "productId": 239,
+              "sourceId": 148,
+              "name": "teksversity",
+              "universityName": "Teksversity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programName": "autocad-certification-training-course",
+      "category": "certifications",
+      "subCategory": "certification",
+      "image": {
+        "src": "/coursecards/certification/Certifications/AutoCAD-Certification-Training-Course.webp",
+        "alt": "Certified AutoCAD Online Program for Design and Drafting Skills"
+      },
+      "heading": "AutoCAD Certification Training Course",
+      "feeRange": "45,000 - 55,000",
+      "duration": "4-6 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/autocad-certification-training-course",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ],
+      "universities": [
+        {
+          "productId": 242,
+          "sourceId": 148,
+          "name": "teksversity",
+          "universityName": "Teksversity"
+        }
+      ],
+      "specializations": [
+        {
+          "name": "AutoCAD Certification Training Course",
+          "programName": "autocad-certification-training-course",
+          "productId": "",
+          "universities": [
+            {
+              "productId": 242,
+              "sourceId": 148,
+              "name": "teksversity",
+              "universityName": "Teksversity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programName": "revit-mep-certification-course",
+      "category": "certifications",
+      "subCategory": "certification",
+      "image": {
+        "src": "/coursecards/certification/Certifications/Revit-MEP-Certification-Course.webp",
+        "alt": "Professional Revit Training Program Online for Architectural Modelling"
+      },
+      "heading": "Revit MEP Certification Course",
+      "feeRange": "45,000 - 55,000",
+      "duration": "4-6 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/revit-mep-certification-course",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ],
+      "universities": [
+        {
+          "productId": 245,
+          "sourceId": 148,
+          "name": "teksversity",
+          "universityName": "Teksversity"
+        }
+      ],
+      "specializations": [
+        {
+          "name": "Revit MEP Certification Course",
+          "programName": "revit-mep-certification-course",
+          "productId": "",
+          "universities": [
+            {
+              "productId": 245,
+              "sourceId": 148,
+              "name": "teksversity",
+              "universityName": "Teksversity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programName": "business-analytics-certification-program",
+      "category": "certifications",
+      "subCategory": "certification",
+      "image": {
+        "src": "/coursecards/certification/Certifications/Business-Analytics-Certification-Program.webp",
+        "alt": "Professional Business Analyst Certification Program Delivered Online"
+      },
+      "heading": "Business Analytics Certification Program",
+      "feeRange": "45,000 - 55,000",
+      "duration": "4-6 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/business-analytics-certification-program",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ],
+      "universities": [
+        {
+          "productId": 249,
+          "sourceId": 148,
+          "name": "teksversity",
+          "universityName": "Teksversity"
+        }
+      ],
+      "specializations": [
+        {
+          "name": "Business Analytics Certification Program",
+          "programName": "business-analytics-certification-program",
+          "productId": "",
+          "universities": [
+            {
+              "productId": 249,
+              "sourceId": 148,
+              "name": "teksversity",
+              "universityName": "Teksversity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programName": "generative-ai-certification-program",
+      "category": "certifications",
+      "subCategory": "certification",
+      "image": {
+        "src": "/coursecards/certification/Certifications/Generative-AI-Certification-Program.webp",
+        "alt": "Generative AI Online Program for Intelligent Systems and Innovation"
+      },
+      "heading": "Generative AI Certification Program",
+      "feeRange": "45,000 - 55,000",
+      "duration": "4-6 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/generative-ai-certification-program",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ],
+      "universities": [
+        {
+          "productId": 254,
+          "sourceId": 148,
+          "name": "teksversity",
+          "universityName": "Teksversity"
+        }
+      ],
+      "specializations": [
+        {
+          "name": "Generative AI Certification Program",
+          "programName": "generative-ai-certification-program",
+          "productId": "",
+          "universities": [
+            {
+              "productId": 254,
+              "sourceId": 148,
+              "name": "teksversity",
+              "universityName": "Teksversity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programName": "sap-mm-certification-program",
+      "category": "certifications",
+      "subCategory": "certification",
+      "image": {
+        "src": "/coursecards/certification/Certifications/SAP-MM-Certification-Program.webp",
+        "alt": "SAP MM Online Training Program for Materials Management Expertise"
+      },
+      "heading": "SAP MM Certification Program",
+      "feeRange": "45,000 - 55,000",
+      "duration": "4-6 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/sap-mm-certification-program",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ],
+      "universities": [
+        {
+          "productId": 257,
+          "sourceId": 148,
+          "name": "teksversity",
+          "universityName": "Teksversity"
+        }
+      ],
+      "specializations": [
+        {
+          "name": "SAP MM Certification Program",
+          "programName": "sap-mm-certification-program",
+          "productId": "",
+          "universities": [
+            {
+              "productId": 257,
+              "sourceId": 148,
+              "name": "teksversity",
+              "universityName": "Teksversity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programName": "cyber-security-certification-course",
+      "category": "certifications",
+      "subCategory": "certification",
+      "image": {
+        "src": "/coursecards/certification/Certifications/Cyber-Security-Certification-Course.webp",
+        "alt": "Online Cyber Security Training Program for Digital Protection Skills"
+      },
+      "heading": "Cyber Security Certification Course",
+      "feeRange": "45,000 - 55,000",
+      "duration": "4-6 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/cyber-security-certification-course",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ],
+      "universities": [
+        {
+          "productId": 263,
+          "sourceId": 148,
+          "name": "teksversity",
+          "universityName": "Teksversity"
+        }
+      ],
+      "specializations": [
+        {
+          "name": "Cyber Security Certification Course",
+          "programName": "cyber-security-certification-course",
+          "productId": "",
+          "universities": [
+            {
+              "productId": 263,
+              "sourceId": 148,
+              "name": "teksversity",
+              "universityName": "Teksversity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programName": "bfsi-certification-training-program",
+      "category": "certifications",
+      "subCategory": "certification",
+      "image": {
+        "src": "/coursecards/certification/Certifications/BFSI-Certification-Training-Program.webp",
+        "alt": "Online Program in Banking and Finance for Modern Financial Careers"
+      },
+      "heading": "BFSI Certification Training Program",
+      "feeRange": "45,000 - 55,000",
+      "duration": "4-6 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/bfsi-certification-training-program",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ],
+      "universities": [
+        {
+          "productId": 266,
+          "sourceId": 148,
+          "name": "teksversity",
+          "universityName": "Teksversity"
+        }
+      ],
+      "specializations": [
+        {
+          "name": "BFSI Certification Training Program",
+          "programName": "bfsi-certification-training-program",
+          "productId": "",
+          "universities": [
+            {
+              "productId": 266,
+              "sourceId": 148,
+              "name": "teksversity",
+              "universityName": "Teksversity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programName": "pmp-certification-training-program",
+      "category": "certifications",
+      "subCategory": "certification",
+      "image": {
+        "src": "/coursecards/certification/Certifications/PMP-Certification-Training-Program.webp",
+        "alt": "Industry-Aligned PMP Training Program for Project Leadership Excellence"
+      },
+      "heading": "PMP Certification Training Program",
+      "feeRange": "45,000 - 55,000",
+      "duration": "4-6 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/pmp-certification-training-program",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ],
+      "universities": [
+        {
+          "productId": 269,
+          "sourceId": 148,
+          "name": "teksversity",
+          "universityName": "Teksversity"
+        }
+      ],
+      "specializations": [
+        {
+          "name": "PMP Certification Training Program",
+          "programName": "pmp-certification-training-program",
+          "productId": "",
+          "universities": [
+            {
+              "productId": 269,
+              "sourceId": 148,
+              "name": "teksversity",
+              "universityName": "Teksversity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programName": "bba",
+      "category": "academics",
+      "subCategory": "ug",
+      "specialization": "bba",
+      "image": {
+        "src": "/coursecards/academics/BBA/BBA.webp",
+        "alt": "Online Degree Program in Business Administration for Management Careers"
+      },
+      "heading": "Bachelor of Business Administration",
+      "feeRange": "1,35,000 - 2,40,000",
+      "duration": "36 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "specializations": [
+        {
+          "name": "Bachelor of Business Administration",
+          "programName": "bachelor-of-business-administration",
+          "universities": [
+            {
+              "ProductId": 124,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "1,65,000",
+              "duration": "36 months 6 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Bachelor of Business Administration in Digital Marketing",
+          "programName": "digital-marketing",
+          "universities": [
+            {
+              "ProductId": 130,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "2,40,000",
+              "duration": "3 years"
+            }
+          ]
+        },
+
+        {
+          "name": "Bachelor of Business Administration in Data Analytics",
+          "programName": "data-analytics",
+          "universities": [
+            {
+              "ProductId": 138,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "2,25,000",
+              "duration": "3 years 6 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Bachelor of Business Administration in Data Science and Analytics",
+          "programName": "data-science-analytics",
+          "universities": [
+            {
+              "ProductId": 144,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "2,40,000",
+              "duration": "3 years"
+            }
+          ]
+        },
+
+        {
+          "name": "Bachelor of Business Administration in Healthcare Management",
+          "programName": "healthcare-management",
+          "universities": [
+            {
+              "ProductId": 146,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,50,000",
+              "duration": "3 years"
+            }
+          ]
+        },
+
+        {
+          "name": "Bachelor of Business Administration in Travel and Tourism Management",
+          "programName": "travel-tourism-management",
+          "universities": [
+            {
+              "ProductId": 148,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "1,65,000",
+              "duration": "3 years"
+            }
+          ]
+        },
+
+        {
+          "name": "Bachelor of Business Administration in Business Analytics",
+          "programName": "business-analytics",
+          "universities": [
+            {
+              "ProductId": 149,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "2,10,000",
+              "duration": "3 years"
+            }
+          ]
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/bba",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+    {
+      "programName": "bba in bachelor of business administration",
+      "branch": "bba",
+      "image": {
+        "src": "/coursecards/academics/BBA/bachelor-business-administration.webp",
+        "alt": "Online Degree Program in Business Administration for Management Careers"
+      },
+      "heading": "Bachelor of Business Administration",
+      "feeRange": "1,35,000 - 2,40,000",
+      "duration": "36 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 124,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "1,65,000",
+          "duration": "36 months 6 sem"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/bba/bachelor-of-business-administration",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+
+    {
+      "branch": "bba",
+      "programName": "bba in digital marketing",
+      "image": {
+        "src": "/coursecards/academics/BBA/BBA-Digital-marketing.webp",
+        "alt": "Online BBA Program in Digital Marketing for Modern Marketing Careers"
+      },
+      "heading": "BBA in Digital Marketing",
+      "feeRange": "1,35,000 - 2,40,000",
+      "duration": "36 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 130,
+          "sourceId": 155,
+          "name": "jain-university",
+          "universityName": "Jain University",
+          "fee": "2,40,000",
+          "duration": "3 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/bba/digital-marketing",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+    {
+      "branch": "bba",
+      "programName": "bba in data science and analytics",
+      "image": {
+        "src": "/coursecards/academics/BBA/BBA-Data-Science-Analytics.webp",
+        "alt": "Top-Ranked Universities Providing BBA in Data Science Education"
+      },
+      "heading": "BBA in Data Science and Analytics",
+      "feeRange": "1,35,000 - 2,40,000",
+      "duration": "36 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 144,
+          "sourceId": 155,
+          "name": "jain-university",
+          "universityName": "Jain University",
+          "fee": "2,40,000",
+          "duration": "3 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/bba/data-science-and-analytics",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+
+    {
+      "branch": "bba",
+      "programName": "bba in data analytics",
+      "image": {
+        "src": "/coursecards/academics/BBA/BBA-Data-Analytics.webp",
+        "alt": "Leading Universities Offering BBA in Data Analytics Programs"
+      },
+      "heading": "BBA in Data Analytics",
+      "feeRange": "1,35,000 - 2,40,000",
+      "duration": "36 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 138,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "2,25,000",
+          "duration": "3 years 6 sem"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/bba/data-analytics",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+    {
+      "branch": "bba",
+      "programName": "bba in business analytics",
+      "image": {
+        "src": "/coursecards/academics/BBA/BBA-Business-Analytics.webp",
+        "alt": "Top Institutions Providing BBA in Business Analytics Programs"
+      },
+      "heading": "BBA in Business Analytics",
+      "feeRange": "1,35,000 - 2,40,000",
+      "duration": "36 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 149,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "2,10,000",
+          "duration": "3 years"
+        }
+      ],
+
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/bba/business-analytics",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+    {
+      "branch": "bba",
+      "programName": "bba in travel and tourism management",
+      "image": {
+        "src": "/coursecards/academics/BBA/BBA-Travel-Tourism-Management.webp",
+        "alt": "Premier Universities Offering BBA in Travel and Tourism Management"
+      },
+      "heading": "BBA in Travel and Tourism Management",
+      "feeRange": "1,35,000 - 2,40,000",
+      "duration": "36 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 148,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "1,65,000",
+          "duration": "3 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/bba/travel-and-tourism-management",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+    {
+      "branch": "bba",
+      "programName": "bba in healthcare management",
+      "image": {
+        "src": "/coursecards/academics/BBA/BBA-Heathcare%20-Management.webp",
+        "alt": "BBA Program in Hospital Administration for Healthcare Management Roles"
+      },
+      "heading": "BBA in Healthcare Management",
+      "feeRange": "1,35,000 - 2,40,000",
+      "duration": "36 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 146,
+          "sourceId": 155,
+          "name": "jain-university",
+          "universityName": "Jain University",
+          "fee": "1,50,000",
+          "duration": "3 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/bba/healthcare-management",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+    {
+      "programName": "bcom",
+      "category": "academics",
+      "subCategory": "ug",
+      "specialization": "bcom",
+      "image": {
+        "src": "/coursecards/academics/Bcom/bcom.webp",
+        "alt": "Online Bachelor of Commerce Degree Program for Business and Finance Careers"
+      },
+      "heading": "Bachelor of Commerce",
+      "feeRange": "75,000 - 2,94,000",
+      "duration": "36 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "specializations": [
+        {
+          "name": "Bachelor of Commerce",
+          "programName": "bachelor-of-commerce",
+          "universities": [
+            {
+              "ProductId": 125,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "99,000",
+              "duration": "3 years"
+            }
+          ]
+        },
+
+        {
+          "name": "Bachelor of Commerce in accounting and finance",
+          "programName": "bcom in accounting and finance",
+          "universities": [
+            {
+              "ProductId": 174,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,27,000",
+              "duration": "3 years"
+            }
+          ]
+        },
+        {
+          "name": "Bachelor of Commerce in International Finance & Accounting",
+          "programName": "international-finance-accounting",
+          "universities": [
+            {
+              "ProductId": 178,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "2,28,000",
+              "duration": "3 years"
+            },
+            {
+              "ProductId": 179,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "2,50,000",
+              "duration": "3 years"
+            }
+          ]
+        }
+      ],
+
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/bcom",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+    {
+      "productId": 125,
+      "branch": "bcom",
+      "sourceId": 151,
+      "programName": "bcom in bachelor of commerce",
+      "image": {
+        "src": "/coursecards/academics/Bcom/bcom-bachelor-commerce.webp",
+        "alt": "Accredited Online B.Com Degree Program for Commerce Foundations"
+      },
+      "heading": "BCOM in Bachelor of commerce",
+      "feeRange": "75,000 - 2,94,000",
+      "duration": "36 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 125,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "2,50,000",
+          "duration": "3years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/bcom/bachelor-of-commerce",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+
+    {
+      "productId": "",
+      "branch": "bcom",
+      "sourceId": "",
+      "programName": "bcom in accounting and finance",
+      "image": {
+        "src": "/coursecards/academics/Bcom/bcom-accounting-finance.webp",
+        "alt": "Bachelor of Commerce in Finance Program for Financial and Investment Roles"
+      },
+      "heading": "BCOM in Accounting And Finance",
+      "feeRange": "75,000 - 2,94,000",
+      "duration": "36 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 174,
+          "sourceId": 155,
+          "name": "jain-university",
+          "universityName": "Jain University",
+          "fee": "1,27,500",
+          "duration": "3years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/bcom/accounting-and-finance",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+    {
+      "productId": "",
+      "branch": "bcom",
+      "sourceId": "",
+      "programName": "bcom in international finance and accounting",
+      "image": {
+        "src": "/coursecards/academics/Bcom/bcom-international-finance-accounting.webp",
+        "alt": "Bachelor of Commerce in International Accounting and Finance for Global Careers"
+      },
+      "heading": "BCOM in International Finance & Accounting",
+      "feeRange": "75,000 - 2,94,000",
+      "duration": "36 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 178,
+          "sourceId": 155,
+          "name": "jain-university",
+          "universityName": "Jain University",
+          "fee": "2,28,000",
+          "duration": "3years"
+        },
+        {
+          "ProductId": 179,
+          "sourceId": 6,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "2,50,000",
+          "duration": "3years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/bcom/international-finance-and-accounting",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+
+    {
+      "programName": "bca",
+      "category": "academics",
+      "subCategory": "ug",
+      "specialization": "bca",
+      "image": {
+        "src": "/coursecards/academics/BCA/bca.webp",
+        "alt": "Online Bachelor of Computer Applications Degree Program for IT Careers"
+      },
+      "heading": "Bachelor of Computer Application",
+      "feeRange": "1,35,000 - 2,25,000",
+      "duration": "36 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "specializations": [
+        {
+          "name": "Bachelor of Computer Applications in Data Science & Analytics",
+          "programName": "data-science-analytics",
+          "universities": [
+            {
+              "ProductId": 197,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,65,000",
+              "duration": "3 years"
+            }
+          ]
+        },
+
+        {
+          "name": "Bachelor of Computer Applications in Cloud Computing",
+          "programName": "cloud-computing",
+          "universities": [
+            {
+              "ProductId": 200,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,65,000",
+              "duration": "3 years"
+            }
+          ]
+        },
+
+        {
+          "name": "Bachelor of Computer Applications in Cyber Security",
+          "programName": "cyber-security",
+          "universities": [
+            {
+              "ProductId": 205,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,65,000",
+              "duration": "3 years"
+            }
+          ]
+        },
+
+        {
+          "name": "Bachelor of Computer Applications in Computer Science and IT",
+          "programName": "computer-science-it",
+          "universities": [
+            {
+              "ProductId": 208,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,35,000",
+              "duration": "3 years"
+            }
+          ]
+        },
+
+        {
+          "name": "Bachelor of Computer Applications in Artificial Intelligence",
+          "programName": "artificial-intelligence",
+          "universities": [
+            {
+              "ProductId": 364,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,65,000",
+              "duration": "3 years"
+            }
+          ]
+        },
+
+        {
+          "name": "Bachelor of Computer Applications in Cloud and Security",
+          "programName": "cloud-security",
+          "universities": [
+            {
+              "ProductId": 212,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "2,25,000",
+              "duration": "3 years"
+            }
+          ]
+        },
+
+        {
+          "name": "Bachelor of Computer Applications in Software Engineering",
+          "programName": "software-engineering",
+          "universities": [
+            {
+              "ProductId": 213,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "2,25,000",
+              "duration": "3 years"
+            }
+          ]
+        },
+
+        {
+          "name": "Bachelor of Computer Applications in Data Science",
+          "programName": "data-science",
+          "universities": [
+            {
+              "ProductId": 216,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "1,50,000",
+              "duration": "3 years"
+            }
+          ]
+        },
+        {
+          "name": "Bachelor of Computer Applications in Data Engineering",
+          "programName": "data-engineering",
+          "universities": [
+            {
+              "ProductId": 363,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "2,25,000",
+              "duration": "3 years"
+            }
+          ]
+        },
+
+        {
+          "name": "Bachelor of Computer Applications in Applied Data Engineering",
+          "programName": "applied-data-engineering",
+          "universities": [
+            {
+              "ProductId": 218,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "2,25,000",
+              "duration": "3 years"
+            }
+          ]
+        },
+
+        {
+          "name": "Bachelor of Computer Applications in Data Analytics",
+          "programName": "data-analytics",
+          "universities": [
+            {
+              "ProductId": 221,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "2,25,000",
+              "duration": "3 years"
+            }
+          ]
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/bca",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+    {
+      "branch": "bca",
+      "programName": "bca in data science and analytics",
+      "image": {
+        "src": "/coursecards/academics/BCA/bca-datascience-analytics.webp",
+        "alt": "BCA Program in Data Science and Analytics for Data-Driven Technology Roles"
+      },
+      "heading": "Bachelor of Computer Applications in Data Science & Analytics",
+      "feeRange": "1,35,000 - 2,25,000",
+      "duration": "36 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 197,
+          "sourceId": 155,
+          "name": "jain-university",
+          "universityName": "Jain University",
+          "fee": "1,65,000",
+          "duration": "3years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/bca/data-science-and-analytics",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+    {
+      "branch": "bca",
+      "programName": "bca in cloud computing",
+      "image": {
+        "src": "/coursecards/academics/BCA/bca-cloud-computing.webp",
+        "alt": "Leading Universities Offering BCA Programs in Cloud Computing"
+      },
+      "heading": "Bachelor of Computer Applications in Cloud Computing",
+      "feeRange": "1,35,000 - 2,25,000",
+      "duration": "36 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 200,
+          "sourceId": 155,
+          "name": "jain-university",
+          "universityName": "Jain University",
+          "fee": "1,65,000",
+          "duration": "3years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/bca/cloud-computing",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+    {
+      "branch": "bca",
+      "programName": "bca in cyber security",
+      "image": {
+        "src": "/coursecards/academics/BCA/bca-cyber-security.webp",
+        "alt": "BCA Program in Cyber Security for Digital Protection and Risk Management"
+      },
+      "heading": "Bachelor of Computer Applications in Cyber Security",
+      "feeRange": "1,35,000 - 2,25,000",
+      "duration": "36 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 205,
+          "sourceId": 155,
+          "name": "jain-university",
+          "universityName": "Jain University",
+          "fee": "1,65,000",
+          "duration": "3years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/bca/cyber-security",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+    {
+      "branch": "bca",
+      "programName": "bca in computer science and it",
+      "image": {
+        "src": "/coursecards/academics/BCA/bca-computer-science-it.webp",
+        "alt": "Online Bachelor’s Degree Program in Computer Science and Information Technology"
+      },
+      "heading": "Bachelor of Computer Applications in Computer Science and IT",
+      "feeRange": "1,35,000 - 2,25,000",
+      "duration": "36 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 208,
+          "sourceId": 155,
+          "name": "jain-university",
+          "universityName": "Jain University",
+          "fee": "1,35,000",
+          "duration": "3years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/bca/computer-science-and-it",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+    {
+      "branch": "bca",
+      "programName": "bca in artificial intelligence",
+      "image": {
+        "src": "/coursecards/academics/BCA/bca-artificial-Intelligence.webp",
+        "alt": "Bachelor’s Degree Program in Artificial Intelligence for Intelligent Systems Careers"
+      },
+      "heading": "Bachelor of Computer Applications in Artificial Intelligence",
+      "feeRange": "1,35,000 - 2,25,000",
+      "duration": "36 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 364,
+          "sourceId": 155,
+          "name": "jain-university",
+          "universityName": "Jain University",
+          "fee": "1,65,000",
+          "duration": "3years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/bca/artificial-intelligence",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+    {
+      "branch": "bca",
+      "programName": "bca in cloud and security",
+      "image": {
+        "src": "/coursecards/academics/BCA/bca-cloud-security.webp",
+        "alt": "BCA Program in Cloud Computing and Cyber Security for Secure Infrastructure Roles"
+      },
+      "heading": "Bachelor of Computer Applications in Cloud and Security",
+      "feeRange": "1,35,000 - 2,25,000",
+      "duration": "36 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 212,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "2,25,000",
+          "duration": "3years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/bca/cloud-and-security",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+    {
+      "branch": "bca",
+      "programName": "bca in software engineering",
+      "image": {
+        "src": "/coursecards/academics/BCA/bca-software-engineering.webp",
+        "alt": "bca-software-engineering"
+      },
+      "heading": "Bachelor of Computer Applications in Software Engineering",
+      "feeRange": "1,35,000 - 2,25,000",
+      "duration": "36 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 213,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "2,25,000",
+          "duration": "3years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/bca/software-engineering",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+    {
+      "branch": "bca",
+      "programName": "bca in data science",
+      "image": {
+        "src": "/coursecards/academics/BCA/bca-datascience.webp",
+        "alt": "Online Bachelor’s Degree Program in Data Science for Analytics and AI Skills"
+      },
+      "heading": "Bachelor of Computer Applications in Data Science",
+      "feeRange": "1,35,000 - 2,25,000",
+      "duration": "36 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 216,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "1,50,000",
+          "duration": "3years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/bca/data-science",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+    {
+      "branch": "bca",
+      "programName": "bca in data engineering",
+      "image": {
+        "src": "/coursecards/academics/BCA/bca-data-engineering.webp",
+        "alt": "Online Bachelor’s Program in Applied Data Engineering for Scalable Data Systems"
+      },
+      "heading": "Bachelor of Computer Applications in Data Engineering",
+      "feeRange": "1,35,000 - 2,25,000",
+      "duration": "36 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 363,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "2,25,000",
+          "duration": "3years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/bca/data-engineering",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+    {
+      "branch": "bca",
+      "programName": "bca in applied data engineering",
+      "image": {
+        "src": "/coursecards/academics/BCA/bca-applied-data-engineering.webp",
+        "alt": "Bachelor’s Degree Program in Data Engineering for Data Pipeline and Platform Skills"
+      },
+      "heading": "Bachelor of Computer Applications in Applied Data Engineering",
+      "feeRange": "1,35,000 - 2,25,000",
+      "duration": "36 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 218,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "2,25,000",
+          "duration": "3years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/bca/applied-data-engineering",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+    {
+      "branch": "bca",
+      "programName": "bca in data analytics",
+      "image": {
+        "src": "/coursecards/academics/BCA/bca-data-analytics.webp",
+        "alt": "Online Bachelor’s Degree Program in Data Analytics for Business Insights"
+      },
+      "heading": "Bachelor of Computer Applications in Data Analytics",
+      "feeRange": "1,35,000 - 2,25,000",
+      "duration": "36 Months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 221,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "2,25,000",
+          "duration": "3years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/bca/data-analytics",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+    {
+      "programName": "ba",
+      "category": "academics",
+      "subCategory": "ug",
+      "specialization": "ba",
+      "image": {
+        "src": "/coursecards/academics/BA/ba.webp",
+        "alt": "Online Bachelor of Arts Degree Program for Humanities Studies"
+      },
+      "heading": "Bachelor of Arts",
+      "feeRange": "99,000 - 1,70,000",
+      "duration": "36 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "specializations": [
+        {
+          "name": "Bachelor of Arts in Economics",
+          "programName": "economics",
+          "universities": [
+            {
+              "ProductId": 225,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "99,000",
+              "duration": "3 years"
+            }
+          ]
+        },
+
+        {
+          "name": "Bachelor of Arts in English",
+          "programName": "english",
+          "universities": [
+            {
+              "ProductId": 193,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "99,000",
+              "duration": "3 years"
+            }
+          ]
+        },
+
+        {
+          "name": "Bachelor of Arts in Sociology",
+          "programName": "sociology",
+          "universities": [
+            {
+              "ProductId": 192,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "99,000",
+              "duration": "3 years"
+            }
+          ]
+        },
+
+        {
+          "name": "Bachelor of Arts in Political Science",
+          "programName": "political-science",
+          "universities": [
+            {
+              "ProductId": 191,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "99,000",
+              "duration": "3 years"
+            }
+          ]
+        },
+
+        {
+          "name": "Bachelor of Arts in Journalism and Mass Communication",
+          "programName": "journalism-mass-communication",
+          "universities": [
+            {
+              "ProductId": 235,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "1,70,000",
+              "duration": "3 years"
+            }
+          ]
+        }
+      ],
+      "button": [
+        { "name": "Know More", "link": " /courses/ba", "form": false },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+    {
+      "branch": "ba",
+      "programName": "ba in economics",
+      "image": {
+        "src": "/coursecards/academics/BA/ba-economics.webp",
+        "alt": "Bachelor of Arts in Economics Program for Analytical and Policy Skills"
+      },
+      "heading": "Bachelor of Arts in Economics",
+      "feeRange": "99,000 - 1,70,000",
+      "duration": "36 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 225,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "99,000",
+          "duration": "3years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/ba/economics",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+    {
+      "branch": "ba",
+      "programName": "ba in english",
+      "image": {
+        "src": "/coursecards/academics/BA/ba-english.webp",
+        "alt": "Online Bachelor’s Degree in English for Language and Communication Excellence"
+      },
+      "heading": "Bachelor of Arts in English",
+      "feeRange": "99,000 - 1,70,000",
+      "duration": "36 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 225,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "99,000",
+          "duration": "3years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/ba/english",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+    {
+      "branch": "ba",
+      "programName": "ba in sociology",
+      "image": {
+        "src": "/coursecards/academics/BA/ba-sociology.webp",
+        "alt": "Bachelor of Arts in Sociology Program for Social Research and Analysis"
+      },
+      "heading": "Bachelor of Arts in Sociology",
+      "feeRange": "99,000 - 1,70,000",
+      "duration": "36 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 192,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "99,000",
+          "duration": "3years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/ba/sociology",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+    {
+      "branch": "ba",
+      "programName": "ba in political science",
+      "image": {
+        "src": "/coursecards/academics/BA/ba-political-science.webp",
+        "alt": "Political-Science.webp"
+      },
+      "heading": "Bachelor of Arts in Political Science",
+      "feeRange": "99,000 - 1,70,000",
+      "duration": "36 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 191,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "99,000",
+          "duration": "3years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/ba/political-science",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+    {
+      "branch": "ba",
+      "programName": "ba in journalism and-mass communication",
+      "image": {
+        "src": "/coursecards/academics/BA/ba-journalism-mass-communication.webp",
+        "alt": "Bachelor’s Degree in Journalism and Mass Communication for Media Careers"
+      },
+      "heading": "Bachelor of Arts in Journalism and Mass Communication",
+      "feeRange": "99,000 - 1,70,000",
+      "duration": "36 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 235,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "1,70,000",
+          "duration": "3years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/ba/journalism-and-mass-communication",
+          "form": false
+        },
+        { "name": "Enroll Now", "link": "", "form": true }
+      ]
+    },
+
+    {
+      "branch": "mba",
+      "programName": "mba in finance",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-Finance.webp",
+        "alt": "Online MBA Program in Finance for Strategic Financial Management"
+      },
+      "heading": "MBA in Finance",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 156,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "1,96,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/finance",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mba",
+      "programName": "mba in marketing",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-Marketing.webp",
+        "alt": "Online MBA Program in Marketing for Brand and Growth Leadership"
+      },
+      "heading": "MBA in Marketing",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 162,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "1,96,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/marketing",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+
+    {
+      "branch": "mba",
+      "programName": "mba in human resource management",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-Human-Resource-Management.webp",
+        "alt": "human resource management"
+      },
+      "heading": "MBA in Human Resource Management",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 180,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "1,96,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/human-resource-management",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mba",
+      "programName": "mba in data science",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-Data-Science.webp",
+        "alt": "Online MBA Program in Data Science for Data-Driven Business Strategy"
+      },
+      "heading": "MBA in Data Science",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 176,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "1,99,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/data-science",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mba",
+      "programName": "mba in business analytics",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-Business-Analytics.webp",
+        "alt": "Master’s Program in Business Analytics for Intelligent Decision Making"
+      },
+      "heading": "MBA in Business Analytics",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 171,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "1,99,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/business-analytics",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mba",
+      "programName": "mba in project management",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-Project-Management.webp",
+        "alt": "MBA Program in Project Management Designed for Working Professionals"
+      },
+      "heading": "MBA in Project Management",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 207,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "1,96,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/project-management",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mba",
+      "programName": "mba in human resource management and finance",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-Human-Resource-Management-Finance.webp",
+        "alt": "MBA Program in Human Resources and Finance for Dual-Discipline Expertise"
+      },
+      "heading": "MBA in Human Resource Management and Finance",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 220,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "1,96,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/human-resource-management-and-finance",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mba",
+      "programName": "mba in finance and marketing",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-Finance-Marketing.webp",
+        "alt": "Online MBA Program in Finance and Marketing for Integrated Business Leadership"
+      },
+      "heading": "MBA in Finance and Marketing",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 222,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "1,96,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/finance-and-marketing",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mba",
+      "programName": "mba in marketing and human resource management",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-Marketing-Human-Resource-Management.webp",
+        "alt": "Dual-Specialization MBA Program in Human Resources and Marketing"
+      },
+      "heading": "MBA in Marketing and Human Resource Management",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 224,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "1,96,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/marketing-and-human-resource-management",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mba",
+      "programName": "mba in marketing and business analytics",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-Marketing-Business-Analytics.webp",
+        "alt": "MBA Program in Marketing and Business Analytics for Data-Driven Growth"
+      },
+      "heading": "MBA in Marketing and Business Analytics",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 229,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "1,96,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/marketing-and-business-analytics ",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mba",
+      "programName": "mba in finance and business analytics",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-Finance-Business-Analytics.webp",
+        "alt": "MBA Program in Business Analytics and Finance for Financial Intelligence"
+      },
+      "heading": "MBA in Finance and Business Analytics",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 233,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "1,96,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/finance-and-business-analytics",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mba",
+      "programName": "mba in human resource and business analytics",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-Human-Resource-Business-Analytics.webp",
+        "alt": "MBA Program in Human Resources and Business Analytics for Strategic HR Decisions"
+      },
+      "heading": "MBA in Human Resource and Business Analytics",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 237,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "1,96,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/human-resource-and-business-analytics",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+
+    {
+      "branch": "mba",
+      "programName": "mba in information technology management",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-Information-Technology-Management.webp",
+        "alt": "Online MBA Program in Information Technology Management for Digital Leadership"
+      },
+      "heading": "MBA in Information Technology Management",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 240,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "1,96,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/information-technology-management",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mba",
+      "programName": "mba in supply chain production and operations management",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-Supply-Chain-Production-Operations-Management.webp",
+        "alt": "MBA Program in Supply Chain and Operations Management for Operational Excellence"
+      },
+      "heading": "MBA in Supply Chain, Production and Operations Management",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 241,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "1,96,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/supply-chain-production-and-operations-management",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mba",
+      "programName": "mba in business intelligence and analytics",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-Business-Intelligence-Analytics.webp",
+        "alt": "Online MBA Program in Business Intelligence and Analytics for Smart Decisions"
+      },
+      "heading": "MBA in Business Intelligence and Analytics",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 243,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "1,96,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/business-intelligence-and-analytics",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mba",
+      "programName": "mba in Entrepreneurship, and Venture Development",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-Entrepreneurship-Venture-Creation.webp",
+        "alt": "MBA Program in Innovation, Entrepreneurship, and Venture Development"
+      },
+      "heading": "MBA in Entrepreneurship and Venture Creation",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 244,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "1,96,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/entrepreneurship-and-venture-creation",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mba",
+      "programName": "mba in international finance accredited by acca uk",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-International-Finance-Accredited-ACCA-UK.webp",
+        "alt": "MBA Program in International Finance in India for Global Financial Careers"
+      },
+      "heading": "MBA in International Finance (Accredited by ACCA, UK)",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 247,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "2,99,000",
+          "duration": "2 years"
+        },
+        {
+          "ProductId": "",
+          "sourceId": "",
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "2,99,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/international-finance-accredited-by-acca-uk",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mba",
+      "programName": "mba in data science and analytics",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-Data-Science-Analytics.webp",
+        "alt": "Online MBA Program in Data Science and Business Analytics for Advanced Analytics"
+      },
+      "heading": "MBA in Data Science and Analytics",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 248,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "2,00,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/data-science-and-analytics",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mba",
+      "programName": "mba in digital marketing and e commerce",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-Digital-Marketing-E-Commerce.webp",
+        "alt": "MBA Program in E-Commerce and Digital Marketing for Digital Business Growth"
+      },
+      "heading": "MBA in Digital Marketing and E-Commerce",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 250,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "2,00,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/digital-marketing-and-e-commerce",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mba",
+      "programName": "mba in artificial intelligence",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-Artificial-Intelligence.webp",
+        "alt": "Online MBA Program in Artificial Intelligence for Intelligent Business Systems"
+      },
+      "heading": "MBA in Artificial Intelligence",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 251,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "2,00,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/artificial-intelligence",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mba",
+      "programName": "mba in banking and finance",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-Banking-Finance.webp",
+        "alt": "Online MBA Program in Banking and Finance for Modern Financial Services"
+      },
+      "heading": "MBA in Banking and Finance",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 252,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "2,00,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/banking-and-finance",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mba",
+      "programName": "mba in general management",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-General-Management.webp",
+        "alt": "MBA Program in General Management for Strategic Business Leadership"
+      },
+      "heading": "MBA in General Management",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 255,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "1,99,000",
+          "duration": "2 years"
+        },
+        {
+          "ProductId": "",
+          "sourceId": "",
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "jain"
+          },
+          "universityName": "Amity University",
+          "fee": "1,99,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/general-management",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mba",
+      "programName": "mba in ai driven marketing",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-AI-Driven-Marketing.webp",
+        "alt": "Artificial Intelligence in Marketing Program for Data-Driven Campaign Strategy"
+      },
+      "heading": "MBA in AI-Driven Marketing",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 256,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "2,50,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/ai-driven-marketing",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mba",
+      "programName": "mba in ai driven finance",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-AI-Driven-Finance.webp",
+        "alt": "Online MBA Program in AI for Finance for Intelligent Financial Innovation"
+      },
+      "heading": "MBA in AI-Driven Finance",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 258,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "2,50,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/ai-driven-finance",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mba",
+      "programName": "mba in ai driven business strategy",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-AI-Driven- Business-Strategy.webp",
+        "alt": "Online MBA Program in AI for Business Strategy in India"
+      },
+      "heading": "MBA in AI-Driven Business Strategy",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 259,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "2,50,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/ai-driven-business-strategy",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mba",
+      "programName": "mba in ai driven human resources",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-AI-Driven-Human-Resources.webp",
+        "alt": "Artificial Intelligence Program for Human Resources Transformation"
+      },
+      "heading": "MBA in AI-Driven Human Resources",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 260,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "2,50,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/ai-driven-human-resources",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mba",
+      "programName": "mba in human resource analytics",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-Human-Resource-Analytics.webp",
+        "alt": "MBA Program in HR Analytics for Data-Driven Workforce Decisions"
+      },
+      "heading": "MBA in Human Resource Analytics",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 261,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "1,99,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/human-resource-analytics",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mba",
+      "programName": "mba in digital entrepreneurship",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-Digital-Entrepreneurship.webp",
+        "alt": "Online MBA Program in Entrepreneurship for Venture Creation and Growth"
+      },
+      "heading": "MBA in Digital Entrepreneurship",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 264,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "1,99,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/digital-entrepreneurship",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mba",
+      "programName": "mba in digital marketing management",
+      "specialization": "mba",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA-Digital-Marketing-Management.webp",
+        "alt": "Online MBA Program in Digital Marketing in India for Performance Marketing Careers"
+      },
+      "heading": " MBA in Digital Marketing Management",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 265,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "1,99,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba/digital-marketing-management",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "programName": "mba",
+      "category": "academics",
+      "subCategory": "pg",
+      "specialization": "mba",
+      "image": {
+        "src": "/coursecards/academics/mba/MBA.webp",
+        "alt": "Online Master of Business Administration Degree Program for Leadership Careers"
+      },
+      "heading": "Master of Business Administration",
+      "feeRange": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "specializations": [
+        {
+          "name": "Master of Business Administration in Finance",
+          "programName": "finance",
+          "universities": [
+            {
+              "ProductId": 156,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,96,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Business Administration in Marketing",
+          "programName": "marketing",
+          "universities": [
+            {
+              "ProductId": 162,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,96,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+        {
+          "name": "Master of Business Administration in Business Analytics",
+          "programName": "business-analytics",
+          "universities": [
+            {
+              "ProductId": 171,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "1,99,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Business Administration in Data Science",
+          "programName": "data-science",
+          "universities": [
+            {
+              "ProductId": 176,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "1,99,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Business Administration in Human Resource Management",
+          "programName": "human-resource-management",
+          "universities": [
+            {
+              "ProductId": 180,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,96,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Business Administration in Project Management",
+          "programName": "project-management",
+          "universities": [
+            {
+              "ProductId": 207,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,96,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Business Administration in Human Resource Management and Finance",
+          "programName": "human-resource-management-and-finance",
+          "universities": [
+            {
+              "ProductId": 220,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,96,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Business Administration in Finance and Marketing",
+          "programName": "finance-and-marketing",
+          "universities": [
+            {
+              "ProductId": 222,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,96,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Business Administration in Marketing and Human Resource Management",
+          "programName": "marketing-and-human-resource-management",
+          "universities": [
+            {
+              "ProductId": 224,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,96,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Business Administration in Marketing and Business Analytics",
+          "programName": "marketing-and-business-analytics",
+          "universities": [
+            {
+              "ProductId": 229,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,96,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Business Administration in Finance and Business Analytics",
+          "programName": "finance-and-business-analytics",
+          "universities": [
+            {
+              "ProductId": 233,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,96,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Business Administration in Human Resource and Business Analytics",
+          "programName": "human-resource-and-business-analytics",
+          "universities": [
+            {
+              "ProductId": 237,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,96,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Business Administration in Information Technology Management",
+          "programName": "information-technology-management",
+          "universities": [
+            {
+              "ProductId": 240,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,96,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Business Administration in Supply Chain, Production and Operations Management",
+          "programName": "supply-chain-production-and-operations-management",
+          "universities": [
+            {
+              "ProductId": 241,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,96,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Business Administration in Business Intelligence and Analytics",
+          "programName": "business-intelligence-and-analytics",
+          "universities": [
+            {
+              "ProductId": 243,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,96,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+        {
+          "name": "Master of Business Administration in Entrepreneurship and Venture Creation",
+          "programName": "entrepreneurship-and-venture-creation",
+          "universities": [
+            {
+              "ProductId": 244,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,96,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Business Administration in International Finance (Accredited by ACCA, UK)",
+          "programName": "international-finance",
+          "universities": [
+            {
+              "ProductId": 247,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "2,98,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Business Administration in Data Science and Analytics",
+          "programName": "data-science-and-analytics",
+          "universities": [
+            {
+              "ProductId": 248,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "2,00,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Business Administration in Digital Marketing and E-Commerce",
+          "programName": "digital-marketing-and-e-commerce",
+          "universities": [
+            {
+              "ProductId": 250,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "2,00,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Business Administration in Artificial Intelligence",
+          "programName": "artificial-intelligence",
+          "universities": [
+            {
+              "ProductId": 251,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "2,00,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Business Administration in Banking and Finance",
+          "programName": "banking-and-finance",
+          "universities": [
+            {
+              "ProductId": 252,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "2,00,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Business Administration in General Management",
+          "programName": "general-management",
+          "universities": [
+            {
+              "ProductId": 255,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,96,000",
+              "duration": "24 months 4 sem"
+            },
+            {
+              "ProductId": "",
+              "sourceId": "",
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "2,50,000",
+              "duration": "3 years"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Business Administration in AI-Driven Marketing",
+          "programName": "ai-driven-marketing",
+          "universities": [
+            {
+              "ProductId": 256,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "3,00,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Business Administration in AI-Driven Finance",
+          "programName": "ai-driven-finance",
+          "universities": [
+            {
+              "ProductId": 258,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "3,00,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+        {
+          "name": "Master of Business Administration in AI-Driven Business Strategy",
+          "programName": "ai-driven-business-strategy",
+          "universities": [
+            {
+              "ProductId": 259,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "3,00,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Business Administration in AI-Driven Human Resources",
+          "programName": "ai-driven-human-resources",
+          "universities": [
+            {
+              "ProductId": 260,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "3,00,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Business Administration in Human Resource Analytics",
+          "programName": "human-resource-analytics",
+          "universities": [
+            {
+              "ProductId": 261,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "1,99,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Business Administration in Digital Entrepreneurship",
+          "programName": "digital-entrepreneurship",
+          "universities": [
+            {
+              "ProductId": 264,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "1,99,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Business Administration in Digital Marketing Management",
+          "programName": "digital-marketing-management",
+          "universities": [
+            {
+              "ProductId": 265,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "1,99,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mba",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "programName": "mca",
+      "category": "academics",
+      "subCategory": "pg",
+      "specialization": "mca",
+      "image": {
+        "src": "/coursecards/academics/mca/MCA.webp",
+        "alt": "Online Master of Computer Applications Degree Program for Advanced IT Careers"
+      },
+      "heading": "Master of Computer Applications",
+      "feeRange": "98,000 - 2,50,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "specializations": [
+        {
+          "name": "Master of Computer Applications in Cloud Computing",
+          "programName": "cloud-computing",
+          "universities": [
+            {
+              "ProductId": 274,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "2,00,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Computer Applications in Cyber Security",
+          "programName": "cyber-security",
+          "universities": [
+            {
+              "ProductId": 279,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,60,000",
+              "duration": "24 months 4 sem"
+            },
+            {
+              "ProductId": 281,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "2,50,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+        {
+          "name": "Master of Computer Applications in AI and ML",
+          "programName": "ai-and-ml",
+          "universities": [
+            {
+              "ProductId": 412,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "2,00,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+        {
+          "name": "Master of Computer Applications in AI and ML (TCS)",
+          "programName": "ai-and-ml",
+          "universities": [
+            {
+              "ProductId": 413,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "2,50,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Computer Applications in Full stack Development",
+          "programName": "full-stack-development",
+          "universities": [
+            {
+              "ProductId": 291,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "2,00,000",
+              "duration": "24 months"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Computer Applications in DevOps",
+          "programName": "devops",
+          "universities": [
+            {
+              "ProductId": 297,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,60,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Computer Applications in Natural Language Processing & Large Language Models Development",
+          "programName": "nlp-and-llm-development",
+          "universities": [
+            {
+              "ProductId": 299,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,60,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Computer Applications in Computer Science and Information Technology",
+          "programName": "computer-science-and-information-technology",
+          "universities": [
+            {
+              "ProductId": 304,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,60,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Computer Applications in Data Analytics",
+          "programName": "data-analytics",
+          "universities": [
+            {
+              "ProductId": 308,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,60,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Computer Applications in Data Science",
+          "programName": "data-science",
+          "universities": [
+            {
+              "ProductId": 310,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "2,00,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Computer Applications in Artificial Intelligence",
+          "programName": "artificial-intelligence",
+          "universities": [
+            {
+              "ProductId": 313,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "2,00,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Computer Applications in Software Engineering",
+          "programName": "software-engineering",
+          "universities": [
+            {
+              "ProductId": 315,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "2,50,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Computer Applications in Blockchain Technology and Management",
+          "programName": "blockchain-technology-and-management",
+          "universities": [
+            {
+              "ProductId": 317,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "1,70,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Computer Applications in Augmented Reality and Virtual Reality",
+          "programName": "augmented-reality-and-virtual-reality",
+          "universities": [
+            {
+              "ProductId": 322,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "2,50,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mca",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+
+    {
+      "branch": "mca",
+      "programName": "mca in cloud computing",
+      "image": {
+        "src": "/coursecards/academics/mca/MCA-Cloud-Computing.webp",
+        "alt": "Master’s Degree Program in Cloud Computing for Scalable Infrastructure Expertise"
+      },
+      "heading": "MCA in Cloud Computing",
+      "feeRange": "98,000 - 2,50,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 274,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "2,00,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mca/cloud-computing",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mca",
+      "programName": "mca in cyber security",
+      "image": {
+        "src": "/coursecards/academics/mca/MCA-Cyber-Security.webp",
+        "alt": "Master’s Degree Program in Cyber Security for Digital Protection and Resilience"
+      },
+      "heading": "MCA in Cyber Security",
+      "feeRange": "98,000 - 2,50,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 279,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "1,60,000",
+          "duration": "2 years"
+        },
+        {
+          "ProductId": 281,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "2,50,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mca/cyber-security",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+
+    {
+      "branch": "mca",
+      "programName": "mca in ai and ml",
+      "image": {
+        "src": "/coursecards/academics/mca/MCA-AI-ML.webp",
+        "alt": "MCA Program in Artificial Intelligence and Machine Learning for Smart Automation"
+      },
+      "heading": "MCA in AI & ML",
+      "feeRange": "98,000 - 2,50,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 412,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "1,70,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mca/ai-and-ml",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mca",
+      "programName": "mca in ai and ml tcs",
+      "image": {
+        "src": "/coursecards/academics/mca/MCA-AI-ML.webp",
+        "alt": "MCA Program in Artificial Intelligence and Machine Learning for Smart Automation"
+      },
+      "heading": "MCA in AI & ML(TCS)",
+      "feeRange": "98,000 - 2,50,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 413,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "2,50,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mca",
+      "programName": "mca in full stack development",
+      "image": {
+        "src": "/coursecards/academics/mca/MCA-Full-Stack-Development.webp",
+        "alt": "MCA Program in Full Stack Development for Modern Application Engineering"
+      },
+      "heading": "MCA in Full Stack Development",
+      "feeRange": "98,000 - 2,50,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 291,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "2,00,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mca/full-stack-development",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mca",
+      "programName": "mca in devops",
+      "image": {
+        "src": "/coursecards/academics/mca/MCA-DevOps.webp",
+        "alt": "Postgraduate Program in DevOps for Automation and Cloud Delivery Skills"
+      },
+      "heading": "MCA in DevOps",
+      "feeRange": "98,000 - 2,50,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 297,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "1,60,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mca/devops",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mca",
+      "programName": "mca in natural language processing and large language models development",
+      "image": {
+        "src": "/coursecards/academics/mca/MCA-Natural-Language-Processing-Large-Language-Models-Development.webp",
+        "alt": "Online MCA Program in NLP and Large Language Models in India"
+      },
+      "heading": "MCA in Natural Language Processing & Large Language Models Development",
+      "feeRange": "98,000 - 2,50,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 299,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "1,60,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mca/natural-language-processing-large-language-models-development",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mca",
+      "programName": "mca in computer science and information technology",
+      "image": {
+        "src": "/coursecards/academics/mca/MCA-Computer-Science-Information-Technology.webp",
+        "alt": "Master’s Degree Program in Computer Science for Advanced Computing Skills"
+      },
+      "heading": "MCA in Computer Science and Information Technology",
+      "feeRange": "98,000 - 2,50,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 304,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "1,60,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mca/computer-science-and-information-technology",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mca",
+      "programName": "mca in data analytics",
+      "image": {
+        "src": "/coursecards/academics/mca/MCA-Data-Analytics.webp",
+        "alt": "Master’s Degree Program in Data Analytics for Insight-Driven Decision Making"
+      },
+      "heading": "MCA in Data Analytics",
+      "feeRange": "98,000 - 2,50,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 308,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "1,60,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mca/data-analytics",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mca",
+      "programName": "mca in data science",
+      "image": {
+        "src": "/coursecards/academics/mca/MCA-Data-Science.webp",
+        "alt": "MCA Program in Data Science for Analytics and Intelligent Applications"
+      },
+      "heading": "MCA in Data Science",
+      "feeRange": "98,000 - 2,50,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 310,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "2,00,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mca/data-science",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mca",
+      "programName": "mca in artificial intelligence",
+      "image": {
+        "src": "/coursecards/academics/mca/MCA-Artificial-Intelligence.webp",
+        "alt": "MCA Program with Artificial Intelligence Specialization for Intelligent Systems"
+      },
+      "heading": "MCA in Artificial Intelligence",
+      "feeRange": "98,000 - 2,50,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 313,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "2,00,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mca/artificial-intelligencee",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mca",
+      "programName": "mca in software engineering",
+      "image": {
+        "src": "/coursecards/academics/mca/MCA-Software-Engineering.webp",
+        "alt": "Online Master’s Degree Program in Software Development for Tech Professionals"
+      },
+      "heading": "MCA in Software Engineering",
+      "feeRange": "98,000 - 2,50,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 315,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "2,50,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mca/software-engineering",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mca",
+      "programName": "mca in blockchain technology and management ",
+      "image": {
+        "src": "/coursecards/academics/mca/MCA-Blockchain-Technology-Management.webp",
+        "alt": "Master’s Degree Program in Blockchain Technology for Secure Digital Systems"
+      },
+      "heading": "MCA in Blockchain Technology and Management",
+      "feeRange": "98,000 - 2,50,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 317,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "1,70,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mca/blockchain-technology-and-management",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mca",
+      "programName": "mca in augmented reality and virtual reality",
+      "image": {
+        "src": "/coursecards/academics/mca/MCA-Augmented-Reality-Virtual-Reality.webp",
+        "alt": "MCA Program with Specialization in Augmented and Virtual Reality Technologies"
+      },
+      "heading": "MCA in Augmented Reality and Virtual Reality",
+      "feeRange": "98,000 - 2,50,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 322,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "2,50,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mca/augmented-reality-and-virtual-reality",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "programName": "ma",
+      "category": "academics",
+      "subCategory": "pg",
+      "specialization": "ma",
+      "image": {
+        "src": "/coursecards/academics/ma/MA.webp",
+        "alt": "Online Master of Arts Degree Program for Advanced Humanities Studies"
+      },
+      "heading": "Master Of Arts",
+      "feeRange": "20,500 - 2,50,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "specializations": [
+        {
+          "name": "Master of Arts in English",
+          "programName": "english",
+          "universities": [
+            {
+              "ProductId": 302,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "90,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Arts in Jainology and Comparative Religion and Philosophy",
+          "programName": "jainology-and-comparative-religion-and-philosophy",
+          "universities": [
+            {
+              "ProductId": 311,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "20,500",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Arts in Economics",
+          "programName": "economics",
+          "universities": [
+            {
+              "ProductId": 312,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "90,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Arts in Public Policy",
+          "programName": "public-policy",
+          "universities": [
+            {
+              "ProductId": 314,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "90,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Arts in Journalism and Mass Communication",
+          "programName": "journalism-and-mass-communication",
+          "universities": [
+            {
+              "ProductId": 319,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "1,70,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Arts in Public Policy & Governance",
+          "programName": "public-policy-and-governance",
+          "universities": [
+            {
+              "ProductId": 320,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "1,30,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/ma",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "ma",
+      "programName": "ma in english",
+      "image": {
+        "src": "/coursecards/academics/ma/MA-English.webp",
+        "alt": "Master’s Degree Program in English for Literature and Communication Excellence"
+      },
+      "heading": "MA in English",
+      "feeRange": "20,500 - 2,50,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 302,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "90,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/ma/english",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+
+    {
+      "branch": "ma",
+      "programName": "ma in jainology and comparative religion and philosophy",
+      "image": {
+        "src": "/coursecards/academics/ma/MA-Jainology-Comparative-Religion-Philosophy.webp",
+        "alt": "Master of Arts Program in Jainology and Comparative Religion and Philosophy"
+      },
+      "heading": "MA in Jainology and Comparative Religion and Philosophy",
+      "feeRange": "20,500 - 2,50,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 311,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "20,500",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/ma/jainology-and-comparative-religion-and-philosophy",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "ma",
+      "programName": "ma in economics",
+      "image": {
+        "src": "/coursecards/academics/ma/MA-Economics.webp",
+        "alt": "Online Master’s Degree Program in Economics for Policy and Analytical Expertise"
+      },
+      "heading": "MA in Economics",
+      "feeRange": "20,500 - 2,50,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 312,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "90,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/ma/economics",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "ma",
+      "programName": "ma in public policy",
+      "image": {
+        "src": "/coursecards/academics/ma/MA-Public-Policy.webp",
+        "alt": "Online Master’s Degree Program in Public Policy for Governance Leadership"
+      },
+      "heading": "MA in Public Policy",
+      "feeRange": "20,500 - 2,50,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 314,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "90,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/ma/public-policy",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+
+    {
+      "branch": "ma",
+      "programName": "ma in journalismand mass communication",
+      "image": {
+        "src": "/coursecards/academics/ma/MA-Journalism-Mass-Communication.webp",
+        "alt": "Master of Arts Program in Journalism and Mass Communication for Media Careers"
+      },
+      "heading": "MA in Journalism and Mass Communication",
+      "feeRange": "20,500 - 2,50,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 319,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "1,70,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/ma/journalism-and-mass-communication",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "ma",
+      "programName": "ma in public policy and governance",
+      "image": {
+        "src": "/coursecards/academics/ma/MA-Public-Policy-Governance.webp",
+        "alt": "Master’s Degree Program in Governance and Public Policy for Public Leadership"
+      },
+      "heading": "MA in Public Policy & Governance",
+      "feeRange": "20,500 - 2,50,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 320,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "1,30,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/ma/public-policy-and-governance",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mcom",
+      "programName": "mcom in accounting and finance",
+      "image": {
+        "src": "/coursecards/academics/mcom/MCOM-Accounting-Finance.webp",
+        "alt": "Master of Commerce Program in Financial Accounting for Professional Expertise"
+      },
+      "heading": "MCOM in Accounting and Finance",
+      "feeRange": "45,500 - 1,81,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 276,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "1,10,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mcom/accounting-and-finance",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mcom",
+      "programName": "mcom in professional accounting and finance accredited by cpa us",
+      "image": {
+        "src": "/coursecards/academics/mcom/MCOM-Professional-accounting.webp",
+        "alt": "Postgraduate Program in Accounting and Finance for Strategic Financial Careers"
+      },
+      "heading": "MCOM in Professional Accounting and Finance (Accredited by CPA, US)",
+      "feeRange": "45,500 - 1,81,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 278,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "45,500",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mcom/professional-accounting-and-finance-accredited-by-cpa-us",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mcom",
+      "programName": "mcom in international finance accredited by acca uk",
+
+      "image": {
+        "src": "/coursecards/academics/mcom/MCOM-International-Finance-Accredited-ACCA-UK.webp",
+        "alt": "Master of Commerce Program in International Finance for Global Financial Roles"
+      },
+      "heading": "MCOM in International Finance (Accredited by ACCA, UK)",
+      "feeRange": "45,500 - 1,81,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 280,
+          "sourceId": 155,
+          "name": "jain-university",
+          "image": {
+            "src": "/home/universitylogos/jain.webp",
+            "alt": "jain"
+          },
+          "universityName": "Jain University",
+          "fee": "1,81,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mcom/international-finance-accredited-by-acca-uk",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mcom",
+      "programName": "mcom in financial management",
+      "image": {
+        "src": "/coursecards/academics/mcom/MCOM-Financial-Management.webp",
+        "alt": "Online Master’s Degree Program in Financial Management for Corporate Leadership"
+      },
+      "heading": "MCOM in Financial Management",
+      "feeRange": "45,500 - 1,81,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 283,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "1,20,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mcom/financial-management",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "mcom",
+      "programName": "mcom in financial technology",
+
+      "image": {
+        "src": "/coursecards/academics/mcom/MCOM-Financial-Technology.webp",
+        "alt": "Online Master’s Degree Program in Financial Technology for Digital Finance Careers"
+      },
+      "heading": "MCOM in Financial Technology",
+      "feeRange": "45,500 - 1,81,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 287,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "1,20,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mcom/financial-technology",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+
+    {
+      "programName": "mcom",
+      "category": "academics",
+      "subCategory": "pg",
+      "specialization": "mcom",
+      "image": {
+        "src": "/coursecards/academics/mcom/MCOM.webp",
+        "alt": "Online Master of Commerce Degree Program for Advanced Commerce Studies"
+      },
+      "heading": "Master of Commerce",
+      "feeRange": "45,500 - 1,81,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "specializations": [
+        {
+          "name": "Master of Commerce in Accounting and Finance",
+          "programName": "accounting-and-finance",
+          "universities": [
+            {
+              "ProductId": 276,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,10,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Commerce in Professional Accounting and Finance (Accredited by CPA, US)",
+          "programName": "professional-accounting-and-finance-cpa-us",
+          "universities": [
+            {
+              "ProductId": 278,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "45,500",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Commerce in International Finance (Accredited by ACCA, UK)",
+          "programName": "international-finance-acca-uk",
+          "universities": [
+            {
+              "ProductId": 280,
+              "sourceId": 155,
+              "name": "jain-university",
+              "universityName": "Jain University",
+              "fee": "1,81,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Commerce in Financial Management",
+          "programName": "financial-management",
+          "universities": [
+            {
+              "ProductId": 283,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "1,20,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        },
+
+        {
+          "name": "Master of Commerce in Financial Technology",
+          "programName": "financial-technology",
+          "universities": [
+            {
+              "ProductId": 287,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "1,20,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/mcom",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "programName": "ms",
+      "category": "academics",
+      "subCategory": "pg",
+      "specialization": "ms",
+      "image": {
+        "src": "/coursecards/academics/ms/MS.webp",
+        "alt": "Online Master of Science Degree Program for Advanced Scientific Studies"
+      },
+      "heading": "Masters of Science",
+      "feeRange": "2,50,000 - 2,80,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "specializations": [
+        {
+          "name": "Master of Science in Data Science",
+          "programName": "master-of-science-in-data-science",
+          "universities": [
+            {
+              "ProductId": 294,
+              "sourceId": 151,
+              "name": "amity-university",
+              "universityName": "Amity University",
+              "fee": "2,50,000",
+              "duration": "24 months 4 sem"
+            }
+          ]
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/ms",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    },
+    {
+      "branch": "ms",
+      "programName": "ms in data-science",
+      "image": {
+        "src": "/coursecards/academics/ms/MS-Data-Science.webp",
+        "alt": "Online Master of Science Program in Data Science for Analytics and AI Careers"
+      },
+      "heading": "MS in Data Science",
+      "feeRange": "2,50,000 - 2,80,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "universities": [
+        {
+          "ProductId": 294,
+          "sourceId": 151,
+          "name": "amity-university",
+          "image": {
+            "src": "/home/universitylogos/amity.webp",
+            "alt": "amity"
+          },
+          "universityName": "Amity University",
+          "fee": "1,20,000",
+          "duration": "2 years"
+        }
+      ],
+      "button": [
+        {
+          "name": "Know More",
+          "link": " /courses/ma/data-science",
+          "form": false
+        },
+        {
+          "name": "Enroll Now",
+          "link": "",
+          "form": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "teksveristy_ssr",
+  "version": "1.0.0",
+  "description": "This is Backend Repo for Teksveristy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InfozIT/Teksveristy_SSR.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/InfozIT/Teksveristy_SSR/issues"
+  },
+  "homepage": "https://github.com/InfozIT/Teksveristy_SSR#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.4.2",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

@@ -1,0 +1,1228 @@
+{
+  "meta": {
+    "title": "Online BBA Degree with Specializations and Job Assistance",
+    "description": "Earn your online BBA degree with Teksversity and specialize in Digital Marketing, Human Resource Management, Finance and Accounting, Data Analytics, and more.",
+    "schemaCode": {
+      "@context": "https://schema.org",
+          "@type": "course",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is a BBA course?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Bachelor of Business Administration (BBA) is an undergraduate degree that builds strong foundations in management, marketing, finance, and business operations. At Teksversity, the program blends academic theory with practical business exposure, helping students develop leadership and decision-making skills essential for corporate success."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why should I study BBA at Teksversity?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Teksversity’s BBA program focuses on industry-ready learning, offering a mix of classroom teaching, real-world case studies, and personality development sessions. Students also gain hands-on experience through internships and live business projects, ensuring they graduate with both knowledge and confidence to excel in their careers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What subjects are covered in the BBA syllabus?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The BBA syllabus at Teksversity includes core subjects like Business Economics, Financial Accounting, Human Resource Management, Marketing Management, Organizational Behavior, and Business Law. Alongside, students also learn digital marketing, entrepreneurship, and business analytics, aligning the curriculum with modern industry needs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the career opportunities after completing BBA?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "After completing BBA, graduates can explore a wide range of job roles such as Business Analyst, Marketing Executive, Financial Advisor, HR Executive, Operations Manager, or Entrepreneur. Teksversity also provides career guidance and placement support, helping students connect with top recruiters and build strong professional networks."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I pursue higher education after BBA?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes! BBA graduates from Teksversity can pursue advanced studies like MBA, PGDM, M.Com, or specialized master’s programs in areas such as Finance, Marketing, Human Resources, International Business, or Data Analytics to deepen their expertise and expand career prospects."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the duration and eligibility for BBA?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The BBA course duration at Teksversity is three years (six semesters). Students who have completed 10+2 in any stream from a recognized board are eligible to apply. A passion for management and business leadership is an added advantage."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Teksversity provide internships and placement support for BBA students?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Absolutely! Teksversity ensures every BBA student gains real-time industry exposure through internships, workshops, and business simulations. The dedicated placement cell assists students with resume building, interview preparation, and job placements in reputed companies."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What skills will I gain from Teksversity’s BBA course?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Teksversity’s BBA program helps students develop leadership, communication, analytical thinking, financial planning, and marketing strategy skills. Students also gain exposure to digital business tools and emerging technologies, preparing them for today’s dynamic corporate world."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is BBA a good choice for entrepreneurship?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the BBA course at Teksversity is an ideal choice for aspiring entrepreneurs. It provides deep insights into business strategy, operations, and innovation, enabling students to start and manage their own ventures with confidence and clarity."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does Teksversity support overall student development in BBA?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Beyond academics, Teksversity focuses on soft skills, leadership workshops, group discussions, and business competitions that help students grow personally and professionally. The institute encourages practical learning and innovation, making BBA graduates well-rounded business professionals."
+          }
+        }
+      ]
+    }
+  },
+
+  "formDetails": {
+    "getDiscount": ["Spin the Wheel for a", "Surprise Discount!"],
+    "courseName": "Bachelor of Business Administration",
+    "universities": [
+      {
+        "university": "jain-university",
+        "image": {
+          "src": "/home/universitylogos/jain.webp",
+          "alt": "jain",
+          "url": "/university/jain-university"
+        },
+        "accreditations": ["ISO", "NAAC A++", "UGC", "AICTE"],
+        "rating": 4.8,
+        "duration": "36 months 6 sem",
+        "courseFee": {
+          "range": "1,50,000-2,40,000",
+          "note": "Total program fee"
+        },
+        "brochure": "",
+        "button": [
+          {
+            "name": "Know More",
+            "link": "/university/jain-university",
+            "form": false
+          },
+          { "name": "Enroll Now", "link": "", "form": true }
+        ],
+        "productId": 122,
+        "sourceId": 155,
+        "universityName": "Jain University"
+      },
+      {
+        "university": "amity-university",
+        "image": {
+          "src": "/home/universitylogos/amity.webp",
+          "alt": "amity",
+          "url": "/university/amity-university"
+        },
+        "accreditations": ["ISO", "NAAC A++", "UGC", "AICTE"],
+        "rating": 4.8,
+        "duration": "36 months 6 sem",
+        "courseFee": {
+          "range": "1,65,000-2,25,000",
+          "note": "Total program fee"
+        },
+        "brochure": "",
+        "button": [{ "name": "Enroll Now", "link": "", "form": true }],
+        "productId": 124,
+        "sourceId": 151,
+        "universityName": "Amity University"
+      }
+    ]
+  },
+
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Specializations", "id": "specializations" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+  "category": "academics",
+  "branch": "Bachelor of Business Administration",
+
+  "banner": {
+    "position": 1,
+    "mainHeading": "BBA with Specializations - Lead, Innovate, and Excel in Business",
+    "description": "Designed for ambitious learners, this program blends theory with practical business exposure to shape confident professionals ready for leadership roles in global organizations.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/ugbanerimages/bba/bba.webp",
+      "alt": "BBA"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose This Program"],
+      "benefits": [
+        "Choice of 7 specialized BBA domains",
+        "Flexible online learning with industry-expert guidance",
+        "Real-world projects, case studies, and simulations",
+        "Strong focus on leadership, strategy, and communication",
+        "Blend of management theory and practical business training",
+        "Career guidance and 100% placement assistance",
+        "Personalized academic mentorship and performance tracking",
+        "Opportunities for internships, entrepreneurship, and collaborations"
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["The overview of", "Bachelor of Business Administration (BBA)"],
+    "overViewImage": {
+      "src": "/home/overview/overview1.webp",
+      "alt": "overview1.webp"
+    },
+    "subHeading": "Build a Dynamic Career Rooted in Business, Strategy, and Innovation",
+    "description": "Teksversity’s Online BBA program is designed for future leaders aiming to excel in management, finance, marketing, and entrepreneurship. With eleven sought-after specializations, it combines academic depth with practical learning through business simulations, digital tools, and analytical projects. Learners gain strategic, managerial, and entrepreneurial competencies to succeed in dynamic industries, supported by flexible online learning, mentorship, and career-focused guidance.",
+    "keyPoints": [
+      "Choice of 7 high-demand BBA specializations",
+      "Industry-based projects and simulations",
+      "Flexible online learning model",
+      "Career-focused mentorship and guidance",
+      "Global business and analytical exposure"
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": [
+      "Why choose Bachelor of Business Administration in",
+      "Teksversity?"
+    ],
+    "subHeading": ["Celebrating", " Excellence"],
+    "title": ["13 Years of", " Legacy", "(Commitment, Growth, Success)"],
+    "legacyCards": [
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "4.72/5",
+        "label": "Overall Program Rating"
+      },
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "99/100",
+        "label": "Sessions Rated 4+/5"
+      },
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "4.8/5",
+        "label": "Average Session Rating"
+      }
+    ],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "At Teksversity, innovation meets education. The BBA program emphasizes real-world readiness, connecting management principles with hands-on business experiences. Students learn through flexible online modules, industry-aligned coursework, and guided mentorship from experienced professionals.",
+    "description": [
+      {
+        "firstDescription": "Each specialization integrates academic knowledge with applied skills from mastering digital marketing and financial analytics to developing people management and entrepreneurial insight. This approach ensures that learners are equipped to tackle modern business challenges with strategic and ethical understanding."
+      },
+      {
+        "secondDescription": "Through workshops, research projects, and career-building initiatives, Teksversity empowers learners to transform their ambitions into leadership opportunities. With live simulations, resume training, and 100% placement guidance, students graduate ready to lead with confidence in a global environment"
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": ["Key Highlights in", " Bachelor of Business Administration"],
+    "sections": [
+      { "name": "Learning Experience", "value": "LearningExperience" },
+      { "name": "Support & Assistance", "value": "SupportandAssistance" },
+      { "name": "Career Support", "value": "CareerSupport" },
+      {
+        "name": "Networking & Peer Learning",
+        "value": "NetworkingandPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "LearningExperience": {
+        "keyPoints": [
+          "Business simulations and management case studies",
+          "Research-based projects and analytical assignments",
+          "Communication and leadership development workshops",
+          "Strategic planning and entrepreneurship sessions",
+          "Expert lectures from business professionals and academicians",
+          "Peer collaborations and cross-functional business projects",
+          "Industry-aligned assessments and performance reviews"
+        ]
+      },
+      "SupportandAssistance": {
+        "keyPoints": [
+          "Personalized mentorship and academic support",
+          "24/7 online learning platform access",
+          "Recorded lectures and e-content library",
+          "Regular academic progress tracking and counseling",
+          "Internship and project mentorship support",
+          "Technical and academic helpdesk",
+          "Flexible learning modes for professionals and students",
+          "Consistent feedback and performance reviews"
+        ]
+      },
+      "CareerSupport": {
+        "keyPoints": [
+          "100% placement and internship assistance",
+          "Resume and LinkedIn profile development",
+          "Interview preparation and business communication training",
+          "Expert career counseling and mentoring",
+          "Industry collaborations and professional networking",
+          "Entrepreneurship and startup support",
+          "Personality development and leadership coaching",
+          "Ongoing career mapping and performance tracking"
+        ]
+      },
+      "NetworkingandPeerLearning": {
+        "keyPoints": [
+          "Business case competitions and team projects",
+          "Inter-specialization collaboration sessions",
+          "Alumni mentoring and success story sharing",
+          "Virtual entrepreneurship and leadership meetups",
+          "Guest webinars and live Q&A sessions",
+          "Student-led management clubs and events",
+          "Global networking and community engagement platforms"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our ", "Course Brochure"],
+    "description": "Discover how Teksversity’s Bachelor of Business Administration (BBA) program with multiple specializations prepares you for leadership, innovation, and business excellence. The brochure gives you a complete overview of the program structure, learning experience, and career outcomes.\nIt also highlights Teksversity’s practical approach to management education integrating flexibility, mentorship, and global exposure to help learners grow into successful business professionals.",
+    "subHeading": "What You’ll Get in the Brochure:",
+    "highlights": [
+      "Detailed BBA curriculum and specialization modules",
+      "Career pathways and professional outcomes",
+      "Admission and eligibility information",
+      "Internship and placement support details",
+      "Learning tools, mentorship, and growth features"
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/brochure/DB1.webp",
+      "alt": "DB1"
+    }
+  },
+
+  "specializations": {
+    "position": 7,
+    "heading": ["Specializations"],
+    "paragraph": "Choose from our comprehensive suite of analytics and management solutions",
+    "specializations": [
+      {
+        "heading": "Bachelor of Business Administration",
+        "action": "Explore",
+        "link": "/courses/bba/bachelor-of-business-administration",
+        "image": {
+          "src": "/ugbanerimages/bba/specializations/bba/Business-Administration.webp",
+          "alt": "BBA"
+        },
+        "alt": "Bachelor of Business Administration",
+        "universities": [
+          {
+            "ProductId": 124,
+            "sourceId": 151,
+            "name": "amity-university",
+            "universityName": "Amity University",
+            "fee": "1,65,000",
+            "brochure": ""
+          }
+        ]
+      },
+
+      {
+        "heading": "Digital Marketing",
+        "action": "Explore",
+        "link": "/courses/bba/digital-marketing",
+        "image": {
+          "src": "/ugbanerimages/bba/specializations/bba/Digital-Marketing.webp",
+          "alt": "Digital-Marketing"
+        },
+        "alt": "Digital Marketing",
+        "universities": [
+          {
+            "ProductId": 130,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "fee": "2,40,000",
+            "brochure": ""
+          }
+        ]
+      },
+
+      {
+        "heading": "Data Analytics",
+        "action": "Explore",
+        "link": "/courses/bba/data-analytics",
+        "image": {
+          "src": "/ugbanerimages/bba/specializations/bba/Data-Analytics.webp",
+          "alt": "Data-Analytics"
+        },
+        "alt": "Data Analytics",
+        "universities": [
+          {
+            "ProductId": 138,
+            "sourceId": 151,
+            "name": "amity-university",
+            "universityName": "Amity University",
+            "fee": "2,25,000",
+            "brochure": "/Downloadbrouchers/AMITY/BBA-AMITY/BBA-Data-Analytics.pdf"
+          }
+        ]
+      },
+
+      {
+        "heading": "Data Science and Analytics",
+        "action": "Explore",
+        "link": "/courses/bba/data-science-and-analytics",
+        "image": {
+          "src": "/ugbanerimages/bba/specializations/bba/Data-Science-Analytics.webp",
+          "alt": "Data-Science-Analytics"
+        },
+        "alt": "Data Science and Analytics",
+        "universities": [
+          {
+            "ProductId": 144,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "fee": "2,40,000",
+            "brochure": ""
+          }
+        ]
+      },
+
+      {
+        "heading": "Healthcare Management",
+        "action": "Explore",
+        "link": "/courses/bba/healthcare-management",
+        "image": {
+          "src": "/ugbanerimages/bba/specializations/bba/Healthcare-Management.webp",
+          "alt": "Healthcare"
+        },
+        "alt": "Healthcare Management",
+        "universities": [
+          {
+            "ProductId": 146,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "fee": "1,50,000",
+            "brochure": ""
+          }
+        ]
+      },
+
+      {
+        "heading": "Travel and Tourism Management",
+        "action": "Explore",
+        "link": "/courses/bba/travel-and-tourism-management",
+        "image": {
+          "src": "/ugbanerimages/bba/specializations/bba/Travel-Tourism-Management.webp",
+          "alt": "Travel-Tourism-Management"
+        },
+        "alt": "Travel and Tourism Management",
+        "universities": [
+          {
+            "ProductId": 148,
+            "sourceId": 151,
+            "name": "amity-university",
+            "universityName": "Amity University",
+            "fee": "1,65,000",
+            "brochure": "/Downloadbrouchers/AMITY/BBA-AMITY/BBA-Travel-Tourism-Management.pdf"
+          }
+        ]
+      },
+
+      {
+        "heading": "Business Analytics",
+        "action": "Explore",
+        "link": "/courses/bba/business-analytics",
+        "image": {
+          "src": "/ugbanerimages/bba/specializations/bba/Business-Analytics.webp",
+          "alt": "Business-Analytics"
+        },
+        "alt": "Business Analytics",
+        "universities": [
+          {
+            "ProductId": 149,
+            "sourceId": 151,
+            "name": "amity-university",
+            "universityName": "Amity University",
+            "fee": "2,10,000",
+            "brochure": "/Downloadbrouchers/AMITY/BBA-AMITY/BBA-Business-Analytics.pdf"
+          }
+        ]
+      }
+    ]
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 9,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 10,
+    "heading": ["Take the Leap", " Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "null" },
+        "link": "null"
+      }
+    }
+  },
+
+  "programFeeStructure": {
+    "position": 11
+  },
+
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },{
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+ "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "https://teksversity.s3.us-east-1.amazonaws.com/website/assets/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "https://teksversity.s3.us-east-1.amazonaws.com/website/assets/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "https://teksversity.s3.us-east-1.amazonaws.com/website/assets/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 15,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is a BBA course?",
+        "answer": "A Bachelor of Business Administration (BBA) is an undergraduate degree that builds strong foundations in management, marketing, finance, and business operations. At Teksversity, the program blends academic theory with practical business exposure to help students develop leadership and decision-making skills essential for corporate success."
+      },
+      {
+        "question": "Why should I study BBA at Teksversity?",
+        "answer": "Teksversity’s BBA program focuses on industry-ready learning through classroom teaching, real-world case studies, and personality development sessions. Students gain hands-on experience via internships and live business projects, ensuring they graduate with the confidence and skills needed to excel in their careers."
+      },
+      {
+        "question": "What subjects are covered in the BBA syllabus?",
+        "answer": "The BBA syllabus includes Business Economics, Financial Accounting, Human Resource Management, Marketing Management, Organizational Behavior, and Business Law. Students also learn digital marketing, entrepreneurship, and business analytics to align with modern industry demands."
+      },
+      {
+        "question": "What are the career opportunities after completing BBA?",
+        "answer": "Graduates can pursue roles such as Business Analyst, Marketing Executive, Financial Advisor, HR Executive, Operations Manager, or Entrepreneur. Teksversity provides career guidance and placement support to connect students with top recruiters."
+      },
+      {
+        "question": "Can I pursue higher education after BBA?",
+        "answer": "Yes, BBA graduates can pursue MBA, PGDM, M.Com, or specialized master’s programs in Finance, Marketing, Human Resources, International Business, or Data Analytics to enhance their career prospects."
+      },
+      {
+        "question": "What is the duration and eligibility for BBA?",
+        "answer": "The BBA course at Teksversity is three years (six semesters). Students who have completed 10+2 in any stream from a recognized board are eligible to apply."
+      },
+      {
+        "question": "Does Teksversity provide internships and placement support for BBA students?",
+        "answer": "Yes. Teksversity provides real-time industry exposure through internships, workshops, and business simulations. The placement cell helps students with resume building, interview preparation, and securing job opportunities in reputed companies."
+      },
+      {
+        "question": "What skills will I gain from Teksversity’s BBA course?",
+        "answer": "Students develop leadership, communication, analytical thinking, financial planning, and marketing strategy skills. The program also offers exposure to digital tools and emerging technologies for the modern business world."
+      },
+      {
+        "question": "Is BBA a good choice for entrepreneurship?",
+        "answer": "Yes, Teksversity’s BBA program is ideal for aspiring entrepreneurs. It teaches business strategy, operations, and innovation, enabling students to confidently start and run their own ventures."
+      },
+      {
+        "question": "How does Teksversity support overall student development in BBA?",
+        "answer": "Teksversity enhances student development through soft skills training, leadership workshops, group discussions, and business competitions. The focus on practical learning and innovation makes graduates well-rounded professionals."
+      }
+    ]
+  },
+
+  "letsTalk": {
+    "position": 14,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today—Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 17,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "Online business management degree",
+      "Online business administration degree",
+      "Bachelor's degree in business",
+      "Bachelor's degree in business management",
+      "Online bachelor's degree in business",
+      "Bachelor of business administration course",
+      "Bachelor's degree in business administration",
+      "Online BBA course",
+      "Online BBA degree in India",
+      "Best online BBA course in India"
+    ]
+  }
+}

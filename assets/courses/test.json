@@ -1,0 +1,878 @@
+{
+  "courses": [
+    {
+      "productId": "",
+      "soruceId": "",
+      "programName": "mba",
+      "cardData": "Bachelor of Business Administration",
+      "category": "Academics",
+      "subCategory": "pg",
+      "image": "",
+      "heading": "Bachelor of Business Administration",
+      "feeRange": "1,35,000 - 2,40,000",
+      "duration": "36 months",
+      "mode": "",
+      "tags": ["No Cost EMI", "Placement Assistance"],
+      "button": [
+        { "name": "Know More", "link": "/courses/mba", "form": false },
+        { "name": "Enroll Now ", "link": "", "form": true }
+      ],
+      "university": [
+        {
+          "universityLabel": "1 Year MBA Online From Manipal Amity University",
+          "universityName": "amity",
+          "image": "url",
+          "rating":"4",
+          "tags":["fse","rwef"],
+          "fee": "95000",
+          "button": [
+            {
+              "name": "Know More",
+              "link": "/universities/amity_page",
+              "form": false
+            },
+            { "name": "Enroll Now ", "link": "", "form": true }
+          ],
+          "universityPage": 
+          [
+            { "heading":"AMITY UNIVERSITY ONLINE"},
+            { "subHeading":"Right Choice for Right Education"},
+            {
+            "specializationTitle":"Online MBA in Human Resource",
+            "link":{ "name": "Read More ", "link": "", "form": true }
+          },
+           {
+            "specializationTitle":"Online MBA in Digital Marketing",
+            "link":{ "name": "Read More ", "link": "", "form": true }
+          },
+            {
+            "specializationTitle":"Online MBA in finance management",
+            "link":{ "name": "Read More ", "link": "", "form": true }
+          }
+        ]  
+        },
+          {
+          "universityLabel": "1 Year MBA Online From Manipal Amity University",
+          "universityName": "amity",
+          "image": "url",
+          "rating":"4",
+          "tags":["fse","rwef"],
+          "fee": "95000",
+          "button": [
+            {
+              "name": "Know More",
+              "link": "/universities/amity_page",
+              "form": false
+            },
+            { "name": "Enroll Now ", "link": "", "form": true }
+          ],
+             "universityPage": 
+          [
+            { "heading":"AMITY UNIVERSITY ONLINE"},
+            { "subHeading":"Right Choice for Right Education"},
+            {
+            "specializationTitle":"Online MBA in Human Resource",
+            "link":{ "name": "Read More ", "link": "", "form": true }
+          },
+           {
+            "specializationTitle":"Online MBA in Digital Marketing",
+            "link":{ "name": "Read More ", "link": "", "form": true }
+          },
+            {
+            "specializationTitle":"Online MBA in finance management",
+            "link":{ "name": "Read More ", "link": "", "form": true }
+          }
+        ]  
+        }
+      ],
+      "specializations": [
+        {
+          "specializationName": "Bcom Computers",
+          "productId": 101,
+          "universityOffering": [
+            { "universityLabel": "Amity University", "sourceId": 103 },
+            { "universityLabel": "Jain University", "sourceId": 104 }
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "",
+      "soruceId": "",
+      "name": "mca",
+      "card_data": "mca",
+      "category": "Academics",
+      "subcategory": "pg",
+      "image": "",
+      "heading": "Bachelor of Business Administration",
+      "subheading": "",
+      "feeRange": "1,35,000 - 2,40,000",
+      "duration": "36 months",
+      "mode": "",
+      "tags": ["No Cost EMI", "Placement Assistance"],
+      "button": [
+        { "name": "Know More", "link": "/courses/mca", "form": false },
+        { "name": "Enroll Now ", "link": "", "form": true }
+      ],
+      "university": [
+        {
+          "universityLabel": "Amity University",
+          "university_name": "amity",
+          "image": "url",
+          "fee": "95000",
+          "button": [
+            {
+              "name": "Know More",
+              "link": "/universities/amity_page",
+              "form": false
+            },
+            { "name": "Enroll Now ", "link": "", "form": true }
+          ]
+        },
+        {
+          "universityLabel": "Jain University",
+          "university_name": "jain",
+          "image": "url",
+          "fee": "125000",
+          "button": [
+            {
+              "name": "Know More",
+              "link": "/universities/jain_page",
+              "form": false
+            },
+            { "name": "Enroll Now ", "link": "", "form": true }
+          ]
+        },
+        {
+          "universityLabel": "Manipal University",
+          "university_name": "manipal",
+          "image": "url",
+          "fee": "240000",
+          "button": [
+            {
+              "name": "Know More",
+              "link": "/universities/manipal_page",
+              "form": false
+            },
+            { "name": "Enroll Now ", "link": "", "form": true }
+          ]
+        }
+      ],
+      "specializations": [
+        {
+          "specializationName": "Bcom Computers",
+          "productId": 101,
+          "universityOffering": [
+            { "universityLabel": "Amity University", "sourceId": 103 },
+            { "universityLabel": "Jain University", "sourceId": 104 }
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "",
+      "soruceId": "",
+      "name": "bba",
+      "card_data": "bba",
+      "category": "Academics",
+      "subCategory": "ug",
+      "image": "",
+      "heading": "Bachelor of Business Administration",
+      "subHeading": "",
+      "range": "1,35,000 - 2,40,000",
+      "duration": "36 months",
+      "mode": "",
+      "tags": ["No Cost EMI", "Placement Assistance"],
+      "button": [
+        { "name": "Know More", "link": "", "form": false },
+        { "name": "Enroll Now ", "link": "", "form": true }
+      ],
+      "university": [
+        {
+          "universityLabel": "Amity University",
+          "university_name": "amity",
+          "image": "url",
+          "fee": "95000"
+        },
+        {
+          "universityLabel": "Jain University",
+          "university_name": "jain",
+          "image": "url",
+          "fee": "125000"
+        },
+        {
+          "universityLabel": "Manipal University",
+          "university_name": "manipal",
+          "image": "url",
+          "fee": "240000"
+        }
+      ],
+      "specializations": [
+        {
+          "specializationName": "Bachelor of Business Administration ",
+          "productId": 101,
+          "universityOffering": [
+            { "universityLabel": "Amity University", "sourceId": 103 },
+            { "universityLabel": "Jain University", "sourceId": 104 },
+            { "universityLabel": "Manipal University", "sourceId": 105 }
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "",
+      "soruceId": "",
+      "name": "bba",
+      "card_data": "bba",
+      "category": "Academics",
+      "subCategory": "ug",
+      "image": "",
+      "heading": "Bachelor of Business Administration",
+      "subHeading": "",
+      "range": "1,35,000 - 2,40,000",
+      "duration": "36 months",
+      "mode": "",
+      "tags": ["No Cost EMI", "Placement Assistance"],
+      "button": [
+        { "name": "Know More", "link": "", "form": false },
+        { "name": "Enroll Now ", "link": "", "form": true }
+      ],
+      "university": [
+        {
+          "universityLabel": "Amity University",
+          "university_name": "amity",
+          "image": "url",
+          "fee": "95000"
+        },
+        {
+          "universityLabel": "Jain University",
+          "university_name": "jain",
+          "image": "url",
+          "fee": "125000"
+        },
+        {
+          "universityLabel": "Manipal University",
+          "university_name": "manipal",
+          "image": "url",
+          "fee": "240000"
+        }
+      ],
+      "specializations": [
+        {
+          "specializationName": "Bachelor of Business Administration ",
+          "productId": 101,
+          "universityOffering": [
+            { "universityLabel": "Amity University", "sourceId": 103 },
+            { "universityLabel": "Jain University", "sourceId": 104 },
+            { "universityLabel": "Manipal University", "sourceId": 105 }
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "",
+      "soruceId": "",
+      "name": "b.com",
+      "card_data": "mba",
+      "category": "Academics",
+      "subCategory": "ug",
+      "image": "",
+      "heading": "Bachelor of Commerce",
+      "subHeading": "",
+      "range": "75,000 - 2,94,000",
+      "duration": "36 months",
+      "mode": "",
+      "tags": ["No Cost EMI", "Placement Assistance"],
+      "button": [
+        { "name": "Know More", "link": "", "form": false },
+        { "name": "Enroll Now ", "link": "", "form": true }
+      ],
+      "university": [
+        {
+          "universityLabel": "Manipal University",
+          "university_name": "manipal",
+          "image": "url",
+          "fee": "95000"
+        }
+      ],
+      "specializations": [
+        {
+          "specializationName": "Bachelor of Commerce ",
+          "productId": 101,
+          "universityOffering": [
+            { "universityLabel": "Manipal University", "sourceId": 103 },
+            { "universityLabel": "Jain University", "sourceId": 104 }
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "",
+      "soruceId": "",
+      "name": "bca",
+      "card_data": "bca",
+      "category": "Academics",
+      "subCategory": "ug",
+      "image": "",
+      "heading": "Bachelor of Computer Applications",
+      "subHeading": "",
+      "range": "1,35,000 - 2,25,000",
+      "duration": "36 months",
+      "mode": "",
+      "tags": ["No Cost EMI", "Placement Assistance"],
+      "button": [
+        { "name": "Know More", "link": "", "form": false },
+        { "name": "Enroll Now ", "link": "", "form": true }
+      ],
+      "university": [
+        {
+          "universityLabel": "Amity University",
+          "university_name": "amity",
+          "image": "url",
+          "fee": "95000"
+        }
+      ],
+      "specializations": [
+        {
+          "specializationName": "Bachelor of Computer Application in Data Science. ",
+          "productId": 101,
+          "universityOffering": [{ "universityLabel": "Amity University", "sourceId": 103 }]
+        }
+      ]
+    },
+    {
+      "productId": "",
+      "soruceId": "",
+      "branch": "ba",
+      "card_data": "ba",
+      "category": "Academics",
+      "subCategory": "ug",
+      "image": "",
+      "heading": "Bachelor of Arts",
+      "subHeading": "",
+      "range": "99,000 - 1,70,000",
+      "duration": "",
+      "mode": "",
+      "tags": ["No Cost EMI", "Placement Assistance"],
+      "button": [
+        { "name": "Know More", "link": "", "form": false },
+        { "name": "Enroll Now ", "link": "", "form": true }
+      ],
+      "university": [
+        {
+          "universityLabel": "Amity University",
+          "university_name": "amity",
+          "image": "url",
+          "fee": "95000"
+        }
+      ],
+      "specializations": [
+        {
+          "specializationName": "Bachelor of Arts in Economics.",
+          "productId": 101,
+          "universityOffering": [{ "universityLabel": "Amity University", "sourceId": 103 }]
+        }
+      ]
+    },
+    {
+      "productId": "",
+      "soruceId": "",
+      "name": "mba",
+      "card_data": "mba",
+      "category": "Academics",
+      "subCategory": "pg",
+      "image": "",
+      "heading": "Master of Business Administration",
+      "subHeading": "",
+      "range": "1,10,000 - 3,00,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["No Cost EMI", "Placement Assistance"],
+      "button": [
+        { "name": "Know More", "link": "", "form": false },
+        { "name": "Enroll Now ", "link": "", "form": true }
+      ],
+      "university": [
+        { "universityLabel": "Amity University","university_name": "amity",  "image": "url", "fee": "95000" },
+        { "universityLabel": "Jain University","university_name": "jain",  "image": "url", "fee": "125000" },
+        { "universityLabel": "Manipal University","university_name": "manipal",  "image": "url", "fee": "240000" }
+      ],
+      "specializations": [
+        {
+          "specializationName": "Masters in Business Administration in Finance ",
+          "productId": 101,
+          "universityOffering": [
+            { "universityLabel": "Amity University",  "sourceId": 103 },
+            { "universityLabel": "Jain University", "sourceId": 104 },
+            { "universityLabel": "Manipal University", "sourceId": 105 }
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "",
+      "soruceId": "",
+      "name": "mca",
+      "card_data": "mca",
+      "category": "Academics",
+      "subCategory": "pg",
+      "image": "",
+      "heading": "",
+      "subHeading": "Master of Computer Applications",
+      "range": "98,000 - 2,50,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["No Cost EMI", "Placement Assistance"],
+      "button": [
+        { "name": "Know More", "link": "", "form": false },
+        { "name": "Enroll Now ", "link": "", "form": true }
+      ],
+      "university": [
+        { "universityLabel": "Manipal University","university_name": "manipal",  "image": "url", "fee": "95000" },
+        { "universityLabel": "Jain University","university_name": "jain",  "image": "url", "fee": "125000" },
+        { "universityLabel": "Amity University","university_name": "amity",  "image": "url", "fee": "240000" }
+      ],
+      "specializations": [
+        {
+          "specializationName": "Master of Computer Application in Data Science.",
+          "productId": 101,
+          "universityOffering": [
+            { "universityLabel": "Amity University", "sourceId": 103 },
+            { "universityLabel": "Jain University", "sourceId": 104 }
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "",
+      "soruceId": "",
+      "name": "ms",
+      "card_data": "ms",
+      "category": "Academics",
+      "subCategory": "pg",
+      "image": "",
+      "heading": "Master of Science",
+      "subHeading": "",
+      "range": "2,50,000 - 2,80,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["No Cost EMI", "Placement Assistance"],
+      "button": [
+        { "name": "Know More", "link": "", "form": false },
+        { "name": "Enroll Now ", "link": "", "form": true }
+      ],
+      "university": [
+        {
+          "universityLabel": "Amity University",
+          "university_name": "amity", 
+          "image": "url",
+          "fee": "95000"
+        },
+        {
+          "universityLabel": "Jain University",
+          "university_name": "jain", 
+          "image": "url",
+          "fee": "125000"
+        },
+        {
+          "universityLabel": "Manipal University",
+          "university_name": "manipal", 
+          "image": "url",
+          "fee": "240000"
+        }
+      ],
+      "specializations": [
+        {
+          "specializationName": "Master of Science in Data Science ",
+          "productId": 101,
+          "universityOffering": [
+            { "universityLabel": "Amity University", "sourceId": 103 },
+            { "universityLabel": "Jain University", "sourceId": 104 },
+            { "universityLabel": "Manipal University", "sourceId": 105 }
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "",
+      "soruceId": "",
+      "name": "ma",
+      "card_data": "ma",
+      "category": "Academics",
+      "subCategory": "pg",
+      "image": "",
+      "heading": "Master of Arts",
+      "subHeading": "",
+      "range": "20,500 - 2,50,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["No Cost EMI", "Placement Assistance"],
+      "button": [
+        { "name": "Know More", "link": "", "form": false },
+        { "name": "Enroll Now ", "link": "", "form": true }
+      ],
+      "university": [
+        {
+          "universityLabel": "Amity University",
+          "university_name": "amity", 
+          "image": "url",
+          "fee": "95000"
+        },
+        {
+          "universityLabel": "Jain University",
+          "university_name": "jain", 
+          "image": "url",
+          "fee": "125000"
+        },
+        {
+          "universityLabel": "Manipal University",
+          "university_name": "manipal", 
+          "image": "url",
+          "fee": "240000"
+        }
+      ],
+      "specializations": [
+        {
+          "specializationName": "Masters of Arts in English",
+          "productId": 101,
+          "universityOffering": [
+            { "universityLabel": "Amity University", "sourceId": 103 },
+            { "universityLabel": "Jain University", "sourceId": 104 },
+            { "universityLabel": "Manipal University", "sourceId": 105 }
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "",
+      "soruceId": "",
+      "name": "mba",
+      "card_data": "mba",
+      "category": "Academics",
+      "subCategory": "pg",
+      "image": "",
+      "heading": "Doctorate",
+      "subHeading": "",
+      "range": "1,00,000 - 1,80,000",
+      "duration": "3 - 4 months",
+      "mode": "",
+      "tags": ["No Cost EMI", "Placement Assistance"],
+      "button": [
+        { "name": "Know More", "link": "", "form": false },
+        { "name": "Enroll Now ", "link": "", "form": true }
+      ],
+      "university": [
+        {
+          "universityLabel": "Amity University",
+          "university_name": "amity", 
+          "image": "url",
+          "fee": "95000"
+        },
+        {
+          "universityLabel": "Jain University",
+          "university_name": "jain", 
+          "image": "url",
+          "fee": "125000"
+        },
+        {
+          "universityLabel": "Manipal University",
+          "university_name": "manipal", 
+          "image": "url",
+          "fee": "240000"
+        }
+      ],
+      "specializations": [
+        {
+          "specializationName": "Honorable Doctorate ",
+          "productId": 101,
+          "universityOffering": [
+            { "universityLabel": "Amity University", "sourceId": 103 },
+            { "universityLabel": "Jain University", "sourceId": 104 },
+            { "universityLabel": "Manipal University", "sourceId": 105 }
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "",
+      "soruceId": "",
+      "name": "mcom",
+      "card_data": "mcom",
+      "category": "Academics",
+      "subCategory": "pg",
+      "image": "",
+      "heading": "Master of Commerce",
+      "subHeading": "",
+      "range": "45,500 - 1,81,000",
+      "duration": "24 months",
+      "mode": "",
+      "tags": ["No Cost EMI", "Placement Assistance"],
+      "button": [
+        { "name": "Know More", "link": "", "form": false },
+        { "name": "Enroll Now ", "link": "", "form": true }
+      ],
+      "university": [
+        {
+          "universityLabel": "Amity University",
+          "university_name": "amity", 
+          "image": "url",
+          "fee": "95000"
+        },
+        {
+          "universityLabel": "Jain University",
+          "university_name": "jain", 
+          "image": "url",
+          "fee": "125000"
+        },
+        {
+          "universityLabel": "Manipal University",
+          "university_name": "manipal", 
+          "image": "url",
+          "fee": "240000"
+        }
+      ],
+      "specializations": [
+        {
+          "specializationName": "Master of Commerce in Accounting and Finance.",
+          "productId": 101,
+          "universityOffering": [
+            { "universityLabel": "Amity University", "sourceId": 103 },
+            { "universityLabel": "Jain University", "sourceId": 104 },
+            { "universityLabel": "Manipal University", "sourceId": 105 }
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "",
+      "source_id": "",
+      "name": "dual-certification-in-full-stack-cloud-development",
+      "card_data": "mba",
+      "category": "academics",
+      "subCategory": "ug",
+      "image": "https://s3-eu-west-1.amazonaws.com/tpd/logos/688afb4cbf3047186ff35866/0x0.png",
+      "title": "Dual Certification in Full Stack cloud Development",
+      "fee_range": "95,000 - 1,25,000",
+      "duration": "9 - 11 Months",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "buttons": [
+        { "name": "Know More", "url": "", "form": false },
+        { "name": "Enroll Now", "url": "", "form": true }
+      ],
+
+      "university": [
+        { "universityLabel": "Amity University","university_name": "amity",  "image": "url", "fee": "95000" },
+        { "universityLabel": "Jain University","university_name": "jain",  "image": "url", "fee": "125000" },
+        { "universityLabel": "Manipal University","university_name": "manipal",  "image": "url", "fee": "240000" }
+      ],
+      "specializations": [
+        {
+          "specialization_name": "Bcom Computers",
+          "productId": 101,
+          "university_offering": [
+            { "universityLabel": "Amity University", "source_id": 103 },
+            { "universityLabel": "Jain University", "source_id": 104 }
+          ]
+        }
+      ],
+      "rating": 4.7,
+      "fee": "650000"
+    },
+    {
+      "productId": "",
+      "source_id": "",
+      "name": "Dual Certification in Digital Marketing and Business Analytics",
+      "card_data": "mba",
+      "category": "certifications",
+      "sub_category": "dualCertification",
+      "image": "https://s3-eu-west-1.amazonaws.com/tpd/logos/688afb4cbf3047186ff35866/0x0.png",
+      "title": "Dual Certification in Digital Marketing and Business Analytics",
+      "fee_range": "95,000 - 1,25,000",
+      "duration": "9 - 11 Months",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "buttons": [
+        { "name": "Know More", "url": "", "form": false },
+        { "name": "Enroll Now", "url": "", "form": true }
+      ],
+
+      "university": [
+        { "universityLabel": "Amity University","university_name": "amity",  "image": "url", "fee": "95000" },
+        { "universityLabel": "Jain University","university_name": "jain",  "image": "url", "fee": "125000" },
+        { "universityLabel": "Manipal University","university_name": "manipal",  "image": "url", "fee": "240000" }
+      ],
+      "university_offering": [
+        { "universityLabel": "Teksversity", "source_id": 103 }
+      ],
+      "rating": 4.7,
+      "range": "650000"
+    },
+    {
+      "productId": "",
+      "source_id": "",
+      "name": "Dual Certification in Project Management and DevOps Engineering",
+      "card_data": "mba",
+      "category": "certifications",
+      "subCategory": "dualCertification",
+      "image": "https://s3-eu-west-1.amazonaws.com/tpd/logos/688afb4cbf3047186ff35866/0x0.png",
+      "title": "Dual Certification in Project Management and DevOps Engineering",
+      "fee_range": "95,000 - 1,25,000",
+      "duration": "9 - 11 Months",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "buttons": [
+        { "name": "Know More", "url": "", "form": false },
+        { "name": "Enroll Now", "url": "", "form": true }
+      ],
+
+      "university": [
+        { "universityLabel": "Amity University","university_name": "amity",  "image": "url", "fee": "95000" },
+        { "universityLabel": "Jain University","university_name": "jain",  "image": "url", "fee": "125000" },
+        { "universityLabel": "Manipal University","university_name": "manipal",  "image": "url", "fee": "240000" }
+      ],
+      "university_offering": [
+        { "universityLabel": "Teksversity", "source_id": 103 }
+      ],
+      "rating": 4.7,
+      "range": "650000"
+    },
+    {
+      "productId": "",
+      "source_id": "",
+      "name": "Dual Certification in Digital Marketing and UI/UX",
+      "card_data": "mba",
+      "category": "certifications",
+      "subCategory": "dualCertification",
+      "image": "https://s3-eu-west-1.amazonaws.com/tpd/logos/688afb4cbf3047186ff35866/0x0.png",
+      "title": "Dual Certification in Digital Marketing and UI/UX",
+      "fee_range": "95,000 - 1,25,000",
+      "duration": "9 - 11 Months",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "buttons": [
+        { "name": "Know More", "url": "", "form": false },
+        { "name": "Enroll Now", "url": "", "form": true }
+      ],
+
+      "university": [
+        { "universityLabel": "Amity University","university_name": "amity",  "image": "url", "fee": "95000" },
+        { "universityLabel": "Jain University","university_name": "jain",  "image": "url", "fee": "125000" },
+        { "universityLabel": "Manipal University","university_name": "manipal",  "image": "url", "fee": "240000" }
+      ],
+      "university_offering": [
+        { "universityLabel": "Teksversity", "source_id": 103 }
+      ],
+      "rating": 4.7,
+      "range": "650000"
+    },
+    {
+      "productId": "",
+      "source_id": "",
+      "name": "Dual Certification in Data Science and Full Stack Python",
+      "card_data": "mba",
+      "category": "certifications",
+      "subCategory": "dualCertification",
+      "image": "https://s3-eu-west-1.amazonaws.com/tpd/logos/688afb4cbf3047186ff35866/0x0.png",
+      "title": "Dual Certification in Data Science and Full Stack Python",
+      "fee_range": "95,000 - 1,25,000",
+      "duration": "9 - 11 Months",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "buttons": [
+        { "name": "Know More", "url": "", "form": false },
+        { "name": "Enroll Now", "url": "", "form": true }
+      ],
+
+      "university": [
+        { "universityLabel": "Amity University","university_name": "amity",  "image": "url", "fee": "95000" },
+        { "universityLabel": "Jain University","university_name": "jain",  "image": "url", "fee": "125000" },
+        { "universityLabel": "Manipal University","university_name": "manipal",  "image": "url", "fee": "240000" }
+      ],
+      "university_offering": [
+        { "universityLabel": "Teksversity", "source_id": 103 }
+      ],
+      "rating": 4.7,
+      "range": "650000"
+    },
+    {
+      "productId": "",
+      "source_id": "",
+      "name": "Dual Certification in Project Management and Business Analytics",
+      "card_data": "",
+      "category": "certifications",
+      "subCategory": "dualCertification",
+      "image": "https://s3-eu-west-1.amazonaws.com/tpd/logos/688afb4cbf3047186ff35866/0x0.png",
+      "title": "Dual Certification in Project Management and Business Analytics",
+      "fee_range": "95,000 - 1,25,000",
+      "duration": "9 - 11 Months",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "buttons": [
+        { "name": "Know More", "url": "", "form": false },
+        { "name": "Enroll Now", "url": "", "form": true }
+      ],
+
+      "university": [
+        { "universityLabel": "Amity University","university_name": "amity",  "image": "url", "fee": "95000" },
+        { "universityLabel": "Jain University","university_name": "jain",  "image": "url", "fee": "125000" },
+        { "universityLabel": "Manipal University","university_name": "manipal",  "image": "url", "fee": "240000" }
+      ],
+      "university_offering": [
+        { "universityLabel": "Teksversity", "source_id": 103 }
+      ],
+      "rating": 4.7,
+      "range": "650000"
+    },
+    {
+      "productId": "",
+      "source_id": "",
+      "name": "Dual Certification in Data Science and Digital Marketing Analytics",
+      "card_data": "",
+      "category": "certifications",
+      "sub_category": "dualCertification",
+      "image": "https://s3-eu-west-1.amazonaws.com/tpd/logos/688afb4cbf3047186ff35866/0x0.png",
+      "title": "Dual Certification in Data Science and Digital Marketing Analytics",
+      "fee_range": "95,000 - 1,25,000",
+      "duration": "9 - 11 Months",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "buttons": [
+        { "name": "Know More", "url": "", "form": false },
+        { "name": "Enroll Now", "url": "", "form": true }
+      ],
+
+      "university": [
+        { "universityLabel": "Amity University","university_name": "amity",  "image": "url", "fee": "95000" },
+        { "universityLabel": "Jain University","university_name": "jain",  "image": "url", "fee": "125000" },
+        { "universityLabel": "Manipal University","university_name": "manipal",  "image": "url", "fee": "240000" }
+      ],
+      "university_offering": [
+        { "universityLabel": "Teksversity", "source_id": 103 }
+      ],
+      "rating": 4.7,
+      "range": "650000"
+    },
+    {
+      "productId": "",
+      "source_id": "",
+      "name": "Dual Certification in Artificial Intelligence and Business Intelligence",
+      "card_data": "",
+      "category": "certifications",
+      "sub_category": "dualCertification",
+      "image": "https://s3-eu-west-1.amazonaws.com/tpd/logos/688afb4cbf3047186ff35866/0x0.png",
+      "title": "Dual Certification in Artificial Intelligence and Business Intelligence",
+      "fee_range": "95,000 - 1,25,000",
+      "duration": "9 - 11 Months",
+      "tags": ["Placement Assistance", "No Cost EMI"],
+      "buttons": [
+        { "name": "Know More", "url": "", "form": false },
+        { "name": "Enroll Now", "url": "", "form": true }
+      ],
+
+      "university": [
+        { "universityLabel": "Amity University","university_name": "amity",  "image": "url", "fee": "95000" },
+        { "universityLabel": "Jain University","university_name": "jain",  "image": "url", "fee": "125000" },
+        { "universityLabel": "Manipal University","university_name": "manipal",  "image": "url", "fee": "240000" }
+      ],
+      "university_offering": [
+        { "universityLabel": "Teksversity", "source_id": 103 }
+      ],
+      "rating": 4.7,
+      "range": "650000"
+    }
+  ]
+}

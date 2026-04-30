@@ -1,0 +1,66 @@
+
+{
+  "meta": {
+    "title": "Privacy Policy | Teksversity",
+    "description": "Your privacy matters. Read Teksversity’s Privacy Policy to learn how we collect, use, and protect your information responsibly."
+  },
+  "privacyPolicy": {
+    "sections": [
+      {
+        "id": 1,
+        "heading": "Information Collection",
+        "paragraph": "We collect personal details such as name, email address, phone number, and other contact information when users enroll in our programs or submit forms on our website, social media pages, or advertising platforms like Meta (Facebook/Instagram)."
+      },
+      {
+        "id": 2,
+        "heading": "Use of Information",
+        "paragraph": "The collected information is used to:",
+        "points": [
+          "a. Share course-related updates and schedules",
+          "b. Provide study materials, resources, and certifications",
+          "c. Respond to inquiries and support requests",
+          "d. Send promotional or marketing communications, only with prior consent"
+        ]
+      },
+      {
+        "id": 3,
+        "heading": "Consent for Advertising Platforms",
+        "paragraph": "By submitting your information through forms (including Meta Lead Ads), you consent to the use of that data to contact you regarding our programs and services. Your data will only be used for the purpose specified in the form."
+      },
+      {
+        "id": 4,
+        "heading": "Information Sharing",
+        "paragraph": "We do not share your personal data with third parties unless:",
+        "points": [
+          "a. You have given explicit permission",
+          "b. Required by law or legal obligations",
+          "c. It is necessary to deliver services via authorized platforms (e.g., CRM, LMS tools)"
+        ]
+      },
+      {
+        "id": 5,
+        "heading": "Cookies",
+        "paragraph": "Our website uses cookies to enhance user experience and collect analytical data. You may disable cookies in your browser settings if you prefer not to be tracked."
+      },
+      {
+        "id": 6,
+        "heading": "Data Retention",
+        "paragraph": "We retain personal data only as long as necessary to fulfill the purpose for which it was collected, or until a deletion request is submitted by the user."
+      },
+      {
+        "id": 7,
+        "heading": "Policy Updates",
+        "paragraph": "Teksversity reserves the right to modify this privacy policy at any time. Any changes will be posted on our official platforms without prior notice."
+      },
+      {
+        "id": 8,
+        "heading": "Contact Us",
+        "paragraph": "For any questions or concerns about our privacy practices, please contact us at:",
+        "contact": {
+          "email": "info@teksversity.com",
+          "phone": "18003099909"
+        }
+      }
+    ]
+  }
+}

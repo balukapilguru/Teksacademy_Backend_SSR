@@ -1,0 +1,73 @@
+{
+  "pageId": "about-teks-academy",
+  "meta": {
+    "title": "About Us | teksversity",
+    "description": "Learn about teksversity, mission, vision, success team and branch locations.",
+    "canonical": "/about-us"
+  },
+
+  "title": ["About", " Us"],
+
+  "aboutUS": {
+    "id": "about-intro",
+    "heading": ["We're here to -", "Guarantee your success"],
+    "description": "Teksversity is redefining modern education by connecting learners with the most in-demand tech and professional skills of today. Built for ambitious students and working professionals, our platform blends university-level academics with real-world applications, helping learners stay ahead in a fast-changing digital world. Through flexible online programs, expert-led instruction, and hands-on learning experiences, Teksversity makes advanced education accessible to anyone, anywhere. We focus on shaping confident, industry-ready individuals who can adapt, innovate, and thrive in global workplaces. Whether you're starting your academic journey or upgrading your skill set, Teksversity offers a seamless pathway to growth—powered by technology, guided by experts, and designed for the future. ",
+
+    "image": {
+      "src": "/discovery/Teskversity_About_Us.webp",
+      "alt": "About_Us"
+    }
+  },
+
+  "mapSection": {
+    "id": "locations-map",
+    "heading": ["We're here for you -", "No matter where you are"],
+    "description": "Find the nearest teksversity branch across Telangana, Andhra Pradesh, Karnataka and Tamil Nadu.",
+    "map": {
+      "provider": "google-maps",
+      "src": "https://www.google.com/maps/d/u/0/embed?mid=1PrHr05XWZZWps81XgxLkWjoN6uaWjso&ll=16.41890760551685%2C80.18567675390624&z=6",
+      "title": "teksversity Branch Locations Map"
+    }
+  },
+
+  "ourVision": {
+    "blocks": [
+      {
+        "heading": "OUR MISSION :",
+        "description": "Our mission at Teksversity is to provide accessible, industry-aligned higher education that blends academic excellence with job-oriented skills. We aim to empower learners with globally recognized degrees, dual certifications, hands-on projects, and flexible online learning pathways that prepare them for real-world careers."
+      },
+      {
+        "heading": "OUR VISION :",
+        "description": "Our vision is to become India’s most trusted digital hub—where every learner can earn UG, PG, and certification programs from top-ranked universities and institutions. Ultimately, gain practical expertise and build successful careers from anywhere. We aspire to make high-quality education affordable, flexible, and achievable for learners from all backgrounds."
+      }
+    ]
+  },
+
+
+  "locationDetails": {
+    "heading": ["Location", "Details"],
+    "branches": [
+      {
+        "branchId": "secunderabad",
+        "city": "Secunderabad",
+        "label": "Secunderabad",
+        "image": {
+          "src": "/kakinada/image.png",
+          "alt": "teksversity Secunderabad branch"
+        },
+        "address": "3rd Floor, Amsri Faust Building, Sarojini Devi Road, opp to pista house, Regimental Bazaar, Shivaji Nagar, Secunderabad, Hyderabad - 500025",
+        "phone": "+91 9121355225",
+        "mapLink": "https://maps.app.goo.gl/zwc2krMR8Db37hXq8"
+      },
+      {
+        "branchId": "Kakinada",
+        "city": "Hyderabad",
+        "label": "Kakinada",
+        "image":{ "src": "/kakinada/gallery/gallery11.webp", "alt": "kakinada" },
+        "address": "2nd Floor, Kokila center, 2-32-1, Sai Complex, opp. YSR Circle, Kakinada, Andhra Pradesh 533003",
+        "phone": "+91 9257669779",
+        "mapLink": "https://maps.app.goo.gl/oD7rtQfbLoXAC5Dq6"
+      }
+    ]
+  }
+}

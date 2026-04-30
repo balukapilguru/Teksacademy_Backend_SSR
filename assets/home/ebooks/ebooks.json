@@ -1,0 +1,266 @@
+{
+  "meta": {
+    "title": "Free PDF Ebooks & Study Guides Download | Teksversity",
+    "description": "Download free PDF ebooks and study guides from Teksversity. Access high-quality learning resources, notes, and study materials to improve skills and exam preparation.",
+    "schemaCode": {}
+  },
+
+  "category": "ebooks",
+
+  "ebookSection": {
+    "position": 2,
+    "heading": " E-Books",
+    "subHeading": ["Improve learning with Comprehensive E-Books"],
+    "description": "Teks Academy’s E-Books provide structured, step-by-step guidance for learners. Each E-Book covers concepts with examples and exercises.",
+    "stats": [
+      { "label": "Pages", "value": "160+" },
+      { "label": "Chapters", "value": "36+" },
+      { "label": "Projects", "value": "15+" },
+      { "label": "Case Studies", "value": "10+" }
+    ],
+    "heroImage": {
+      "src": "/ebooks/ebooks-cover.webp",
+      "alt": "ebooks-cover"
+    },
+    "items": [
+      {
+        "productId": 392,
+        "sourceId": 148,
+        "title": "Full Stack Python",
+        "description": "Master Python, Django, and REST API development.",
+        "image": {
+          "src": "/Ebooks/ebooksicons/python.webp",
+          "alt": "Full Stack Python"
+        },
+        "button": { "text": "Download" },
+        "ebookurl": "/Ebooks/E-books/python_ebook.pdf"
+      },
+      {
+        "productId": 391,
+        "sourceId": 148,
+        "title": "Full Stack Java",
+        "description": "Become a Java expert with Spring Boot and Microservices.",
+        "image": {
+          "src": "/Ebooks/ebooksicons/fullstack.webp",
+          "alt": "Full Stack Java"
+        },
+        "button": { "text": "Download" },
+        "ebookurl": "/Ebooks/E-books/java_ebook.pdf"
+      },
+      {
+        "productId": 390,
+        "sourceId": 148,
+        "title": "Data Science",
+        "description": "Learn ML, Deep Learning, and Big Data Analytics.",
+        "image": {
+          "src": "/Ebooks/ebooksicons/data_science.webp",
+          "alt": "Data Science"
+        },
+        "button": { "text": "Download" },
+        "ebookurl": "/Ebooks/E-books/data_science_e_book.pdf"
+      },
+      {
+        "productId": 295,
+        "sourceId": 148,
+        "title": "Digital Marketing",
+        "description": "SEO, Google Ads, Social Media Marketing, and Analytics.",
+        "image": {
+          "src": "/Ebooks/ebooksicons/digital_Marketing.webp",
+          "alt": "Digital Marketing"
+        },
+        "button": { "text": "Download" },
+        "ebookurl": "/Ebooks/E-books/digital_marketing.pdf"
+      },
+      {
+        "productId": 389,
+        "sourceId": 148,
+        "title": "AWS & DevOps",
+        "description": "Master cloud computing with AWS, Docker, Kubernetes.",
+        "image": {
+          "src": "/Ebooks/ebooksicons/aws_dev.webp",
+          "alt": "AWS & DevOps"
+        },
+        "button": { "text": "Download" },
+        "ebookurl": "/Ebooks/E-books/aws_devops_e_book.pdf"
+      },
+      {
+        "productId": 286,
+        "sourceId": 148,
+        "title": "BIM",
+        "description": "Learn 3D modeling and construction management tools.",
+        "image": { "src": "/Ebooks/ebooksicons/BIM.webp", "alt": "BIM" },
+        "button": { "text": "Download" },
+        "ebookurl": "/Ebooks/E-books/bim_ebook.pdf"
+      },
+      {
+        "productId": 271,
+        "sourceId": 148,
+        "title": "Software Testing",
+        "description": "Master Automation Testing, Selenium, JIRA & API Testing.",
+        "image": {
+          "src": "/Ebooks/ebooksicons/software_tools.webp",
+          "alt": "Software Testing"
+        },
+        "button": { "text": "Download" },
+        "ebookurl": "/Ebooks/E-books/Software_Testing_e_book.pdf"
+      },
+      {
+        "productId": 284,
+        "sourceId": 148,
+        "title": "SAP FICO",
+        "description": "Master SAP Finance & Controlling for business applications.",
+        "image": { "src": "/Ebooks/ebooksicons/sap.webp", "alt": "SAP FICO" },
+        "button": { "text": "Download" },
+        "ebookurl": "/Ebooks/E-books/SAP_FICO_e_book.pdf"
+      },
+      {
+        "productId": 273,
+        "sourceId": 148,
+        "title": "Medical Coding",
+        "description": "ICD-10, CPT, HCPCS coding for healthcare industry.",
+        "image": {
+          "src": "/Ebooks/ebooksicons/medical_coding.webp",
+          "alt": "Medical Coding"
+        },
+        "button": { "text": "Download" },
+        "ebookurl": "/Ebooks/E-books/Medical_Coding_e-book.pdf"
+      },
+      {
+        "productId": 236,
+        "sourceId": 148,
+        "title": "Multimedia",
+        "description": "Learn graphic design, 2D animation, and video editing.",
+        "image": {
+          "src": "/Ebooks/ebooksicons/multimedia.webp",
+          "alt": "Multimedia"
+        },
+        "button": { "text": "Download" },
+        "ebookurl": "/Ebooks/E-books/Multimedia.pdf"
+      },
+      {
+        "productId": 239,
+        "sourceId": 148,
+        "title": "Advanced Excel",
+        "description": "Master Excel formulas, Pivot Tables, Macros, and dashboards.",
+        "image": {
+          "src": "/Ebooks/ebooksicons/excel_data.webp",
+          "alt": "Advanced Excel"
+        },
+        "button": { "text": "Download" },
+        "ebookurl": "/Ebooks/E-books/Advanced_excel_e_book.pdf"
+      },
+      {
+        "productId": 242,
+        "sourceId": 148,
+        "title": "AutoCAD",
+        "description": "Master 2D drafting and 3D modeling for architecture & engineering.",
+        "image": {
+          "src": "/Ebooks/ebooksicons/auto_cad.webp",
+          "alt": "AutoCAD"
+        },
+        "button": { "text": "Download" },
+        "ebookurl": "/Ebooks/E-books/Auto_Cad_e_book.pdf"
+      },
+      {
+        "productId": 245,
+        "sourceId": 148,
+        "title": "Revit MEP",
+        "description": "Master BIM architectural, structural, and MEP design documentation.",
+        "image": {
+          "src": "/Ebooks/ebooksicons/revit.webp",
+          "alt": "Revit MEP"
+        },
+        "button": { "text": "Download" },
+        "ebookurl": "/Ebooks/E-books/revit_mep_e_book.pdf"
+      },
+      {
+        "productId": 292,
+        "sourceId": 148,
+        "title": "Data Analytics",
+        "description": "Master data analysis techniques & visualization.",
+        "image": {
+          "src": "/Ebooks/ebooksicons/data_analytics.webp",
+          "alt": "Data Analytics"
+        },
+        "button": { "text": "Download" },
+        "ebookurl": "/Ebooks/E-books/Data_Analytics.pdf"
+      },
+      {
+        "productId": 257,
+        "sourceId": 148,
+        "title": "SAP MM",
+        "description": "Become an expert in Material Management and SAP MM processes.",
+        "image": { "src": "/Ebooks/ebooksicons/sap.webp", "alt": "SAP MM" },
+        "button": { "text": "Download" },
+        "ebookurl": "/Ebooks/E-books/sapmm_ebook.pdf"
+      },
+      {
+        "productId": 263,
+        "sourceId": 148,
+        "title": "Cyber Security",
+        "description": "Prevent cyberattacks and enhance threat detection strategies.",
+        "image": {
+          "src": "/Ebooks/ebooksicons/shield.webp",
+          "alt": "Cyber Security"
+        },
+        "button": { "text": "Download" },
+        "ebookurl": "/Ebooks/E-books/cyber_security_e-book.pdf"
+      },
+      {
+        "productId": 254,
+        "sourceId": 148,
+        "title": "Generative AI",
+        "description": "Implement AI models for personalized learning systems.",
+        "image": {
+          "src": "/Ebooks/ebooksicons/ai.webp",
+          "alt": "Generative AI"
+        },
+        "button": { "text": "Download" },
+        "ebookurl": "/Ebooks/E-books/generative_AI_ebook.pdf"
+      },
+      {
+        "productId": 249,
+        "sourceId": 148,
+        "title": "Business Analytics",
+        "description": "Analyze business data to optimize operations.",
+        "image": {
+          "src": "/Ebooks/ebooksicons/chart.webp",
+          "alt": "Business Analytics"
+        },
+        "button": { "text": "Download" },
+        "ebookurl": "/Ebooks/E-books/businessanalyst.pdf"
+      },
+
+      {
+        "productId": 266,
+        "sourceId": 148,
+        "title": "BFSI Syllabus",
+        "description": "Learn Key Concepts of Banking, Securities, Mutual Funds, & Digital Banking",
+        "image": {
+          "src": "/Ebooks/ebooksicons/banking-service.webp",
+          "alt": "banking service"
+        },
+        "button": { "text": "Download" },
+        "ebookurl": "/Ebooks/E-books/BFSI_Syallbus_e-book.pdf"
+      }
+    ]
+  },
+
+  "communitySection": {
+    "position": 3,
+    "heading": [
+      "Teks Community Makes You!",
+      "Updated, Upskilled and Unbeatable"
+    ],
+    "description": "Learn the latest technologies, advanced skills, connect with experts and grow with a network that pushes you towards success.",
+    "button": {
+      "name": "Join WhatsApp Community",
+      "ebookurl": "",
+      "form": false
+    },
+    "image": {
+      "src": "/ebooks/community-card.webp",
+      "alt": "community-card"
+    }
+  }
+}

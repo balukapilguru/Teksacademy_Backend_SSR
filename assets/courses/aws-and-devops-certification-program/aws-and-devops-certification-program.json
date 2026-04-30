@@ -1,0 +1,1427 @@
+﻿{
+  "meta": {
+    "title": "AWS DevOps Certification for Real-World Automation Skills",
+    "description": "Develop practical DevOps capabilities through AWS DevOps Certification focused on automation, CI/CD pipelines, monitoring, and cloud operations.",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Course",
+          "name": "AWS DevOps Certification Course",
+          "image": "https://teksversity.com/_next/image?url=https%3A%2F%2Fteksversity.s3.us-east-1.amazonaws.com%2Fwebsite%2Fassets%2Fcertificate%2FbannerImages%2Fcertification%2Faws-certificate.webp&w=1920&q=75",
+          "description": "The AWS DevOps Certification Course by Teksversity provides practical training in AWS services, DevOps tools, and automation practices through hands-on learning and real-time projects.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Teksversity"
+          },
+          "url": "https://teksversity.com/courses/aws-and-devops-certification-program",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.7",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "128"
+          },
+          "offers": {
+            "@type": "AggregateOffer",
+            "url": "https://teksversity.com/courses/aws-and-devops-certification-program",
+            "priceCurrency": "INR",
+            "lowPrice": "50000",
+            "highPrice": "50000",
+            "offerCount": "1",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is the AWS DevOps Certification Course about?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The AWS DevOps Certification Course at Teksversity teaches cloud computing on AWS along with DevOps tools, CI/CD pipelines, infrastructure automation, and deployment practices through hands-on projects."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What tools and technologies are covered in the AWS DevOps course?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The course covers AWS core services, Docker, Kubernetes, CI/CD pipelines, Git, automation tools, infrastructure as code, and deployment monitoring practices."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is this AWS DevOps course suitable for beginners?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the program starts with cloud and Linux fundamentals before progressing into advanced AWS architecture, automation, and DevOps workflows."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What career roles can I pursue after AWS DevOps certification?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Graduates can pursue roles such as AWS Cloud Engineer, DevOps Engineer, Site Reliability Engineer, Cloud Administrator, and Infrastructure Automation Engineer."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does the AWS DevOps course include hands-on projects?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, learners build real-world CI/CD pipelines, cloud deployments, containerized applications, and automation workflows using AWS and DevOps tools."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What makes Teksversity’s AWS DevOps training unique?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Teksversity focuses on job-ready DevOps skills with practical labs, real-time cloud projects, industry-aligned curriculum, and mentorship from experienced cloud professionals."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+  "category": "certifications",
+  "formDetails": {
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "courseName": "AWS and DevOps Certification Program",
+    "universities": [
+      {
+        "university": "TEKSVERITY INSTITUTE OF ADVANCED LEARNING",
+        "image": {
+          "src": "/home/Teksversity_navbar.webp",
+          "alt": "teksversity"
+        },
+        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "rating": 4.8,
+        "duration": "4-6 Months",
+        "courseFee": {
+          "range": "45,000 - 55,000",
+          "note": "Total program fee"
+        },
+        "brochure": "/Downloadbrouchers/IT-courses/DownloadBroucher/Aws-DevOps.pdf",
+        "button": [
+          {
+            "name": "Know More",
+            "link": "",
+            "form": false
+          },
+          { "name": "Enroll Now", "link": "", "form": true }
+        ],
+        "productId": 389,
+        "sourceId": 148,
+        "universityName": "Teksversity"
+      }
+    ]
+  },
+  "banner": {
+    "name": "AWS and DevOps Certification Program",
+    "position": 1,
+    "mainHeading": "AWS DevOps Certification Focused on Automation and CI/CD",
+    "description": "Elevate your career to new heights by mastering automation, scalability, and innovation with AWS DevOps.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/certificate/bannerImages/certification/aws-certificate.webp",
+      "alt": "AWS DevOps Certification Course with Cloud Automation"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Join AWS Certification Training?"],
+      "benefits": [
+        "Master cloud automation and deployment",
+        "Gain hands-on experience with AWS tools",
+        "Learn CI/CD, Docker, Jenkins, Kubernetes",
+        "Mentored by industry-certified experts",
+        "Get mentored by industry-certified experts",
+        "Work on live, real-world projects",
+        "Earn globally recognized AWS certification",
+        "Boost career in DevOps and cloud engineering",
+        "Unlock global job opportunities in tech firms"
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["Overview of", "AWS DevOps Certification Course"],
+    "overViewImage": {
+      "src": "/certificate/overview.webp",
+      "alt": "AWS DevOps Certification Course – Program Overview"
+    },
+    "subHeading": "Become a Certified AWS DevOps Expert",
+    "description": "The AWS DevOps Certification Course is an advanced industry-driven program that equips learners with the power to automate, deploy, and manage modern cloud infrastructures. Designed for future-ready professionals, it blends AWS cloud mastery with DevOps practices helping you create faster, smarter, and more reliable software delivery pipelines. From CI/CD and infrastructure as code to container arrangement and monitoring, this course shapes you into a certified cloud automation expert ready to transform enterprise operations.",
+    "keyPoints": [
+      "Learn AWS security & cost optimization",
+      "Work on live cloud automation projects",
+      "Master agile deployment & team collaboration",
+      "Get placement support & certification guidance"
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": [
+      "Why Choose AWS DevOps Certification Course in",
+      "Teksversity?"
+    ],
+    "subHeading": ["Celebrating", " Excellence"],
+    "title": ["13 Years of", " Legacy", "(Commitment, Growth, Success)"],
+    "legacyCards": [
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "4.72/5",
+        "label": "Overall Program Rating"
+      },
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "99/100",
+        "label": "Sessions Rated 4+/5"
+      },
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "4.8/5",
+        "label": "Average Session Rating"
+      }
+    ],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": {
+      "type": "richText",
+      "content": [
+        {
+          "type": "text",
+          "value": "Teksversity’s AWS DevOps Certification Course stands out for its future-focused approach that merges DevOps automation with real-world AWS ecosystem mastery. Learners dive deep into CI/CD pipelines, IaC, and serverless deployment using "
+        },
+        {
+          "type": "link",
+          "value": "AI-driven automation",
+          "url": "/courses/generative-ai-certification-program"
+        },
+        {
+          "type": "text",
+          "value": " labs that simulate enterprise operations. Each module is built with adaptive learning intelligence, helping students experience how real cloud systems evolve under continuous delivery. With expert-led mentoring and advanced simulation projects, Teksversity ensures that every learner transforms theoretical understanding into deployable, scalable cloud solutions."
+        }
+      ]
+    },
+
+    "description": [
+      {
+        "firstDescription": "What makes Teksversity’s AWS DevOps program unique is its strong integration of modern DevOps tools with cloud-native technologies. Learners build complete deployment pipelines, automated configurations and monitor production systems in live virtual environments. The curriculum is engineered with real AWS architecture blueprints, ensuring direct exposure to real-time orchestration, cost optimization, and performance engineering. The program’s structure blends collaborative learning, team-based sprints, and expert evaluations mirroring the dynamics of actual DevOps teams to cultivate both leadership and operational excellence in every learner."
+      },
+      {
+        "secondDescription": "Teksversity’s learning path is designed to connect multiple AWS skill journeys making it ideal for those also pursuing the aws cloud practitioner course, aws developer certification, or aws machine learning certification. Students gain advanced insight into DevSecOps, multi-cloud integration, and AI-driven automation, preparing them for elite-level tech careers. With live mentoring, placement guidance, and cloud lab support, learners master not just AWS tools but the mindset of continuous improvement. Teksversity turns ambitious professionals into intelligent DevOps engineers who can innovate, optimize, and lead the cloud revolution."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": ["Key Highlights of ", "AWS and DevOps Certification Program"],
+    "sections": [
+      {
+        "name": "Industry-Driven Curriculum",
+        "value": "industryDrivenCurriculum"
+      },
+      {
+        "name": "Hands-On Cloud Experience",
+        "value": "handsOnCloudExperience"
+      },
+      { "name": "Expert-Led Mentorship", "value": "expertLedMentorship" },
+      {
+        "name": "Career Intelligence & Placement Support",
+        "value": "careerIntelligenceAndPlacementSupport"
+      }
+    ],
+    "tabsData": {
+      "industryDrivenCurriculum": {
+        "keyPoints": [
+          "Master automation, CI/CD, and AWS cloud architecture.",
+          "Learn Infrastructure as Code, Kubernetes, and microservices.",
+          "Train with enterprise-grade DevOps workflows and best practices.",
+          "Gain real-world readiness with an industry-aligned syllabus."
+        ]
+      },
+      "handsOnCloudExperience": {
+        "keyPoints": [
+          "Build and deploy live AWS projects.",
+          "Automate workflows using Docker, Jenkins, and CloudFormation.",
+          "Implement monitoring with CloudWatch and Grafana.",
+          "Work in scalable, production-like environments."
+        ]
+      },
+      "expertLedMentorship": {
+        "keyPoints": [
+          "Learn from AWS-certified DevOps experts.",
+          "Join live sessions, code labs, and design reviews.",
+          "Get real-time feedback and career insights.",
+          "Engage with mentors from global cloud teams."
+        ]
+      },
+      "careerIntelligenceAndPlacementSupport": {
+        "keyPoints": [
+          "AI-based career guidance and mock interviews.",
+          "Job assistance with top cloud-driven companies.",
+          "Globally recognized AWS DevOps certification.",
+          "Launch your career in automation and cloud engineering."
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our", "Course Brochure"],
+    "description": "Curious to see how this program is transforming the future of cloud automation? Download the AWS DevOps Certification Course brochure to explore an advanced, industry-driven curriculum that merges AWS cloud architecture, DevOps automation, CI/CD pipelines, and Infrastructure as Code crafted for the next generation of cloud engineers and automation leaders.",
+    "subHeading": "What You’ll Get in the Brochure:",
+    "highlights": [
+      "Advanced cloud automation with real-time AWS labs.",
+      "Live projects on CI/CD, Docker, Kubernetes & CloudFormation.",
+      "End-to-end DevOps pipelines & performance optimization.",
+      "Globally recognized certification with career-ready guidance."
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/certificate/brochuree.webp",
+      "alt": "Download AWS DevOps Certification Course Brochure"
+    }
+  },
+
+  "embraceTheEndlessOpportunities": {
+    "position": 7,
+    "heading": [
+      "Embrace future opportunities in",
+      "AWS and DevOps Certification Program"
+    ],
+    "sections": [
+      {
+        "title": "Global Cloud Market Revenue",
+        "data": "The global cloud computing market is expected to surpass $1 trillion by 2026, with AWS being a major player driving this growth through its extensive service offerings (Source: Gartner).",
+        "icon": { "src": "null", "alt": "null" }
+      },
+      {
+        "title": "Employment Growth",
+        "data": "The AWS and DevOps job market is estimated to grow at 24% from 2022 to 2032, as organizations increasingly adopt cloud solutions and agile practices (Source: LinkedIn).",
+        "icon": { "src": "null", "alt": "null" }
+      },
+      {
+        "title": "Average Salary in India",
+        "data": "The average salary for AWS and DevOps professionals in India ranges from ₹10,00,000 to ₹20,00,000 per annum (Source: Indeed, Glassdoor).",
+        "icon": { "src": "null", "alt": "null" }
+      },
+      {
+        "title": "Size of the Industry",
+        "data": "The Indian cloud computing market is projected to grow to $15 billion by 2026, reflecting the rapid adoption of cloud technologies (Source: NASSCOM).",
+        "icon": { "src": "null", "alt": "null" }
+      }
+    ]
+  },
+
+  "advancedTools": {
+    "position": 8,
+    "heading": ["Explore 15+ ", " Core Technologies"],
+    "roles": [
+      {
+        "name": "AWS X-Ray",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-aws-and-devops/tools/x-ray.webp",
+          "alt": "AWS X-Ray logo"
+        }
+      },
+      {
+        "name": "AWS Pipeline",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-aws-and-devops/tools/pipeline.webp",
+          "alt": "AWS Pipeline logo"
+        }
+      },
+      {
+        "name": "AWS CodeBuild",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-aws-and-devops/tools/codebuild.webp",
+          "alt": "AWS CodeBuild logo"
+        }
+      },
+      {
+        "name": "Amazon Inspector",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-aws-and-devops/tools/inspector.webp",
+          "alt": "Amazon Inspector logo"
+        }
+      },
+      {
+        "name": "AWS Lambda",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-aws-and-devops/tools/lambda.webp",
+          "alt": "AWS Lambda logo"
+        }
+      },
+      {
+        "name": "AWS OpsWorks",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-aws-and-devops/tools/opsWork.webp",
+          "alt": "AWS OpsWorks logo"
+        }
+      },
+      {
+        "name": "AWS CloudWatch",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-aws-and-devops/tools/cloudwatch.webp",
+          "alt": "AWS CloudWatch logo"
+        }
+      }
+    ]
+  },
+
+  "industryProjects": {
+    "position": 9,
+    "heading": ["Industry", "Projects"],
+    "projects": [
+      {
+        "title": "Launching a Basic EC2 Instance",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-aws-and-devops/projects/basicec2.webp",
+          "alt": "basicec2"
+        }
+      },
+      {
+        "title": "Simple Jenkins Pipeline Setup",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-aws-and-devops/projects/jenkins.webp",
+          "alt": "jenkins"
+        }
+      },
+      {
+        "title": "Basic IAM User Setup in AWS",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-aws-and-devops/projects/iam.webp",
+          "alt": "iam"
+        }
+      },
+      {
+        "title": "Automate Website Deployment with Ansible",
+
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-aws-and-devops/projects/ansible.webp",
+          "alt": "ansible"
+        }
+      },
+      {
+        "title": "Simple Load Balancing with HAProxy",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-aws-and-devops/projects/loadbalancer.webp",
+          "alt": "loadbalancer"
+        }
+      },
+      {
+        "title": "Monitoring EC2 Instances with CloudWatch",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-aws-and-devops/projects/cloudwatch.webp",
+          "alt": "cloudwatch"
+        }
+      },
+      {
+        "title": "CI/CD Pipeline with Jenkins and Docker",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-aws-and-devops/projects/pipeline.webp",
+          "alt": "pipeline"
+        }
+      },
+      {
+        "title": "Deploy a Kubernetes Cluster on AWS",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-aws-and-devops/projects/kubernetes.webp",
+          "alt": "kubernetes"
+        }
+      },
+      {
+        "title": "Docker Swarm and Kubernetes Cluster with HA",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-aws-and-devops/projects/swarm.webp",
+          "alt": "swarm"
+        }
+      },
+      {
+        "title": "Nagios: Monitoring a Web Application",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-aws-and-devops/projects/webapp.webp",
+          "alt": "webapp"
+        }
+      },
+      {
+        "title": "Infrastructure as Code: Full AWS Setup with Terraform",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-aws-and-devops/projects/terraform.webp",
+          "alt": "terraform"
+        }
+      },
+      {
+        "title": "Setting Up a Git Repository and Managing Code Versions",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-aws-and-devops/projects/codeversions.webp",
+          "alt": "codeversions"
+        }
+      }
+    ]
+  },
+
+  "careerPath": {
+    "position": 10,
+    "heading": ["AWS with DevOps", " Career Paths"],
+    "description": "Explore roles, opportunities, and salary growth",
+    "jobCards": [
+      {
+        "role": "AWS Developer",
+        "icon": "brackets",
+        "jobMeter": "18,000 open positions",
+        "jobCount": 18000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "4-8 LPA" },
+            { "label": "2 Years", "value": "6-10 LPA" },
+            { "label": "4 Years", "value": "10-15 LPA" },
+            { "label": "6 Years", "value": "12-18 LPA" },
+            { "label": "8 Years", "value": "20-30 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "DevOps Engineer",
+        "icon": "brackets_square",
+        "jobMeter": "20,000 open positions",
+        "jobCount": 20000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "5-10 LPA" },
+            { "label": "2 Years", "value": "8-12 LPA" },
+            { "label": "4 Years", "value": "12-18 LPA" },
+            { "label": "6 Years", "value": "15-25 LPA" },
+            { "label": "8 Years", "value": "20-35 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "AWS Architect",
+        "icon": "eye",
+        "jobMeter": "10,000 open positions",
+        "jobCount": 10000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "6-12 LPA" },
+            { "label": "2 Years", "value": "10-16 LPA" },
+            { "label": "4 Years", "value": "15-25 LPA" },
+            { "label": "6 Years", "value": "20-35 LPA" },
+            { "label": "8 Years", "value": "25-45 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Cloud Engineer",
+        "icon": "leaf",
+        "jobMeter": "8,500 open positions",
+        "jobCount": 8500,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "4-9 LPA" },
+            { "label": "2 Years", "value": "7-12 LPA" },
+            { "label": "4 Years", "value": "10-18 LPA" },
+            { "label": "6 Years", "value": "15-25 LPA" },
+            { "label": "8 Years", "value": "18-30 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Site Reliability Engineer",
+        "icon": "plus_circle",
+        "jobMeter": "7,000 open positions",
+        "jobCount": 7000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "5-10 LPA" },
+            { "label": "2 Years", "value": "8-12 LPA" },
+            { "label": "4 Years", "value": "12-18 LPA" },
+            { "label": "6 Years", "value": "15-25 LPA" },
+            { "label": "8 Years", "value": "20-35 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Automation Engineer",
+        "icon": "pen_tool",
+        "jobMeter": "5,500 open positions",
+        "jobCount": 5500,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "4-8 LPA" },
+            { "label": "2 Years", "value": "6-11 LPA" },
+            { "label": "4 Years", "value": "10-16 LPA" },
+            { "label": "6 Years", "value": "14-22 LPA" },
+            { "label": "8 Years", "value": "18-30 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Cloud Consultant",
+        "icon": "box",
+        "jobMeter": "6,500 open positions",
+        "jobCount": 6500,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "5-9 LPA" },
+            { "label": "2 Years", "value": "8-13 LPA" },
+            { "label": "4 Years", "value": "12-20 LPA" },
+            { "label": "6 Years", "value": "15-25 LPA" },
+            { "label": "8 Years", "value": "22-35 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Release Manager",
+        "icon": "network",
+        "jobMeter": "4,500 open positions",
+        "jobCount": 4500,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "5-10 LPA" },
+            { "label": "2 Years", "value": "7-12 LPA" },
+            { "label": "4 Years", "value": "10-16 LPA" },
+            { "label": "6 Years", "value": "14-22 LPA" },
+            { "label": "8 Years", "value": "20-30 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Security Engineer",
+        "icon": "helmet",
+        "jobMeter": "6,000 open positions",
+        "jobCount": 6000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "5-10 LPA" },
+            { "label": "2 Years", "value": "8-12 LPA" },
+            { "label": "4 Years", "value": "12-18 LPA" },
+            { "label": "6 Years", "value": "15-25 LPA" },
+            { "label": "8 Years", "value": "20-35 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Cloud Support Engineer",
+        "icon": "orange_box",
+        "jobMeter": "5,000 open positions",
+        "jobCount": 5000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "3-7 LPA" },
+            { "label": "2 Years", "value": "5-9 LPA" },
+            { "label": "4 Years", "value": "8-14 LPA" },
+            { "label": "6 Years", "value": "10-18 LPA" },
+            { "label": "8 Years", "value": "15-25 LPA" }
+          ]
+        }
+      }
+    ],
+    "button": {
+      "text": "Enroll Now",
+      "icon": { "src": "null", "alt": "null" },
+      "link": "null"
+    }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ],
+    "universityOfferings": [
+      {
+        "university": "TEKSVERITY INSTITUTE OF ADVANCED LEARNING",
+        "image": {
+          "src": "/certificate/Teksversity_In1.webp",
+          "alt": "Teksversity"
+        },
+        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "rating": 4.8,
+        "duration": "4-6 Months",
+        "courseFee": {
+          "range": "40,000 - 50,000",
+          "note": "Total program fee"
+        },
+        "button": {
+          "text": "Enroll Now",
+          "icon": { "src": "null", "alt": "null" },
+          "link": "null"
+        }
+      }
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 12,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 13,
+    "heading": ["Take the Leap", " Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "null" },
+        "link": "null"
+      }
+    }
+  },
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },
+      {
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+  "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      },
+      "formBackground": {
+        "src": "/home/formbg.webp",
+        "alt": "Spin and Win Form Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+  "questionSection": {
+    "position": 17,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is the AWS DevOps Certification Course at Teksversity about?",
+        "answer": "Our AWS DevOps Certification Course helps you build in-demand cloud skills by mastering AWS services, automation tools, and continuous delivery techniques. Through hands-on projects and expert guidance, we prepare you to design, implement, and manage real-world DevOps solutions, so you’re career-ready from day one."
+      },
+      {
+        "question": "Who can enroll in the AWS DevOps Training?",
+        "answer": "Whether you’re an experienced IT professional or just starting your tech career, Teksversity’s AWS DevOps Training equips you with the skills to excel in cloud operations and automation. No prior cloud experience is required our experts ensure every learner is supported through a step-by-step approach."
+      },
+      {
+        "question": "How long is the AWS DevOps Course at Teksversity?",
+        "answer": "Our AWS DevOps Course spans 8–12 weeks, designed to fit the schedule of working professionals and full-time learners alike. With flexible batch options and personalized learning support, Teksversity ensures steady progress from fundamentals to advanced AWS DevOps expertise."
+      },
+      {
+        "question": "What tools and technologies are covered in the AWS DevOps Training?",
+        "answer": "At Teksversity, we train you on core AWS and DevOps tools used by top companies Docker, Kubernetes, Jenkins, Terraform, Ansible, and Git alongside AWS services like EC2, CloudFormation, S3, and CodeDeploy. This combination helps you gain job-ready skills for modern DevOps roles."
+      },
+      {
+        "question": "What kind of projects will I work on during the program?",
+        "answer": "Our AWS DevOps Certification Course includes real-world projects designed to strengthen your technical and problem-solving skills. You’ll work on CI/CD automation, infrastructure provisioning, and container orchestration on AWS, preparing you for job-ready DevOps roles."
+      },
+      {
+        "question": "Does Teksversity provide support for AWS certification exams?",
+        "answer": "Absolutely! Our AWS DevOps Training includes dedicated certification coaching with structured study plans, practice exams, and personalized feedback. We help you build both the technical and exam confidence needed to become an AWS Certified DevOps professional."
+      },
+      {
+        "question": "What career opportunities are available after completing the AWS DevOps Course?",
+        "answer": "Completing our AWS DevOps Training opens doors to top-paying roles in cloud computing and automation, including DevOps Engineer, Cloud Architect, and AWS Engineer. With industry-recognized certification and hands-on experience, you’ll be equipped to thrive in one of the fastest-growing tech careers."
+      },
+      {
+        "question": "What is the average salary after earning the AWS DevOps Certification?",
+        "answer": "AWS DevOps Certified professionals from Teksversity often earn starting packages of ₹7–₹18 LPA, depending on expertise and role. With growing demand for AWS-powered DevOps skills, many of our learners go on to achieve significant career growth and global opportunities."
+      },
+      {
+        "question": "Does Teksversity offer placement assistance after course completion?",
+        "answer": "Absolutely! We go beyond training by offering end-to-end career support, resume enhancement, mock interviews, and direct connections to leading employers so you can land high-demand roles in AWS DevOps quickly after certification."
+      },
+      {
+        "question": "What kind of support does Teksversity provide during the AWS DevOps course?",
+        "answer": "Our support system includes direct access to expert trainers, scheduled doubt resolution sessions, detailed study materials, and an interactive learner community. This ensures you get the help you need quickly while staying motivated and progressing confidently in your AWS DevOps training."
+      }
+    ]
+  },
+
+  "letsTalk": {
+    "position": 18,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 19,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "AWS certification training",
+      "AWS machine learning certification",
+      "AWS developer certification",
+      "AWS cloud practitioner course",
+      "AWS devops training online",
+      "AWS devops course online",
+      "AWS devops certification course",
+      "AWS devops online training",
+      "AWS devops certification training",
+      "AWS devops online course"
+    ]
+  }
+}

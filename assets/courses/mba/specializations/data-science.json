@@ -1,0 +1,1041 @@
+﻿{
+  "meta": {
+    "title": "Flexible Online MBA in Data Science with 100% Job Assistance",
+    "description": "Master data analytics, machine learning, and business intelligence with Teksversity’s online MBA in Data Science, designed for future data-driven leaders",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is an MBA in Data Science?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "An MBA in Data Science is a postgraduate program that blends business management skills with data analytics, artificial intelligence, machine learning, and big data technologies. It equips students to take on leadership roles where data-driven decisions and strategic insights drive business growth."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the duration of an MBA in Data Science?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The MBA in Data Science is a 2-year postgraduate program, structured into 4 semesters. Each semester blends management concepts, data science technologies, hands-on projects, and real-world case studies to provide both theoretical knowledge and practical experience."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who should pursue an MBA in Data Science?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "This program is ideal for graduates, working professionals, managers, analysts, and engineers who want to build careers in data-driven business roles, analytics, AI-focused management, or digital transformation leadership. It is also suitable for those looking to enhance their strategic decision-making skills using data insights."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What subjects are covered in the MBA in Data Science syllabus?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The MBA in Data Science syllabus includes a comprehensive mix of technical and management subjects, such as data analytics, machine learning, AI, Python/R programming, big data technologies, SQL, business intelligence, cloud computing, statistics, and AI-driven business strategy. Students also gain practical experience through capstone projects and industry internships, ensuring readiness for real-world challenges."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What career opportunities are available after an MBA in Data Science?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "After completing an MBA in Data Science, graduates can pursue high-demand roles such as Data Scientist, Data Analyst, Business Intelligence Manager, AI Consultant, Machine Learning Engineer, Analytics Manager, and Data Strategy Lead. These opportunities exist across diverse industries including IT, finance, healthcare, e-commerce, consulting, retail, and technology startups, enabling a wide range of career paths."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the salary expectations after completing an MBA in Data Science?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fresh graduates of an MBA in Data Science can expect a starting salary of ₹6–10 LPA. With experience, advanced skills, and specialization in areas like machine learning, AI, or analytics management, professionals can earn ₹15–30+ LPA, depending on the role, company, and industry."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which industries hire MBA in Data Science graduates?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "MBA in Data Science graduates are in demand across a wide range of industries, including IT, finance, healthcare, e-commerce, consulting, retail, manufacturing, and technology startups. Organizations in these sectors rely on data-driven decision-making, analytics, and AI strategies, creating numerous opportunities for skilled professionals."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is an MBA in Data Science different from an MSc in Data Science?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "An MBA in Data Science emphasizes business strategy, leadership, and data-driven decision-making, preparing graduates for management and leadership roles. In contrast, an MSc in Data Science is research and technically oriented, focusing on advanced algorithms, programming, and in-depth data science techniques, making it ideal for technical or research-focused careers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is an MBA in Data Science suitable for working professionals?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The MBA in Data Science is designed for working professionals, offering flexible formats such as part-time, weekend, online, and executive programs. This allows professionals to upskill and gain advanced data science and management knowledge without disrupting their current careers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does placement support work?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In our MBA in Data Science program, we provide comprehensive placement support including campus drives, mock interviews, resume building, mentorship, and industry tie-ups. Students also gain opportunities for internships and live projects, ensuring they are well-prepared for roles in top IT, finance, healthcare, and analytics companies."
+          }
+        }
+      ]
+    }
+  },
+  "formDetails": {
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "courseName": "Master of Business Administration in Data Science",
+    "universities": [
+      {
+        "university": "amity-university",
+        "image": {
+          "src": "/home/universitylogos/amity.webp",
+          "alt": "amity",
+          "url": "/university/amity-university"
+        },
+        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "rating": 4.8,
+        "duration": "2 Years",
+        "courseFee": { "range": "1,99,000", "note": "Total program fee" },
+        "brochure": "/Downloadbrouchers/AMITY/MBA-AMITY/MBA-Data-Science.pdf",
+        "button": [{ "name": "Enroll Now", "link": "", "form": true }],
+        "productId": 176,
+        "sourceId": 151,
+        "universityName": "Amity University"
+      }
+    ]
+  },
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+  "category": "specialization",
+  "banner": {
+    "name": "MBA in Data Science",
+    "position": 1,
+    "mainHeading": "MBA in Data Science - Transform Data Into Strategy and Business Growth",
+    "description": "Earn your Master of MBA in Data Science degree and build expertise in analytics, modelling, AI tools, and data-driven decision-making to lead innovation and digital transformation in modern organizations.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/pgbanerimages/mba/Data_Science.webp",
+      "alt": "MBA in Data Science with Business Strategy and Data-Driven Growth"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose This Program"],
+      "benefits": [
+        "Comprehensive and industry-focused MBA in Data Science curriculum",
+        "Learn from experienced data scientists and analytics experts",
+        "Real-world projects in machine learning, AI, and big data processing",
+        "Focus on predictive modelling, business intelligence, and data visualization",
+        "Strengthen analytical, technical, and strategic decision-making skills",
+        "Practical exposure through datasets, tools, and case studies",
+        "Blend of management principles with real-world data science for MBA applications",
+        "100% placement assistance and continuous career support"
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["Overview of", "MBA in Data Science Program"],
+    "overViewImage": {
+      "src": "/home/overview/overview4.webp",
+      "alt": "MBA in Data Science – Program Overview"
+    },
+    "subHeading": "Build a Future in Data Analytics, Machine Learning, and AI Leadership",
+    "description": {
+      "type": "richText",
+      "content": [
+        {
+          "type": "text",
+          "value": "The MBA in "
+        },
+        {
+          "type": "link",
+          "value": "Data Science program",
+          "url": "/courses/post-graduation-certification-in-data-science"
+        },
+        {
+          "type": "text",
+          "value": " at Teksversity equips learners with advanced knowledge in analytics, machine learning models, and business intelligence frameworks. This master’s program helps professionals translate data into strategic insights, automate processes, and enhance organizational performance. Through real-time case studies, hands-on projects, and tool-based training, students gain practical expertise in data engineering, statistical modelling, and visualization. The MBA in Data Science for working professionals offers flexible online learning for individuals looking to upgrade their career without career interruption. "
+        }
+      ]
+    },
+    "keyPoints": [
+      "Understand key principles of data analytics, modelling, and visualization",
+      "Master tools for machine learning, big data processing, and business intelligence",
+      "Develop analytical and strategic problem-solving abilities",
+      "Apply data ethics, governance, and responsible AI practices",
+      "Build readiness for leadership and managerial roles across diverse industries"
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": ["Why Choose MBA in Data Science", "in Teksversity?"],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "Choosing Teksversity for your online MBA in Data Science means joining a program that blends analytics expertise with strategic leadership. The curriculum emphasizes data-driven innovation, digital readiness, and analytical precision essential skills in today’s AI-powered business environment.",
+    "description": [
+      {
+        "firstDescription": "Students participate in live data projects, modelling assignments, and case-based decision-making guided by industry experts and experienced faculty. Teksversity ensures career readiness through hands-on analytics experience, mentorship, and industry-focused training sessions."
+      },
+      {
+        "secondDescription": "At Teksversity, your journey through data science mba programs is not just about learning tools it’s about building the ability to use data to drive transformation, innovation, and strategic business outcomes."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": ["Key Highlights of", "MBA in Data Science"],
+    "sections": [
+      { "name": "Learning Experience", "value": "LearningExperience" },
+      { "name": "Support & Assistance", "value": "SupportandAssistance" },
+      { "name": "Career Support", "value": "CareerSupport" },
+      {
+        "name": "Networking & Peer Learning",
+        "value": "NetworkingandPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "LearningExperience": {
+        "keyPoints": [
+          "Case studies on data-driven business decisions",
+          "Hands-on projects in data analysis, machine learning, and AI",
+          "Practical training on Python, SQL, R, and data science tools",
+          "Workshops on Power BI, Tableau, and data visualization",
+          "Exposure to real-world datasets and industry problems",
+          "Critical thinking and analytical problem-solving practice",
+          "Guest sessions with data scientists and analytics leaders",
+          "Cross-functional business and data-driven projects",
+          "Continuous assessments and skill evaluations"
+        ]
+      },
+      "SupportandAssistance": {
+        "keyPoints": [
+          "Academic and industry mentorship from data professionals",
+          "24/7 access to online learning platforms and data labs",
+          "Personalized learning and performance guidance",
+          "Recorded sessions and comprehensive data science study materials",
+          "Technical support for tools, software, and platforms",
+          "Capstone project guidance and structured review support",
+          "Internships and live data science project opportunities",
+          "Flexible learning options for working professionals",
+          "Regular progress tracking and feedback sessions"
+        ]
+      },
+      "CareerSupport": {
+        "keyPoints": [
+          "100% placement and internship assistance",
+          "Resume building for data science and analytics roles",
+          "Interview preparation for Data Analyst and Data Scientist roles",
+          "Career counseling and role mapping",
+          "Mock interviews and technical skill assessments",
+          "Industry tie-ups and analytics project collaborations",
+          "Webinars with industry experts and hiring managers",
+          "Business analytics and strategy-focused career sessions",
+          "Ongoing career mentoring and tracking"
+        ]
+      },
+      "NetworkingandPeerLearning": {
+        "keyPoints": [
+          "Webinars and expert talks by data science leaders",
+          "Peer collaboration on analytics and machine learning projects",
+          "Alumni interactions from analytics and technology domains",
+          "Group discussions on data-driven case studies",
+          "Virtual meetups and analytics networking events",
+          "Cross-domain collaboration with business teams",
+          "Student-led data science clubs and hackathons",
+          "Analytics community engagement and professional forums",
+          "Real-world data simulations and analytical challenges"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our", "Course Brochure"],
+    "description": "Step into the world of analytics and innovation with Teksversity’s MBA in Data Science program. Designed for leaders and professionals, this course focuses on data-driven strategy, decision-making, and digital transformation.",
+    "subHeading": "Inside the Brochure:",
+    "highlights": [
+      "Detailed MBA in Data Science curriculum and course structure",
+      "Career pathways and leadership opportunities",
+      "Admission process and eligibility details",
+      "Internship and placement assistance overview",
+      "Learning tools, mentorship, and progress tracking features"
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/brochure/DB4.webp",
+      "alt": "Download MBA in Data Science Program Brochure"
+    }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 8,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 9,
+    "heading": ["Take the Leap", "Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "null" },
+        "link": "null"
+      }
+    }
+  },
+
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },
+      {
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+  "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      },
+      "formBackground": {
+        "src": "/home/formbg.webp",
+        "alt": "Spin and Win Form Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 12,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is an MBA in Data Science?",
+        "answer": "An MBA in Data Science is a postgraduate program that blends business management skills with data analytics, artificial intelligence, machine learning, and big data technologies to prepare students for data-driven leadership roles."
+      },
+      {
+        "question": "What is the duration of an MBA in Data Science?",
+        "answer": "The MBA in Data Science is a 2-year postgraduate program divided into 4 semesters, combining management concepts, data technologies, hands-on projects, and real-world case studies."
+      },
+      {
+        "question": "Who should pursue an MBA in Data Science?",
+        "answer": "This program is ideal for graduates, working professionals, managers, analysts, and engineers who want to build careers in analytics, AI-driven business roles, or digital transformation leadership."
+      },
+      {
+        "question": "What subjects are covered in the MBA in Data Science syllabus?",
+        "answer": "The syllabus includes data analytics, machine learning, AI, Python/R programming, big data technologies, SQL, business intelligence, cloud computing, statistics, and AI-driven business strategy, with capstone projects and internships."
+      },
+      {
+        "question": "What career opportunities are available after an MBA in Data Science?",
+        "answer": "Career roles include Data Scientist, Data Analyst, Business Intelligence Manager, AI Consultant, Machine Learning Engineer, Analytics Manager, and Data Strategy Lead across industries like IT, finance, healthcare, e-commerce, and consulting."
+      },
+      {
+        "question": "What are the salary expectations after completing an MBA in Data Science?",
+        "answer": "Fresh graduates can expect ₹6–10 LPA. With experience and specialization, salaries can range from ₹15–30+ LPA depending on skills, company, and industry."
+      },
+      {
+        "question": "Which industries hire MBA in Data Science graduates?",
+        "answer": "Industries such as IT, finance, healthcare, e-commerce, consulting, retail, manufacturing, and technology startups actively hire graduates due to rising demand for analytics and AI skills."
+      },
+      {
+        "question": "How is an MBA in Data Science different from an MSc in Data Science?",
+        "answer": "An MBA in Data Science focuses on business strategy and leadership using data insights, preparing students for managerial roles, while an MSc in Data Science is more technical and research-driven."
+      },
+      {
+        "question": "Is an MBA in Data Science suitable for working professionals?",
+        "answer": "Yes, the program offers flexible formats such as part-time, weekend, online, and executive options, making it suitable for working professionals."
+      },
+      {
+        "question": "How does placement support work?",
+        "answer": "Placement support includes campus drives, mock interviews, resume building, mentorship, industry partnerships, and opportunities for internships and live projects."
+      }
+    ]
+  },
+  "letsTalk": {
+    "position": 14,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today—Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 14,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "MBA in data science",
+      "Online MBA in data science",
+      "Data science for MBA",
+      "MBA in data science for working professionals",
+      "Data science MBA programs",
+      "Online MBA data science",
+      "MBA data science online",
+      "MBA and data science",
+      "Data science MBA online",
+      "MBA in data science online"
+    ]
+  }
+}

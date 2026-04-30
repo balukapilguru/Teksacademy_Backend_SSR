@@ -1,0 +1,1036 @@
+﻿{
+  "meta": {
+    "title": "BCA in Artificial Intelligence | Online Degree Program",
+    "description": "Build your AI-driven career with the BCA in Artificial Intelligence program at Teksversity. Learn coding, data science, and machine learning from expert mentors.",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the BCA in Artificial Intelligence program offer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The BCA in AI program at Teksversity combines computer application fundamentals with the power of artificial intelligence. Over three years, you’ll gain in-demand skills in programming, machine learning, and intelligent systems empowering you to shape the future of technology."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why is Teksversity the best choice for BCA in Artificial Intelligence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At Teksversity, BCA in Artificial Intelligence isn’t just about learning it’s about transforming your career. You’ll master programming, machine learning, and automation while working on real-world AI projects that make you industry-ready from day one."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the eligibility criteria for BCA in Artificial Intelligence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "To enroll in the BCA in Artificial Intelligence program, candidates must have completed 10+2 from a recognized board, preferably with Mathematics or Computer Science. Teksversity guides students in selecting universities that align with their academic background and career goals."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What subjects are covered in the BCA in Artificial Intelligence program?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The curriculum includes core subjects like Python programming, machine learning, deep learning, neural networks, database management, and AI ethics. At Teksversity, students gain a balanced blend of theory and practical training to master modern AI technologies."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What career opportunities are available after completing BCA in Artificial Intelligence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Graduates can explore roles such as AI Developer, Data Analyst, Machine Learning Engineer, or Software Developer. With Teksversity’s expert guidance and placement assistance, students are well-prepared for top positions in the tech industry."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the average salary after completing the BCA in Artificial Intelligence course?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Graduates can earn between ₹4–10 LPA based on their skills and industry exposure. Teksversity’s skill-based, practical training ensures students become industry-ready and land top-paying jobs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which companies hire BCA in Artificial Intelligence graduates?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Top recruiters like TCS, Infosys, IBM, Google, Wipro, Accenture, and Microsoft actively hire AI professionals. Teksversity connects students with these companies through internship and placement support."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Teksversity provide placement support for AI students?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Teksversity provides complete placement support including resume building, interview preparation, and internship guidance to help students secure roles in leading organizations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I study BCA in Artificial Intelligence while working?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Absolutely! Teksversity helps you enroll in flexible online or distance-learning BCA in AI programs that allow you to manage work and studies effectively."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the benefits of studying BCA in Artificial Intelligence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pursuing BCA in AI through Teksversity gives you a competitive edge in programming, AI technologies, and problem-solving opening doors to careers in data analytics, robotics, and intelligent software systems."
+          }
+        }
+      ]
+    }
+  },
+
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+
+  "category": "specialization",
+
+  "formDetails": {
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "courseName": "Bachelor of Computer Applications in Artificial Intelligence",
+    "universities": [
+      {
+        "university": "jain-university",
+        "image": {
+          "src": "/home/universitylogos/jain.webp",
+          "alt": "jain",
+          "url": "/university/jain-university"
+        },
+        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "rating": 4.7,
+        "duration": "3 years",
+        "courseFee": { "range": "1,65,000", "note": "Total program fee" },
+        "brochure": "/Downloadbrouchers/JAIN/BCA-JAIN/artificial-Intelligence-brochure-jain-bca.pdf",
+        "button": [
+          {
+            "name": "Know More",
+            "link": "/university/jain-university",
+            "form": false
+          },
+          { "name": "Enroll Now", "link": "", "form": true }
+        ],
+        "productId": 364,
+        "sourceId": 155,
+        "universityName": "Jain University"
+      }
+    ]
+  },
+
+  "banner": {
+    "name": "",
+    "position": 1,
+    "mainHeading": "BCA in Artificial Intelligence – Build Intelligent Solutions for the Future",
+    "description": "Earn your BCA in Artificial Intelligence and master the technologies that power the digital revolution. Embrace the strong foundation in AI, machine learning, data analytics, and automation.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/ugbanerimages/bca/BCA_in_ARTIFICIAL_INTELIGENCE.webp",
+      "alt": "bca in artificial intelligence"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose This Program?"],
+      "benefits": [
+        "Industry-ready curriculum focused on AI and data-driven technologies",
+        "Learn from AI, data science, and software development experts",
+        "Real-time projects in machine learning and automation",
+        "Focus on coding, data analysis, and neural networks",
+        "Build critical problem-solving and innovation skills"
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["Overview of", "BCA in Artificial Intelligence Program"],
+    "overViewImage": {
+      "src": "/home/overview/overview2.webp",
+      "alt": "overview.webp"
+    },
+    "subHeading": "Shape the Future with Artificial Intelligence and Data Mastery",
+    "description": {
+      "type": "richText",
+      "content": [
+        {
+          "type": "text",
+          "value": "The BCA (Bachelor of Computer Applications) in "
+        },
+        {
+          "type": "link",
+          "value": "Artificial Intelligence",
+          "url": "/courses/mca/ai-ml"
+        },
+        {
+          "type": "text",
+          "value": " program at Teksversity is designed for students eager to specialize in emerging technologies that drive global innovation. This course blends computer science fundamentals with advanced AI concepts—covering programming, data structures, deep learning, and intelligent automation. Students gain practical exposure to tools like Python, TensorFlow, and cloud AI platforms to solve real-world challenges. Graduates can pursue careers as AI Engineers, Data Analysts, Automation Developers, or Machine Learning Specialists. The program also creates a strong pathway to advanced education such as MCA, MS in AI, or global tech certifications."
+        }
+      ]
+    },
+    "keyPoints": [
+      "Build a strong foundation in AI, ML, and data science",
+      "Learn to design and deploy intelligent software systems",
+      "Develop analytical, logical, and coding capabilities",
+      "Understand cloud, automation, and neural network applications",
+      "Prepare for global careers in AI and emerging technologies"
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": ["Why Choose BCA in Artificial Intelligence", "Teksversity?"],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "Choosing Teksversity for your BCA in Artificial Intelligence means joining a future-centric program that blends computer science fundamentals with advanced AI methodologies. The curriculum is curated by industry experts specializing in artificial intelligence, data science, and automation, ensuring students gain exposure to neural networks, deep learning, and predictive analytics. The program emphasizes algorithmic design, computational thinking, and AI ethics—core pillars for building intelligent systems in the modern digital era.",
+    "description": [
+      {
+        "firstDescription": "Teksversity’s AI program bridges research and real-world innovation by integrating machine learning frameworks, natural language processing, and computer vision applications. Learners gain hands-on experience with tools like TensorFlow, PyTorch, and Scikit-learn while developing scalable AI-driven solutions. Through data modeling, automation pipelines, and cloud-based AI deployment, students learn to design intelligent systems that enhance decision-making and business efficiency."
+      },
+      {
+        "secondDescription": "Beyond traditional academics, the program encourages innovation, experimentation, and collaboration through AI hackathons, applied research projects, and cross-disciplinary teamwork. Students engage in problem-solving that mirrors industry challenges, preparing them to excel in domains like robotics, intelligent automation, and data-driven product engineering. At Teksversity, the BCA in Artificial Intelligence is more than a degree—it’s a launchpad for shaping the next wave of intelligent technologies."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": ["Key Highlights of", "BCA in Artificial Intelligence Program"],
+    "sections": [
+      { "name": "Learning Experience", "value": "LearningExperience" },
+      { "name": "Support & Assistance", "value": "SupportandAssistance" },
+      { "name": "Career Support", "value": "CareerSupport" },
+      {
+        "name": "Networking & Peer Learning",
+        "value": "NetworkingandPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "LearningExperience": {
+        "keyPoints": [
+          "Live AI and ML model-building sessions",
+          "Real-world data projects and simulations",
+          "Deep learning and neural network workshops",
+          "Python and TensorFlow programming labs",
+          "AI-driven automation case studies",
+          "Interactive sessions with AI professionals"
+        ]
+      },
+      "SupportandAssistance": {
+        "keyPoints": [
+          "Dedicated AI mentors and academic guidance",
+          "24/7 access to learning resources and recorded classes",
+          "Personal feedback and skill tracking",
+          "Internship and project collaboration support",
+          "Flexible online and hybrid learning options",
+          "Technical and placement support teams"
+        ]
+      },
+      "CareerSupport": {
+        "keyPoints": [
+          "100% placement assistance with AI-focused companies",
+          "Resume, GitHub, and project portfolio guidance",
+          "Mock interviews and technical test prep",
+          "Industry networking and internship tie-ups",
+          "Career counseling and mentorship sessions",
+          "Continuous upskilling and AI certification support"
+        ]
+      },
+      "NetworkingandPeerLearning": {
+        "keyPoints": [
+          "AI developer hackathons and innovation challenges",
+          "Peer collaboration and group research projects",
+          "Expert masterclasses and alumni tech talks",
+          "Community-led coding challenges",
+          "AI knowledge-sharing forums and workshops"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our", "Course Brochure"],
+    "description": "Get complete insights into the BCA in Artificial Intelligence program at Teksversity your path to building intelligent, future-ready careers. Discover how our advanced AI curriculum blends coding, data science, and automation to prepare you for the next generation of tech innovation.",
+    "subHeading": "Inside the Brochure:",
+    "highlights": [
+      "Detailed BCA in AI syllabus and specialization tracks",
+      "Career pathways and skill outcomes",
+      "Admission and eligibility information",
+      "Internship and placement assistance details",
+      "Tools, learning resources, and mentorship features"
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/brochure/DB2.webp",
+      "alt": "DB2"
+    }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 8,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 9,
+    "heading": ["Take the Leap", "Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "flexible online learning"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "advanced lms"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "global certification"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "no cost emi"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affrordable fees"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ugc/naac recognized universities"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "expert faculty"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "online live and recorded sessions"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "industry-aligned curriculum"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "dual certifications"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ai enhanced learning"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "job focused training"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affordable and quality learning"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "placement and career support"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "view all" },
+        "link": "null"
+      }
+    }
+  },
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },
+      {
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+  "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      },
+      "formBackground": {
+        "src": "/home/formbg.webp",
+        "alt": "Spin and Win Form Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 12,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What does the BCA in Artificial Intelligence program offer?",
+        "answer": "The BCA in AI program at Teksversity combines computer application fundamentals with the power of artificial intelligence. Over three years, you’ll gain in-demand skills in programming, machine learning, and intelligent systems empowering you to shape the future of technology."
+      },
+      {
+        "question": "Why is Teksversity the best choice for BCA in Artificial Intelligence?",
+        "answer": "At Teksversity, BCA in Artificial Intelligence isn’t just about learning it’s about transforming your career. You’ll master programming, machine learning, and automation while working on real-world AI projects that make you industry-ready from day one."
+      },
+      {
+        "question": "What are the eligibility criteria for BCA in Artificial Intelligence?",
+        "answer": "To enroll in the BCA in Artificial Intelligence program, candidates must have completed 10+2 from a recognized board, preferably with Mathematics or Computer Science. Teksversity guides students in selecting universities that align with their academic background and career goals."
+      },
+      {
+        "question": "What subjects are covered in the BCA in Artificial Intelligence program?",
+        "answer": "The curriculum includes core subjects like Python programming, machine learning, deep learning, neural networks, database management, and AI ethics. At Teksversity, students gain a balanced blend of theory and practical training to master modern AI technologies."
+      },
+      {
+        "question": "What career opportunities are available after completing BCA in Artificial Intelligence?",
+        "answer": "Graduates can explore roles such as AI Developer, Data Analyst, Machine Learning Engineer, or Software Developer. With Teksversity’s expert guidance and placement assistance, students are well-prepared for top positions in the tech industry."
+      },
+      {
+        "question": "What is the average salary after completing the BCA in Artificial Intelligence course?",
+        "answer": "Graduates can earn between ₹4–10 LPA based on their skills and industry exposure. Teksversity’s skill-based, practical training ensures students become industry-ready and land top-paying jobs."
+      },
+      {
+        "question": "Which companies hire BCA in Artificial Intelligence graduates?",
+        "answer": "Top recruiters like TCS, Infosys, IBM, Google, Wipro, Accenture, and Microsoft actively hire AI professionals. Teksversity connects students with these companies through internship and placement support."
+      },
+      {
+        "question": "Does Teksversity provide placement support for AI students?",
+        "answer": "Yes, Teksversity provides complete placement support including resume building, interview preparation, and internship guidance to help students secure roles in leading organizations."
+      },
+      {
+        "question": "Can I study BCA in Artificial Intelligence while working?",
+        "answer": "Absolutely! Teksversity helps you enroll in flexible online or distance-learning BCA in AI programs that allow you to manage work and studies effectively."
+      },
+      {
+        "question": "What are the benefits of studying BCA in Artificial Intelligence?",
+        "answer": "Pursuing BCA in AI through Teksversity gives you a competitive edge in programming, AI technologies, and problem-solving opening doors to careers in data analytics, robotics, and intelligent software systems."
+      }
+    ]
+  },
+
+  "letsTalk": {
+    "position": 13,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 14,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "BCA in Artificial Intelligence",
+      "Bachelor's in Artificial Intelligence",
+      "Online BCA in Artificial Intelligence Program",
+      "BCA with artificial intelligence",
+      "BCA AI course",
+      "Online BCA in Artificial Intelligence",
+      "Online degree in Artificial Intelligence",
+      "Bachelor's degree in AI",
+      "Artificial Intelligence bachelor degree online",
+      "BCA with AI"
+    ]
+  }
+}

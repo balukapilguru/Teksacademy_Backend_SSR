@@ -1,0 +1,1518 @@
+﻿{
+  "meta": {
+    "title": "Data Science Online Course with Certification | Teksversity",
+    "description": "Build job-ready skills with Teksversity’s Data Science Online Course covering analytics, machine learning, AI, real-world projects, and certification.",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Course",
+          "name": "Data Science Certification Course",
+          "image": "https://teksversity.com/_next/image?url=https%3A%2F%2Fteksversity.s3.us-east-1.amazonaws.com%2Fwebsite%2Fassets%2Fcertificate%2FbannerImages%2Fcertification%2Fdatascience-certificate.webp&w=1920&q=75",
+          "description": "The Data Science Certification Course at Teksversity provides practical training in data analysis, statistics, and machine learning through hands-on projects and real-world problem solving.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Teksversity"
+          },
+          "url": "https://teksversity.com/courses/data-science-certification-program",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.7",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "124"
+          },
+          "offers": {
+            "@type": "AggregateOffer",
+            "url": "https://teksversity.com/courses/data-science-certification-program",
+            "priceCurrency": "INR",
+            "lowPrice": "50000",
+            "highPrice": "50000",
+            "offerCount": "1",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is the Data Science Certification Course about?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The course teaches data science fundamentals including data analysis, statistics, and machine learning with hands-on projects and real-world datasets."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What skills are covered in the Data Science course?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Students learn data analysis, statistical methods, machine learning basics, and data-driven problem solving techniques used in industry analytics workflows."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is this Data Science course suitable for beginners?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the program starts with foundational analytics and statistics concepts before progressing into applied machine learning and data science projects."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What career roles are available after Data Science certification?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Graduates can pursue roles such as Data Scientist, Machine Learning Associate, Data Analyst, AI Analyst, or Business Intelligence Analyst."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does the Data Science course include practical projects?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, learners work on real-world datasets, analytics tasks, and applied machine learning projects to build practical experience."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+  "category": "certifications",
+
+  "formDetails": {
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "courseName": "Data Science Certification Program",
+    "universities": [
+      {
+        "university": "TEKSVERITY INSTITUTE OF ADVANCED LEARNING",
+        "image": {
+          "src": "/home/Teksversity_navbar.webp",
+          "alt": "teksversity"
+        },
+        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "rating": 4.8,
+        "duration": "4-6 Months",
+        "courseFee": {
+          "range": "45,000 - 55,000",
+          "note": "Total program fee"
+        },
+        "brochure": "/Downloadbrouchers/IT-courses/DownloadBroucher/Teksversity-Data Science.pdf",
+        "button": [
+          {
+            "name": "Know More",
+            "link": "",
+            "form": false
+          },
+          { "name": "Enroll Now", "link": "", "form": true }
+        ],
+        "productId": 390,
+        "sourceId": 148,
+        "universityName": "Teksversity"
+      }
+    ]
+  },
+
+  "banner": {
+    "name": "Data Science Certification Program",
+    "position": 1,
+    "mainHeading": "Online Data Science Certification Course for Real-World Careers",
+    "description": "Empower your mind to see beyond numbers and create the future with data-driven brilliance.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/certificate/bannerImages/certification/datascience-certificate.webp",
+      "alt": "Data Science Certification Course with Analytics and AI"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why join the Data Science course?"],
+      "benefits": [
+        "Advanced GenAI-driven curriculum merging ML, DL & Data Engineering",
+        "Master Python, R, TensorFlow, PyTorch & Advanced Analytics Stacks",
+        "Real-world data pipelines with ETL, MLOps & cloud deployment",
+        "Build predictive models using NLP, Computer Vision & GenAI tools",
+        "Mentorship from leading data scientists & AI innovators",
+        "Hands-on projects replicating enterprise-level data challenges",
+        "Adaptive online learning with live AI labs & performance tracking",
+        "Global certification with guaranteed career acceleration pathways"
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["Overview of the", "Data Science Certification Program"],
+    "overViewImage": {
+      "src": "/certificate/overview.webp",
+      "alt": "Data Science Certification Course – Program Overview"
+    },
+    "subHeading": "Upskill online with data science training.",
+    "description": {
+      "type": "richText",
+      "content": [
+        {
+          "type": "text",
+          "value": "The Online Data Science Certification Program is designed to help learners build a strong foundation in "
+        },
+        {
+          "type": "link",
+          "value": "data analytics",
+          "url": "/courses/data-analytics-certification-program"
+        },
+        {
+          "type": "text",
+          "value": ", machine learning, and artificial intelligence. This course covers everything from data collection and visualization to model building and deployment. Through interactive online classes, real-time projects, and expert mentorship, students gain practical skills that are directly applicable in the industry. The flexible online format allows you to learn at your own pace while earning a globally recognized certification. "
+        }
+      ]
+    },
+    "keyPoints": [
+      "Master Big Data with Spark, Hadoop & AWS.",
+      "Build and deploy end-to-end ML models",
+      "Work on real-world domain projects"
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": [
+      "Why Choose the Data Science Certification Course at",
+      "Teksversity?"
+    ],
+    "subHeading": ["Celebrating", " Excellence"],
+    "title": ["13 Years of", " Legacy", "(Commitment, Growth, Success)"],
+    "legacyCards": [
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "4.72/5",
+        "label": "Overall Program Rating"
+      },
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "99/100",
+        "label": "Sessions Rated 4+/5"
+      },
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "4.8/5",
+        "label": "Average Session Rating"
+      }
+    ],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "Teksversity’s data science certificate online program redefines advanced learning through an AI-integrated approach that fuses Machine Learning, Deep Learning, and GenAI. Built for innovators, this curriculum transforms theory into impact with live data simulations, predictive analytics, and cloud-based AI projects. Learners experience a flexible yet rigorous online ecosystem enriched with real-time mentor interaction, adaptive AI labs, and outcome-driven modules designed for the next era of digital intelligence",
+    "description": [
+      {
+        "firstDescription": "The data science online course bridges academia and enterprise with hands-on exposure to MLOps, data visualization, and real-world deployment pipelines. Each learner engages in domain-based projects powered by automation, intelligent analytics, and cloud integration on platforms like AWS and Azure. With a focus on building problem-solving agility, Teksversity prepares students to engineer data solutions that mirror enterprise-level challenges bridging knowledge with innovation."
+      },
+      {
+        "secondDescription": "As an advanced certification in data science and AI, this program enables learners to master the future of analytics through ethical AI design, automation frameworks, and GenAI innovation. The data science and AI course empowers professionals with global credentials, placement guidance, and mentor-led career acceleration. Teksversity doesn’t just teach it transforms learners into AI powered strategists capable of designing intelligent systems that define tomorrow’s data-driven world."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": ["Key Highlights of ", "Data Science Certification Course"],
+    "sections": [
+      {
+        "name": "Industry-Driven Curriculum",
+        "value": "IndustryDrivenCurriculum"
+      },
+      {
+        "name": "Hands-On Learning Experience",
+        "value": "HandsOnLearningExperience"
+      },
+      { "name": "Expert-Led Mentorship", "value": "ExpertLedMentorship" },
+      {
+        "name": "Career Intelligence & Placement Support",
+        "value": "CareerIntelligenceAndPlacementSupport"
+      }
+    ],
+    "tabsData": {
+      "IndustryDrivenCurriculum": {
+        "keyPoints": [
+          "Advanced AI and GenAI-integrated data science framework",
+          "Master ML, DL, NLP, and Data Engineering",
+          "Learn MLOps, cloud deployment, & real-time analytics",
+          "Industry-aligned modules for future-ready expertise"
+        ]
+      },
+      "HandsOnLearningExperience": {
+        "keyPoints": [
+          "Work on live datasets & enterprise simulations",
+          "Build scalable ML models with TensorFlow & PyTorch",
+          "Explore Big Data, Spark, and AWS integration",
+          "Create a high-impact, industry-grade project portfolio"
+        ]
+      },
+      "ExpertLedMentorship": {
+        "keyPoints": [
+          "Learn from global AI & data science leaders",
+          "Get personalized feedback and performance insights",
+          "Participate in hackathons & innovation challenges",
+          "Gain real-world exposure through live case studies"
+        ]
+      },
+      "CareerIntelligenceAndPlacementSupport": {
+        "keyPoints": [
+          "AI-powered career mapping & placement guidance",
+          "Build professional portfolios with real-world projects",
+          "Global certification recognized by top employers",
+          "Unlock roles in AI, ML, and advanced analytics"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Your", "Free Brochure"],
+    "description": "Curious to know how this program is redefining the future of data intelligence? Download the Data Science Certification brochure to explore an advanced AI-integrated curriculum that fuses Machine Learning, Deep Learning, Big Data, and GenAI crafted for the next generation of data innovators.",
+    "highlights": [
+      "Advanced GenAI-powered analytics and automation.",
+      "Real-time projects with end-to-end ML deployment.",
+      "Hands-on training in Big Data, Cloud AI & MLOps.",
+      "Globally recognized certification with career pathways."
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/certificate/brochuree.webp",
+      "alt": "Download Data Science Certification Course Brochure"
+    }
+  },
+
+  "embraceTheEndlessOpportunities": {
+    "position": 7,
+    "heading": ["Embrace future opportunities in", "data science"],
+    "sections": [
+      {
+        "title": "Global Market Revenue",
+        "data": "The global data science market is projected to reach $322.9 billion by 2026, growing at a CAR of approximately 27.7% from $95.3 billion in 2021 (Sources: MarketsandMarkets, Analytics Insight).",
+        "icon": {
+          "src": "/certificate/opportunities/revenue.webp",
+          "alt": "revenue.webp"
+        }
+      },
+      {
+        "title": "Employment Growth",
+        "data": "The employment growth rate for data scientists is estimatedto be around 35% from 2022 to 2032, reflecting the increasing demand for these professionals.(Sources: MarketsandMarkets)",
+        "icon": {
+          "src": "/certificate/opportunities/growth.webp",
+          "alt": "growth.webp"
+        }
+      },
+      {
+        "title": "Average Salary in India",
+        "data": "The average salary for data scientist in India is around 16,00,000 per annum. (Analytics Insight)",
+        "icon": {
+          "src": "/certificate/opportunities/salary.webp",
+          "alt": "salary.webp"
+        }
+      },
+      {
+        "title": "Size of the Industry",
+        "data": "The Indian analytics industry is predicted to grow to about $119 billion by 2026.(sources: MarketsandMarkets)",
+        "icon": {
+          "src": "/certificate/opportunities/industry.webp",
+          "alt": "industry.webp"
+        }
+      }
+    ]
+  },
+
+  "advancedTools": {
+    "position": 8,
+    "heading": ["Explore 15+ ", " Core Technologies"],
+    "roles": [
+      {
+        "name": "python",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-data-science/tools/python.webp",
+          "alt": "python"
+        }
+      },
+      {
+        "name": "SQL",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-data-science/tools/sql.webp",
+          "alt": "sql"
+        }
+      },
+      {
+        "name": "Power BI",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-data-science/tools/powerbi.webp",
+          "alt": "powerbi"
+        }
+      },
+      {
+        "name": "R Studio",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-data-science/tools/rstudio.webp",
+          "alt": "rstudio"
+        }
+      },
+      {
+        "name": "pandas",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-data-science/tools/pandas.webp",
+          "alt": "pandas"
+        }
+      },
+      {
+        "name": "matplotlib",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-data-science/tools/matplotlib.webp",
+          "alt": "matplotlib"
+        }
+      },
+      {
+        "name": "MySQL",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-data-science/tools/mysql.webp",
+          "alt": "mysql"
+        }
+      },
+      {
+        "name": "seaborn",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-data-science/tools/seaborn.webp",
+          "alt": "seaborn"
+        }
+      },
+      {
+        "name": "jupyter",
+
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-data-science/tools/jupyter.webp",
+          "alt": "jupyter"
+        }
+      },
+      {
+        "name": "learn",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-data-science/tools/learn.webp",
+          "alt": "learn"
+        }
+      },
+      {
+        "name": "NumPy",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-data-science/tools/numpy.webp",
+          "alt": "numpy"
+        }
+      },
+      {
+        "name": "statsmodels",
+        "image": {
+          "src": "/certificate/post-graduation-certification-in-data-science/tools/statmodels.webp",
+          "alt": "statsmodels"
+        }
+      }
+    ]
+  },
+
+  "industryProjects": {
+    "position": 9,
+    "heading": ["Industry", "Projects"],
+    "projects": [
+      {
+        "title": "Weather Data Analysis",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-data-science/projects/weather.webp",
+          "alt": "weather"
+        }
+      },
+      {
+        "title": "Movie Recommendation System",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-data-science/projects/movie.webp",
+          "alt": "movie"
+        }
+      },
+      {
+        "title": "Loan Data Risk Analysis",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-data-science/projects/loandatarisk.webp",
+          "alt": "loandatarisk"
+        }
+      },
+      {
+        "title": "Credit Card Fraud Detection",
+
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-data-science/projects/creditcard.webp",
+          "alt": "creditcard"
+        }
+      },
+      {
+        "title": "Housing Price Prediction",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-data-science/projects/housingprice.webp",
+          "alt": "housingprice"
+        }
+      },
+      {
+        "title": "COVID-19 Data Analysis",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-data-science/projects/covid.webp",
+          "alt": "covid"
+        }
+      },
+      {
+        "title": "Real-Time Stock Price Prediction",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-data-science/projects/realtimestock.webp",
+          "alt": "realtimestock"
+        }
+      },
+      {
+        "title": "Recommendation System",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-data-science/projects/collabraatorfikter.webp",
+          "alt": "collabraatorfikter"
+        }
+      },
+      {
+        "title": "NLP Text Classification",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-data-science/projects/nlp.webp",
+          "alt": "nlp"
+        }
+      },
+      {
+        "title": "Retail Data Cleaning",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-data-science/projects/datacleaning.webp",
+          "alt": "datacleaning"
+        }
+      },
+      {
+        "title": "Customer Segmentation",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-data-science/projects/clustering.webp",
+          "alt": "clustering"
+        }
+      },
+      {
+        "title": "Image Classification Using CNN",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-data-science/projects/cnn.webp",
+          "alt": "cnn"
+        }
+      },
+      {
+        "title": "Sales Data Dashboard",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-data-science/projects/13-8.webp",
+          "alt": "dashboard"
+        }
+      },
+      {
+        "title": "Customer Feedback Sentiment Analysis",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-data-science/projects/17-8.webp",
+          "alt": "analysis"
+        }
+      },
+      {
+        "title": "Titanic Dataset EDA",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-data-science/projects/15-8.webp",
+          "alt": "eda"
+        }
+      },
+      {
+        "title": "Iris Flower Classification",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-data-science/projects/12-8.webp",
+          "alt": "Flower Classification"
+        }
+      },
+      {
+        "title": "Employee Attrition Prediction",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-data-science/projects/14-8.webp",
+          "alt": "Employee Attrition"
+        }
+      },
+      {
+        "title": "Heart Disease Prediction",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-data-science/projects/18-8.webp",
+          "alt": "Heart Disease"
+        }
+      },
+      {
+        "title": "Fraud Detection Using Ensemble Learning",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-data-science/projects/clustering.webp",
+          "alt": "Fraud Detection"
+        }
+      },
+      {
+        "title": "Time Series Plotting of Stock Prices",
+        "icon": {
+          "src": "/certificate/post-graduation-certification-in-data-science/projects/3-8.webp",
+          "alt": "Time Series Plotting of Stock Prices"
+        }
+      }
+    ]
+  },
+
+  "careerPath": {
+    "position": 10,
+    "heading": ["Data Science", " Career Paths"],
+    "description": "Explore roles, opportunities, and salary growth",
+    "jobCards": [
+      {
+        "role": "Data Scientist",
+        "icon": "brackets",
+        "jobMeter": "39,000 open positions",
+        "jobCount": 39000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "6-10 LPA" },
+            { "label": "2 Years", "value": "8-12 LPA" },
+            { "label": "4 Years", "value": "12-18 LPA" },
+            { "label": "6 Years", "value": "15-25 LPA" },
+            { "label": "8 Years", "value": "20-30 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Data Analyst",
+        "icon": "brackets_square",
+        "jobMeter": "35,000 open positions",
+        "jobCount": 35000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "4-8 LPA" },
+            { "label": "2 Years", "value": "6-10 LPA" },
+            { "label": "4 Years", "value": "8-12 LPA" },
+            { "label": "6 Years", "value": "10-15 LPA" },
+            { "label": "8 Years", "value": "12-18 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "ML Engineer",
+        "icon": "eye",
+        "jobMeter": "13,000 open positions",
+        "jobCount": 13000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "6-10 LPA" },
+            { "label": "2 Years", "value": "8-12 LPA" },
+            { "label": "4 Years", "value": "12-18 LPA" },
+            { "label": "6 Years", "value": "15-25 LPA" },
+            { "label": "8 Years", "value": "20-30 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Data Engineer",
+        "icon": "leaf",
+        "jobMeter": "26,000 open positions",
+        "jobCount": 26000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "6-10 LPA" },
+            { "label": "2 Years", "value": "8-12 LPA" },
+            { "label": "4 Years", "value": "12-18 LPA" },
+            { "label": "6 Years", "value": "15-25 LPA" },
+            { "label": "8 Years", "value": "20-30 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "BI Analyst",
+        "icon": "plus_circle",
+        "jobMeter": "17,000 open positions",
+        "jobCount": 17000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "4-8 LPA" },
+            { "label": "2 Years", "value": "6-10 LPA" },
+            { "label": "4 Years", "value": "8-12 LPA" },
+            { "label": "6 Years", "value": "10-15 LPA" },
+            { "label": "8 Years", "value": "12-18 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Data Architect",
+        "icon": "pen_tool",
+        "jobMeter": "11,000 open positions",
+        "jobCount": 11000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "10-15 LPA" },
+            { "label": "2 Years", "value": "12-18 LPA" },
+            { "label": "4 Years", "value": "18-25 LPA" },
+            { "label": "6 Years", "value": "25-35 LPA" },
+            { "label": "8 Years", "value": "30-45 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Statistician",
+        "icon": "box",
+        "jobMeter": "5,000 open positions",
+        "jobCount": 5000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "5-8 LPA" },
+            { "label": "2 Years", "value": "7-12 LPA" },
+            { "label": "4 Years", "value": "10-15 LPA" },
+            { "label": "6 Years", "value": "12-18 LPA" },
+            { "label": "8 Years", "value": "15-25 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Research Scientist",
+        "icon": "network",
+        "jobMeter": "9,000 open positions",
+        "jobCount": 9000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "6-10 LPA" },
+            { "label": "2 Years", "value": "8-12 LPA" },
+            { "label": "4 Years", "value": "12-18 LPA" },
+            { "label": "6 Years", "value": "15-25 LPA" },
+            { "label": "8 Years", "value": "20-30 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "AI Engineer",
+        "icon": "helmet",
+        "jobMeter": "8,000 open positions",
+        "jobCount": 8000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "6-10 LPA" },
+            { "label": "2 Years", "value": "6-10 LPA" },
+            { "label": "4 Years", "value": "6-10 LPA" },
+            { "label": "6 Years", "value": "15-25 LPA" },
+            { "label": "8 Years", "value": "20-30 LPA" }
+          ]
+        }
+      },
+      {
+        "role": "Quantitative Analyst",
+        "icon": "orange_box",
+        "jobMeter": "4,000 open positions",
+        "jobCount": 4000,
+        "onHover": {
+          "title": "Salary Package (LPA)",
+          "table": [
+            { "label": "Fresher", "value": "6-10 LPA" },
+            { "label": "2 Years", "value": "6-10 LPA" },
+            { "label": "4 Years", "value": "6-10 LPA" },
+            { "label": "6 Years", "value": "20-30 LPA" },
+            { "label": "8 Years", "value": "25-35 LPA" }
+          ]
+        }
+      }
+    ],
+    "button": {
+      "text": "Enroll Now",
+      "icon": { "src": "null", "alt": "null" },
+      "link": "null"
+    }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ],
+    "universityOfferings": [
+      {
+        "university": "TEKSVERITY INSTITUTE OF ADVANCED LEARNING",
+        "image": {
+          "src": "/certificate/Teksversity_In1.webp",
+          "alt": "Teksversity"
+        },
+        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "rating": 4.8,
+        "duration": "4-6 Months",
+        "courseFee": {
+          "range": "40,000 - 50,000",
+          "note": "Total program fee"
+        },
+        "button": {
+          "text": "Enroll Now",
+          "icon": { "src": "null", "alt": "null" },
+          "link": "null"
+        }
+      }
+    ]
+  },
+  "OnlineAdmissionProcedure": {
+    "position": 12,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 13,
+    "heading": ["Take the Leap", " Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "null" },
+        "link": "null"
+      }
+    }
+  },
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },
+      {
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+  "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      },
+      "formBackground": {
+        "src": "/home/formbg.webp",
+        "alt": "Spin and Win Form Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+  "questionSection": {
+    "position": 17,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is the Data Science Certification offered by Teksversity?",
+        "answer": "Teksversity’s Data Science Certification is a rigorous, career-oriented program that trains you in the latest data science methodologies, machine learning, and analytics tools empowering you to excel in high-growth, data-driven careers."
+      },
+      {
+        "question": "Who can enroll in the Data Science Certification program?",
+        "answer": "This certification is open to graduates, working professionals, and career changers from IT, mathematics, statistics, and business backgrounds. No prior coding experience is needed just a passion for building a data-driven career."
+      },
+      {
+        "question": "What tools and technologies will I learn in this Data Science Training?",
+        "answer": "You’ll gain hands-on experience with tools like Python, R, SQL, Tableau, Power BI, and advanced machine learning algorithms, along with big data frameworks such as Hadoop and Spark."
+      },
+      {
+        "question": "Is the Data Science Course available online?",
+        "answer": "Yes. Teksversity’s online course offers flexible learning from anywhere, featuring live interactive sessions and expert mentor support to help you advance your career."
+      },
+      {
+        "question": "How long is the Data Science Certification?",
+        "answer": "The certification typically lasts 4 to 6 months, depending on your batch and learning format, providing comprehensive knowledge with flexible learning options."
+      },
+      {
+        "question": "What career opportunities can I expect after completing the Data Science Training?",
+        "answer": "Graduates can pursue roles like Data Scientist, Data Analyst, Machine Learning Engineer, and Business Intelligence Analyst, all of which offer global demand and competitive salaries."
+      },
+      {
+        "question": "Does Teksversity offer placement assistance after the Data Science Course?",
+        "answer": "Yes. We offer career support including mock interviews, resume building, and placement opportunities through our network of top industry recruiters."
+      },
+      {
+        "question": "Will I get an industry-recognized certificate after the Data Science Course Online?",
+        "answer": "Yes. The Teksversity certification is globally recognized, enhancing your professional credibility and career prospects worldwide."
+      },
+      {
+        "question": "Will I work on real-world projects during the Professional Data Science Course?",
+        "answer": "Yes. You’ll work on real-time data projects, case studies, and a comprehensive capstone project to build your portfolio and job readiness."
+      },
+      {
+        "question": "Does Teksversity offer weekend or flexible learning options for the Data Science Course?",
+        "answer": "Yes. We provide weekend batches and self-paced modules to accommodate working professionals and students with busy schedules."
+      }
+    ]
+  },
+
+  "letsTalk": {
+    "position": 18,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today Teksversity is here to guide you"
+    }
+  },
+  "mostSearchedTerms": {
+    "position": 19,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "Data science certificate online",
+      "Data science online course",
+      "Data science and AI course",
+      "Advanced certification in data science and AI",
+      "Online data science course",
+      "Data science classes",
+      "Data scientist certification course",
+      "Online AI data science course",
+      "Data science project training online",
+      "Online certification courses for data science"
+    ]
+  }
+}

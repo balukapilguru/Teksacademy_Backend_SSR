@@ -1,0 +1,1029 @@
+﻿{
+  "meta": {
+    "title": "Online MCom in Financial Management with 100% Job Assistance",
+    "description": "Master financial planning, investment analysis, corporate finance & risk control with the MCom in Financial Management, designed for finance strategists and analysts.",
+    "schemaCode": {
+      "@context": "https://schema.org",
+          "@type": "course",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is an MBA in Finance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "An MBA in Finance is a specialized management program that trains you in financial planning, investment analysis, corporate finance, banking operations, and strategic financial decision-making. It prepares you for leadership roles in the finance and business sector."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What skills will I gain through an MBA in Finance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You will develop strong skills in financial analysis, budgeting, risk management, investment planning, portfolio management, forecasting, business valuation, and strategic financial decision-making."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a strong math background to pursue an MBA in Finance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Not necessarily. Basic number skills are sufficient as the program teaches financial concepts from the fundamentals. With consistent practice and guidance, students from any background can excel in finance."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What subjects are included in the MBA in Finance curriculum?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The curriculum typically covers Corporate Finance, Financial Management, Investment Banking, Financial Markets, Derivatives, Portfolio Management, Risk Management, Strategic Finance, Accounting, and International Finance."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What tools or software will I learn in the MBA in Finance program?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You will work with essential finance tools like Excel (advanced), financial modeling software, Bloomberg basics, statistical tools, portfolio management platforms, and forecasting tools used in top financial institutions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What career opportunities can I expect after completing an MBA in Finance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "MBA Finance graduates can work as Financial Analysts, Investment Bankers, Credit Analysts, Portfolio Managers, Risk Analysts, Corporate Finance Managers, Banking Officers, and Wealth Management Consultants."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which industries hire MBA in Finance professionals?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Industries such as banking, financial services, stock markets, insurance, fintech, consulting, real estate, corporate enterprises, and investment firms actively recruit finance professionals."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the salary outlook after an MBA in Finance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Finance is one of the highest-paying MBA specializations. With expertise in financial modeling, investment analysis, and corporate finance, professionals can quickly grow into well-paid managerial and leadership roles."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Teksversity provide practical exposure for MBA in Finance students?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Teksversity focuses on real-time learning through financial case studies, portfolio simulations, budgeting exercises, live projects, and industry-oriented financial tools to build strong practical knowledge."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can working professionals pursue an MBA in Finance at Teksversity?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Absolutely! Teksversity offers flexible learning options like weekend classes, online programs, and hybrid models, making it ideal for working professionals who want to upgrade their financial career without affecting their job."
+          }
+        }
+      ]
+    }
+  },
+
+  "formDetails": {
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "courseName": "Master of Commerce in Financial Management",
+    "universities": [
+      {
+        "university": "amity-university",
+        "image": {
+          "src": "/home/universitylogos/amity.webp",
+          "alt": "amity",
+          "url": "/university/amity-university"
+        },
+        "accreditations": ["ISO", "NAAC A++", "UGC", "AICTE"],
+        "rating": 4.5,
+        "duration": "24 months 4 sem",
+        "courseFee": { "range": "1,20,000", "note": "Total program fee" },
+        "brochure": "/Downloadbrouchers/AMITY/MCOM-AMITY/MCOM-Financial-Management.pdf",
+        "button": [
+          { "name": "Enroll Now", "link": "", "form": true }
+        ],
+        "productId": 283,
+        "sourceId": 151,
+        "universityName": "Amity University"
+      }
+    ]
+  },
+
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+  "category": "specialization",
+  "banner": {
+    "name": "BBA in Data Analytics – Transform Data into Business Decisions",
+    "position": 1,
+    "mainHeading": "MCom in Financial Management – Build Advanced Skills in Corporate Finance, Investment & Strategic Decision-Making",
+    "description": "Earn your MCom in Financial Management and gain mastery in investment analysis, corporate finance, financial strategy, valuation, budgeting, and risk assessment.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/pgbanerimages/mcom/mcom_financial_management.webp",
+      "alt": "MCom in Financial Management with Corporate Finance and Investment Expertise"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose This Program"],
+      "benefits": [
+        "Industry-aligned curriculum for modern finance careers",
+        "Learn from finance strategists, auditors & certified experts",
+        "Hands-on practice in valuation, modeling & corporate finance",
+        "Focus on risk, budgeting, governance & financial control",
+        "Build analysis, leadership & financial decision skills",
+        "Training on analytics, ERP tools & financial platforms",
+        "Blends commerce with advanced corporate finance",
+        "100% placement assistance & continuous career support"
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["Overview of", "MCom in Financial Management"],
+    "overViewImage": {
+      "src": "/home/overview/overview7.webp",
+      "alt": "MCom in Financial Management – Program Overview"
+    },
+    "subHeading": "Build a Strong Career in Corporate Finance, Investment Strategy & Financial Planning",
+    "description": "The MCom in Financial Management at Teksversity equips learners with advanced skills in investment planning, budgeting, capital markets, corporate governance, risk management, and financial performance analysis.This masters degree in financial management prepares professionals for strategic roles in finance, corporate planning, banking, investment firms, and consulting. Through real financial statements, modeling tasks, valuation exercises, and ERP-based learning, students gain practical expertise for global finance careers. Ideal for learners pursuing online master's in financial management or a masters in accounting and financial management with flexible learning.",
+    "keyPoints": [
+      "Learn core finance, budgeting & corporate strategy models",
+      "Master tools for analytics, reporting & financial planning",
+      "Build analytical, leadership & strategic finance skills",
+      "Apply valuation, compliance, governance & risk methods",
+      "Prepare for roles in analysis, consulting & financial strategy"
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": ["Why Choose MCom in Financial Management", "in Teksversity?"],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "Teksversity’s MCom in Financial Management integrates advanced finance strategies, risk control, valuation, capital markets, and corporate financial operations, providing a comprehensive foundation for modern financial excellence. The curriculum is delivered by seasoned financial managers, analysts, and industry experts who bring deep real-world insights into every learning module and discussion",
+    "description": [
+      {
+        "firstDescription": "Students engage in valuation tasks, modeling exercises, project-based budgeting, risk-case simulations, and corporate financial problem-solving, gaining practical exposure to essential financial techniques. The program includes extensive training with corporate tools, financial analytics platforms, and global financial methodologies to strengthen analytical precision and decision-making confidence for professional success"
+      },
+      {
+        "secondDescription": "Recognized as one of the best pathways for Financial Management MCom, it prepares students for leadership roles with mentorship, hands-on projects, and finance-focused career development resources. The program empowers learners with strategic capabilities, industry-ready financial skills, and a competitive edge needed to excel across global finance domains"
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": [
+      "Key Highlights of",
+      "MCom in Financial Management"
+    ],
+    "sections": [
+      { "name": "Learning Experience", "value": "LearningExperience" },
+      { "name": "Support & Assistance", "value": "SupportandAssistance" },
+      { "name": "Career Support", "value": "CareerSupport" },
+      {
+        "name": "Networking & Peer Learning",
+        "value": "NetworkingandPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "LearningExperience": {
+        "keyPoints": [
+          "Case studies in valuation, governance & control",
+          "Labs in budgeting, forecasting & analytics",
+          "Workshops on ERP tools, financial reports & models",
+          "Leadership training for financial teams",
+          "Critical-thinking & finance problem-solving tasks",
+          "Expert talks from financial strategists",
+          "Cross-functional finance collaboration",
+          "Peer discussions & financial analysis reviews",
+          "Continuous assessments & progress tracking"
+        ]
+      },
+      "SupportandAssistance": {
+        "keyPoints": [
+          "Dedicated academic & finance mentorship",
+          "24/7 access to the online learning platform",
+          "Regular counseling & skill-assessment sessions",
+          "Recorded classes & complete finance materials",
+          "Personalized academic & career support",
+          "Technical & learning assistance",
+          "Internships & practical finance projects",
+          "Flexible learning for working professionals",
+          "Ongoing progress tracking & guidance"
+        ]
+      },
+      "CareerSupport": {
+        "keyPoints": [
+          "100% placement & internship assistance",
+          "Resume building for finance & strategy roles",
+          "Interview prep for analyst, FM & consulting jobs",
+          "Personalized career mapping & planning",
+          "Mock interviews & communication training",
+          "Industry tie-ups & finance collaborations",
+          "Webinars with finance experts & leaders",
+          "Leadership & professional development",
+          "Continuous career tracking & mentorship"
+        ]
+      },
+      "NetworkingandPeerLearning": {
+        "keyPoints": [
+          "Industry-led sessions & finance expert talks",
+          "Peer collaboration on valuation & strategy cases",
+          "Alumni talks & success stories in finance",
+          "Group discussions & finance-based competitions",
+          "Global virtual meetups & networking",
+          "Cross-functional collaborative finance tasks",
+          "Student-led innovation & finance strategy challenges",
+          "Professional finance forums & communities",
+          "Real-world simulations in financial management"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our", "Course Brochure"],
+    "description": "Explore corporate finance, investment strategy, budgeting, valuation, and risk management with Teksversity’s MCom in Financial Management. This program builds deep financial expertise through practical tools and real-world case learning, helping you develop strong analytical and decision-making abilities. You’ll gain clarity in evaluating business performance, managing financial risks, and applying strategic financial insights.",
+    "subHeading": "Inside the Brochure:",
+    "highlights": [
+      "Detailed MCom in Financial Management curriculum",
+      "Finance career pathways & leadership opportunities",
+      "Admission & eligibility details",
+      "Internship & placement overview",
+      "Tools, mentorship & performance tracking"
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/certificate/brochuree.webp",
+      "alt": "Download MCom in Financial Management Program Brochure"
+    }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 8,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 9,
+    "heading": ["Take the Leap", "Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "flexible online learning"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "advanced lms"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "global certification"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "no cost emi"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affrordable fees"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ugc/naac recognized universities"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "expert faculty"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "online live and recorded sessions"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "industry-aligned curriculum"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "dual certifications"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ai enhanced learning"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "job focused training"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affordable and quality learning"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "placement and career support"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "view all" },
+        "link": "null"
+      }
+    }
+  },
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },{
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+  "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      },
+      "formBackground": {
+        "src": "/home/formbg.webp",
+        "alt": "Spin and Win Form Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 12,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is an MCom in Financial Management?",
+        "answer": "MCom in Financial Management is a postgraduate program that focuses on financial planning, investment management, capital markets, corporate finance, banking, taxation, and financial analysis. It prepares students to handle strategic financial decisions in organizations."
+      },
+      {
+        "question": "Who should pursue an MCom in Financial Management?",
+        "answer": "This program is ideal for students from BCom, BBA, BA Economics, or related commerce backgrounds who want to build expertise in finance, investment banking, financial analysis, and corporate financial strategy."
+      },
+      {
+        "question": "What skills will I gain from this program?",
+        "answer": "You will develop skills in financial modeling, investment analysis, portfolio management, corporate finance, taxation, budgeting, risk management, financial reporting, and fintech tools used in modern finance."
+      },
+      {
+        "question": "What subjects are taught in the MCom Financial Management course?",
+        "answer": "Key subjects include Financial Accounting, Corporate Finance, Investment Banking, Security Analysis, Portfolio Management, Financial Markets, Taxation, Cost Accounting, Risk Management, and Business Law."
+      },
+      {
+        "question": "What career opportunities are available after MCom in Financial Management?",
+        "answer": "Graduates can work as Financial Analysts, Investment Bankers, Portfolio Managers, Tax Consultants, Financial Planners, Corporate Finance Executives, Risk Analysts, Banking Officers, and Finance Managers in corporate and banking sectors."
+      },
+      {
+        "question": "Is this program useful for a career in finance?",
+        "answer": "Yes. MCom in Financial Management is highly valuable for careers in banking, corporate finance, investment analysis, financial consulting, insurance, and fintech, making it a strong foundation for high-growth financial roles."
+      },
+      {
+        "question": "What is the eligibility for this specialization?",
+        "answer": "Candidates should have completed a bachelor’s degree in commerce, management, or finance-related fields. Some universities may require entrance exams or a minimum percentage for admission."
+      },
+      {
+        "question": "Does the program include practical training?",
+        "answer": "Yes. Students work on financial modeling projects, case studies, taxation exercises, investment simulations, financial statement analysis, and internships in financial institutions or corporate finance departments."
+      },
+      {
+        "question": "What tools and software will I learn?",
+        "answer": "You will gain exposure to MS Excel (Advanced), Tally, SAP FICO, Power BI, QuickBooks, financial modeling tools, and investment analysis platforms used in finance and accounting."
+      },
+      {
+        "question": "What is the salary scope after completing MCom in Financial Management?",
+        "answer": "Fresh graduates typically earn ₹3–6 LPA, while experienced finance professionals can earn ₹8–20 LPA or higher, depending on skills, certifications (CA, CFA, CMA), and industry demand."
+      }
+    ]
+  },
+  "letsTalk": {
+    "position": 14,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today—Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 14,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "MCom in Financial Management",
+      "Online masters in financial management",
+      "Masters degree in financial management",
+      "Masters in accounting and financial management",
+      "Financial management MCom",
+      "Masters in financial management",
+      "M Com financial management",
+      "Online master's degree in finance",
+      "Best masters in finance programs",
+      "Master of commerce financial management"
+    ]
+  }
+}

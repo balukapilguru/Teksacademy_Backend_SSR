@@ -1,0 +1,24 @@
+{
+  "page": "support",
+
+  "meta": {
+    "title": "teksversity – support",
+    "description": "",
+    "schemaCode": {}
+  },
+
+  "banner": {
+    "heading": "Support",
+    "image": {
+      "src": "/discovery/SupportUsPageImag.webp",
+      "alt": "SupportUsPageImag"
+    },
+    "form": true
+  },
+  "bottomContact": {
+    "labelAddress": "Address:",
+    "valueAddress": "Secunderabad",
+    "labelPhone": "Phone:",
+    "valuePhone": "1800-120-4748"
+  }
+}

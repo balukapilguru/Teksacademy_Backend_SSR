@@ -1,0 +1,1052 @@
+﻿{
+  "meta": {
+    "title": "Join an Online Bachelor’s Degree in Political Science",
+    "description": "Build your foundation in governance, global affairs, and public policy with the BA in Political Science program. Learn from expert mentors and gain real-world insights",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "course",
+          "name": "BA in Political Science",
+          "image": "https://teksversity.com/_next/static/media/ba-political-science.png",
+          "description": "Explore the BA in Political Science program at Teksversity. Learn about governance, diplomacy, political systems, and policy analysis to build a career in public administration, international relations, or civil services.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Teksversity"
+          },
+          "url": "https://teksversity.com/courses/ba/political-science",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "135"
+          },
+          "offers": {
+            "@type": "AggregateOffer",
+            "url": "https://teksversity.com/courses/ba/political-science",
+            "priceCurrency": "INR",
+            "lowPrice": "50000",
+            "highPrice": "70000",
+            "offerCount": "1",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is a BA in Political Science course all about?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A Bachelor of Arts in Political Science is a 3-year undergraduate program that explores how governments, political systems, and global institutions function. It helps students analyze policies, elections, and diplomacy while developing leadership and analytical skills needed for careers in governance, law, and public service."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the eligibility criteria for BA Political Science in 2026?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Students who have completed 10+2 from a recognized board with at least 45–50% marks are eligible. Admission can be merit-based or through university entrance exams like DUET, BHU UET, or JNUEE depending on the institution."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What subjects are included in the BA Political Science syllabus 2026?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The syllabus covers Indian Constitution, Political Theory, Comparative Politics, International Relations, Public Administration, Global Governance, and Human Rights Studies. Modern curricula also emphasize Data Analytics for Public Policy, AI in Governance, and Geopolitical Studies, aligning with NEP 2020."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the future scope of BA Political Science in India?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The scope of BA Political Science in India is growing rapidly as the country invests in policy think tanks, global diplomacy, governance reforms, and political data analytics. Graduates are sought after in public administration, foreign affairs, NGOs, and research organizations."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the top career opportunities after BA in Political Science?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Graduates can become Policy Analysts, Political Strategists, Civil Servants, Diplomats, Journalists, or Public Relations Officers. They can also work in international organizations, embassies, research institutes, or pursue UPSC and law careers."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the higher education options after BA Political Science?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Students can pursue MA Political Science, MA in International Relations, MBA in Public Policy, or LLB. Those interested in academia can aim for MPhil or PhD programs and contribute to research or teaching."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the average salary for BA Political Science graduates in India?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The average salary ranges from ₹3–8 LPA depending on the role and sector. Graduates working in policy consulting, data analysis, journalism, or government advisory roles earn higher packages with experience and specialized training."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which skills should Political Science students develop for success?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Students should master research writing, public speaking, data interpretation, and policy analysis. Learning tools like MS Excel, Power BI, and data visualization adds a modern edge, while knowledge of international politics enhances global career prospects."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are online BA Political Science programs worth it in 2026?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Many UGC-approved universities like IGNOU, Delhi University (SOL), and Amity Online offer valid distance and online Political Science programs. These flexible programs are ideal for working students and are recognized for higher studies and jobs."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is BA Political Science a good career choice for 2026 and beyond?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! With the rising importance of public policy, governance, and diplomacy, a BA in Political Science offers a strong foundation for future leaders. Whether you aim to join the civil services, work with international organizations, or shape public policy, this degree opens diverse and rewarding paths."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+
+  "category": "specialization",
+
+  "formDetails": {
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "courseName": "Bachelor of Arts in Political Science",
+    "universities": [
+      {
+        "university": "amity-university",
+        "image": {
+          "src": "/home/universitylogos/amity.webp",
+          "alt": "amity",
+          "url": "/university/amity-university"
+        },
+        "accreditations": ["ISO", "NAAC A+", "UGC", "AICTE"],
+        "rating": 4.6,
+        "duration": "3 years",
+        "courseFee": { "range": "99,000", "note": "Total program fee" },
+        "brochure": "",
+        "button": [
+          { "name": "Enroll Now", "link": "", "form": true }
+        ],
+        "productId": 191,
+        "sourceId": 151,
+        "universityName": "Amity University"
+      }
+    ]
+  },
+
+  "banner": {
+    "name": "BA in Political Science",
+    "position": 1,
+    "mainHeading": "BA in Political Science – Understand Power, Policy, and the World Around You.",
+    "description": "The BA in Political Science program explores how governments function, policies shape societies, and international relations influence global peace and progress.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/ugbanerimages/ba/ba_in_politics.webp",
+      "alt": "ba in politics"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose This Program?"],
+      "benefits": [
+        "Learn political theory, public administration, and global politics.",
+        "Gain analytical and critical thinking skills.",
+        "Study governance, diplomacy, and constitutional systems.",
+        "Explore real-world political events through research projects.",
+        "Get 100% placement and career development support.",
+        "Participate in debates, model parliaments, and policy discussions.",
+        "Build leadership and public communication confidence.",
+        "Learn from expert mentors and political professionals.",
+        "Gain exposure to global political trends and institutions.",
+        "Prepare for careers in civil services, policy research, or international affairs."
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": [
+      "Overview of",
+      "BA in Political Science Program"
+    ],
+    "overViewImage": {
+      "src": "/home/overview/overview3.webp",
+      "alt": "overview.webp"
+    },
+    "subHeading": "Shape Your Future in Governance, Policy, and Global Affairs.",
+    "description": "The Online Bachelor’s Degree in Political Science at Teksversity offers a comprehensive understanding of political systems, ideologies, and global structures that shape today’s world. This BA Degree in Political Science blends theoretical knowledge with real-time case studies to prepare students for leadership roles in governance, NGOs, journalism, and administration. Students gain expertise in comparative politics, international relations, and public policy formulation, while also improving communication and debate skills. The program builds a strong base for careers in civil services, policy research, law, diplomacy, and for advanced studies in public administration and international relations.",
+    "keyPoints": [
+      "Understand the foundations of political theory and governance.",
+      "Analyze global politics, diplomacy, and policy structures.",
+      "Develop strong research and problem-solving skills.",
+      "Communicate ideas clearly and persuasively.",
+      "Build readiness for administrative and leadership roles."
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": ["Why Choose BA in Political Science in", "Teksversity?"],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "Choosing Teksversity for your Bachelor’s in Political Science means being part of a program that combines academic depth with real-world political learning. Designed by experts in political studies, the course emphasizes active participation, debates, simulations, and policy analysis to make learning truly engaging.",
+    "description": [
+      {
+        "firstDescription": "Students gain practical exposure through mock parliaments, public policy workshops, and mentorship from subject experts. The curriculum focuses on developing intellectual independence, communication excellence, and leadership confidence skills essential for public, private, or global governance careers."
+      },
+      {
+        "secondDescription": "With continuous academic guidance, career training, and placement support, Teksversity ensures every student graduates as an informed and responsible citizen capable of shaping change in society."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": ["Key Highlights of", "BA in Political Science Program"],
+    "sections": [
+      { "name": "Learning Experience", "value": "LearningExperience" },
+      { "name": "Support & Assistance", "value": "SupportandAssistance" },
+      { "name": "Career Support", "value": "CareerSupport" },
+      {
+        "name": "Networking & Peer Learning",
+        "value": "NetworkingandPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "LearningExperience": {
+        "keyPoints": [
+          "Political theory and comparative politics.",
+          "International relations and public administration.",
+          "Research methods and data interpretation.",
+          "Policy drafting and governance workshops.",
+          "Model parliament and debate simulations.",
+          "Expert-led classes on current affairs and diplomacy."
+        ]
+      },
+      "SupportandAssistance": {
+        "keyPoints": [
+          "Dedicated academic mentorship and feedback.",
+          "24/7 online learning access.",
+          "Recorded class sessions for flexible learning.",
+          "Regular academic evaluations.",
+          "Internship and research guidance.",
+          "Personalized learning support and academic tracking."
+        ]
+      },
+      "CareerSupport": {
+        "keyPoints": [
+          "100% placement and internship assistance.",
+          "Resume and profile enhancement support.",
+          "Mock interviews and communication training.",
+          "Public policy and NGO partnerships.",
+          "Career counseling and mentorship programs.",
+          "Pathway guidance for UPSC and government jobs."
+        ]
+      },
+      "NetworkingandPeerLearning": {
+        "keyPoints": [
+          "Discussion forums and political clubs.",
+          "Group projects and policy research initiatives.",
+          "Webinars by diplomats and political analysts.",
+          "Alumni mentorship and expert interactions.",
+          "Collaborative workshops and public forums.",
+          "Global affairs and governance meetups."
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our", "Course Brochure"],
+    "description": "Discover how Teksversity’s BA in Political Science program helps you build a strong foundation in governance, policy, and diplomacy. The brochure provides a detailed look at the curriculum, learning experience, and career outcomes that empower students to understand complex political systems and drive change in society.",
+    "subHeading": "What You’ll Get in the Brochure:",
+    "highlights": [
+      "Complete course structure and curriculum details.",
+      "Key skills and professional learning outcomes.",
+      "Admission and eligibility criteria.",
+      "Internship and placement opportunities.",
+      "Career pathways and mentorship highlights."
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/brochure/DB3.webp",
+      "alt": "DB3"
+    }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 8,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 9,
+    "heading": ["Take the Leap", "Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "flexible online learning"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "advanced lms"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "global certification"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "no cost emi"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affrordable fees"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ugc/naac recognized universities"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "expert faculty"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "online live and recorded sessions"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "industry-aligned curriculum"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "dual certifications"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ai enhanced learning"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "job focused training"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affordable and quality learning"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "placement and career support"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "view all" },
+        "link": "null"
+      }
+    }
+  },
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },{
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+  "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      },
+      "formBackground": {
+        "src": "/home/formbg.webp",
+        "alt": "Spin and Win Form Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 12,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is a BA in Political Science course all about?",
+        "answer": "A Bachelor of Arts in Political Science is a 3-year undergraduate program that explores how governments, political systems, and global institutions function. It helps students analyze policies, elections, and diplomacy while developing leadership and analytical skills needed for careers in governance, law, and public service."
+      },
+      {
+        "question": "What is the eligibility criteria for BA Political Science in 2026?",
+        "answer": "Students who have completed 10+2 from a recognized board with at least 45–50% marks are eligible. Admission can be merit-based or through university entrance exams like DUET, BHU UET, or JNUEE depending on the institution."
+      },
+      {
+        "question": "What subjects are included in the BA Political Science syllabus 2026?",
+        "answer": "The syllabus covers Indian Constitution, Political Theory, Comparative Politics, International Relations, Public Administration, Global Governance, and Human Rights Studies. Modern curricula also emphasize Data Analytics for Public Policy, AI in Governance, and Geopolitical Studies, aligning with NEP 2020."
+      },
+      {
+        "question": "What is the future scope of BA Political Science in India?",
+        "answer": "The scope of BA Political Science in India is growing rapidly as the country invests in policy think tanks, global diplomacy, governance reforms, and political data analytics. Graduates are sought after in public administration, foreign affairs, NGOs, and research organizations."
+      },
+      {
+        "question": "What are the top career opportunities after BA in Political Science?",
+        "answer": "Graduates can become Policy Analysts, Political Strategists, Civil Servants, Diplomats, Journalists, or Public Relations Officers. They can also work in international organizations, embassies, research institutes, or pursue UPSC and law careers."
+      },
+      {
+        "question": "What are the higher education options after BA Political Science?",
+        "answer": "Students can pursue MA Political Science, MA in International Relations, MBA in Public Policy, or LLB. Those interested in academia can aim for MPhil or PhD programs and contribute to research or teaching."
+      },
+      {
+        "question": "What is the average salary for BA Political Science graduates in India?",
+        "answer": "The average salary ranges from ₹3–8 LPA depending on the role and sector. Graduates working in policy consulting, data analysis, journalism, or government advisory roles earn higher packages with experience and specialized training."
+      },
+      {
+        "question": "Which skills should Political Science students develop for success?",
+        "answer": "Students should master research writing, public speaking, data interpretation, and policy analysis. Learning tools like MS Excel, Power BI, and data visualization adds a modern edge, while knowledge of international politics enhances global career prospects."
+      },
+      {
+        "question": "Are online BA Political Science programs worth it in 2026?",
+        "answer": "Yes. Many UGC-approved universities like IGNOU, Delhi University (SOL), and Amity Online offer valid distance and online Political Science programs. These flexible programs are ideal for working students and are recognized for higher studies and jobs."
+      },
+      {
+        "question": "Is BA Political Science a good career choice for 2026 and beyond?",
+        "answer": "Absolutely! With the rising importance of public policy, governance, and diplomacy, a BA in Political Science offers a strong foundation for future leaders. Whether you aim to join the civil services, work with international organizations, or shape public policy, this degree opens diverse and rewarding paths."
+      }
+    ]
+  },
+
+  "letsTalk": {
+    "position": 13,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 14,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "Bachelor of Arts in Political Science",
+      "BA in Political Science",
+      "Online Bachelor's Degree in Political Science",
+      "Bachelor's in Political Science",
+      "BA Political Science Degree",
+      "BA Degree in Political Science",
+      "Political Science Bachelor Degree",
+      "BA Political Science Online",
+      "Bachelor of Politics",
+      "Bachelor of Arts Politics"
+    ]
+  }
+}

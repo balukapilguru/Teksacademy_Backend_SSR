@@ -1,0 +1,1027 @@
+{
+  "meta": {
+    "title": "Online BCom Degree with 100% Placement Assistance",
+    "description": "Build a strong foundation in commerce with Teksversity’s BCom degree. Learn accounting, taxation, economics, and business law with expert mentors and placement support.",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the B.Com course and what does it teach?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The B.Com (Bachelor of Commerce) is a three-year undergraduate degree that provides a strong foundation in commerce, finance, and business management. It teaches accounting, taxation, economics, and business law, preparing students for careers in banking, auditing, and corporate finance."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the main subjects in a B.Com program?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The B.Com syllabus covers Financial Accounting, Cost Accounting, Business Economics, Auditing, Income Tax, and Corporate Law. These subjects build analytical and managerial skills essential for business operations and professional commerce roles."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the scope of a B.Com degree in India?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "B.Com graduates have excellent scope across industries like banking, taxation, accounting, and corporate finance. They can work in public and private organizations or pursue higher studies such as MBA, M.Com, CA, CMA, or ACCA for career advancement."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is B.Com a good course after 12th commerce?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, B.Com is one of the most popular and valuable degrees after 12th commerce. It builds a student’s understanding of financial systems, business management, and economics, offering long-term career stability and growth."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which is the best online platform to study B.Com in India?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Teksversity is one of the best online and blended-learning platforms for B.Com studies in India, offering practical learning, expert mentorship, digital accounting tools, and 100% placement support for career success."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why should I choose Teksversity for my B.Com degree?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Teksversity offers an industry-integrated B.Com curriculum that blends theoretical learning with practical exposure, including live projects, case studies, and career-oriented workshops designed to make students job-ready."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "From which university will I receive my B.Com degree at Teksversity?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The B.Com degree from Teksversity is awarded by a UGC-recognized university partner, ensuring that the qualification is valid for higher studies and employment both in India and abroad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Teksversity provide internships or practical training during the B.Com course?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, students gain hands-on experience through internships, live business case studies, and financial accounting projects that enhance real-world understanding and professional readiness."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What type of placement support does Teksversity provide for B.Com students?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Teksversity provides 100% placement assistance including resume building, LinkedIn optimization, interview preparation, and recruiter networking to help students secure roles in top commerce and finance companies."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Teksversity offer additional certifications along with the B.Com program?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, students receive training in Tally ERP, Excel for Accounting, GST, and Digital Finance tools, adding extra value to their B.Com degree and improving their employability in competitive job markets."
+          }
+        }
+      ]
+    }
+  },
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+
+  "category": "specialization",
+
+  "formDetails": {
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "courseName": "Bachelor of Commerce",
+    "universities": [
+       {
+        "university": "amity-university",
+        "image": {
+          "src": "/home/universitylogos/amity.webp",
+          "alt": "amity",
+          "url": "/university/amity-university"
+        },
+        "accreditations": ["ISO", "NAAC A+", "UGC", "AICTE"],
+        "rating": 4.7,
+        "duration": "3 years",
+        "courseFee": { "range": "99,000", "note": "Total program fee" },
+        "brochure":"/Downloadbrouchers/AMITY/BCOM-AMITY/BCOM-International-Finance-Accounting.pdf",
+        "button": [
+          { "name": "Enroll Now", "link": "", "form": true }
+        ],
+        "productId": 125,
+        "sourceId": 151,
+        "universityName": "Amity University"
+      }
+    ]
+  },
+
+  "banner": {
+    "name": "Global Accounting & Finance Degree | Placement Assistance",
+    "position": 1,
+    "mainHeading": "Bachelor of Commerce (BCom) – Strengthen Your Financial and Business Expertise",
+    "description": "Earn your Bachelor of Commerce (BCom) degree and gain a deep understanding of accounting, finance, taxation, and business operations.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/ugbanerimages/bcom/BCOM_in_International_Finance_Accounting.webp",
+      "alt": "bcom in international finance accounting"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose This Program?"],
+      "benefits": [
+        "Comprehensive and industry-relevant commerce curriculum",
+        "Learn accounting, taxation, auditing, and business management",
+        "Case studies and real-world business finance simulations",
+        "Focus on financial planning, economics, and business law",
+        "Develop analytical and critical thinking abilities",
+        "Hands-on exposure to accounting tools and financial modeling",
+        "Practical understanding of trade, e-commerce, and taxation",
+        "100% placement assistance and career development training"
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["Overview of", "Bachelor of Commerce (BCom)"],
+    "overViewImage": {
+      "src": "/home/overview/overview1.webp",
+      "alt": "overview.webp"
+    },
+    "subHeading": "Build a Career in Commerce and Financial Management",
+    "description": "Build a strong career in commerce and finance with the Bachelor of Commerce (BCom) program at Teksversity. This online BCom course equips students with core knowledge in accounting, taxation, economics, and business management. Through case studies and practical learning, learners gain the analytical and decision-making skills needed to excel in finance, banking, auditing, and entrepreneurship while preparing for advanced studies like MBA, CA, or CMA.",
+    "keyPoints": [
+      "Learn accounting & finance basics",
+      "Understand taxation & auditing",
+      "Gain analytical business insights",
+      "Develop decision-making skills",
+      "Prepare for higher commerce studies"
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": ["Why Choose Bachelor of Commerce (BCom) in", "Teksversity?"],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "Choosing Teksversity for your BCom course means joining a program designed to merge academic excellence with real-world financial expertise. Our curriculum bridges traditional commerce education with digital accounting tools, data analysis, and business applications.",
+    "description": [
+      {
+        "firstDescription": "Interactive sessions, assignments, and simulation projects ensure students apply what they learn in realistic business scenarios. Guided by expert faculty, learners gain confidence in using accounting software, interpreting reports, and presenting data insights effectively."
+      },
+      {
+        "secondDescription": "Beyond academics, Teksversity provides strong placement assistance, career mentorship, and skill-building sessions to prepare you for the financial job market. From resume development to interview preparation and corporate networking, we support you throughout your learning journey."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": [
+      "Key Highlights of",
+      "Bachelor of Commerce (BCom)"
+    ],
+    "sections": [
+      { "name": "Learning Experience", "value": "LearningExperience" },
+      { "name": "Support & Assistance", "value": "SupportandAssistance" },
+      { "name": "Career Support", "value": "CareerSupport" },
+      {
+        "name": "Networking & Peer Learning",
+        "value": "NetworkingandPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "LearningExperience": {
+        "keyPoints": [
+          "Accounting and taxation case studies",
+          "Real-time business simulations and financial analysis",
+          "Interactive economics and management workshops",
+          "Quantitative and problem-solving sessions",
+          "Business communication and report writing",
+          "Expert-led classes by finance professionals",
+          "Team-based assignments and peer learning",
+          "Continuous performance tracking and mentoring"
+        ]
+      },
+      "SupportandAssistance": {
+        "keyPoints": [
+          "Dedicated academic mentors",
+          "24/7 access to the learning portal",
+          "Counseling and performance tracking",
+          "Recorded classes for flexible learning",
+          "Personalized feedback sessions",
+          "Technical and academic support",
+          "Internship and project guidance",
+          "Multiple learning modes (online & hybrid)",
+          "Continuous progress monitoring"
+        ]
+      },
+      "CareerSupport": {
+        "keyPoints": [
+          "100% placement assistance and interview training",
+          "Resume & LinkedIn profile optimization",
+          "Mock interviews and communication sessions",
+          "Career counseling and financial domain guidance",
+          "Internship and corporate tie-ups with leading firms",
+          "Industry expert webinars and networking events",
+          "Professional portfolio preparation",
+          "Career growth tracking and mentorship"
+        ]
+      },
+      "NetworkingandPeerLearning": {
+        "keyPoints": [
+          "Financial debates and group discussions",
+          "Peer project collaborations and evaluations",
+          "Webinars with finance and commerce leaders",
+          "Alumni success sessions and case presentations",
+          "Virtual networking events and workshops",
+          "Student-led business and accounting forums",
+          "Cross-departmental collaboration projects"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our", "Course Brochure"],
+    "description": "Get complete insights into the BCom program at Teksversity your gateway to a rewarding career in commerce, finance, and accounting. Explore how our online BCom degree blends academic learning with practical skill-building.",
+    "subHeading": "What You’ll Get in the Brochure:",
+    "highlights": [
+      "Detailed BCom curriculum and subjects",
+      "Career pathways and skill outcomes",
+      "Admission process and eligibility",
+      "Internship and placement assistance",
+      "Learning tools, mentorship, and program highlights"
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/brochure/DB1.webp",
+      "alt": "DB1"
+    }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 8,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 9,
+    "heading": ["Take the Leap", "Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "flexible online learning"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "advanced lms"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "global certification"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "no cost emi"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affrordable fees"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ugc/naac recognized universities"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "expert faculty"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "online live and recorded sessions"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "industry-aligned curriculum"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "dual certifications"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ai enhanced learning"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "job focused training"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affordable and quality learning"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "placement and career support"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "view all" },
+        "link": "null"
+      }
+    }
+  },
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },{
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+  "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      },
+      "formBackground": {
+        "src": "/home/formbg.webp",
+        "alt": "Spin and Win Form Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 12,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is the B.Com course and what does it teach?",
+        "answer": "The B.Com (Bachelor of Commerce) is a three-year undergraduate degree that provides a strong foundation in commerce, finance, and business management. It teaches accounting, taxation, economics, and business law, preparing students for careers in banking, auditing, and corporate finance."
+      },
+      {
+        "question": "What are the main subjects in a B.Com program?",
+        "answer": "The B.Com syllabus covers Financial Accounting, Cost Accounting, Business Economics, Auditing, Income Tax, and Corporate Law. These subjects build analytical and managerial skills essential for business operations and professional commerce roles."
+      },
+      {
+        "question": "What is the scope of a B.Com degree in India?",
+        "answer": "B.Com graduates have excellent scope across industries like banking, taxation, accounting, and corporate finance. They can work in public and private organizations or pursue higher studies such as MBA, M.Com, CA, CMA, or ACCA for career advancement."
+      },
+      {
+        "question": "Is B.Com a good course after 12th commerce?",
+        "answer": "Yes, B.Com is one of the most popular and valuable degrees after 12th commerce. It builds a student’s understanding of financial systems, business management, and economics, offering long-term career stability and growth."
+      },
+      {
+        "question": "Which is the best online platform to study B.Com in India?",
+        "answer": "Teksversity is one of the best online and blended-learning platforms for B.Com studies in India, offering practical learning, expert mentorship, digital accounting tools, and 100% placement support for career success."
+      },
+      {
+        "question": "Why should I choose Teksversity for my B.Com degree?",
+        "answer": "Teksversity offers an industry-integrated B.Com curriculum that blends theoretical learning with practical exposure, including live projects, case studies, and career-oriented workshops designed to make students job-ready."
+      },
+      {
+        "question": "From which university will I receive my B.Com degree at Teksversity?",
+        "answer": "The B.Com degree from Teksversity is awarded by a UGC-recognized university partner, ensuring that the qualification is valid for higher studies and employment both in India and abroad."
+      },
+      {
+        "question": "Does Teksversity provide internships or practical training during the B.Com course?",
+        "answer": "Yes, students gain hands-on experience through internships, live business case studies, and financial accounting projects that enhance real-world understanding and professional readiness."
+      },
+      {
+        "question": "What type of placement support does Teksversity provide for B.Com students?",
+        "answer": "Teksversity provides 100% placement assistance including resume building, LinkedIn optimization, interview preparation, and recruiter networking to help students secure roles in top commerce and finance companies."
+      },
+      {
+        "question": "Does Teksversity offer additional certifications along with the B.Com program?",
+        "answer": "Yes, students receive training in Tally ERP, Excel for Accounting, GST, and Digital Finance tools, adding extra value to their B.Com degree and improving their employability in competitive job markets."
+      }
+    ]
+  },
+
+  "letsTalk": {
+    "position": 13,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 14,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "Bachelor of Commerce",
+      "Online B.Com degree",
+      "Online B.Com classes",
+      "B.Com degree",
+      "B.Com online",
+      "B.Com distance education",
+      "B.Com in correspondence",
+      "Bachelors in Commerce",
+      "Bachelors in Commerce degree",
+      "Bachelor degree in Commerce"
+    ]
+  }
+}

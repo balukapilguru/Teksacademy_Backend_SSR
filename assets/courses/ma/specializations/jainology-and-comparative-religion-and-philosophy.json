@@ -1,0 +1,1073 @@
+﻿{
+  "meta": {
+    "title": "Online MA in Jainology & Comparative Religion and Philosophy",
+    "description": "Explore Jain studies, comparative religion, philosophy, ethics, culture & spiritual traditions with the MA in Jainology and Comparative Religion and Philosophy",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "course",
+          "name": "BBA in Data Analytics",
+          "image": "https://teksversity.com/_next/static/media/bba-data-analytics.png",
+          "description": "Earn your BBA in Data Analytics and become a data-driven business professional. Learn Power BI, Python, SQL, and AI tools with 100% placement support at Teksversity.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Teksversity"
+          },
+          "url": "https://teksversity.com/courses/bba/data-analytics",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "165"
+          },
+          "offers": {
+            "@type": "AggregateOffer",
+            "url": "https://teksversity.com/courses/bba/data-analytics",
+            "priceCurrency": "INR",
+            "lowPrice": "70000",
+            "highPrice": "90000",
+            "offerCount": "1",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is the BBA in Data Analytics course about?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "BBA in Data Analytics is a three-year undergraduate degree that blends business management and data analysis. It focuses on using tools and techniques to turn raw data into actionable business insights."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What subjects are taught in a BBA Data Analytics program?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The course includes Business Analytics, Python, Power BI, Excel, SQL, Data Visualization, Predictive Modelling, and AI concepts for strategic business decisions."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the career options after completing BBA in Data Analytics?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Graduates can work as Data Analysts, BI Associates, Market Researchers, Business Strategists, or Data Visualization Experts in industries like IT, finance, and e-commerce."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Data Analytics a good career choice after BBA?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, it’s one of the fastest-growing careers in the world. Data analytics professionals are in high demand for roles that help businesses make smarter, evidence-based decisions."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What technical skills are needed for BBA Data Analytics students?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Students should learn Python, SQL, Excel, Power BI, and data storytelling, along with critical thinking, statistics, and visualization skills."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What makes Teksversity’s BBA in Data Analytics program unique?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Teksversity combines business strategy with real-time analytics projects, AI-based case studies, and mentorship from experienced data professionals to ensure job readiness."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "From which university will I get my BBA degree if I study at Teksversity?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Students earn their degree from a UGC-recognized university partner, ensuring national and international recognition for higher studies and employment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does Teksversity provide hands-on training and internships for Data Analytics students?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, students work on live data projects, simulations, and corporate internships using tools like Power BI, Tableau, and Excel Analytics."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What kind of placement support does Teksversity offer for BBA in Data Analytics?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Teksversity provides 100% placement assistance, including resume optimization, mock interviews, recruiter tie-ups, and career counseling for data-related roles."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does Teksversity provide certification training along with the BBA degree?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, students receive guidance for certifications in Power BI, Excel, and Google Analytics to improve their skills and employability."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "formDetails": {
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "courseName": "Master of Arts in Jainology and Comparative Religion and Philosophy",
+    "universities": [
+      {
+        "university": "jain-university",
+        "image": {
+          "src": "/home/universitylogos/jain.webp",
+          "alt": "jain",
+          "url": "/university/jain-university"
+        },
+        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "rating": 4.5,
+        "duration": "24 months 4 sem",
+        "courseFee": { "range": "20,500", "note": "Total program fee" },
+         "brochure": "",
+ 
+        "button": [
+          {
+            "name": "Know More",
+            "link": "/university/jain-university",
+            "form": false
+          },
+          { "name": "Enroll Now", "link": "", "form": true }
+        ],
+        "productId": 311,
+        "sourceId": 155,
+        "universityName": "Jain University"
+      }
+    ]
+  },
+
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+  "category": "specialization",
+  "banner": {
+    "name": "MA in Jainology and Comparative Religion and Philosophy",
+    "position": 1,
+    "mainHeading": "MA in Jainology and Comparative Religion and Philosophy – Build Expertise in Jain Studies, Religion, Philosophy & Cultural Thought",
+    "description": "Earn your MA in Jainology and Comparative Religion and Philosophy and gain deep insight into Jain scriptures, spiritual traditions, comparative world religions, philosophical frameworks, cultural heritage, and ethical systems.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/pgbanerimages/ma/Jainology_and_Comparative.webp",
+      "alt": "MA in Jainology and Comparative Religion and Philosophy with Cultural and Philosophical Insights"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose This Program?"],
+      "benefits": [
+        "Curriculum in Jain philosophy & comparative religion",
+        "Learn from scholars, philosophers & cultural experts",
+        "Practical exposure to Jain texts & ethical studies",
+        "Build strong analytical & philosophical reasoning",
+        "Hands-on training in research & comparative analysis",
+        "Blends classical Jain knowledge with modern views",
+        "Expert mentorship for academic growth",
+        "Designed for future-ready Jainology scholars"
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": [
+      "Overview of",
+      "MA in Jainology and Comparative Religion and Philosophy"
+    ],
+    "overViewImage": {
+      "src": "/home/overview/overview6.webp",
+      "alt": "MA in Jainology and Comparative Religion and Philosophy – Program Overview"
+    },
+    "subHeading": "Master Jain Thought, Comparative Spiritual Traditions & Philosophical Systems",
+    "description": "The MA in Jainology and Comparative Religion and Philosophy equips learners with advanced knowledge in Jain scriptures, world religions, philosophical schools of thought, ethics, spiritual practices, cultural heritage, and theological studies.This master of arts in philosophy online program prepares students for roles in education, cultural research, religious organizations, social service institutions, spiritual counseling, and academic writing.",
+    "keyPoints": [
+      "Master Jain philosophy, scriptures & spiritual teachings",
+      "Build advanced research, analysis & comparative interpretation skills",
+      "Apply religious and philosophical frameworks to real-world contexts",
+      "Strengthen cultural understanding & spiritual reasoning abilities",
+      "Prepare for academic, cultural, social & philosophical careers"
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": [
+      "Why Choose MA in Jainology and Comparative Religion, and Philosophy",
+      "in Teksversity?"
+    ],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "Teksversity’s MA in Jainology and Comparative Religion and Philosophy is designed to explore the depth of Jain thought while comparing global religious and philosophical traditions. Led by accomplished scholars, religious studies experts, and cultural researchers, the program integrates traditional knowledge with contemporary perspectives.",
+    "description": [
+      {
+        "firstDescription": "Students engage in scripture interpretation sessions, philosophical discussions, comparative religion workshops, cultural heritage research, and ethics-based learning. The program also offers hands-on training in textual analysis, research methodology, and cross-cultural spiritual studies."
+      },
+      {
+        "secondDescription": "Recognized as a leading pathway for online master's in comparative religion, the program empowers students with the academic and spiritual tools needed to excel in religious studies, cultural research, education, and ethical leadership."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": [
+      "Key Highlights of",
+      "MA in Jainology and Comparative Religion and Philosophy"
+    ],
+    "sections": [
+      { "name": "Learning Experience", "value": "LearningExperience" },
+      { "name": "Support & Assistance", "value": "SupportandAssistance" },
+      { "name": "Career Support", "value": "CareerSupport" },
+      {
+        "name": "Networking & Peer Learning",
+        "value": "NetworkingandPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "LearningExperience": {
+        "keyPoints": [
+          "Case studies in Jain philosophy, comparative religion & ethics",
+          "Research labs for scriptural interpretation & cultural analysis",
+          "Workshops on philosophical thought systems & spiritual traditions",
+          "Training in research methodology & comparative frameworks",
+          "Critical-thinking & analytical reasoning sessions",
+          "Live sessions with scholars, monks & cultural educators",
+          "Collaborative research & cross-cultural exploration",
+          "Peer learning & reflective discussions",
+          "Continuous assessments & academic progress insights"
+        ]
+      },
+      "SupportandAssistance": {
+        "keyPoints": [
+          "Dedicated academic & philosophical mentor support",
+          "24/7 access to digital learning materials",
+          "Expert counseling & academic performance tracking",
+          "Recorded lectures & complete study references",
+          "Personalized support for research, projects & assignments",
+          "Technical & platform assistance",
+          "Internships in cultural, religious & philosophical institutions",
+          "Flexible online learning system",
+          "Regular student performance reviews"
+        ]
+      },
+      "CareerSupport": {
+        "keyPoints": [
+          "Career guidance & internship assistance",
+          "Resume building for academic, cultural & spiritual roles",
+          "Interview preparation for research & education sectors",
+          "Personalized career mapping & skill-building",
+          "Mock interviews & communication refinement",
+          "Institutional collaborations in cultural & religious studies",
+          "Webinars with scholars & philosophical researchers",
+          "Leadership development for spiritual & academic careers",
+          "Ongoing career progress tracking"
+        ]
+      },
+      "NetworkingandPeerLearning": {
+        "keyPoints": [
+          "Guest lectures by philosophers, monks & religious scholars",
+          "Peer collaboration on comparative religion & philosophy projects",
+          "Alumni talks & career journey insights",
+          "Group debates, discussions & academic competitions",
+          "Global virtual religion & philosophy meetups",
+          "Cross-disciplinary comparative research projects",
+          "Student-led cultural & philosophical exploration challenges",
+          "Professional networking forums",
+          "Real-world cultural heritage & spiritual studies engagements"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our", "Course Brochure"],
+    "description": "Explore Jain studies, comparative religion, spirituality, ethics and philosophical systems with Teksversity’s MA in Jainology and Comparative Religion and Philosophy a comprehensive program for scholars of religion, culture & philosophy.",
+    "subHeading": "What You’ll Get in the Brochure:",
+    "highlights": [
+      "Detailed MA in Jainology and Comparative Religion and Philosophy curriculum",
+      "Religious studies & philosophy career pathways",
+      "Admission guidelines & eligibility",
+      "Internship & placement roadmap",
+      "Research tools, projects & mentorship support"
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/brochure/DB1.webp",
+      "alt": "Download MA in Jainology and Comparative Religion and Philosophy Program Brochure"
+    }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 8,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 9,
+    "heading": ["Take the Leap", "Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "null" },
+        "link": "null"
+      }
+    }
+  },
+
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },{
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+  "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      },
+      "formBackground": {
+        "src": "/home/formbg.webp",
+        "alt": "Spin and Win Form Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 12,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is MA in Jainology and Comparative Religion & Philosophy?",
+        "answer": "MA in Jainology and Comparative Religion & Philosophy is a postgraduate program that explores Jain philosophy, religious studies, comparative religion, ethics, and philosophical thought. The course develops a deep understanding of spiritual, cultural, and historical perspectives."
+      },
+      {
+        "question": "Who can pursue this MA program?",
+        "answer": "Students with a bachelor’s degree in Arts, Humanities, Philosophy, or related disciplines are eligible. Some universities may also consider graduates from other streams with an interest in religious studies and philosophy."
+      },
+      {
+        "question": "What is the duration of the program?",
+        "answer": "The MA program typically spans 2 years, divided into semesters, combining theoretical study, research projects, and practical learning through seminars and case studies."
+      },
+      {
+        "question": "What subjects are covered in this specialization?",
+        "answer": "Core subjects include Jain Philosophy, Comparative Religion, Ethics, Indian Philosophy, Spiritual Literature, Religious History, and Philosophical Research Methods."
+      },
+      {
+        "question": "What skills will I gain from this program?",
+        "answer": "Students develop analytical thinking, critical reasoning, research skills, ethical understanding, cultural awareness, and the ability to compare and interpret diverse religious and philosophical traditions."
+      },
+      {
+        "question": "What career opportunities are available after completing this MA?",
+        "answer": "Graduates can pursue careers as Academic Researchers, Religious Scholars, Philosophical Writers, Teachers/Lecturers, Cultural Analysts, Content Writers in spiritual studies, and consultants in NGOs or research organizations."
+      },
+      {
+        "question": "Is this program suitable for working professionals?",
+        "answer": "Yes. Some universities offer online or part-time options, allowing professionals and students to pursue the course flexibly while managing work or other commitments."
+      },
+      {
+        "question": "Can I pursue further studies after this MA?",
+        "answer": "Yes. Graduates can pursue PhD programs in Jainology, Comparative Religion, or Philosophy, or explore specialized certifications and research opportunities in religious studies and ethics."
+      },
+      {
+        "question": "What is the scope of MA in Jainology and Comparative Religion & Philosophy?",
+        "answer": "The program provides opportunities in academia, research, cultural organizations, writing, and policy-making related to ethics, philosophy, and spiritual studies. It also enhances understanding for careers in NGOs and international cultural organizations."
+      },
+      {
+        "question": "Can I pursue this MA program through online or distance learning?",
+        "answer": "Yes, we do provide flexible online and distance-learning options, allowing students to earn a recognized MA degree from anywhere."
+      }
+    ]
+  },
+  "letsTalk": {
+    "position": 14,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today—Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 14,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "MA in Jainology and Comparative Religion and Philosophy",
+      "Master of Arts in Jainology and Comparative Religion and Philosophy",
+      "Master of arts in philosophy online",
+      "Online masters in comparative religion",
+      "MA in jainology",
+      "Jainology course",
+      "MA jainology",
+      "Online masters in comparative religion",
+      "Masters in comparative religion",
+      "MA in comparative religion"
+    ]
+  }
+}

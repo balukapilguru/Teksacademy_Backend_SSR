@@ -1,0 +1,1082 @@
+﻿{
+  "meta": {
+    "title": "Join the B.Com in Accounting & Finance Program",
+    "description": "Build your career in finance with the BCom in Accounting and Finance degree at Teksversity. Learn accounting, taxation, auditing, and business analytics.",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "course",
+          "name": "B.Com (Accounting and Finance)",
+          "image": "https://teksversity.com/_next/static/media/bcom-commerce.png",
+          "description": "Explore the B.Com in Accounting and Finance program at Teksversity. Learn accounting, taxation, finance, auditing, and investment management with expert mentors and 100% placement support.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Teksversity"
+          },
+          "url": "https://teksversity.com/courses/bcom/accounting-finance",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "153"
+          },
+          "offers": {
+            "@type": "AggregateOffer",
+            "url": "https://teksversity.com/courses/bcom/accounting-finance",
+            "priceCurrency": "INR",
+            "lowPrice": "60000",
+            "highPrice": "80000",
+            "offerCount": "1",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is B.Com in Accounting and Finance?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "B.Com in Accounting and Finance is a three-year undergraduate program that focuses on financial accounting, business finance, taxation, auditing, and investment management. It prepares students for careers in banking, finance, corporate accounting, and financial analysis."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the key subjects in B.Com Accounting and Finance?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The course includes Financial Accounting, Cost Accounting, Corporate Finance, Business Law, Taxation, Auditing, and Portfolio Management. It also introduces financial modeling, data analytics, and modern accounting tools used in the finance industry."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the career scope of B.Com in Accounting and Finance?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Graduates can work as Financial Analysts, Accountants, Investment Advisors, Tax Consultants, Auditors, or Finance Executives. They can also pursue professional courses like CA, CMA, CFA, or MBA in Finance to advance their careers."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between B.Com General and B.Com Accounting and Finance?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A general B.Com covers all commerce areas, while B.Com in Accounting and Finance focuses specifically on financial management, taxation, auditing, and investment analysis, preparing students for specialized finance and accounting careers."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I pursue higher education after completing B.Com in Accounting and Finance?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, students can pursue MBA in Finance, M.Com, CFA, or global certifications like CPA and ACCA. These qualifications enhance expertise in accounting, corporate finance, and investment management."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Why should I choose Teksversity for B.Com in Accounting and Finance?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Teksversity’s B.Com in Accounting and Finance program blends academic theory with practical finance training, live projects, and expert mentorship, ensuring students become industry-ready for finance and accounting roles."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "From which university will I receive my B.Com Accounting and Finance degree?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The degree is awarded by a UGC-recognized university partner, making it valid for global employment and further studies such as CA, MBA, or CPA certifications."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does Teksversity offer practical finance training or internships in this course?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, Teksversity offers hands-on experience through real accounting projects, financial simulations, and internships with corporate and financial organizations."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What kind of placement support is available for B.Com Accounting and Finance students?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Teksversity provides 100% placement assistance, including interview preparation, resume building, recruiter tie-ups, and LinkedIn optimization for jobs in accounting, finance, and investment firms."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does Teksversity offer certifications along with the B.Com program?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, students receive guidance and training for Tally ERP, GST, MS Excel for Finance, and Financial Analytics certifications, which enhance employability and professional credibility."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+
+  "category": "specialization",
+
+  "formDetails": {
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "courseName": "Bachelor of Commerce in Accounting and Finance",
+    "universities": [
+      {
+        "university": "jain-university",
+        "image": {
+          "src": "/home/universitylogos/jain.webp",
+          "alt": "jain",
+          "url": "/university/jain-university"
+        },
+        "accreditations": ["ISO", "NAAC A++", "UGC", "AICTE"],
+        "rating": 4.8,
+        "duration": "3 years",
+        "courseFee": { "range": "1,27,000", "note": "Total program fee" },
+        "brochure": "/Downloadbrouchers/JAIN/BCOM-AMITY/BCOM-Accounting-Finance.pdf",
+        "button": [
+          {
+            "name": "Know More",
+            "link": "/university/jain-university",
+            "form": false
+          },
+          { "name": "Enroll Now", "link": "", "form": true }
+        ],
+        "productId": 174,
+        "sourceId": 155,
+        "universityName": "Jain University"
+      }
+    ]
+  },
+
+  "banner": {
+    "name": "Online BCom Degree with 100% Placement Assistance",
+    "position": 1,
+    "mainHeading": "BCom in Accounting and Finance – Build Financial Expertise for the Future",
+    "description": "Earn your BCom in Accounting and Finance and master the essential principles of commerce, business management, taxation, and financial reporting developing analytical and decision-making skills.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/ugbanerimages/bcom/BCOM_in_Corporate_Accounting_final.webp",
+      "alt": "bcom in corporate accounting"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose This Program?"],
+      "benefits": [
+        "Comprehensive and industry-aligned BCom Finance Degree curriculum.",
+        "Learn from experienced accounting and finance professionals.",
+        "Case studies and real-world business simulations.",
+        "Focus on taxation, auditing, banking, and investment management.",
+        "Develop analytical, accounting, and strategic decision-making skills.",
+        "Hands-on exposure to financial modeling and reporting.",
+        "Practical learning through business tools and accounting software.",
+        "100% placement assistance and corporate mentorship."
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["Overview of ", "BCom in Accounting and Finance Program"],
+    "overViewImage": {
+      "src": "/home/overview/overview1.webp",
+      "alt": "overview.webp"
+    },
+    "subHeading": "Build a Career in Commerce, Accounting, and Financial Management",
+    "description": {
+      "type": "richText",
+      "content": [
+        {
+          "type": "text",
+          "value": "Build a successful career in commerce, accounting, and finance with the BCom in "
+        },
+        {
+          "type": "link",
+          "value": "Accounting and Finance program",
+          "url": "/courses/mcom/accounting-and-finance"
+        },
+        {
+          "type": "text",
+          "value": " at Teksversity. This online BCom degree equips learners with a deep understanding of financial systems, auditing, taxation, and business analytics. With practical exposure and expert mentorship, students gain analytical, ethical, and technical skills to pursue careers in finance, banking, auditing, or entrepreneurship and prepare for professional courses like CA, CMA, or CPA."
+        }
+      ]
+    },
+    "keyPoints": [
+      "Learn accounting and auditing concepts.",
+      "Understand finance and taxation laws.",
+      "Gain exposure to business analytics.",
+      "Develop decision-making skills.",
+      "Prepare for CA, CMA, and finance roles."
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": ["Why Choose BCom in Accounting and Finance", "Teksversity?"],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "Choosing Teksversity for your BCom in Finance and Accounting means joining a program built to combine academic excellence with practical financial learning. Each subject is designed to prepare students for real-world business and accounting challenges through live case studies, simulations, and software-based projects led by expert faculty.",
+    "description": [
+      {
+        "firstDescription": "Our applied learning approach ensures students not only master theoretical frameworks but also apply them using real accounting tools, financial modeling, and business analytics software. Interactive projects, workshops, and presentations help build confidence, attention to detail, and professionalism key traits for success in the financial world."
+      },
+      {
+        "secondDescription": "Beyond academics, Teksversity offers robust placement assistance, personalized mentorship, and industry networking opportunities. From resume building to mock interviews and career counseling, we ensure every learner is ready for top-tier financial careers.\nAt Teksversity, your BCom Financial Accounting degree becomes a gateway to long-term success in the evolving global financial sector."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": ["Key Highlights of", "BCom in Accounting and Finance"],
+    "sections": [
+      { "name": "Learning Experience", "value": "LearningExperience" },
+      { "name": "Support & Assistance", "value": "SupportandAssistance" },
+      { "name": "Career Support", "value": "CareerSupport" },
+      {
+        "name": "Networking & Peer Learning",
+        "value": "NetworkingandPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "LearningExperience": {
+        "keyPoints": [
+          "Business case studies and simulations",
+          "Financial report preparation and auditing practice",
+          "Interactive accounting workshops",
+          "Leadership and communication training",
+          "Analytical and decision-making sessions",
+          "Industry expert-led classes",
+          "Team-based business analysis projects",
+          "Peer discussions and presentations",
+          "Regular performance evaluations"
+        ]
+      },
+      "SupportandAssistance": {
+        "keyPoints": [
+          "Dedicated academic mentorship",
+          "24/7 learning platform access",
+          "Counseling and progress tracking",
+          "Recorded class access for revision",
+          "Personalized feedback sessions",
+          "Technical and academic support desk",
+          "Internship and placement coordination",
+          "Flexible learning modes (online & offline)",
+          "Continuous learning improvement"
+        ]
+      },
+      "CareerSupport": {
+        "keyPoints": [
+          "100% placement assistance",
+          "Resume & LinkedIn optimization",
+          "Mock interviews and aptitude practice",
+          "Career counseling and professional guidance",
+          "Internship and corporate tie-ups",
+          "Industry networking and hiring events",
+          "Professional skill development sessions",
+          "Career portfolio and project guidance",
+          "Placement progress monitoring"
+        ]
+      },
+      "NetworkingandPeerLearning": {
+        "keyPoints": [
+          "Group discussions and finance debates",
+          "Peer project assessments",
+          "Collaborative research presentations",
+          "Expert webinars and live Q&A sessions",
+          "Alumni mentorship and success stories",
+          "Financial community networking forums",
+          "Student-led business clubs and events",
+          "Virtual meetups and collaborative workshops",
+          "Real-time project collaborations"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our", "Course Brochure"],
+    "description": "Get complete insights into the BCom in Accounting and Finance program at Teksversity your first step toward becoming a future-ready finance professional. Explore how our curriculum blends academic rigor with practical learning to help you succeed in the modern financial world.\nWith real-time case studies, expert-led mentorship, and 100% placement assistance, the program ensures every learner gains the confidence and competence to excel in accounting, auditing, taxation, and financial management.",
+    "subHeading": "What You’ll Get in the Brochure:",
+    "highlights": [
+      "Detailed BCom curriculum and subjects.",
+      "Career pathways in finance and accounting.",
+      "Admission process and eligibility criteria.",
+      "Internship and placement support.",
+      "Learning tools and mentorship details."
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/brochure/DB1.webp",
+      "alt": "DB1"
+    }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 8,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 9,
+    "heading": ["Take the Leap", "Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "flexible online learning"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "advanced lms"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "global certification"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "no cost emi"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affrordable fees"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ugc/naac recognized universities"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "expert faculty"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "online live and recorded sessions"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "industry-aligned curriculum"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "dual certifications"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ai enhanced learning"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "job focused training"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affordable and quality learning"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "placement and career support"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "view all" },
+        "link": "null"
+      }
+    }
+  },
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },
+      {
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+  "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      },
+      "formBackground": {
+        "src": "/home/formbg.webp",
+        "alt": "Spin and Win Form Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 12,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is B.Com in Accounting and Finance?",
+        "answer": "B.Com in Accounting and Finance is a three-year undergraduate program that focuses on financial accounting, business finance, taxation, auditing, and investment management. It prepares students for careers in banking, finance, corporate accounting, and financial analysis."
+      },
+      {
+        "question": "What are the key subjects in B.Com Accounting and Finance?",
+        "answer": "The course includes Financial Accounting, Cost Accounting, Corporate Finance, Business Law, Taxation, Auditing, and Portfolio Management. It also introduces financial modeling, data analytics, and modern accounting tools used in the finance industry."
+      },
+      {
+        "question": "What is the career scope of B.Com in Accounting and Finance?",
+        "answer": "Graduates can work as Financial Analysts, Accountants, Investment Advisors, Tax Consultants, Auditors, or Finance Executives. They can also pursue professional courses like CA, CMA, CFA, or MBA in Finance to advance their careers."
+      },
+      {
+        "question": "What is the difference between B.Com General and B.Com Accounting and Finance?",
+        "answer": "A general B.Com covers all commerce areas, while B.Com in Accounting and Finance focuses specifically on financial management, taxation, auditing, and investment analysis, preparing students for specialized finance and accounting careers."
+      },
+      {
+        "question": "Can I pursue higher education after completing B.Com in Accounting and Finance?",
+        "answer": "Yes, students can pursue MBA in Finance, M.Com, CFA, or global certifications like CPA and ACCA. These qualifications enhance expertise in accounting, corporate finance, and investment management."
+      },
+      {
+        "question": "Why should I choose Teksversity for B.Com in Accounting and Finance?",
+        "answer": "Teksversity’s B.Com in Accounting and Finance program blends academic theory with practical finance training, live projects, and expert mentorship, ensuring students become industry-ready for finance and accounting roles."
+      },
+      {
+        "question": "From which university will I receive my B.Com Accounting and Finance degree?",
+        "answer": "The degree is awarded by a UGC-recognized university partner, making it valid for global employment and further studies such as CA, MBA, or CPA certifications."
+      },
+      {
+        "question": "Does Teksversity offer practical finance training or internships in this course?",
+        "answer": "Yes, Teksversity offers hands-on experience through real accounting projects, financial simulations, and internships with corporate and financial organizations."
+      },
+      {
+        "question": "What kind of placement support is available for B.Com Accounting and Finance students?",
+        "answer": "Teksversity provides 100% placement assistance, including interview preparation, resume building, recruiter tie-ups, and LinkedIn optimization for jobs in accounting, finance, and investment firms."
+      },
+      {
+        "question": "Does Teksversity offer certifications along with the B.Com program?",
+        "answer": "Yes, students receive guidance and training for Tally ERP, GST, MS Excel for Finance, and Financial Analytics certifications, which enhance employability and professional credibility."
+      }
+    ]
+  },
+
+  "letsTalk": {
+    "position": 13,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 14,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "BCOM in Accounting and Finance",
+      "Bcom finance degree",
+      "B com in finance and accounting",
+      "Bcom accounting finance",
+      "Bcom financial accounting",
+      "Bachelor of commerce finance",
+      "Bachelor of commerce accounting and finance",
+      "Bcom in banking and finance",
+      "Bachelor of commerce in banking and finance",
+      "Bachelor of commerce in accounting and finance"
+    ]
+  }
+}

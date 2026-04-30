@@ -1,0 +1,1044 @@
+﻿{
+  "meta": {
+    "title": "Join the best online BCA in Data Science & Analytics Program",
+    "description": "Build your tech career with the BCA in Data Science & Analytics program at Teksversity. Learn programming, AI, and big data analytics through online BCA classes.",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the scope of BCA in Data Science and Analytics?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The BCA in Data Science and Analytics program offers excellent career opportunities in IT, finance, healthcare, and e-commerce. Graduates can work as Data Analysts, AI Engineers, Machine Learning Specialists, and Business Intelligence Developers in India and abroad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the top job roles after BCA in Data Science and Analytics?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "After completing BCA in Data Science, students can work as Data Scientists, Data Engineers, Business Analysts, Machine Learning Engineers, Data Visualization Experts, and Python Developers in both private and government sectors."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the average starting salary after BCA in Data Science and Analytics?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The average starting salary for BCA Data Science graduates in India ranges between ₹4 LPA to ₹8 LPA, depending on the candidate’s skills, certifications, and company profile. Global placements offer even higher packages."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is BCA in Data Science a good career choice in 2025 and beyond?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Data Science is one of the fastest-growing tech fields globally. By 2025, demand for AI, machine learning, and analytics professionals is expected to grow by 30–40%, making this one of the best career-oriented programs after 12th."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can BCA Data Science graduates work abroad?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, BCA Data Science graduates can work abroad, especially if they earn international certifications like Python, Power BI, AWS, or Azure Data Analytics. Many multinational companies hire Indian graduates for data-driven roles globally."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Teksversity provide placement support for BCA Data Science students?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Teksversity offers 100% placement assistance through recruiter tie-ups, career workshops, resume building, mock interviews, and LinkedIn optimization to help students secure top positions in IT and analytics companies."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Teksversity provide demo classes for BCA in Data Science?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, students can attend free demo sessions to understand the learning experience, syllabus coverage, and faculty teaching style before enrolling in the BCA Data Science and Analytics program."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Teksversity offer internships or live projects during the course?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, students get hands-on exposure through industry projects, data visualization assignments, and internships that help them build practical skills in Python, Power BI, and data modeling."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Teksversity provide certification support with the BCA Data Science course?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Teksversity provides training and certification support for Python, Machine Learning, Power BI, and Data Analytics tools, which strengthen student profiles for job placements."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why should I choose Teksversity for BCA in Data Science and Analytics?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Teksversity offers an industry-aligned curriculum, expert mentors, flexible learning options, live projects, global certification guidance, and dedicated placement support, making it one of the best platforms for tech-focused careers."
+          }
+        }
+      ]
+    }
+  },
+  "name": "Data Science & Analytics",
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+
+  "category": "specialization",
+
+  "formDetails": {
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "courseName": "Bachelor of Computer Applications in Data Science & Analytics",
+    "universities": [
+      {
+        "university": "jain-university",
+        "image": {
+          "src": "/home/universitylogos/jain.webp",
+          "alt": "jain",
+          "url": "/university/jain-university"
+        },
+        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "rating": 4.7,
+        "duration": "3 years",
+        "courseFee": { "range": "1,65,000", "note": "Total program fee" },
+        "brochure": "/Downloadbrouchers/JAIN/BCA-JAIN/data-science-and-analytics-brochure-jain-bca.pdf",
+        "button": [
+          {
+            "name": "Know More",
+            "link": "/university/jain-university",
+            "form": false
+          },
+          { "name": "Enroll Now", "link": "", "form": true }
+        ],
+        "productId": 197,
+        "sourceId": 155,
+        "universityName": "Jain University"
+      }
+    ]
+  },
+
+  "banner": {
+    "name": "BCA in Data Science and analytics",
+    "position": 1,
+    "mainHeading": "BCA in Data Science & Analytics – Where Technology Meets Intelligence",
+    "description": "Earn your BCA in Data Science & Analytics and develop data visualization, machine learning, and programming expertise.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/ugbanerimages/bca/BCA_in_DATA_SCIENCE_ANALYTICS.webp",
+      "alt": "data science and analytics"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose This Program"],
+      "benefits": [
+        "Comprehensive and industry-aligned BCA Data Science curriculum",
+        "Learn from experienced data and technology mentors",
+        "Focus on Python, AI, Machine Learning, and Big Data",
+        "Real-world datasets and analytics case studies",
+        "Build hands-on coding and analytical thinking skills",
+        "Live data science projects and model-building sessions",
+        "Exposure to tools like Power BI, TensorFlow, and SQL",
+        "100% placement assistance and career readiness training"
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["Overview of the", "BCA in Data Science & Analytics Program"],
+    "overViewImage": {
+      "src": "/home/overview/overview2.webp",
+      "alt": "overview.webp"
+    },
+    "subHeading": "Build a Future in Data and Digital Intelligence",
+    "description": "The BCA in Data Science & Analytics program at Teksversity is designed to create data-driven professionals who can turn raw information into actionable insights. This undergraduate course combines computer applications with advanced analytics, providing learners with strong foundations in programming, statistics, machine learning, and data visualization. Students learn to solve real business problems using AI and predictive analytics through a balance of theory and hands-on practice. With interactive online BCA classes, coding labs, and live industry projects, learners gain the technical and analytical expertise needed to excel in IT, finance, marketing, and research sectors.",
+    "keyPoints": [
+      "Understand core concepts of programming, statistics, and analytics.",
+      "Learn to design and develop data-driven applications",
+      "Gain hands-on expertise with Python, R, SQL, and visualization tools"
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": ["Why Choose BCA in Data Science & Analytics", "Teksversity?"],
+    "subHeading": ["Celebrating", " Excellence"],
+    "title": ["13 Years of", " Legacy", "(Commitment, Growth, Success)"],
+    "legacyCards": [
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "4.72/5",
+        "label": "Overall Program Rating"
+      },
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "99/100",
+        "label": "Sessions Rated 4+/5"
+      },
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "4.8/5",
+        "label": "Average Session Rating"
+      }
+    ],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "Choosing Teksversity means joining one of the best online BCA programs designed to integrate computer science fundamentals with modern data science applications. Every module focuses on practical learning through real-world datasets, coding challenges, and guided projects supervised by expert mentors.",
+    "description": [
+      {
+        "firstDescription": "The curriculum emphasizes experiential learning, allowing students to apply algorithms, create predictive models, and understand data interpretation. Through project-based learning, continuous assessments, and interactive labs, learners develop confidence in working in live analytics environments."
+      },
+      {
+        "secondDescription": "Beyond academics, Teksversity provides complete career support from technical mentorship to placement guidance. Resume workshops, interview preparation, and access to top recruiters ensure that students are career-ready upon graduation."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": ["Key Highlights of the", "BCA in Data Science & Analytics"],
+    "sections": [
+      { "name": "Learning Experience", "value": "learningExperience" },
+      { "name": "Support & Assistance", "value": "supportAndAssistance" },
+      { "name": "Career Support", "value": "careerSupport" },
+      {
+        "name": "Networking & Peer Learning",
+        "value": "networkingAndPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "learningExperience": {
+        "keyPoints": [
+          "Practical coding sessions and AI workshops",
+          "Hands-on data science and analytics labs",
+          "Live projects with real business datasets",
+          "Interactive online learning modules",
+          "Machine learning and data visualization practice",
+          "Case-based learning and programming challenges",
+          "Collaboration with industry mentors",
+          "Peer reviews and performance evaluations"
+        ]
+      },
+      "supportAndAssistance": {
+        "keyPoints": [
+          "Dedicated academic and technical mentorship",
+          "24/7 access to online learning platform",
+          "Personalized feedback and counseling sessions",
+          "Recorded lectures for flexible learning",
+          "Academic progress tracking and guidance",
+          "Internship and project coordination support",
+          "Access to advanced coding labs",
+          "Flexible learning schedules for professionals"
+        ]
+      },
+      "careerSupport": {
+        "keyPoints": [
+          "100% placement assistance and industry tie-ups",
+          "Resume & LinkedIn optimization",
+          "Mock interviews and aptitude training",
+          "Career counseling and portfolio building",
+          "Internship programs with data-focused companies",
+          "Skill-building workshops and hackathons",
+          "Expert career mentorship for tech domains",
+          "Job-readiness and progress tracking"
+        ]
+      },
+      "networkingAndPeerLearning": {
+        "keyPoints": [
+          "Group coding projects and problem-solving",
+          "Peer assessments and collaboration",
+          "Expert webinars and live Q&A sessions",
+          "Alumni success talks and career insights",
+          "Community data challenges and workshops",
+          "Cross-functional learning with tech peers",
+          "Online meetups and knowledge-sharing events"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our", "Course Brochure"],
+    "description": "Get complete insights into the BCA in Data Science & Analytics program at Teksversity your pathway to becoming a data-driven technology professional. Explore how our online BCA classes blend academic excellence with real-time project-based learning.",
+    "subHeading": "Inside the Brochure:",
+    "highlights": [
+      "Complete curriculum breakdown",
+      "Key program highlights",
+      "Hands-on projects & assessments",
+      "Career support details"
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/brochure/DB2.webp",
+      "alt": "DB2"
+    }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 8,
+    "heading": ["Amity University Online", "Admission Process"],
+    "description": "The admission procedure for Amity Online generally takes place two times a year. The admission procedure for Amity Online generally takes place twice a year. The first admission cycle starts in January, and the second admission cycle takes place in July. The whole admission process from registration to admission confirmation takes place in online mode. No entrance exam is required for taking admission to the university.",
+    "admissionSteps": {
+      "heading": "Admission Steps",
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 9,
+    "heading": ["Take the Leap", "Towards Learning!"],
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        }
+      ],
+      "viewAll": {
+        "label": "View all",
+        "link": ""
+      }
+    }
+  },
+
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },{
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+   "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      },
+      "formBackground": {
+        "src": "/home/formbg.webp",
+        "alt": "Spin and Win Form Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 13,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is the scope of BCA in Data Science and Analytics?",
+        "answer": "The BCA in Data Science and Analytics program offers excellent career opportunities in IT, finance, healthcare, and e-commerce. Graduates can work as Data Analysts, AI Engineers, Machine Learning Specialists, and Business Intelligence Developers in India and abroad."
+      },
+      {
+        "question": "What are the top job roles after BCA in Data Science and Analytics?",
+        "answer": "After completing BCA in Data Science, students can work as Data Scientists, Data Engineers, Business Analysts, Machine Learning Engineers, Data Visualization Experts, and Python Developers in both private and government sectors."
+      },
+      {
+        "question": "What is the average starting salary after BCA in Data Science and Analytics?",
+        "answer": "The average starting salary for BCA Data Science graduates in India ranges between ₹4 LPA to ₹8 LPA, depending on the candidate’s skills, certifications, and company profile. Global placements offer even higher packages."
+      },
+      {
+        "question": "Is BCA in Data Science a good career choice in 2025 and beyond?",
+        "answer": "Yes, Data Science is one of the fastest-growing tech fields globally. By 2025, demand for AI, machine learning, and analytics professionals is expected to grow by 30–40%, making this one of the best career-oriented programs after 12th."
+      },
+      {
+        "question": "Can BCA Data Science graduates work abroad?",
+        "answer": "Yes, BCA Data Science graduates can work abroad, especially if they earn international certifications like Python, Power BI, AWS, or Azure Data Analytics. Many multinational companies hire Indian graduates for data-driven roles globally."
+      },
+      {
+        "question": "Does Teksversity provide placement support for BCA Data Science students?",
+        "answer": "Yes, Teksversity offers 100% placement assistance through recruiter tie-ups, career workshops, resume building, mock interviews, and LinkedIn optimization to help students secure top positions in IT and analytics companies."
+      },
+      {
+        "question": "Does Teksversity provide demo classes for BCA in Data Science?",
+        "answer": "Yes, students can attend free demo sessions to understand the learning experience, syllabus coverage, and faculty teaching style before enrolling in the BCA Data Science and Analytics program."
+      },
+      {
+        "question": "Does Teksversity offer internships or live projects during the course?",
+        "answer": "Yes, students get hands-on exposure through industry projects, data visualization assignments, and internships that help them build practical skills in Python, Power BI, and data modeling."
+      },
+      {
+        "question": "Does Teksversity provide certification support with the BCA Data Science course?",
+        "answer": "Yes, Teksversity provides training and certification support for Python, Machine Learning, Power BI, and Data Analytics tools, which strengthen student profiles for job placements."
+      },
+      {
+        "question": "Why should I choose Teksversity for BCA in Data Science and Analytics?",
+        "answer": "Teksversity offers an industry-aligned curriculum, expert mentors, flexible learning options, live projects, global certification guidance, and dedicated placement support, making it one of the best platforms for tech-focused careers."
+      }
+    ]
+  },
+
+  "letsTalk": {
+    "position": 14,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today—Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 15,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "Best BCA in Data Science and Analytics colleges in India",
+      "BCA Data Science and Analytics syllabus and fees",
+      "Career after BCA in Data Science",
+      "BCA Data Science starting salary",
+      "Top universities for BCA in Data Analytics",
+      "BCA in Data Science and Analytics with placement",
+      "Best online BCA in Data Science program",
+      "Scope of BCA Data Science in India",
+      "BCA Data Science job opportunities",
+      "BCA Data Science course eligibility"
+    ]
+  }
+}

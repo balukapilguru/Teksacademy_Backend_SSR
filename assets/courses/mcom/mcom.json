@@ -1,0 +1,1181 @@
+{
+  "meta": {
+    "title": "Online Master of Commerce (M.Com) Degree with Career Support",
+    "description": "Advance your expertise in commerce, accounting, finance, taxation, and business strategy with the Online Master of Commerce (M.Com) at Teksversity.",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is a BBA course?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Bachelor of Business Administration (BBA) is an undergraduate degree that builds strong foundations in management, marketing, finance, and business operations. At Teksversity, the program blends academic theory with practical business exposure, helping students develop leadership and decision-making skills essential for corporate success."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why should I study BBA at Teksversity?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Teksversity’s BBA program focuses on industry-ready learning, offering a mix of classroom teaching, real-world case studies, and personality development sessions. Students also gain hands-on experience through internships and live business projects, ensuring they graduate with both knowledge and confidence to excel in their careers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What subjects are covered in the BBA syllabus?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The BBA syllabus at Teksversity includes core subjects like Business Economics, Financial Accounting, Human Resource Management, Marketing Management, Organizational Behavior, and Business Law. Alongside, students also learn digital marketing, entrepreneurship, and business analytics, aligning the curriculum with modern industry needs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the career opportunities after completing BBA?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "After completing BBA, graduates can explore a wide range of job roles such as Business Analyst, Marketing Executive, Financial Advisor, HR Executive, Operations Manager, or Entrepreneur. Teksversity also provides career guidance and placement support, helping students connect with top recruiters and build strong professional networks."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I pursue higher education after BBA?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes! BBA graduates from Teksversity can pursue advanced studies like MBA, PGDM, M.Com, or specialized master’s programs in areas such as Finance, Marketing, Human Resources, International Business, or Data Analytics to deepen their expertise and expand career prospects."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the duration and eligibility for BBA?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The BBA course duration at Teksversity is three years (six semesters). Students who have completed 10+2 in any stream from a recognized board are eligible to apply. A passion for management and business leadership is an added advantage."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Teksversity provide internships and placement support for BBA students?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Absolutely! Teksversity ensures every BBA student gains real-time industry exposure through internships, workshops, and business simulations. The dedicated placement cell assists students with resume building, interview preparation, and job placements in reputed companies."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What skills will I gain from Teksversity’s BBA course?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Teksversity’s BBA program helps students develop leadership, communication, analytical thinking, financial planning, and marketing strategy skills. Students also gain exposure to digital business tools and emerging technologies, preparing them for today’s dynamic corporate world."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is BBA a good choice for entrepreneurship?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the BBA course at Teksversity is an ideal choice for aspiring entrepreneurs. It provides deep insights into business strategy, operations, and innovation, enabling students to start and manage their own ventures with confidence and clarity."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does Teksversity support overall student development in BBA?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Beyond academics, Teksversity focuses on soft skills, leadership workshops, group discussions, and business competitions that help students grow personally and professionally. The institute encourages practical learning and innovation, making BBA graduates well-rounded business professionals."
+          }
+        }
+      ]
+    }
+  },
+
+  "formDetails": {
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "courseName": "Master of Commerce",
+    "universities": [
+      {
+        "university": "jain-university",
+        "image": {
+          "src": "/home/universitylogos/jain.webp",
+          "alt": "jain",
+          "url": "/university/jain-university"
+        },
+        "accreditations": ["ISO", "NAAC A++", "UGC", "AICTE"],
+        "rating": 4.8,
+        "duration": "",
+        "courseFee": { "range": "45,000-1,81,000", "note": "Total program fee" },
+        "brochure": "",
+ 
+        "button": [
+          {
+            "name": "Know More",
+            "link": "/university/jain-university",
+            "form": false
+          },
+          {
+            "name": "Enroll Now",
+            "link": "",
+            "form": true
+          }
+        ],
+        "sourceId": 155,
+        "universityName": "Jain University"
+      },
+      {
+        "university": "amity-university",
+        "image": {
+          "src": "/home/universitylogos/amity.webp",
+          "alt": "amity",
+          "url": "/university/amity-university"
+        },
+        "accreditations": ["ISO", "NAAC A++", "UGC", "AICTE"],
+        "rating": 4.8,
+        "duration": "",
+        "courseFee": { "range": "1,20,000", "note": "Total program fee" },
+        "button": [
+          {
+            "name": "Know More",
+            "link": "/university/amity-university",
+            "form": false
+          },
+          {
+            "name": "Enroll Now",
+            "link": "",
+            "form": true
+          }
+        ],
+        "sourceId": 151,
+        "universityName": "Amity University"
+      }
+    ]
+  },
+
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Specializations", "id": "specializations" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+  "category": "academics",
+  "branch": "Master of Commerce",
+
+  "banner": {
+    "position": 1,
+    "mainHeading": "Master of Commerce (M.Com) Advanced Commerce & Finance",
+    "description": "Master advanced concepts in commerce, finance, and business strategy with an M.Com, preparing you for high-growth roles across accounting, financial analysis, and corporate operations.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/pgbanerimages/mcom/mcom.webp",
+      "alt": "Masters in Commerce with Advanced Financial and Business Expertise"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose This Program"],
+      "benefits": [
+        "Learn commerce and finance from expert faculty",
+        "Build strong accounting, taxation, and analysis skills",
+        "Gain exposure to business, finance, and reporting tools",
+        "Work on real-world commerce and audit case studies",
+        "Flexible learning designed for working students",
+        "Resume and placement support for commerce roles",
+        "Attend expert-led commerce and finance webinars",
+        "Improve confidence through mock interviews",
+        "Become job-ready for multiple commerce careers"
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["The overview of", "Master of Commerce (M.Com)"],
+    "overViewImage": {
+      "src": "/home/overview/overview7.webp",
+      "alt": "overview.webp"
+    },
+    "subHeading": "Advance Your Commerce Career With Industry-Focused M.Com Training",
+    "description": "The Online Master of Commerce (M.Com) at Teksversity builds advanced knowledge in accounting, business finance, analytics, taxation, corporate laws, and reporting systems. Learners gain practical skills through case studies, financial modelling tasks, and hands-on commercial problem-solving. The program also offers multiple MCom specializations—MCom in Accounting and Finance, MCom in Professional Accounting and Finance, MCom in International Finance, MCom in Financial Management, and MCom in Financial Technology—enabling students to choose a focused career path.This flexible MCom online course prepares graduates for diverse roles in finance, accounting, taxation, banking, and corporate operations.",
+    "keyPoints": [
+      "Understand accounting, finance, auditing, and taxation",
+      "Use tools for business analysis and reporting",
+      "Strengthen analytical and quantitative commerce skills",
+      "Apply ethical and compliant financial practices",
+      "Develop leadership for commerce-driven roles"
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": ["Why choose Master of Commerce (M.Com) ", "in Teksversity?"],
+    "subHeading": ["Celebrating", " Excellence"],
+    "title": ["13 Years of", " Legacy", "(Commitment, Growth, Success)"],
+    "legacyCards": [
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "4.72/5",
+        "label": "Overall Program Rating"
+      },
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "99/100",
+        "label": "Sessions Rated 4+/5"
+      },
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "4.8/5",
+        "label": "Average Session Rating"
+      }
+    ],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "Teksversity offers a practice-focused MCom program that blends accounting, finance, taxation, and business strategy with real-world exposure. Students work with financial statements, business models, tax cases, and compliance tasks that mirror actual industry scenarios.",
+    "description": [
+      {
+        "firstDescription": "Expert mentors guide students through accounting systems, corporate laws, taxation frameworks, financial modelling, and commercial analysis. This structured approach helps learners develop real-world decision-making skills"
+      },
+      {
+        "secondDescription": "The flexible online model supports working graduates looking to enhance their commerce career. With resume support, interview training, and structured career guidance, learners can transition into accounting, taxation, management, and financial roles with confidence."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": ["Key Highlights of", "Master of Commerce (M.Com)"],
+    "sections": [
+      { "name": "Learning Experience", "value": "LearningExperience" },
+      { "name": "Support & Assistance", "value": "SupportandAssistance" },
+      { "name": "Career Support", "value": "CareerSupport" },
+      {
+        "name": "Networking & Peer Learning",
+        "value": "NetworkingandPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "LearningExperience": {
+        "keyPoints": [
+          "Case studies in accounting, taxation, and finance",
+          "Projects on budgeting, reporting, and analysis",
+          "Workshops on business and financial tools",
+          "Training on commerce-focused decision-making",
+          "Sessions led by industry commerce experts"
+        ]
+      },
+      "SupportandAssistance": {
+        "keyPoints": [
+          "One-on-one academic and finance mentorship",
+          "24/7 access to learning materials",
+          "Recorded sessions for flexible study",
+          "Personalized support throughout the program",
+          "Internship guidance for commerce exposure"
+        ]
+      },
+      "CareerSupport": {
+        "keyPoints": [
+          "Placement assistance for commerce careers",
+          "Resume building for finance and accounting roles",
+          "Mock interviews with commerce specialists",
+          "Career mapping for multiple job options",
+          "Leadership and professional readiness"
+        ]
+      },
+      "NetworkingandPeerLearning": {
+        "keyPoints": [
+          "Webinars with commerce and finance experts",
+          "Peer collaboration on finance projects",
+          "Alumni interactions with industry leaders",
+          "Group activities in business case solving",
+          "Virtual networking across student cohorts"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our ", "Course Brochure"],
+    "description": "Download the detailed Master of Commerce (M.Com) brochure to explore program modules, tools covered, learning pathways, eligibility, and placement support. Learn how specialization options—Accounting & Finance, Professional Accounting, International Finance, Financial Management, and Financial Technology—enhance your career based on your interests.",
+    "subHeading": "What You’ll Get in the Brochure:",
+    "highlights": [
+      "Full program structure and specialization list",
+      "Career pathways in accounting and finance",
+      "Admission and eligibility information",
+      "Internship & placement support details",
+      "Tools, faculty, and learning approach"
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/certificate/brochuree.webp",
+      "alt": "brochuree.webp"
+    }
+  },
+
+  "specializations": {
+    "position": 7,
+    "heading": ["Specializations"],
+    "paragraph": "Choose from our comprehensive suite of analytics and management solutions",
+    "specializations": [
+      {
+        "heading": "Accounting and finance",
+        "action": "Explore",
+        "link": "/courses/mcom/accounting-and-finance",
+        "image": {
+          "src": "/pgbanerimages/mcom/specializationsicons/financial_technology.webp",
+          "alt": "Financial Technology"
+        },
+        "universities": [
+          {
+            "ProductId": 276,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "/Downloadbrouchers/JAIN/MCOM-JAIN/accounting-and-finance-brochure-mcom-jain.pdf",
+            "fee": "1,10,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+
+      {
+        "heading": "Professional Accounting Finance",
+        "action": "Explore",
+        "link": "/courses/mcom/professional-accounting-and-finance-accredited-by-cpa-us",
+        "image": {
+          "src": "/pgbanerimages/mcom/specializationsicons/professional_finance.webp",
+          "alt": "Professional Finance"
+        },
+        "universities": [
+          {
+            "ProductId": 278,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "/Downloadbrouchers/JAIN/MCOM-JAIN/professional-accounting-and-finance-brochure-mcom-jain.pdf",
+            "fee": "45,500",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+
+      {
+        "heading": "International Finance",
+        "action": "Explore",
+        "link": "/courses/mcom/international-finance-accredited-by-acca-uk",
+        "image": {
+          "src": "/pgbanerimages/mcom/specializationsicons/international_finance.webp",
+          "alt": "International Finance"
+        },
+        "universities": [
+          {
+            "ProductId": 280,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "/Downloadbrouchers/JAIN/MCOM-JAIN/international-finance-brochure-mcom-jain.pdf",
+            "fee": "1,81,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+
+      {
+        "heading": "Financial Management",
+        "action": "Explore",
+        "link": "/courses/mcom/financial-management",
+        "image": {
+          "src": "/pgbanerimages/mcom/specializationsicons/financila_management.webp",
+          "alt": "Financial Management"
+        },
+        "universities": [
+          {
+            "ProductId": 283,
+            "sourceId": 151,
+            "name": "amity-university",
+            "universityName": "Amity University",
+            "brochure": "/Downloadbrouchers/AMITY/MCOM-AMITY/MCOM-Financial-Management.pdf",
+            "fee": "1,20,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+
+      {
+        "heading": "Financial Technology",
+        "action": "Explore",
+        "link": "/courses/mcom/financial-technology",
+        "image": {
+          "src": "/pgbanerimages/mcom/specializationsicons/financeandtechnology.webp",
+          "alt": "Finance and Technology"
+        },
+        "universities": [
+          {
+            "ProductId": 287,
+            "sourceId": 151,
+            "name": "amity-university",
+            "universityName": "Amity University",
+            "brochure": "/Downloadbrouchers/AMITY/MCOM-AMITY/MCOM-Financial-Technology.pdf",
+            "fee": "1,20,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      }
+    ]
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 9,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 10,
+    "heading": ["Take the Leap", " Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "null" },
+        "link": "null"
+      }
+    }
+  },
+
+  "programFeeStructure": {
+    "position": 11
+  },
+
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },{
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+ "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 15,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is an MCom?",
+        "answer": "MCom (Master of Commerce) is a postgraduate program focused on advanced commerce, finance, accounting, business analytics, banking, and taxation. It prepares students for professional and managerial roles in finance, corporate business, and financial institutions."
+      },
+      {
+        "question": "Who is eligible to pursue MCom?",
+        "answer": "Students with a BCom, BBA, BA (Economics), or any commerce-related bachelor’s degree can pursue MCom. Some universities also accept candidates from other backgrounds if they meet required foundational subjects in commerce."
+      },
+      {
+        "question": "What is the duration of the MCom program?",
+        "answer": "The MCom course is typically 2 years, divided into 4 semesters, covering advanced theory, practical training, case studies, and project-based learning."
+      },
+      {
+        "question": "What subjects are taught in an MCom program?",
+        "answer": "The syllabus includes Accounting, Business Law, Corporate Finance, Managerial Economics, Statistics, Banking, Taxation, Marketing Management, Financial Analytics, and Audit & Assurance."
+      },
+      {
+        "question": "What skills will I gain from pursuing MCom?",
+        "answer": "You will gain expertise in financial analysis, accounting tools, taxation systems, auditing, business strategy, data-driven decision making, banking operations, and financial management."
+      },
+      {
+        "question": "What are the career opportunities after MCom?",
+        "answer": "MCom graduates can work as Accountants, Financial Analysts, Auditors, Tax Consultants, Bank Officers, Investment Analysts, Business Consultants, Insurance Specialists, and Finance Executives in leading companies and financial institutions."
+      },
+      {
+        "question": "What is the salary range for MCom graduates?",
+        "answer": "Fresh MCom graduates typically earn ₹3–6 LPA, while experienced professionals can earn ₹7–15 LPA or more, depending on specialization, industry, and expertise."
+      },
+      {
+        "question": "Can working professionals pursue MCom?",
+        "answer": "Yes. Many universities offer distance, online, or part-time MCom programs, making it ideal for working professionals who want to enhance their finance and accounting skills without leaving their jobs."
+      },
+      {
+        "question": "Why should I choose MCom as a career path?",
+        "answer": "MCom offers strong stability, high employability, and long-term growth across finance, accounting, banking, taxation, and corporate sectors. It is an excellent choice for students aiming for professional certifications like CA, CMA, CFA, or ACCA."
+      },
+      {
+        "question": "What is the scope of MCom in today’s job market?",
+        "answer": "MCom has excellent scope in finance, banking, taxation, auditing, fintech, corporate accounting, and data-driven business roles. With digital finance and analytics growing rapidly, MCom graduates are in high demand across India and abroad."
+      }
+    ]
+  },
+
+  "letsTalk": {
+    "position": 14,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today—Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 17,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "Master of Commerce (M.Com)",
+      "MCom with ACCA",
+      "MCom online course",
+      "Master of commerce degree",
+      "Best post graduation courses after BCom",
+      "Accounting and finance post graduation",
+      "Online MCom degree programs",
+      "MCom for accounting careers",
+      "Commerce and finance specialization",
+      "Professional MCom course online"
+    ]
+  }
+}

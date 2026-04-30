@@ -1,0 +1,1046 @@
+﻿{
+  "meta": {
+    "title": "Online BCA Degree in Cloud Computing | Placement Assistance",
+    "description": "Build your tech career with a BCA in Cloud Computing at Teksversity. Learn cloud architecture, virtualization, AWS, and DevOps with best mentorship.",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is BCA in Cloud Computing?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "BCA in Cloud Computing is a three-year undergraduate degree that focuses on cloud technology, virtualization, data storage, and network management. It trains students to design, deploy, and manage cloud-based applications used in industries like IT, finance, and e-commerce."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the career opportunities after BCA in Cloud Computing?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Graduates can work as Cloud Engineers, DevOps Specialists, Network Administrators, Cloud Security Analysts, or Systems Architects in tech companies, cloud service providers, and IT consultancies."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the average salary after BCA in Cloud Computing?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The average starting salary for BCA Cloud Computing graduates in India ranges between ₹4.5 LPA and ₹9 LPA, depending on skills, certifications, and employer. With experience, professionals can earn over ₹15 LPA in multinational companies."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Cloud Computing a good career option in the future?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, cloud computing is one of the most in-demand tech careers globally. With every organization shifting to cloud-based infrastructure, professionals skilled in AWS, Azure, or Google Cloud will have excellent job and growth opportunities."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which certifications are valuable after BCA in Cloud Computing?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Valuable certifications include AWS Certified Solutions Architect, Microsoft Azure Fundamentals, Google Cloud Associate Engineer, and DevOps Certification. These globally recognized credentials help students secure top cloud and IT roles."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why should I choose Teksversity for BCA in Cloud Computing?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Teksversity offers an industry-driven Cloud Computing curriculum designed by experts, combining real-world projects, mentorship, and global certification training to make students job-ready for top tech roles."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Teksversity provide placement assistance for BCA Cloud Computing students?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Teksversity provides 100% placement assistance with mock interviews, career workshops, recruiter partnerships, and LinkedIn optimization to help students launch their cloud computing careers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Teksversity offer internships and live projects during the course?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, students work on live projects in AWS, Azure, and Google Cloud environments along with hands-on training in server management, cloud deployment, and automation tools."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Teksversity provide demo classes for the BCA Cloud Computing course?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, students can attend free demo classes to experience the course structure, trainer expertise, and hands-on approach before enrolling in the program."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Teksversity offer certification support with the BCA in Cloud Computing program?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Teksversity provides complete support for global certifications like AWS, Azure, and Google Cloud, helping students enhance their employability and gain international recognition."
+          }
+        }
+      ]
+    }
+  },
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+
+  "category": "specialization",
+
+  "formDetails": {
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "courseName": "Bachelor of Computer Applications in Cloud Computing",
+    "universities": [
+      {
+        "university": "jain-university",
+        "image": {
+          "src": "/home/universitylogos/jain.webp",
+          "alt": "jain",
+          "url": "/university/jain-university"
+        },
+        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "rating": 4.7,
+        "duration": "3 years",
+        "courseFee": { "range": "1,65,000", "note": "Total program fee" },
+        "brochure": "",
+        "button": [
+          {
+            "name": "Know More",
+            "link": "/university/jain-university",
+            "form": false
+          },
+          { "name": "Enroll Now", "link": "", "form": true }
+        ],
+        "productId": 200,
+        "sourceId": 155,
+        "universityName": "Jain University"
+      }
+    ]
+  },
+
+  "banner": {
+    "name": "Online BCom Degree with 100% Placement Assistance",
+    "position": 1,
+    "mainHeading": "BCA in Cloud Computing – Build the Future of Digital Infrastructure",
+    "description": "Earn your BCA in Cloud Computing and gain in-demand technical skills in cloud platforms, virtualization, and data management. Master the tools and concepts driving the next generation of IT innovation.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/ugbanerimages/bca/BCA_in_CLOUD_COMPUTING.webp",
+      "alt": "bca in cloud computing"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose This Program"],
+      "benefits": [
+        "Industry-driven BCA Cloud Computing course with practical training",
+        "Learn from certified cloud and software engineering mentors",
+        "Hands-on projects in AWS, Azure, and Google Cloud",
+        "Focus on cloud architecture, security, and DevOps automation",
+        "Build strong programming, database, and networking foundations",
+        "Real-time case studies and live deployment simulations",
+        "Develop analytical and problem-solving skills for modern IT challenges",
+        "100% placement assistance and career-focused learning"
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["Overview of the", "BCA in Cloud Computing Program"],
+    "overViewImage": {
+      "src": "/home/overview/overview2.webp",
+      "alt": "overview.webp"
+    },
+    "subHeading": "Build a Career in Cloud and Emerging Technologies",
+    "description": {
+      "type": "richText",
+      "content": [
+        {
+          "type": "text",
+          "value": "The BCA in "
+        },
+        {
+          "type": "link",
+          "value": "Cloud Computing program",
+          "url": "/courses/mca/cloud-computing"
+        },
+        {
+          "type": "text",
+          "value": " at Teksversity prepares students to become cloud-ready professionals skilled in managing IT infrastructures. This online degree combines computer applications, programming, networking, databases, virtualization, cloud security, and DevOps. Learners gain hands-on experience in real-world cloud implementations, application migration, and performance optimization. Through live projects and case studies, students build the technical and strategic skills needed for roles like Cloud Engineer, DevOps Specialist, or System Administrator"
+        }
+      ]
+    },
+    "keyPoints": [
+      "Gain expertise in cloud architecture, services, and virtualization",
+      "Understand deployment, scaling, and cloud security models",
+      "Master coding and scripting for automation (Python, Shell, PowerShell)",
+      "Learn to integrate DevOps and CI/CD pipelines",
+      "Build career readiness for cloud and infrastructure management"
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": ["Why Choose BCA in Cloud Computing", "Teksversity?"],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "Choosing Teksversity for your BCA in Cloud Computing means joining a future-focused program that blends academic excellence with practical learning. The curriculum is designed to meet the growing demand for cloud professionals by integrating theoretical concepts with real-time industry exposure.",
+    "description": [
+      {
+        "firstDescription": "Students participate in practical exercises, server simulations, and project-based case studies guided by experts from leading tech firms. This hands-on approach ensures learners gain the confidence to deploy, monitor, and manage cloud infrastructures efficiently across platforms."
+      },
+      {
+        "secondDescription": "Beyond technical expertise, Teksversity offers dedicated placement training, personalized mentorship, and certification support. With strong industry connections and career-oriented modules, students graduate as job-ready professionals equipped to thrive in top IT and cloud computing roles."
+      }
+    ]
+  },
+  "keyHighlights": {
+    "position": 5,
+    "heading": ["Key Highlights of", "BCA in Cloud Computing Program"],
+    "sections": [
+      { "name": "Learning Experience", "value": "LearningExperience" },
+      { "name": "Support & Assistance", "value": "SupportandAssistance" },
+      { "name": "Career Support", "value": "CareerSupport" },
+      {
+        "name": "Networking & Peer Learning",
+        "value": "NetworkingandPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "LearningExperience": {
+        "keyPoints": [
+          "Cloud infrastructure simulations and virtualization labs",
+          "Real-time deployment and migration projects",
+          "DevOps, AWS, and Azure workshops",
+          "Coding and automation training",
+          "Networking and data management modules",
+          "Expert-led cloud architecture sessions",
+          "Peer learning and collaborative projects",
+          "Regular technical and performance reviews"
+        ]
+      },
+      "SupportandAssistance": {
+        "keyPoints": [
+          "Dedicated cloud mentors and technical advisors",
+          "24/7 access to the learning management system",
+          "Recorded cloud lab sessions for revision",
+          "Personalized academic feedback and tracking",
+          "Internship and industry tie-up assistance",
+          "Technical and career support desk",
+          "Flexible learning modes (online/offline)",
+          "Certification exam preparation guidance"
+        ]
+      },
+      "CareerSupport": {
+        "keyPoints": [
+          "100% placement assistance with top recruiters",
+          "Resume and portfolio optimization for IT roles",
+          "Mock technical interviews and coding rounds",
+          "Internship opportunities in cloud and DevOps firms",
+          "Continuous mentorship from cloud professionals",
+          "Career counseling and industry networking events",
+          "Support for AWS, Azure, and GCP certifications",
+          "Job tracking and performance monitoring"
+        ]
+      },
+      "NetworkingandPeerLearning": {
+        "keyPoints": [
+          "Cloud developer community and peer collaborations",
+          "Group-based project assignments",
+          "Hackathons and DevOps meetups",
+          "Alumni sessions and expert Q&A forums",
+          "Webinars on latest cloud and AI innovations",
+          "Student tech clubs and leadership programs",
+          "Cross-discipline learning with IT professionals",
+          "Team-based simulation and feedback sessions"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our", "Course Brochure"],
+    "description": "Get complete insights into the BCA in Cloud Computing program at Teksversity your first step toward a successful IT and cloud career. Explore how our cutting-edge curriculum blends academic theory with hands-on cloud operations.",
+    "subHeading": "What You’ll Get in the Brochure:",
+    "highlights": [
+      "Detailed BCA Cloud Computing syllabus and modules",
+      "Career outcomes and industry pathways",
+      "Admission criteria and eligibility",
+      "Certification and placement support details",
+      "Learning tools, labs, and mentorship highlights"
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/brochure/DB2.webp",
+      "alt": "DB2"
+    }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 8,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 9,
+    "heading": ["Take the Leap", "Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "flexible online learning"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "advanced lms"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "global certification"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "no cost emi"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affrordable fees"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ugc/naac recognized universities"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "expert faculty"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "online live and recorded sessions"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "industry-aligned curriculum"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "dual certifications"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ai enhanced learning"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "job focused training"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affordable and quality learning"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "placement and career support"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "view all" },
+        "link": "null"
+      }
+    }
+  },
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },
+      {
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+  "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      },
+      "formBackground": {
+        "src": "/home/formbg.webp",
+        "alt": "Spin and Win Form Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 12,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is BCA in Cloud Computing?",
+        "answer": "BCA in Cloud Computing is a three-year undergraduate degree that focuses on cloud technology, virtualization, data storage, and network management. It trains students to design, deploy, and manage cloud-based applications used in industries like IT, finance, and e-commerce."
+      },
+      {
+        "question": "What are the career opportunities after BCA in Cloud Computing?",
+        "answer": "Graduates can work as Cloud Engineers, DevOps Specialists, Network Administrators, Cloud Security Analysts, or Systems Architects in tech companies, cloud service providers, and IT consultancies."
+      },
+      {
+        "question": "What is the average salary after BCA in Cloud Computing?",
+        "answer": "The average starting salary for BCA Cloud Computing graduates in India ranges between ₹4.5 LPA and ₹9 LPA, depending on skills, certifications, and employer. With experience, professionals can earn over ₹15 LPA in multinational companies."
+      },
+      {
+        "question": "Is Cloud Computing a good career option in the future?",
+        "answer": "Yes, cloud computing is one of the most in-demand tech careers globally. With every organization shifting to cloud-based infrastructure, professionals skilled in AWS, Azure, or Google Cloud will have excellent job and growth opportunities."
+      },
+      {
+        "question": "Which certifications are valuable after BCA in Cloud Computing?",
+        "answer": "Valuable certifications include AWS Certified Solutions Architect, Microsoft Azure Fundamentals, Google Cloud Associate Engineer, and DevOps Certification. These globally recognized credentials help students secure top cloud and IT roles."
+      },
+      {
+        "question": "Why should I choose Teksversity for BCA in Cloud Computing?",
+        "answer": "Teksversity offers an industry-driven Cloud Computing curriculum designed by experts, combining real-world projects, mentorship, and global certification training to make students job-ready for top tech roles."
+      },
+      {
+        "question": "Does Teksversity provide placement assistance for BCA Cloud Computing students?",
+        "answer": "Yes, Teksversity provides 100% placement assistance with mock interviews, career workshops, recruiter partnerships, and LinkedIn optimization to help students launch their cloud computing careers."
+      },
+      {
+        "question": "Does Teksversity offer internships and live projects during the course?",
+        "answer": "Yes, students work on live projects in AWS, Azure, and Google Cloud environments along with hands-on training in server management, cloud deployment, and automation tools."
+      },
+      {
+        "question": "Does Teksversity provide demo classes for the BCA Cloud Computing course?",
+        "answer": "Yes, students can attend free demo classes to experience the course structure, trainer expertise, and hands-on approach before enrolling in the program."
+      },
+      {
+        "question": "Does Teksversity offer certification support with the BCA in Cloud Computing program?",
+        "answer": "Yes, Teksversity provides complete support for global certifications like AWS, Azure, and Google Cloud, helping students enhance their employability and gain international recognition."
+      }
+    ]
+  },
+
+  "letsTalk": {
+    "position": 13,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 14,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "Best BCA in Cloud Computing colleges in India",
+      "BCA Cloud Computing syllabus and fees",
+      "Career after BCA in Cloud Computing",
+      "Top universities for BCA in Cloud Computing",
+      "BCA Cloud Computing with placement",
+      "BCA Cloud Computing starting salary",
+      "Best online BCA Cloud Computing course",
+      "Scope of Cloud Computing in India",
+      "BCA Cloud Computing course eligibility",
+      "BCA Cloud Computing job opportunities"
+    ]
+  }
+}

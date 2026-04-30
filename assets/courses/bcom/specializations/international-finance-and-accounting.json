@@ -1,0 +1,1107 @@
+﻿{
+  "meta": {
+    "title": "Global Accounting & Finance Degree | Placement Assistance",
+    "description": "Master global business and accounting principles with B.Com in International Finance & Accounting at Teksversity. Learn IFRS, taxation, auditing, and analytics.",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "course",
+          "name": "B.Com in International Finance & Accounting",
+          "image": "https://teksversity.com/_next/static/media/bcom-international-finance.png",
+          "description": "Explore the B.Com in International Finance & Accounting program at Teksversity. Learn global accounting standards, IFRS, international taxation, and financial management with expert mentors and 100% placement support.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Teksversity"
+          },
+          "url": "https://teksversity.com/courses/bcom/international-finance-accounting",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "153"
+          },
+          "offers": {
+            "@type": "AggregateOffer",
+            "url": "https://teksversity.com/courses/bcom/international-finance-accounting",
+            "priceCurrency": "INR",
+            "lowPrice": "60000",
+            "highPrice": "80000",
+            "offerCount": "1",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is B.Com in International Finance and Accounting?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "B.Com in International Finance and Accounting is a three-year undergraduate degree that focuses on global accounting standards, international taxation, and financial management. It prepares students for careers in multinational organizations, audit firms, and finance consultancies."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What subjects are taught in B.Com International Finance and Accounting?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The program includes Financial Reporting, International Accounting Standards (IFRS), Global Taxation, Risk Management, Business Analysis, and Corporate Governance, along with practical exposure to financial modeling and analytics tools."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the career scope of B.Com in International Finance and Accounting?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Graduates can work as Financial Analysts, Global Accountants, Tax Consultants, Risk Managers, or Audit Associates in multinational corporations, investment firms, and Big 4 companies like Deloitte, PwC, EY, and KPMG."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between B.Com Accounting and B.Com International Finance and Accounting?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While B.Com Accounting focuses on domestic accounting principles, B.Com International Finance and Accounting emphasizes global finance systems, IFRS, and cross-border taxation, preparing students for international career opportunities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I pursue global certifications after completing B.Com in International Finance and Accounting?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, this program aligns with ACCA (UK), CPA (USA), and CMA (USA) certifications, enabling students to gain global recognition and higher earning potential in finance and accounting fields."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Why should I choose Teksversity for B.Com in International Finance and Accounting?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Teksversity provides an internationally aligned curriculum designed by finance experts, offering ACCA-integrated training, live global finance projects, and personalized mentorship to prepare students for international accounting roles."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "From which university will I receive my B.Com degree at Teksversity?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The B.Com degree is awarded by a UGC-recognized university partner, ensuring global acceptance for employment, ACCA progression, or postgraduate studies abroad."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does Teksversity provide training for ACCA or CPA exams?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, Teksversity's program is mapped with the ACCA syllabus, providing integrated coaching and mentoring from ACCA-qualified trainers to help students clear international finance exams easily."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What kind of placement opportunities are available after completing this course at Teksversity?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Teksversity provides 100% placement support in global audit firms, multinational corporations, and finance consultancies. Students also receive LinkedIn optimization, interview preparation, and recruiter access for international career placements."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does Teksversity offer internships or live finance projects in this specialization?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, students get practical exposure through international finance case studies, corporate simulations, and internship opportunities with audit firms and global financial service providers."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+
+  "category": "specialization",
+
+  "formDetails": {
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "courseName": "Bachelor of Commerce in International Finance & Accounting",
+    "universities": [
+      {
+        "university": "jain-university",
+        "image": {
+          "src": "/home/universitylogos/jain.webp",
+          "alt": "jain",
+          "url": "/university/jain-university"
+        },
+        "accreditations": ["ISO", "NAAC A++", "UGC", "AICTE"],
+        "rating": 4.8,
+        "duration": "3 years",
+        "courseFee": { "range": "2,28,000", "note": "Total program fee" },
+        "brochure": "/Downloadbrouchers/JAIN/BCOM-AMITY/BCOM-international-finance-and-accounting.pdf",
+
+        "button": [
+          {
+            "name": "Know More",
+            "link": "/university/jain-university",
+            "form": false
+          },
+          { "name": "Enroll Now", "link": "", "form": true }
+        ],
+        "productId": 178,
+        "sourceId": 155,
+        "universityName": "Jain University"
+      },
+      {
+        "university": "amity-university",
+        "image": {
+          "src": "/home/universitylogos/amity.webp",
+          "alt": "amity",
+          "url": "/university/amity-university"
+        },
+        "accreditations": ["ISO", "NAAC A+", "UGC", "AICTE"],
+        "rating": 4.7,
+        "duration": "3 years",
+        "courseFee": { "range": "2,50,000", "note": "Total program fee" },
+        "brochure": "/Downloadbrouchers/AMITY/BCOM-AMITY/BCOM-International-Finance-Accounting.pdf",
+        "button": [{ "name": "Enroll Now", "link": "", "form": true }],
+        "productId": 179,
+        "sourceId": 151,
+        "universityName": "Amity University"
+      }
+    ]
+  },
+
+  "banner": {
+    "name": "B.Com in International Finance",
+    "position": 1,
+    "mainHeading": "B.Com in International Finance & Accounting – Build Your Global Accounting Career",
+    "description": "Earn your B.Com in International Finance & Accounting and gain expertise in international business, financial reporting, taxation, and auditing.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/ugbanerimages/bcom/BCOM_in_International_Finance_Accounting.webp",
+      "alt": "bcom in international finance accounting"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose This Program?"],
+      "benefits": [
+        "Industry-driven curriculum aligned with global finance standards",
+        "Learn IFRS, international taxation, auditing, and corporate finance",
+        "Hands-on experience through real-time business projects",
+        "Guidance from expert faculty and finance professionals",
+        "Build a foundation for ACCA, CPA, and CFA certifications",
+        "Case studies, simulations, and data-driven learning modules",
+        "Exposure to financial analytics and reporting tools",
+        "100% placement assistance and professional career guidance"
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": [
+      "Overview of",
+      "B.Com in International Finance & Accounting Program"
+    ],
+    "overViewImage": {
+      "src": "/home/overview/overview1.webp",
+      "alt": "overview.webp"
+    },
+    "subHeading": "Become a Global Finance & Accounting Professional",
+    "description": {
+      "type": "richText",
+      "content": [
+        {
+          "type": "text",
+          "value": "The B.Com in "
+        },
+        {
+          "type": "link",
+          "value": "International Finance",
+          "url": "/courses/mcom/international-finance-accredited-by-acca-uk"
+        },
+        {
+          "type": "text",
+          "value": " & Accounting program at Teksversity is designed to prepare students for careers in international business, finance, and accounting. The curriculum integrates global financial principles with modern business practices, helping learners understand how multinational corporations manage, audit, and report their financial operations. This program provides in-depth knowledge of International Financial Reporting Standards (IFRS), taxation, auditing, and business analytics, empowering students to work across international markets. Learners develop a solid grasp of financial strategy and decision-making through interactive sessions, live projects, and case-based learning."
+        }
+      ]
+    },
+    "keyPoints": [
+      "Understand core concepts in finance, accounting, and auditing",
+      "Gain proficiency in IFRS and global financial standards",
+      "Learn to analyze, interpret, and manage financial data",
+      "Develop skills in international taxation and compliance",
+      "Build readiness for global certifications and finance careers"
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": ["Why Choose B.Com in International Finance in", "Teksversity?"],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "Choosing Teksversity means gaining access to a globally oriented, industry-aligned education that bridges academic excellence with practical financial experience. The program ensures that learners not only master theoretical finance but also acquire the skills to implement them in real-world corporate environments.",
+    "description": [
+      {
+        "firstDescription": "Our unique learning model emphasizes hands-on projects, case-based studies, and interactive finance labs, ensuring that every student is career-ready. With mentorship from finance professionals and industry experts, students develop strategic financial thinking and global business perspective."
+      },
+      {
+        "secondDescription": "Beyond academics, Teksversity provides placement support, career mentorship, and certification guidance equipping learners with the tools to excel in the competitive financial world."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": [
+      "Key Highlights of",
+      "B.Com in International Finance & Accounting Program"
+    ],
+    "sections": [
+      { "name": "Learning Experience", "value": "LearningExperience" },
+      { "name": "Support & Assistance", "value": "SupportandAssistance" },
+      { "name": "Career Support", "value": "CareerSupport" },
+      {
+        "name": "Networking & Peer Learning",
+        "value": "NetworkingandPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "LearningExperience": {
+        "keyPoints": [
+          "Global finance case studies and simulations",
+          "IFRS and taxation practical sessions",
+          "Auditing and financial reporting workshops",
+          "Interactive financial analytics projects",
+          "Leadership and communication training",
+          "Expert-led accounting and finance masterclasses",
+          "Team-based corporate case projects",
+          "Peer discussions and data-driven analysis",
+          "Regular performance feedback and assessments"
+        ]
+      },
+      "SupportandAssistance": {
+        "keyPoints": [
+          "Dedicated academic and career mentors",
+          "24/7 access to online learning platforms",
+          "Personalized counseling and progress reviews",
+          "Recorded lectures for flexible learning",
+          "Feedback-based academic improvement plans",
+          "Technical and financial concept support desk",
+          "Internship assistance and coordination",
+          "Blended and self-paced learning modes",
+          "Continuous evaluation and progress tracking"
+        ]
+      },
+      "CareerSupport": {
+        "keyPoints": [
+          "100% placement assistance with top companies",
+          "Resume and LinkedIn profile enhancement",
+          "Mock interviews and finance domain GD sessions",
+          "Personalized career counseling and goal mapping",
+          "Internship tie-ups with audit and finance firms",
+          "Industry networking and placement events",
+          "Soft-skill and communication development",
+          "Portfolio and project presentation training",
+          "Career growth monitoring and mentorship"
+        ]
+      },
+      "NetworkingandPeerLearning": {
+        "keyPoints": [
+          "Group discussions and financial debates",
+          "Peer-reviewed finance projects",
+          "Collaboration across disciplines",
+          "Webinars by global finance experts",
+          "Alumni success sessions and insights",
+          "Finance community forums and discussions",
+          "Leadership and financial literacy events",
+          "Online networking and Q&A workshops",
+          "Collaborative business and finance simulations"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our", "Course Brochure"],
+    "description": "Get complete insights into the B.Com in International Finance & Accounting program at Teksversity your pathway to building a successful career in global business and finance. Explore how our modern curriculum combines theoretical depth with real-world financial applications.\nOur brochure provides a comprehensive overview of course modules, learning outcomes, and career opportunities available after graduation. It highlights how Teksversity’s mentorship, hands-on projects, and industry exposure prepare students for successful global finance careers",
+    "subHeading": "What You’ll Get in the Brochure:",
+    "highlights": [
+      "Detailed B.Com curriculum and financial subjects",
+      "Global career opportunities and professional pathways",
+      "Eligibility and admission process",
+      "Internship and placement assistance details",
+      "Certification guidance (ACCA/CPA support)",
+      "Faculty expertise and mentorship features"
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/brochure/DB1.webp",
+      "alt": "DB1"
+    }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 8,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 9,
+    "heading": ["Take the Leap", "Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "flexible online learning"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "advanced lms"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "global certification"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "no cost emi"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affrordable fees"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ugc/naac recognized universities"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "expert faculty"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "online live and recorded sessions"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "industry-aligned curriculum"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "dual certifications"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "ai enhanced learning"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "job focused training"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "affordable and quality learning"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "placement and career support"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "view all" },
+        "link": "null"
+      }
+    }
+  },
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },
+      {
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+  "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      },
+      "formBackground": {
+        "src": "/home/formbg.webp",
+        "alt": "Spin and Win Form Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 12,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is B.Com in International Finance and Accounting?",
+        "answer": "B.Com in International Finance and Accounting is a three-year undergraduate degree that focuses on global accounting standards, international taxation, and financial management. It prepares students for careers in multinational organizations, audit firms, and finance consultancies."
+      },
+      {
+        "question": "What subjects are taught in B.Com International Finance and Accounting?",
+        "answer": "The program includes Financial Reporting, International Accounting Standards (IFRS), Global Taxation, Risk Management, Business Analysis, and Corporate Governance, along with practical exposure to financial modeling and analytics tools."
+      },
+      {
+        "question": "What is the career scope of B.Com in International Finance and Accounting?",
+        "answer": "Graduates can work as Financial Analysts, Global Accountants, Tax Consultants, Risk Managers, or Audit Associates in multinational corporations, investment firms, and Big 4 companies like Deloitte, PwC, EY, and KPMG."
+      },
+      {
+        "question": "What is the difference between B.Com Accounting and B.Com International Finance and Accounting?",
+        "answer": "While B.Com Accounting focuses on domestic accounting principles, B.Com International Finance and Accounting emphasizes global finance systems, IFRS, and cross-border taxation, preparing students for international career opportunities."
+      },
+      {
+        "question": "Can I pursue global certifications after completing B.Com in International Finance and Accounting?",
+        "answer": "Yes, this program aligns with ACCA (UK), CPA (USA), and CMA (USA) certifications, enabling students to gain global recognition and higher earning potential in finance and accounting fields."
+      },
+      {
+        "question": "Why should I choose Teksversity for B.Com in International Finance and Accounting?",
+        "answer": "Teksversity provides an internationally aligned curriculum designed by finance experts, offering ACCA-integrated training, live global finance projects, and personalized mentorship to prepare students for international accounting roles."
+      },
+      {
+        "question": "From which university will I receive my B.Com degree at Teksversity?",
+        "answer": "The B.Com degree is awarded by a UGC-recognized university partner, ensuring global acceptance for employment, ACCA progression, or postgraduate studies abroad."
+      },
+      {
+        "question": "Does Teksversity provide training for ACCA or CPA exams?",
+        "answer": "Yes, Teksversity's program is mapped with the ACCA syllabus, providing integrated coaching and mentoring from ACCA-qualified trainers to help students clear international finance exams easily."
+      },
+      {
+        "question": "What kind of placement opportunities are available after completing this course at Teksversity?",
+        "answer": "Teksversity provides 100% placement support in global audit firms, multinational corporations, and finance consultancies. Students also receive LinkedIn optimization, interview preparation, and recruiter access for international career placements."
+      },
+      {
+        "question": "Does Teksversity offer internships or live finance projects in this specialization?",
+        "answer": "Yes, students get practical exposure through international finance case studies, corporate simulations, and internship opportunities with audit firms and global financial service providers."
+      }
+    ]
+  },
+
+  "letsTalk": {
+    "position": 13,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 14,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "BCOM in International Finance & Accounting",
+      "Bcom international accounting and finance",
+      "Bcom international finance",
+      "Bcom international finance and accounting",
+      "Bcom international accounting",
+      "Bcom hons international accounting and finance",
+      "Bcom international business and finance",
+      "Bcom with international finance",
+      "International finance bcom",
+      "Bcom in international finance"
+    ]
+  }
+}

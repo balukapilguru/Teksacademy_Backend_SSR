@@ -1,0 +1,1038 @@
+﻿{
+  "meta": {
+    "title": "Online MBA in Human Resource Management with Job Assistance",
+    "description": "Master talent management, organizational development, and strategic HR leadership with the MBA in Human Resource Management, designed for future HR experts.",
+    "schemaCode": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is an MBA in Human Resource Management?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "An MBA in Human Resource Management is a postgraduate program that combines core management principles with strategic HR practices, including talent acquisition, employee engagement, performance management, and labor laws. The program also emphasizes practical learning through live projects, internships, and case studies, preparing students to lead HR functions, shape organizational culture, and drive business growth effectively."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the eligibility criteria for an MBA in Human Resource Management?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Candidates should have a bachelor’s degree from a recognized university in any discipline. While prior work experience or exposure to management concepts is helpful, it is not mandatory."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the duration of the MBA in Human Resource Management program?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The MBA in Human Resource Management is a 2-year program, divided into 4 semesters, covering core management subjects, HR strategies, case studies, and practical projects to provide hands-on learning."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What subjects are covered in the MBA in HR syllabus?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our MBA in Human Resource Management covers essential subjects like Talent Acquisition, Employee Engagement, Performance Management, Labor Laws, Compensation & Benefits, Organizational Behavior, Strategic HR, Training & Development, HR Analytics, and Change Management. The program also includes practical labs, live industry projects, and real-world case studies to build hands-on HR management skills and prepare students for leadership roles."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is this MBA suitable for working professionals?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our MBA in Human Resource Management at Teksversity is designed for working professionals, offering flexible learning options such as weekend classes, online modules, and executive programs, allowing you to upskill and advance your career without pausing your professional commitments."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What career opportunities are available after an MBA in Human Resource Management?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Graduates can build careers as HR Manager, Talent Acquisition Specialist, Recruitment Consultant, HR Business Partner, Compensation & Benefits Manager, Training & Development Manager, HR Analyst, or Organizational Development Consultant, contributing to strategic HR and organizational growth across industries."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the salary expectations after completing an MBA in Human Resource Management?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fresh graduates can expect starting salaries between ₹5–8 LPA. With experience and specialization in areas like talent management, HR analytics, or organizational development, professionals can earn ₹12–25+ LPA, depending on the industry, company, and role."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I pursue higher studies after completing an MBA in HR?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Graduates can opt for Ph.D. programs in Human Resource Management or Organizational Behavior, or pursue specialized certifications in HR analytics, talent management, labor laws, and leadership to advance their careers and academic profile."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why choose Teksversity for an MBA in Human Resource Management?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Teksversity provides an industry-aligned curriculum, hands-on projects, expert mentorship, practical HR simulations, and dedicated placement support. Our program equips students with the skills, knowledge, and global perspective needed to excel in leadership roles in HR and talent management."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does placement support work in this MBA program?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At Teksversity, we provide end-to-end placement assistance, including mock interviews, resume enhancement, mentorship, live projects, industry tie-ups, and campus recruitment drives, ensuring students are well-prepared to secure roles in leading companies across industries."
+          }
+        }
+      ]
+    }
+  },
+
+  "formDetails": {
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "courseName": "Master of Business Administration in Human Resource Management",
+    "universities": [
+      {
+        "university": "jain-university",
+        "image": {
+          "src": "/home/universitylogos/jain.webp",
+          "alt": "jain",
+          "url": "/university/jain-university"
+        },
+        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "rating": 4.8,
+        "duration": "2 Years",
+        "courseFee": { "range": "1,96,000", "note": "Total program fee" },
+        "brochure": "/Downloadbrouchers/JAIN/MBA-JAIN/human-resources-management-brochure-MBA-jain.pdf",
+        "button": [
+          {
+            "name": "Know More",
+            "link": "/university/jain-university",
+            "form": false
+          },
+          { "name": "Enroll Now", "link": "", "form": true }
+        ],
+        "productId": 180,
+        "sourceId": 155,
+        "universityName": "Jain University"
+      }
+    ]
+  },
+
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+  "category": "specialization",
+  "banner": {
+    "name": "MBA in Human Resource Management",
+    "position": 1,
+    "mainHeading": "MBA in Human Resource Management - Lead People, Performance & Organizational Growth",
+    "description": "Get your Master of MBA in Human Resource Management degree and build expertise in recruitment, employee engagement, performance management, and HR strategy.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/pgbanerimages/mba/mba_Human_Resource_Management.webp",
+      "alt": "MBA in Human Resource Management with People and Organizational Leadership"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose This Program"],
+      "benefits": [
+        "Industry-focused MBA in HR Management curriculum",
+        "Learn from HR leaders and OD professionals",
+        "Projects in recruitment, talent analytics, and workforce planning",
+        "Focus on performance management, L&D, and employee relations",
+        "Build leadership, communication, and strategic HR skills",
+        "Hands-on exposure to HR tools, simulations, and case studies",
+        "Blend of management concepts with modern HR technologies",
+        "100% placement support and continuous career guidance"
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["Overview of", "MBA in Human Resource Management"],
+    "overViewImage": {
+      "src": "/home/overview/overview4.webp",
+      "alt": "MBA in Human Resource Management – Program Overview"
+    },
+    "subHeading": "Build a Future in HR Leadership and Talent Pool Management",
+    "description": "The MBA in Human Resource Management program at Teksversity equips learners with advanced skills in workforce development, employee engagement, and HR analytics. This master’s program helps professionals design HR policies, align people strategies with business goals, and build positive workplace culture. Through case studies, hands-on assignments, live HR scenarios, and tool-based learning, students gain practical experience in compensation management, recruitment processes, labour laws, and organizational behaviour. The MBA Human Resource Management online program offers flexible learning for working professionals who want to advance their careers without stepping away from their jobs.",
+    "keyPoints": [
+      "Understand HR management and organizational design principles",
+      "Master tools for hiring, performance evaluation, and training",
+      "Build analytical and strategic HR decision-making skills",
+      "Apply ethical, legal, and people-centric HR practices",
+      "Prepare for leadership and managerial roles across industries"
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": [
+      "Why Choose MBA in Human Resource Management",
+      "in Teksversity?"
+    ],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "Choosing Teksversity for your online MBA programs in Human Resource Management means joining a curriculum that blends people leadership with strategic business skills. The program emphasizes communication, employee development, and cultural transformation key capabilities for modern HR leaders.",
+    "description": [
+      {
+        "firstDescription": "Students engage in mock interviews, competency mapping, HR policy drafting, and real-world case-based analysis guided by experienced mentors and HR professionals.."
+      },
+      {
+        "secondDescription": "Teksversity ensures career readiness through hands-on HR practices, mentorship support, and industry-aligned skill-building sessions."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": [
+      "Key Highlights of the",
+      "MBA in Human Resource Management"
+    ],
+    "sections": [
+      { "name": "Learning Experience", "value": "LearningExperience" },
+      { "name": "Support & Assistance", "value": "SupportandAssistance" },
+      { "name": "Career Support", "value": "CareerSupport" },
+      {
+        "name": "Networking & Peer Learning",
+        "value": "NetworkingandPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "LearningExperience": {
+        "keyPoints": [
+          "Case studies on hiring, compensation, and HR analytics",
+          "Projects on performance, training, and HR operations",
+          "Workshops on HRMS tools, labour laws, and culture",
+          "Leadership and people management training",
+          "Critical thinking and communication practice",
+          "Guest sessions with HR leaders and experts",
+          "Cross-functional HR and business projects",
+          "Peer discussions and review presentations",
+          "Continuous assessments and progress checks"
+        ]
+      },
+      "SupportandAssistance": {
+        "keyPoints": [
+          "Academic and HR industry mentorship",
+          "24/7 access to online learning portal",
+          "Counseling and performance guidance",
+          "Recorded classes and HR study material",
+          "Personalized academic and career help",
+          "Technical and learning support desk",
+          "Internships and practical HR projects",
+          "Flexible learning for professionals",
+          "Regular reviews and feedback sessions"
+        ]
+      },
+      "CareerSupport": {
+        "keyPoints": [
+          "100% placement and internship support",
+          "Resume building for HR-specific roles",
+          "Interview prep for HR, HRBP, L&D roles",
+          "Career counseling and job mapping",
+          "Mock interviews and soft skill training",
+          "Industry tie-ups and HR project links",
+          "Webinars with HR leaders and experts",
+          "Leadership and HR strategy sessions",
+          "Ongoing career mentoring and tracking"
+        ]
+      },
+      "NetworkingandPeerLearning": {
+        "keyPoints": [
+          "Webinars and HR leadership talks",
+          "Peer work on HR research projects",
+          "Alumni insights from HR leaders",
+          "Group discussions and HR cases",
+          "Virtual HR meetups and networking",
+          "Collaboration with business teams",
+          "Student-led HR clubs and events",
+          "HR community and professional forums",
+          "Real-world HR simulations and tasks"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our", "Course Brochure"],
+    "description": "Step into the world of people leadership and organizational excellence with Teksversity’s MBA in Human Resource Management program. Designed for aspiring HR leaders and professionals, this program focuses on talent development, workforce performance, and strategic HR planning",
+    "subHeading": "Inside the Brochure:",
+    "highlights": [
+      "Detailed MBA in HR Management curriculum and course structure",
+      "Career pathways and leadership opportunities",
+      "Admission process and eligibility guidelines",
+      "Internship and placement assistance details",
+      "Learning tools, mentorship features, and progress-tracking support"
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/brochure/DB4.webp",
+      "alt": "Download MBA in Human Resource Management Program Brochure"
+    }
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 8,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 9,
+    "heading": ["Take the Leap", "Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "null" },
+        "link": "null"
+      }
+    }
+  },
+
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },{
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+  "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      },
+      "formBackground": {
+        "src": "/home/formbg.webp",
+        "alt": "Spin and Win Form Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 12,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is an MBA in Human Resource Management?",
+        "answer": "An MBA in Human Resource Management is a postgraduate program that combines core management principles with strategic HR practices, including talent acquisition, employee engagement, performance management, and labor laws. The program emphasizes practical learning through live projects, internships, and case studies, preparing students to lead HR functions, shape organizational culture, and drive business growth effectively."
+      },
+      {
+        "question": "What is the eligibility criteria for an MBA in Human Resource Management?",
+        "answer": "Candidates should have a bachelor’s degree from a recognized university in any discipline. While prior work experience or exposure to management concepts is helpful, it is not mandatory."
+      },
+      {
+        "question": "What is the duration of the MBA in Human Resource Management program?",
+        "answer": "The MBA in Human Resource Management is a 2-year program, divided into 4 semesters, covering core management subjects, HR strategies, case studies, and practical projects to provide hands-on learning."
+      },
+      {
+        "question": "What subjects are covered in the MBA in HR syllabus?",
+        "answer": "The program covers essential subjects like Talent Acquisition, Employee Engagement, Performance Management, Labor Laws, Compensation & Benefits, Organizational Behavior, Strategic HR, Training & Development, HR Analytics, and Change Management. It also includes practical labs, live industry projects, and real-world case studies to build hands-on HR management skills and prepare students for leadership roles."
+      },
+      {
+        "question": "Is this MBA suitable for working professionals?",
+        "answer": "Yes. The MBA in Human Resource Management at Teksversity is designed for working professionals, offering flexible learning options such as weekend classes, online modules, and executive programs, enabling learners to upskill without pausing their professional commitments."
+      },
+      {
+        "question": "What career opportunities are available after an MBA in Human Resource Management?",
+        "answer": "Career options include HR Manager, Talent Acquisition Specialist, Recruitment Consultant, HR Business Partner, Compensation & Benefits Manager, Training & Development Manager, HR Analyst, and Organizational Development Consultant, supporting strategic HR and organizational growth across industries."
+      },
+      {
+        "question": "What are the salary expectations after completing an MBA in Human Resource Management?",
+        "answer": "Fresh graduates can expect starting salaries between ₹5–8 LPA. With experience and specialization in areas like talent management, HR analytics, or organizational development, professionals can earn ₹12–25+ LPA depending on the industry, company, and role."
+      },
+      {
+        "question": "Can I pursue higher studies after completing an MBA in HR?",
+        "answer": "Yes. Graduates can pursue Ph.D. programs in Human Resource Management or Organizational Behavior, or obtain certifications in HR analytics, talent management, labor laws, and leadership to advance their career and academic profile."
+      },
+      {
+        "question": "Why choose Teksversity for an MBA in Human Resource Management?",
+        "answer": "Teksversity offers an industry-aligned curriculum, hands-on projects, expert mentorship, practical HR simulations, and dedicated placement support. The program equips students with the skills, knowledge, and global perspective required to excel in HR and talent management leadership roles."
+      },
+      {
+        "question": "How does placement support work in this MBA program?",
+        "answer": "Teksversity provides end-to-end placement assistance including mock interviews, resume enhancement, mentorship, live projects, industry tie-ups, and campus recruitment drives, ensuring students are well-prepared to secure roles in leading companies across industries."
+      }
+    ]
+  },
+  "letsTalk": {
+    "position": 14,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today—Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 14,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "MBA in human resource management",
+      "MBA HR management course",
+      "Best MBA HR colleges in India",
+      "Online MBA programs human resource management",
+      "MBA human resource management online",
+      "Master of business administration human resource management",
+      "Executive MBA in human resource management",
+      "MBA courses human resource management",
+      "MBA HRM",
+      "MBA in HR management"
+    ]
+  }
+}

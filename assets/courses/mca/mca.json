@@ -1,0 +1,1282 @@
+{
+  "meta": {
+    "title": "Online MCA Degree with Career Support & Job Assistance",
+    "description": "Build expertise in software development, cloud, cybersecurity, data analytics, and full-stack engineering with the Online MCA Degree at Teksversity.",
+    "schemaCode": ""
+  },
+
+  "formDetails": {
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "courseName": "Master of Computer Applications",
+    "universities": [
+      {
+        "university": "jain-university",
+        "image": {
+          "src": "/home/universitylogos/jain.webp",
+          "alt": "jain",
+          "url": "/university/jain-university"
+        },
+        "accreditations": ["ISO", "NAAC A++", "UGC", "AICTE"],
+        "rating": 4.8,
+        "duration": "",
+        "courseFee": { "range": "1,60,000-2,00,000", "note": "Total program fee" },
+        "brochure": "",
+ 
+        "button": [
+          {
+            "name": "Know More",
+            "link": "/university/jain-university",
+            "form": false
+          },
+          {
+            "name": "Enroll Now",
+            "link": "",
+            "form": true
+          }
+        ],
+        "sourceId": 155,
+        "universityName": "Jain University"
+      },
+      {
+         "university": "amity-university",
+        "image": {
+          "src": "/home/universitylogos/amity.webp",
+          "alt": "amity",
+          "url": "/university/amity-university"
+        },
+        "accreditations": ["ISO", "NAAC A++", "UGC", "AICTE"],
+        "rating": 4.8,
+        "duration": "",
+        "courseFee": { "range": "1,70,000-2,50,000", "note": "Total program fee" },
+        "button": [
+          {
+            "name": "Know More",
+            "link": "/university/amity-university",
+            "form": false
+          },
+          {
+            "name": "Enroll Now",
+            "link": "",
+            "form": true
+          }
+        ],
+        "sourceId": 151,
+        "universityName": "Amity University"
+      }
+    ]
+  },
+
+  "sections": [
+    { "name": "Overview", "id": "overViewOfOnline" },
+    { "name": "Highlights", "id": "keyHighlights" },
+    { "name": "Syllabus", "id": "downloadOurCourseBrochure" },
+    { "name": "Specializations", "id": "specializations" },
+    { "name": "Universities", "id": "offeringUniversity" },
+    { "name": "Admission", "id": "OnlineAdmissionProcedure" },
+    { "name": "Program Fees", "id": "spinAndWin" },
+    { "name": "Testimonials", "id": "testimonials" },
+    { "name": "FAQs", "id": "questionSection" }
+  ],
+  "category": "academics",
+  "branch": "Master of Computer Applications",
+
+  "banner": {
+    "position": 1,
+    "mainHeading": "Master of Computer Applications (MCA)",
+    "description": "Learn cutting-edge computing skills with an MCA and its specializations, empowering you to build advanced software solutions, excel in emerging technologies, and launch a high-growth tech career.",
+    "button": {
+      "name": "Get a Callback",
+      "link": null,
+      "form": true
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/pgbanerimages/mca/MCA.webp",
+      "alt": "Master of Computer Applications (MCA) with Advanced Computing and Software Development Skills"
+    }
+  },
+
+  "offeredBy": {
+    "position": 2,
+    "heading": ["Associated with"],
+    "subHeading": "null",
+    "image": [
+      {
+        "src": "/home/universitylogos/amity.webp",
+        "alt": "amity"
+      },
+
+      {
+        "src": "/home/universitylogos/jain.webp",
+        "alt": "jain"
+      },
+      {
+        "src": "/home/universitylogos/manipal.webp",
+        "alt": "manipal.webp"
+      },
+      {
+        "src": "/home/universitylogos/mnr.webp",
+        "alt": "mnr.webp"
+      },
+      {
+        "src": "/home/universitylogos/teks.webp",
+        "alt": "teks.webp"
+      }
+    ],
+    "whyJoinThisCourse": {
+      "heading": ["Why Choose This Program"],
+      "benefits": [
+        "Learn software and tech skills from industry experts",
+        "Build strong coding and problem-solving abilities",
+        "Work on real development and analytics projects",
+        "Improve technical and professional decision-making",
+        "Flexible MCA program for working professionals",
+        "Resume building and placement assistance",
+        "Attend expert-led IT and tech webinars",
+        "Practice through mock interviews and tasks",
+        "Become job-ready for global tech careers"
+      ]
+    },
+
+    "reserveYourSpotForm": {
+      "formTitle": "Reserve Your Spot",
+      "formSubtitle": "*No cost EMI",
+      "formDescription": "Start your learning journey today. Our experts will reach out to guide you in your next big step!"
+    }
+  },
+
+  "overViewOfOnline": {
+    "position": 3,
+    "heading": ["The overview of", "Master of Computer Applications (MCA)"],
+    "overViewImage": {
+      "src": "/home/overview/overview5.webp",
+      "alt": "overview.webp"
+    },
+    "subHeading": "Step Into the World of Advanced Computing & IT Innovation",
+    "description": "The Online Master of Computer Applications (MCA) at Teksversity builds the technical, analytical, and development skills required for modern IT careers. Learners gain hands-on experience in programming, software engineering, cloud computing, cyber security, full-stack development, data analytics, and data science. The curriculum blends academic concepts with practical labs, simulations, and industry projects. Designed for working professionals, the flexible structure helps students upskill while preparing for roles in development, cloud, security, analytics, and advanced software engineering across global tech industries. Not only MCA any course with the best specialisation opens the doors for better opportunities.",
+    "keyPoints": [
+      "Understand software engineering, coding, and system design",
+      "Use tools for development, cloud, analytics, and security",
+      "Strengthen logical, analytical, and problem-solving skills",
+      "Apply structured and ethical programming practices",
+      "Develop leadership for advanced IT and tech roles"
+    ],
+    "button": {
+      "name": "Apply Now",
+      "link": null,
+      "popup": true
+    }
+  },
+
+  "whyOnline": {
+    "position": 4,
+    "heading": ["Why MCA", "in Teksversity?"],
+    "subHeading": ["Celebrating", " Excellence"],
+    "title": ["13 Years of", " Legacy", "(Commitment, Growth, Success)"],
+    "legacyCards": [
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "4.72/5",
+        "label": "Overall Program Rating"
+      },
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "99/100",
+        "label": "Sessions Rated 4+/5"
+      },
+      {
+        "icon": { "src": "null", "alt": "null" },
+        "value": "4.8/5",
+        "label": "Average Session Rating"
+      }
+    ],
+    "image": { "src": "null", "alt": "null" },
+    "initialDescription": "Teksversity offers an industry-focused MCA that blends software development, cloud computing, security, data analytics, and full-stack engineering with real-world application. Students build job-ready skills through coding tasks, cloud labs, system simulations, and project-driven assessments.",
+    "description": [
+      {
+        "firstDescription": "Expert mentors guide learners through programming, cyber security, software engineering, analytics basics, and cloud infrastructure. This hands-on approach builds clarity, confidence, and strong technical capabilities for real IT challenges."
+      },
+      {
+        "secondDescription": "The flexible learning structure supports working professionals seeking rapid upskilling. With resume support, mock interviews, and career guidance, Teksversity helps learners transition into roles across cloud computing, cyber security, full-stack development, data science, and software engineering."
+      }
+    ]
+  },
+
+  "keyHighlights": {
+    "position": 5,
+    "heading": ["Key Highlights of", "MCA"],
+    "sections": [
+      { "name": "Learning Experience", "value": "LearningExperience" },
+      { "name": "Support & Assistance", "value": "SupportandAssistance" },
+      { "name": "Career Support", "value": "CareerSupport" },
+      {
+        "name": "Networking & Peer Learning",
+        "value": "NetworkingandPeerLearning"
+      }
+    ],
+    "tabsData": {
+      "LearningExperience": {
+        "keyPoints": [
+          "Case studies on software, cloud, and security",
+          "Projects in coding, full-stack, and analytics",
+          "Workshops on development tools and platforms",
+          "Leadership training in technical communication",
+          "Guest lectures by IT and engineering experts"
+        ]
+      },
+      "SupportandAssistance": {
+        "keyPoints": [
+          "One-on-one mentorship for MCA learners",
+          "24/7 access to tech study materials",
+          "Recorded classes for flexible learning",
+          "Personalized support for academic growth",
+          "Internship assistance in IT and development"
+        ]
+      },
+      "CareerSupport": {
+        "keyPoints": [
+          "Placement assistance for IT and tech roles",
+          "Resume building for software job paths",
+          "Mock interviews with technical mentors",
+          "Career mapping for specialized roles",
+          "Leadership and professional readiness"
+        ]
+      },
+      "NetworkingandPeerLearning": {
+        "keyPoints": [
+          "Webinars with tech and IT industry leaders",
+          "Peer coding and development collaboration",
+          "Alumni sessions with IT professionals",
+          "Group tasks on system and app development",
+          "Global networking through virtual forums"
+        ]
+      }
+    },
+    "leftButton": {
+      "name": "Enroll Now",
+      "url": "",
+      "form": true
+    },
+    "rightButton": {
+      "name": "Schedule Callback",
+      "url": "",
+      "form": true
+    }
+  },
+
+  "downloadOurCourseBrochure": {
+    "position": 6,
+    "heading": ["Download Our", "Course Brochure"],
+    "description": "Download the detailed Master of Computer Applications (MCA) brochure to explore modules, tools, tech stacks, specializations, admissions, and placement support. The brochure also highlights coding projects, cloud labs, security tasks, full-stack assignments, analytics modules, and practical development activities.",
+    "subHeading": "What You’ll Get in the Brochure:",
+    "highlights": [
+      "Complete program structure and MCA modules",
+      "Career paths in cloud, full-stack, and data",
+      "Admission and eligibility information",
+      "Internship and placement support details",
+      "Tools, faculty, and learning methodology"
+    ],
+    "button": {
+      "name": "Download Brochure",
+      "link": null,
+      "popup": false,
+      "download": "pdf"
+    },
+    "image": {
+      "src": "/certificate/brochuree.webp",
+      "alt": "brochuree.webp"
+    }
+  },
+
+  "specializations": {
+    "position": 7,
+    "heading": ["Specializations"],
+    "paragraph": "Choose from our comprehensive suite of MCA specializations",
+    "specializations": [
+      {
+        "heading": "Full Stack Development",
+        "action": "Explore",
+        "link": "/courses/mca/full-stack-development",
+        "image": {
+          "src": "/pgbanerimages/mca/specializationsicons/mca_full_stack.webp",
+          "alt": "Full Stack"
+        },
+        "universities": [
+          {
+            "ProductId": 291,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure":"",
+            "fee": "2,00,000",
+            "duration": "24 months"
+          }
+        ]
+      },
+      {
+        "heading": "Natural Language Processing",
+        "action": "Explore",
+        "link": "/courses/mca/natural-language-processing-large-language-models-development",
+        "image": {
+          "src": "/pgbanerimages/mca/specializationsicons/natural-language-processing.webp",
+          "alt": "Natural Language Processing"
+        },
+        "universities": [
+          {
+            "ProductId": 299,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "",
+            "fee": "1,60,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Software Engineering",
+        "action": "Explore",
+        "link": "/courses/mca/software-engineering",
+        "image": {
+          "src": "/pgbanerimages/mca/specializationsicons/software_enginerring.webp",
+          "alt": "Software Engineering"
+        },
+        "universities": [
+          {
+            "ProductId": 315,
+            "sourceId": 151,
+            "name": "amity-university",
+             "brochure": "/Downloadbrouchers/AMITY/MCA-AMITY/MCA-Software-Engineering.pdf",
+            "universityName": "Amity University",
+            "fee": "2,50,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Computer Science & Information Technology",
+        "action": "Explore",
+        "link": "/courses/mca/computer-science-and-information-technology",
+        "image": {
+          "src": "/pgbanerimages/mca/specializationsicons/computer_science_it.webp",
+          "alt": "Computer Science & IT"
+        },
+        "universities": [
+          {
+            "ProductId": 304,
+            "sourceId": 155,
+            "name": "jain-university",
+            "brouchure": "/Downloadbrouchers/JAIN/MCA-JAIN/computer-science-and-it-brochure-MCA-jain.pdf",
+            "universityName": "Jain University",
+            "fee": "1,60,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Artificial Intelligence",
+        "action": "Explore",
+        "link": "/courses/mca/artificial-intelligence",
+        "image": {
+          "src": "/pgbanerimages/mca/specializationsicons/mca_ai.webp",
+          "alt": "Artificial Intelligence"
+        },
+        "universities": [
+          {
+            "ProductId": 313,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "",
+            "fee": "2,00,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Data Analytics",
+        "action": "Explore",
+        "link": "/courses/mca/data-analytics",
+        "image": {
+          "src": "/pgbanerimages/mca/specializationsicons/mca_analytics.webp",
+          "alt": "Analytics"
+        },
+        "universities": [
+          {
+            "ProductId": 308,
+            "sourceId": 155,
+            "name": "jain-university",
+            "brouchure": "/Downloadbrouchers/JAIN/MCA-JAIN/data-analytics-brochure-MCA-jain.pdf",
+            "universityName": "Jain University",
+            "fee": "1,60,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Augmented Reality",
+        "action": "Explore",
+        "link": "/courses/mca/augmented-reality-and-virtual-reality",
+        "image": {
+          "src": "/pgbanerimages/mca/specializationsicons/mca_argumented_reality.webp",
+          "alt": "Augmented Reality"
+        },
+        "universities": [
+          {
+            "ProductId": 322,
+            "sourceId": 151,
+            "name": "amity-university",
+            "universityName": "Amity University",
+            "brochure": "",
+            "fee": "2,50,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Blockchain Technology",
+        "action": "Explore",
+        "link": "/courses/mca/blockchain-technology-and-management",
+        "image": {
+          "src": "/pgbanerimages/mca/specializationsicons/mca_block_chain_techlogy.webp",
+          "alt": "Blockchain Technology"
+        },
+        "universities": [
+          {
+            "ProductId": 317,
+            "sourceId": 151,
+            "name": "amity-university",
+            "brochure": "/Downloadbrouchers/AMITY/MCA-AMITY/MCA-Blockchain-Technology-Management.pdf",
+            "universityName": "Amity University",
+            "fee": "1,70,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "DevOps",
+        "action": "Explore",
+        "link": "/courses/mca/devops",
+        "image": {
+          "src": "/pgbanerimages/mca/specializationsicons/mca_cdevops.webp",
+          "alt": "DevOps"
+        },
+        "universities": [
+          {
+            "ProductId": 297,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "",
+            "fee": "1,60,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Cloud Computing",
+        "action": "Explore",
+        "link": "/courses/mca/cloud-computing",
+        "image": {
+          "src": "/pgbanerimages/mca/specializationsicons/mca_cloud_computing.webp",
+          "alt": "Cloud Computing"
+        },
+        "universities": [
+          {
+            "ProductId": 274,
+            "sourceId": 155,
+            "name": "jain-university",
+            "universityName": "Jain University",
+            "brochure": "",
+            "fee": "2,00,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+       {
+        "heading": "Ai and Ml TCS",
+        "action": "Explore",
+        "link": "/courses/mca/ai-ml",
+        "image": {
+          "src": "/pgbanerimages/mca/specializationsicons/mca_ai.webp",
+          "alt": "ai and ml"
+        },
+        "universities": [
+          {
+            "ProductId": 413,
+            "sourceId": 151,
+            "name": "amity-university",
+            "brochure": "/Downloadbrouchers/AMITY/MCA-AMITY/MCA-Machine-Learning-Artificial-Intelligence-(TCS).pdf",
+            "universityName": "Amity University",
+            "fee": "2,50,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+       {
+        "heading": "Ai and Ml",
+        "action": "Explore",
+        "link": "/courses/mca/ai-ml",
+        "image": {
+          "src": "/pgbanerimages/mca/specializationsicons/mca_ai.webp",
+          "alt": "ai and ml"
+        },
+        "universities": [
+          {
+            "ProductId": 412,
+            "sourceId": 151,
+            "name": "amity-university",
+            "brochure":"/Downloadbrouchers/AMITY/MCA-AMITY/MCA-Machine-Learning-Artificial-Intelligence.pdf",
+            "universityName": "Amity University",
+            "fee": "2,50,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Cyber Security",
+        "action": "Explore",
+        "link": "/courses/mca/cyber-security",
+        "image": {
+          "src": "/pgbanerimages/mca/specializationsicons/mca_cyber_security.webp",
+          "alt": "Cyber Security"
+        },
+        "universities": [
+          {
+            "ProductId": 279,
+            "sourceId": 155,
+            "name": "jain-university",
+            "brouchure": "/Downloadbrouchers/JAIN/MCA-JAIN/cyber-security-brochure-MCA-jain.pdf",
+            "universityName": "Jain University",
+            "fee": "1,60,000",
+            "duration": "24 months 4 sem"
+          },
+          {
+            "ProductId": 281,
+            "sourceId": 151,
+            "name": "amity-university",
+            "brochure": "/Downloadbrouchers/AMITY/MCA-AMITY/MCA-Cyber-Security.pdf",
+            "universityName": "Amity University",
+            "fee": "2,50,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      },
+      {
+        "heading": "Data Science",
+        "action": "Explore",
+        "link": "/courses/mca/data-science",
+        "image": {
+          "src": "/pgbanerimages/mca/specializationsicons/mca_data_science.webp",
+          "alt": "Data Science"
+        },
+        "universities": [
+          {
+            "ProductId": 310,
+            "sourceId": 155,
+            "name": "jain-university",
+            "brochure": "",
+            "universityName": "Jain University",
+            "fee": "2,00,000",
+            "duration": "24 months 4 sem"
+          }
+        ]
+      }
+    ]
+  },
+
+  "offeringUniversity": {
+    "position": 7,
+    "heading": ["Offering ", "Universities"],
+    "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
+    "columns": [
+      "University",
+      "Accreditations",
+      "Rating",
+      "Duration",
+      "Course Fee",
+      "Action"
+    ]
+  },
+
+  "OnlineAdmissionProcedure": {
+    "position": 9,
+    "heading": ["Teksversity", "Online Admission Process"],
+    "description": "Starting your academic journey is now simpler than ever with our streamlined online admission process. This guide outlines the straightforward steps, from creating your personal student account and submitting basic application details to uploading necessary documents and completing the secure fee payment, all leading to a quick verification and instant admission confirmation.",
+    "admissionSteps": {
+      "heading": ["Guide to Online Admission Process"],
+      "steps": [
+        {
+          "stepNumber": "Step 1",
+          "heading": ["Sign Up"],
+          "details": "Create your personal student account",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 2",
+          "heading": ["Fill Online Application"],
+          "details": "Enter your basic details online",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 3",
+          "heading": ["Upload Documents"],
+          "details": "Submit required certificates and ID proofs.",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 4",
+          "heading": ["Fees Submission"],
+          "details": "Complete secure online payment easily",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 5",
+          "heading": ["Document Verification"],
+          "details": "Quick review of documents and payment",
+          "icon": { "src": "null", "alt": "null" }
+        },
+        {
+          "stepNumber": "Step 6",
+          "heading": ["Admission Confirmation"],
+          "details": "Get instant confirmation of admission",
+          "icon": { "src": "null", "alt": "null" }
+        }
+      ]
+    }
+  },
+
+  "platFormSupport": {
+    "position": 10,
+    "heading": ["Take the Leap", " Towards Learning!"],
+    "subHeading": "null",
+    "services": {
+      "items": [
+        {
+          "id": 1,
+          "heading": ["Flexible Online Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 2,
+          "heading": ["Advanced LMS"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 3,
+          "heading": ["Global Certification"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 4,
+          "heading": ["No Cost EMI"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 5,
+          "heading": ["Affordable Fees"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 6,
+          "heading": ["UGC/NAAC Recognized Universities"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 7,
+          "heading": ["Expert Faculty"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 9,
+          "heading": ["online live and recorded sessions"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 10,
+          "heading": ["Industry-aligned Curriculum"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 11,
+          "heading": ["Dual Certifications"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 12,
+          "heading": ["AI-Enhanced Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 13,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 14,
+          "heading": ["Affordable & Quality Learning"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        },
+        {
+          "id": 15,
+          "heading": ["Placement & Career support"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
+          }
+        }
+      ],
+      "button": {
+        "text": "View all",
+        "icon": { "src": "null", "alt": "null" },
+        "link": "null"
+      }
+    }
+  },
+
+  "programFeeStructure": {
+    "position": 11
+  },
+
+  "testimonials": {
+    "position": 14,
+    "heading": ["Our Students", "Experience"],
+    "subHeading": "null",
+    "tabs": [
+      { "name": "Student Voices", "value": "studentVoices" },
+      { "name": "Testimonial Cards", "value": "testimonialCards" }
+    ],
+    "studentVoices": [
+      {
+        "name": "aniruddh",
+        "videoUrl": "/videos/testimonial_videos/Aniruddh.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/aniruddh.webp",
+          "alt": "aniruddh"
+        }
+      },
+      {
+        "name": "anushkapathak",
+        "videoUrl": "/videos/testimonial_videos/AnushkaPathak.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/anushkapathak.webp",
+          "alt": "anushkapathak"
+        }
+      },
+      {
+        "name": "shalusharma",
+        "videoUrl": "/videos/testimonial_videos/shalusharma.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/shalusharma.webp",
+          "alt": "shalusharma"
+        }
+      },
+      {
+        "name": "snehal yadav",
+        "videoUrl": "/videos/testimonial_videos/Snehal+Yadav+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/sneha.webp",
+          "alt": "shehal yadav"
+        }
+      },{
+        "name": "lithish",
+        "videoUrl": "/videos/testimonial_videos/Lithish+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/lithish.webp",
+          "alt": "lithish"
+        }
+      },
+      {
+        "name": "Mushahidh",
+        "videoUrl": "/videos/testimonial_videos/Mushahidh+Testimonial+video.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/mushhidh.webp",
+          "alt": "muhsahidh"
+        }
+      },
+      {
+        "name": "chandu",
+        "videoUrl": "/videos/testimonial_videos/chandutestimonial.mp4",
+        "thumbnail": {
+          "src": "/home/testimonials/testimonial-cards/chandhu.webp",
+          "alt": "chandu"
+        }
+      }
+    ],
+    "testimonialCards": [
+      {
+        "name": "Vishal",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vishal.webp",
+          "alt": "vishal"
+        },
+        "review": "I took a Data science with ai , IIT Certification course and tejaswi mam helped me to get into the Best course, now I got a job in Accent company with 6.5lpa. Thank you Teksversity Team and special thanks to madam ."
+      },
+      {
+        "name": "Vinitha P",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Vinitha.webp",
+          "alt": "vinitha"
+        },
+        "review": "This Dual Certification course in Digital Marketing and Business Analytics is fantastic. The trainers are knowledgeable and the practical projects helped me apply concepts effectively. A must for anyone looking to excel in marketing and analytics!"
+      },
+      {
+        "name": "sadhana chittennoju",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/sadhana-chittennoju.webp",
+          "alt": "sandhana chittennoju"
+        },
+        "review": "I enrolled in the online Data Science course at Teksversity in March 2025. The Python, ML modules, real-world projects, and weekly assignments were very useful. Good placement support. It helped me build a strong portfolio. Great for career switchers"
+      },
+      {
+        "name": "Arun Pasunuri",
+        "course": "Data Science with AI and ML",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Arun.webp",
+          "alt": "arun"
+        },
+        "review": "Joining TEKSVERSITY changed the way I learn. The dual certification programs boosted my confidence, and the hands-on training gave me real industry experience. Their zero down-payment EMI support truly helps students. TEKSVERSITY inspires you to grow."
+      },
+      {
+        "name": "Ramadevi Koduri",
+        "course": "Digital Marketing and Business Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Ramadevi-Koduri.webp",
+          "alt": "ramadevi koduri"
+        },
+        "review": "Teksversity is the best place to learn dual certification in Digital Marketing and Business Analytics. I wanted to study two relevant courses for my MBA, and their counsellor guided me perfectly. I enrolled in both programs with confidence."
+      },
+      {
+        "name": "Meghana",
+        "course": "PG in Data Analytics",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Meghana.webp",
+          "alt": "meghana"
+        },
+        "review": "My experience with Teksversity was amazing! The counselling session with Sireesha Reddy ma’am at Secunderabad helped me choose the right course. She patiently cleared all my doubts and gave great career clarity."
+      },
+      {
+        "name": "Divya Peddiwar",
+        "course": "Data Science and Python full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Divya.webp",
+          "alt": "divya peddiwar"
+        },
+        "review": "Teksversity is where growth meets opportunity! Their dual courses and online degree programs helped me learn in multiple directions. The mentors boosted my skills and confidence, and the experience truly transformed the way I learn."
+      },
+      {
+        "name": "Gayathri Prayaga",
+        "course": "Java full stack",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Gayathri.webp",
+          "alt": "gayathri prayaga"
+        },
+        "review": "Teksversity Education Institution exceeded my expectations! The faculty is knowledgeable and supportive. The curriculum is relevant and industry-focused. I appreciated the career services and opportunities provided. Highly recommended!"
+      },
+      {
+        "name": "Raghavenderan G",
+        "course": "PG in Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Raghavenderan.webp",
+          "alt": "raghavenderan g"
+        },
+        "review": "Great institute with quality education at an affordable price. They offer trending, industry-ready courses and practical, supportive teaching. Their tie-ups with top universities add huge value. Highly recommended for strong learning and career growth."
+      },
+      {
+        "name": "Laxmi Gayathri Chelimeda",
+        "course": "Data Science",
+        "image": {
+          "src": "/home/testimonials/testimonial-cards/Laxmi Gayathri.webp",
+          "alt": "laxmi gayathri chelimeda"
+        },
+        "review": "I took the Data Science course at Teksversity and gained strong practical, hands-on knowledge. The mentors were very supportive and explained concepts clearly. I’m also grateful for the career opportunity I received. A great learning experience"
+      }
+    ]
+  },
+
+ "spinAndWin": {
+    "position": 11,
+    "summary": {
+      "price": {
+        "label": "Price of Course",
+        "value": 10000
+      },
+      "discount": {
+        "label": "Discount",
+        "ctaButton": {
+          "text": "Spin & Win",
+          "link": "#spin_and_win_promo_link"
+        }
+      },
+      "ctaButton": {
+        "text": "Enroll Now",
+        "link": "#enrollment_link"
+      }
+    },
+    "images": {
+      "spinAnimation": {
+        "src": "/home/spin+1.gif",
+        "alt": "Spin and Win Animation"
+      },
+      "spinWheel": {
+        "src": "/home/spinwheel.webp",
+        "alt": "Spin Wheel"
+      },
+      "background": {
+        "src": "/home/bgspin.webp",
+        "alt": "Spin and Win Background"
+      }
+    }
+  },
+
+  "hiringPartners": {
+    "position": 10,
+    "hiringPartnersHeading": ["700+ Hiring", "Partners"],
+    "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
+    "image": {
+      "src": "/home/hiring_companies/business_person.webp",
+      "alt": "business_person"
+    },
+    "companies": {
+      "row1": [
+        {
+          "name": "Aspire Systems",
+          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
+        },
+        {
+          "name": "Bajaj",
+          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
+        },
+        {
+          "name": "Cognizant",
+          "image": {
+            "src": "/home/companies/cognizant.webp",
+            "alt": "cognizant"
+          }
+        },
+        {
+          "name": "Google",
+          "image": { "src": "/home/companies/google.webp", "alt": "google" }
+        },
+        {
+          "name": "ICICI",
+          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
+        },
+        {
+          "name": "Kapil Chits",
+          "image": {
+            "src": "/home/companies/kapil_chits.webp",
+            "alt": "kapil_chits"
+          }
+        },
+        {
+          "name": "LIC",
+          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
+        },
+        {
+          "name": "Muthoot Finance",
+          "image": {
+            "src": "/home/companies/muthutfinance.webp",
+            "alt": "muthutfinance"
+          }
+        },
+        {
+          "name": "T & T Finance",
+          "image": {
+            "src": "/home/companies/tandtfinance.webp",
+            "alt": "tandtfinance"
+          }
+        },
+        {
+          "name": "Ujjivan",
+          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
+        },
+        {
+          "name": "Zensar Technologies",
+          "image": { "src": "/home/companies/zensarrr.webp", "alt": "zensarrr" }
+        },
+
+        {
+          "name": "Adobe",
+          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
+        },
+        {
+          "name": "Cyient",
+          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
+        }
+      ],
+
+      "row2": [
+        {
+          "name": "HCL",
+          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
+        },
+        {
+          "name": "Infosys",
+          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
+        },
+        {
+          "name": "Kapil IT",
+          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
+        },
+        {
+          "name": "Mahindra",
+          "image": {
+            "src": "/home/companies/mahindhra.webp",
+            "alt": "mahindhra"
+          }
+        },
+        {
+          "name": "Nucleus Software",
+          "image": { "src": "/home/companies/nucleuss.webp", "alt": "nucleuss" }
+        },
+        {
+          "name": "Tata",
+          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
+        },
+        {
+          "name": "ValueLabs",
+          "image": {
+            "src": "/home/companies/valuelabs.webp",
+            "alt": "valuelabs"
+          }
+        },
+        {
+          "name": "Zerodha",
+          "image": { "src": "/home/companies/zerodhaa.webp", "alt": "zerodhaa" }
+        },
+
+        {
+          "name": "Apple",
+          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
+        },
+        {
+          "name": "Capgemini",
+          "image": {
+            "src": "/home/companies/capgemini.webp",
+            "alt": "capgemini"
+          }
+        },
+        {
+          "name": "Deloitte",
+          "image": { "src": "/home/companies/deloitte.webp", "alt": "deloitte" }
+        },
+        {
+          "name": "HDFC Bank",
+          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
+        },
+        {
+          "name": "Intel",
+          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
+        },
+        {
+          "name": "Karur Bank",
+          "image": {
+            "src": "/home/companies/karur_bank.webp",
+            "alt": "karur_bank"
+          }
+        }
+      ],
+
+      "row3": [
+        {
+          "name": "Microland",
+          "image": {
+            "src": "/home/companies/microlandd.webp",
+            "alt": "microlandd"
+          }
+        },
+        {
+          "name": "Oracle",
+          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
+        },
+        {
+          "name": "TCS",
+          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
+        },
+        {
+          "name": "Wipro",
+          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
+        },
+
+        {
+          "name": "Acko",
+          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
+        },
+        {
+          "name": "Cisco",
+          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
+        },
+        {
+          "name": "Flipkart",
+          "image": { "src": "/home/companies/flipkart.webp", "alt": "flipkart" }
+        },
+        {
+          "name": "IBM",
+          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
+        },
+        {
+          "name": "Jana Finance",
+          "image": {
+            "src": "/home/companies/jana_finance.webp",
+            "alt": "jana_finance"
+          }
+        },
+        {
+          "name": "Kotak",
+          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
+        },
+        {
+          "name": "Microsoft",
+          "image": {
+            "src": "/home/companies/microsoft.webp",
+            "alt": "microsoft"
+          }
+        },
+        {
+          "name": "SBI",
+          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
+        },
+        {
+          "name": "Tech Mahindra",
+          "image": {
+            "src": "/home/companies/techmahindra.webp",
+            "alt": "techmahindra"
+          }
+        },
+        {
+          "name": "Yash Technologies",
+          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+        }
+      ]
+    }
+  },
+
+  "questionSection": {
+    "position": 15,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What is MCA (Master of Computer Applications)?",
+        "answer": "MCA is a postgraduate program in Computer Applications that focuses on advanced programming, software development, databases, networking, cloud technologies, and emerging IT skills required for modern tech careers."
+      },
+      {
+        "question": "Who is eligible to join the MCA program?",
+        "answer": "Students with a BCA, BSc (CS/IT), BTech, or any degree with Mathematics/Computer Science can pursue MCA. Some universities also offer bridge courses for non-IT graduates."
+      },
+      {
+        "question": "How long is the MCA course?",
+        "answer": "The duration of MCA is typically 2 years (4 semesters), including theory classes, practical labs, mini-projects, and a final-year industry project."
+      },
+      {
+        "question": "What career opportunities are available after MCA?",
+        "answer": "MCA graduates can work as Software Developers, Web Developers, Data Analysts, Database Administrators, Cloud Engineers, Cybersecurity Analysts, System Administrators, AI/ML Engineers, and more in top IT companies."
+      },
+      {
+        "question": "What is the average salary after completing MCA?",
+        "answer": "Fresh MCA graduates usually earn ₹3–7 LPA, while experienced professionals can earn ₹8–20 LPA+, depending on their skills and chosen specialization."
+      },
+      {
+        "question": "Can working professionals pursue MCA?",
+        "answer": "Yes. Many universities provide online, part-time, and weekend MCA programs, making it flexible for working professionals to upskill while continuing their job."
+      },
+      {
+        "question": "What specializations are available in MCA?",
+        "answer": "Popular MCA specializations include AI & ML, Data Science, Cloud Computing, Cybersecurity, Blockchain, AR/VR, Full Stack Development, IoT, and Software Engineering."
+      },
+      {
+        "question": "What is the scope of MCA in today’s tech industry?",
+        "answer": "The demand for skilled IT professionals continues to rise globally. MCA graduates can work in IT services, product-based companies, startups, fintech, cloud industries, cybersecurity firms, and R&D departments with excellent growth potential."
+      },
+      {
+        "question": "Do MCA programs include practical learning and real-time projects?",
+        "answer": "Yes. MCA includes labs, coding assignments, internships, capstone projects, and industry tools that prepare students for real-world IT roles."
+      },
+      {
+        "question": "What industries hire MCA graduates?",
+        "answer": "MCA graduates are hired across IT services, software development, e-commerce, fintech, banking, healthcare IT, telecom, consulting, and cloud-based product companies."
+      }
+    ]
+  },
+
+  "letsTalk": {
+    "position": 14,
+    "heading": ["Confused About Your Next Step?"],
+    "description": "We’ll guide you step by step and help you explore the right options. Find the perfect program that matches your goals.",
+    "button": {
+      "name": "Let's Talk",
+      "link": null,
+      "form": true
+    },
+    "callPopup": {
+      "heading": ["Just One Click To Call"],
+      "subHeading": "Toll Free",
+      "image": {
+        "src": "/home/letstalk.webp",
+        "alt": "letstalk.webp"
+      },
+      "phoneNumber": "1800-309-9909",
+      "description": "Get started today—Teksversity is here to guide you"
+    }
+  },
+
+  "mostSearchedTerms": {
+    "position": 17,
+    "locations": ["Hyderabad", "Kakinada"],
+    "courses": [
+      "Master of Computer Applications (MCA)",
+      "Online MCA degree",
+      "Master of computer application course",
+      "Online MCA course",
+      "Master of computer application online",
+      "MCA in Cloud Computing",
+      "MCA in Cyber Security",
+      "MCA in Full Stack Development",
+      "MCA in Data Analytics",
+      "MCA in Data Science",
+      "MCA in Software Engineering"
+    ]
+  }
+}

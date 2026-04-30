@@ -1,0 +1,154 @@
+{
+  "navbar": {
+    "topbar": {
+      "items": {
+        "contact": {
+          "type": "text",
+          "name": "1800-309-9909"
+        },
+        "download": {
+          "type": "link",
+          "name": "Download Mobile App",
+          "link": "/download-mobile-app"
+        },
+        "blogs": {
+          "type": "link",
+          "name": "Blogs",
+          "link": "/blogs"
+        },
+        "button": {
+          "type": "button",
+          "name": "1:1 Career Guidance",
+          "form": true
+        },
+
+        "login": {
+          "name": "Login",
+          "link": "https://www.student.teksversity.com/auth/login/"
+        },
+
+        "findMyCourse": {
+          "name": "Find My Course",
+          "link": "/find-my-course"
+        },
+
+        "socialMedia": {
+          "type": "socialMedia",
+          "icons": [
+            {
+              "platform": "facebook",
+              "icon": "/icons/facebook.svg",
+              "link": "https://www.facebook.com/people/Teksversity/61578853585345/"
+            },
+            {
+              "platform": "instagram",
+              "icon": "/icons/instagram.svg",
+              "link": "https://www.instagram.com/teksversity/"
+            },
+            {
+              "platform": "youtube",
+              "icon": "/icons/youtube.svg",
+              "link": "https://www.youtube.com/@Teksversity"
+            },
+            {
+              "platform": "linkedin",
+              "icon": "/icons/linkedin.svg",
+              "link": "https://www.linkedin.com/company/108117280/admin/dashboard/"
+            }
+          ]
+        }
+      }
+    },
+
+    "mainbar": {
+      "logo": {
+        "src": "/assets/img/teksacademy_14years.webp",
+        "alt": "teksacademy"
+      },
+
+      "elements": [
+        {
+          "name": "Home",
+          "link": "/"
+        },
+        {
+          "name": "Courses",
+          "dropdown": [
+            {
+              "category": "Certifications",
+              "value": "certifications",
+              "subCategory": [
+                {
+                  "name": "Dual Certification Course",
+                  "value": "dualCertification"
+                },
+                {
+                  "name": "Post Graduation Certification Course",
+                  "value": "postGraduationCertification"
+                },
+                {
+                  "name": "Teksversity Certification Course",
+                  "value": "certification"
+                },
+                { "name": "Fast Track Course", "value": "fastTrack" }
+              ]
+            },
+            {
+              "category": "Academics",
+              "value": "academics",
+              "subCategory": [
+                { "name": "BBA", "value": "bba", "link": "/courses/bba" },
+                { "name": "BA", "value": "ba", "link": "/courses/ba" },
+                { "name": "BCA", "value": "bca", "link": "/courses/bca" },
+                { "name": "B.Com", "value": "bcom", "link": "/courses/bcom" },
+                { "name": "MBA", "value": "mba", "link": "/courses/mba" },
+                { "name": "MCA", "value": "mca", "link": "/courses/mca" },
+                { "name": "MA", "value": "ma", "link": "/courses/ma" },
+                { "name": "M.Com", "value": "mcom", "link": "/courses/mcom" },
+                { "name": "M.Sc", "value": "msc", "link": "/courses/ms" }
+              ]
+            }
+          ]
+        },
+
+        {
+          "name": "Franchise",
+          "dropdown": [
+            {
+              "name": "Kakinada Branch",
+              "link": "/franchise/kakinada"
+            }
+          ]
+        },
+
+        {
+          "name": "Success Stories",
+          "link": "/success-stories"
+        },
+
+        {
+          "name": "Ebooks",
+          "link": "/ebook"
+        },
+
+        {
+          "name": "Discover",
+          "dropdown": [
+            { "name": "About Us", "link": "/discover/about-us" },
+            { "name": "Gallery", "link": "/discover/gallery" },
+            { "name": "Contact Us", "link": "/discover/contact-us" },
+            { "name": "Support", "link": "/discover/support" }
+          ]
+        },
+
+        {
+          "name": "Login",
+          "link": "https://www.student.teksversity.com/auth/login/"
+        }
+      ],
+      "ivrNumber": {
+        "value": "1800-309-9909"
+      }
+    }
+  }
+}

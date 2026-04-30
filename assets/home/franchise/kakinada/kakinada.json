@@ -1,0 +1,450 @@
+{
+  "banner": {
+    "position": 1,
+    "name": "Best Software Training Institute in Kakinada",
+    "mainHeading": "Best Software Training Institute in Kakinada",
+    "paragraph": "Teksversity brings advanced software learning to Kakinada with industry-ready courses, real-time projects, expert mentors, and flexible online pathways. Build cutting-edge tech skills, earn top certifications, and fast-track your career with training designed for today’s IT demands. Your journey to global opportunities starts right here!",
+     "button": {
+      "applyButton": {
+        "name": "Apply Now",
+        "link": null,
+        "form": true
+      },
+        "letsTalkButton":{    
+        "name": "Let's Talk",
+        "link": null,
+        "form": true
+      
+     }
+
+    },
+    "bgImage": { "src": "null", "alt": "null" },
+    "bannerImage": {
+      "src": "/kakinada/franchise_banner_2.webp",
+      "alt": "franchise_banner"
+    }
+  },
+
+  
+  "certificationCards": {
+    "position": 2,
+    "heading": ["Learn Industry Skills With ", "University Certification"],
+    "subCategory": [
+      { "name": "Dual Certification Course", "value": "dualCertification" },
+      {
+        "name": "Post Graduation Certification Course",
+        "value": "postGraduationCertification"
+      },
+      { "name": "Certification course", "value": "certification" },
+      { "name": "Fast Track Course", "value": "fastTrack" }
+    ],
+    "button": {
+      "name": "View All Courses",
+      "link": null,
+      "form": true
+    }
+  },
+
+   "careerServices": {
+    "position": 3,
+    "heading": ["Career Services"," in a Nutshell"],
+    "subHeading": "Everything you need to succeed in your tech career",
+    "services": [
+      {
+        "id": 1,
+        "title": "Technical Seminars",
+        "description": "Attend expert-led sessions that simplify complex concepts and keep you updated with the latest industry trends.",
+        "icon": {
+          "src": null,
+          "alt": "technical seminars"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Master Advanced AI Tools",
+        "description": "Learn to work with the latest AI platforms and technologies used by leading companies.",
+        "icon": {
+          "src": null,
+          "alt": "mock interviews"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Completely Job-Oriented Program",
+        "description": "Train with a curriculum designed to meet real industry needs and prepare you for employment.",
+        "icon": {
+          "src": null,
+          "alt": "job ready skills"
+        }
+      },
+      {
+        "id": 4,
+        "title": "CRT & Job-Ready Skills",
+        "description": "Gain essential technical and soft skills that prepare you confidently for job placements.",
+        "icon": {
+          "src": null,
+          "alt": "job portal"
+        }
+      },
+      {
+        "id": 5,
+        "title": "Mock Interviews",
+        "description": "Practice real interview scenarios with feedback from experienced industry professionals.",
+        "icon": {
+          "src": null,
+          "alt": "internship in it company"
+        }
+      },
+      {
+        "id": 6,
+        "title": "Dedicated Job Portal",
+        "description": "Explore exclusive job openings from partner companies and apply directly through our placement platform.",
+        "icon": {
+          "src": null,
+          "alt": "internship opportunities"
+        }
+      },
+      {
+        "id": 7,
+        "title": "Internship Opportunity in an IT Company",
+        "description": "Work on real tasks in an IT environment to enhance your workplace experience.",
+        "icon": {
+          "src": null,
+          "alt": "internship opportunities"
+        }
+      },
+      {
+        "id": 9,
+        "title": "100% Job Assistance",
+        "description": "Receive complete placement support—from resume building to interviews—until you secure your ideal job.",
+        "icon": {
+          "src": null,
+          "alt": "internship opportunities"
+        }
+      }
+    ]
+  },
+  "excelWithTeksversity": {
+    "position": 4,
+    "heading": ["Excel With","Teksversity"],
+    "features": [
+      {
+        "id": 1,
+        "title": "Internship",
+        "subTitle": "Opportunity",
+        "icon": {
+          "src": null,
+          "alt": "internship opportunity"
+        }
+      },
+      {
+        "id": 2,
+        "title": "University",
+        "subTitle": "Approved Curriculum",
+        "icon": {
+          "src": null,
+          "alt": "university approved curriculum"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Dedicated",
+        "subTitle": "Student Dashboard",
+        "icon": {
+          "src": null,
+          "alt": "student dashboard"
+        }
+      },
+      {
+        "id": 4,
+        "title": "Online",
+        "subTitle": "Training",
+        "icon": {
+          "src": null,
+          "alt": "online training"
+        }
+      },
+      {
+        "id": 5,
+        "title": "100%",
+        "subTitle": "Job Assistance",
+        "icon": {
+          "src": null,
+          "alt": "job assistance"
+        }
+      },
+      {
+        "id": 6,
+        "title": "Class",
+        "subTitle": "Recordings",
+        "icon": {
+          "src": null,
+          "alt": "class recordings"
+        }
+      },
+      {
+        "id": 7,
+        "title": "Module",
+        "subTitle": "Based Assessments",
+        "icon": {
+          "src": null,
+          "alt": "module based assessments"
+        }
+      },
+      {
+        "id": 8,
+        "title": "Hands On",
+        "subTitle": "Projects",
+        "icon": {
+          "src": null,
+          "alt": "hands on projects"
+        }
+      }
+    ],
+    "image": {
+      "src": "/kakinada/excelll.webp",
+      "alt": "excelll"
+    }
+  },
+  "aboutTeksversity": {
+    "position": 5,
+    "heading": ["About","Teksversity"],
+    "tagline": "Teks - Making Job Cracking Easier!",
+    "mission": {
+      "title": "Our Mission",
+      "description": "Our mission at Teksversity is to provide accessible, industry-aligned higher education that blends academic excellence with job-oriented skills. We aim to empower learners with globally recognized degrees, dual certifications, hands-on projects, and flexible online learning pathways that prepare them for real-world careers."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "Our vision is to become India’s most trusted digital hub—where every learner can earn UG, PG, and certification programs from top-ranked universities and institutions. Ultimately, gain practical expertise and build successful careers from anywhere. We aspire to make high-quality education affordable, flexible, and achievable for learners from all backgrounds."
+    },
+    "cta": {
+      "text": "Learn More",
+      "link": "/discover/about-us"
+    },
+    "stats": [
+      {
+        "id": 1,
+        "count": "120+",
+        "label": "Trainers",
+        "image": {"src":"/kakinada/icons/people.webp","alt":"people"}
+      },
+      {
+        "id": 2,
+        "count": "48K+",
+        "label": "Trained Students",
+          "image": {"src":"/kakinada/icons/Vector_img.webp","alt":"Vector_img"}
+      },
+      {
+        "id": 3,
+        "count": "39K+",
+        "label": "Professionals",
+          "image": {"src":"/kakinada/icons/Book_img.webp","alt":"Book_img"}
+      },
+      {
+        "id": 4,
+        "count": "14+",
+        "label": "Years",
+          "image": {"src":"/kakinada/icons/Hand_shake.webp","alt":"Hand_shake"}
+      }
+    ],
+    "image": {
+      "src": "/kakinada/About_Teksversity(Franchise).webp",
+      "alt": "About_Teksversity(Franchise)"
+    }
+  },
+  "exploreMapsSection": {
+    "position": 6,
+    "heading": ["Top UG, PG, IT and Non-IT Courses","in Kakinada"],
+    "content": {
+      "description": "Kakinada has rapidly grown into a thriving education and technology hub, making it the perfect location for Teksversity to offer industry-focused software training and advanced learning programs. Known for its strong academic culture, vibrant student community, and expanding IT presence, Kakinada provides the ideal environment for aspiring tech professionals to build their future. At Teksversity Kakinada, we bring top-tier UG, PG, and certification programs designed to meet the demands of today’s tech-driven world. Our presence here helps local students access high-quality education without needing to relocate to bigger cities. With expert trainers, practical learning modules, AI tools, internships, and complete job assistance, Teksversity empowers learners from nearby regions to achieve career success. If you are looking for Top UG, PG, IT and Non-IT courses in Kakinada, Teksversity serves as a trusted gateway to global opportunities, right from your hometown."
+    },
+    "map": {
+      "title": "map",
+      "src": null,
+      "alt": "location map"
+    }
+  },
+   "awards": {
+    "position":7,
+    "heading": ["Awards"],
+    "images": [
+      {
+        "image": "/home/awards/Awards_Icons.webp",
+        "alt": "",
+        "heading": "Pride of Indian Education.",
+        "subHeading": "Awarded by Brands Impact"
+      },
+      {
+        "image": "/home/awards/Awards_Icons2.webp",
+        "alt": "",
+        "heading": "Pride of Indian Education.",
+        "subHeading": "Awarded by Brands Impact"
+      },
+      {
+        "image": "/home/awards/Awards_Icons3.webp",
+        "alt": "",
+        "heading": "Pride of Indian Education.",
+        "subHeading": "Awarded by Brands Impact"
+      },
+      {
+        "image": "/home/awards/Awards_Icons4.webp",
+        "alt": "",
+        "heading": "Pride of Indian Education.",
+        "subHeading": "Awarded by Brands Impact"
+      },
+      {
+        "image": "/home/awards/Awards_Icons5.webp",
+        "alt": "",
+        "heading": "Pride of Indian Education.",
+        "subHeading": "Awarded by Brands Impact"
+      },
+      {
+        "image": "/home/awards/Awards_Icons.webp",
+        "alt": "",
+        "heading": "Pride of Indian Education.",
+        "subHeading": "Awarded by Brands Impact"
+      },
+      {
+        "image": "/home/awards/Awards_Icons2.webp",
+        "alt": "",
+        "heading": "Pride of Indian Education.",
+        "subHeading": "Awarded by Brands Impact"
+      },
+      {
+        "image": "/home/awards/Awards_Icons3.webp",
+        "alt": "",
+        "heading": "Pride of Indian Education.",
+        "subHeading": "Awarded by Brands Impact"
+      },
+      {
+        "image": "/home/awards/Awards_Icons4.webp",
+        "alt": "",
+        "heading": "Pride of Indian Education.",
+        "subHeading": "Awarded by Brands Impact"
+      }
+    ]
+  },
+    "gallery": {
+    "position": 8,
+    "heading": ["Gallery"],
+      "images": [
+    { "src": "/kakinada/gallery/gallery1.webp", "alt": "gallery 1" },
+    { "src": "/kakinada/gallery/gallery2.webp", "alt": "gallery 2" },
+    { "src": "/kakinada/gallery/gallery3.webp", "alt": "gallery 3" },
+    { "src": "/kakinada/gallery/gallery4.webp", "alt": "gallery 4" },
+    { "src": "/kakinada/gallery/gallery5.webp", "alt": "gallery 5" },
+    { "src": "/kakinada/gallery/gallery6.webp", "alt": "gallery 6" },
+    { "src": "/kakinada/gallery/gallery7.webp", "alt": "gallery 7" },
+    { "src": "/kakinada/gallery/gallery8.webp", "alt": "gallery 8" },
+    { "src": "/kakinada/gallery/gallery9.webp", "alt": "gallery 9" },
+    { "src": "/kakinada/gallery/gallery10.webp", "alt": "gallery 10" },
+    { "src": "/kakinada/gallery/gallery11.webp", "alt": "gallery 11" }
+  ]
+  },
+   "featuredIn": {
+    "position": 9,
+    "heading": ["Featured In"],
+    "images": [
+      {
+        "image": { "src": "/home/featuredin/v6.webp", "alt": "v6" }
+      },
+      {
+        "image": { "src": "/home/featuredin/zee.webp", "alt": "zee" }
+      },
+      {
+        "image": { "src": "/home/featuredin/cnn.webp", "alt": "cnn" }
+      },
+      {
+        "image": { "src": "/home/featuredin/daily.webp", "alt": "daily" }
+      },
+      {
+        "image": { "src": "/home/featuredin/enadu.webp", "alt": "enadu" }
+      },
+      {
+        "image": { "src": "/home/featuredin/hans.webp", "alt": "hans" }
+      },
+      {
+        "image": { "src": "/home/featuredin/hindhu.webp", "alt": "hindhu" }
+      },
+      {
+        "image": { "src": "/home/featuredin/hmtv.webp", "alt": "hmtv" }
+      },
+      {
+        "image": { "src": "/home/featuredin/india.webp", "alt": "india" }
+      },
+      {
+        "image": {
+          "src": "/home/featuredin/indian_express.webp",
+          "alt": "indian_express"
+        }
+      },
+      {
+        "image": { "src": "/home/featuredin/lokal.webp", "alt": "lokal" }
+      },
+      {
+        "image": { "src": "/home/featuredin/metro.webp", "alt": "metro" }
+      },
+      {
+        "image": { "src": "/home/featuredin/ndtv.webp", "alt": "ndtv" }
+      },
+      {
+        "image": { "src": "/home/featuredin/tv5.webp", "alt": "tv5" }
+      },
+      {
+        "image": { "src": "/home/featuredin/andhra.webp", "alt": "andhra" }
+      }
+    ]
+  },
+
+   "faq": {
+    "position": 10,
+    "heading": ["Frequently asked", "Questions"],
+    "faq": [
+      {
+        "question": "What types of programs does Teksversity offer?",
+        "answer": "Teksversity offers a variety of online programs including undergraduate degrees (BBA, BCom), postgraduate degrees (MBA, MCA, MSc), and doctorate programs (PhD) across multiple disciplines such as business, technology, healthcare, and analytics."
+      },
+      {
+        "question": "What is the duration of the online programs at Teksversity?",
+        "answer": "Teksversity offers undergraduate programs that typically span 3 years and postgraduate programs that are structured as 2-year programs, designed to meet academic standards and evolving industry needs."
+      },
+      {
+        "question": "What specializations are available in Teksversity's programs?",
+        "answer": "Teksversity provides a wide range of specializations in business, technology, healthcare, analytics, and more, ensuring learners can align their education with current industry trends and career goals."
+      },
+      {
+        "question": "Are the programs offered by Teksversity recognized and valid for career growth?",
+        "answer": "Yes, all programs are delivered in collaboration with accredited academic institutions and are recognized for employment, further education, and career advancement across various sectors."
+      },
+      {
+        "question": "What makes Teksversity’s online education different from other platforms?",
+        "answer": "Teksversity stands out by offering dual certification—combining academic credentials with industry-recognized certifications—along with a learning approach that blends flexibility, expert instruction, and hands-on project experience."
+      },
+      {
+        "question": "What is the fee structure for the programs at Teksversity?",
+        "answer": "Program fees vary depending on the specialization and academic partner, generally ranging from ₹1,10,000 to ₹2,92,000 for postgraduate studies. Detailed fee information is provided during the enrollment process."
+      },
+      {
+        "question": "What is the mode of learning at Teksversity?",
+        "answer": "All programs are delivered 100% online through a mix of live classes, self-paced content, real-world projects, and case-based learning—providing flexibility without compromising on educational quality."
+      },
+      {
+        "question": "Who can join a program at Teksversity?",
+        "answer": "Teksversity programs are ideal for individuals from different backgrounds—working professionals, students, career switchers, and anyone looking to upgrade their skills and academic qualifications."
+      },
+      {
+        "question": "What does the dual certification model include?",
+        "answer": "Learners receive both an academic degree from an accredited institution and an additional industry-oriented certification from Teksversity, helping them stand out in the competitive job market."
+      },
+      {
+        "question": "Does Teksversity offer placement or career support?",
+        "answer": "Yes, career support includes resume building, mock interviews, skill development sessions, and access to job opportunities through industry connections and placement assistance."
+      },
+      {
+        "question": "How can I enroll in a program at Teksversity?",
+        "answer": "Enrollment is simple and fully online. Prospective learners can apply through the Teksversity website and receive personalized guidance from the admissions team throughout the onboarding process"
+      }
+    ]
+  }
+}
