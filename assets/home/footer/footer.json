@@ -1,11 +1,19 @@
 {
   "footer": {
-    "image": { "src": "/home/Teksversity_navbar.webp", "alt": "teksversity" },
+    "contactBar": {
+      "address": "Secunderabad",
+      "phone": "1800-120-4748",
+      "email": "support@teksacademy.com"
+    },
+    "image": {
+      "src": "/assets/img/teksacademy.webp",
+      "alt": "Teks Academy"
+    },
     "officialAddress": {
       "heading": "Official Address",
       "address": [
-        "Teksversity Institute of Advanced Learning, 3rd Floor, Amsri Faust Building, Sarojini Devi Road,",
-        "opp to pista house, Regimental Bazaar, Shivaji Nagar, Secunderabad, Hyderabad - 500025"
+        "5th Floor, Amsri Faust Building, Sarojini Devi Rd, Opposite Pista House,",
+        "Secunderabad, Telangana - 500025"
       ]
     },
     "socialMedia": {
@@ -13,76 +21,100 @@
       "links": [
         {
           "platform": "facebook",
-          "url": "https://www.facebook.com/people/Teksversity/61578853585345/"
+          "url": "https://facebook.com/teksacademy"
         },
         {
           "platform": "instagram",
-          "url": "https://www.instagram.com/teksversity/"
+          "url": "https://instagram.com/teksacademy"
         },
         {
           "platform": "linkedin",
-          "url": "https://www.linkedin.com/company/108117280/admin/dashboard/"
+          "url": "https://linkedin.com/company/teksacademy"
         },
-        { "platform": "youtube", "url": "https://www.youtube.com/@Teksversity" }
+        {
+          "platform": "youtube",
+          "url": "https://youtube.com/@teksacademy"
+        }
       ]
     },
     "sections": [
       {
-        "title": "Universities",
+        "title": "Discover",
         "items": [
-          { "name": "Jain University", "url": "/university/jain-university" },
-          { "name": "Amity University", "url": "/university/amity-university" }
+          {
+            "name": "Success Stories",
+            "url": "/success-stories"
+          },
+          {
+            "name": "About Us",
+            "url": "/about-us"
+          },
+          {
+            "name": "Apply For Jobs",
+            "url": "/apply-jobs"
+          },
+          {
+            "name": "Alumni",
+            "url": "/alumni"
+          }
         ]
       },
       {
-        "title": "Certification Courses",
+        "title": "Resources",
         "items": [
           {
-            "name": "Dual Certification",
-            "url": "/courses"
+            "name": "E-Books",
+            "url": "/resources/ebooks"
           },
           {
-            "name": "PG  Certification",
-            "url": "/courses"
+            "name": "Video Lectures",
+            "url": "/resources/video-lectures"
           },
           {
-            "name": "Teksversity Certification",
-            "url": "/courses"
+            "name": "Interview Questions",
+            "url": "/resources/interview-questions"
           },
-          { "name": "Fast Track", "url": "/courses" }
+          {
+            "name": "Blogs",
+            "url": "/blogs"
+          }
         ]
       },
       {
-        "title": "UG Courses",
+        "title": "Join Teks Academy",
         "items": [
-          { "name": "BBA", "url": "/courses/bba" },
-          { "name": "BCOM", "url": "/courses/bcom" },
-          { "name": "BCA", "url": "/courses/bca" },
-          { "name": "BA", "url": "/courses/ba" }
-        ]
-      },
-      {
-        "title": "PG Courses",
-        "items": [
-          { "name": "MBA", "url": "/courses/mba" },
-          { "name": "MCA", "url": "/courses/mca" },
-          { "name": "MA", "url": "/courses/ma" },
-          { "name": "MCom", "url": "/courses/mcom" },
-          { "name": "MSc", "url": "/courses/ms" }
+          {
+            "name": "Student Login",
+            "url": "/student-login"
+          },
+          {
+            "name": "Book A Demo",
+            "url": "/book-demo"
+          },
+          {
+            "name": "Enroll Now",
+            "url": "/enroll-now"
+          }
         ]
       },
       {
         "title": "Policies",
         "items": [
-          { "name": "Privacy Policy", "url": "/privacy-policy" },
-          { "name": "Terms & Conditions", "url": "/terms-conditions" }
+          {
+            "name": "Privacy Policy",
+            "url": "/privacy-policy"
+          },
+          {
+            "name": "Terms & Conditions",
+            "url": "/terms-conditions"
+          }
         ]
       }
     ],
     "bottomBar": {
       "madeWith": "Made with ❤️ in Hyderabad, India",
       "copyright": "Copyright © 2025 Kapil Knowledge Hub Pvt Ltd || All Rights Reserved",
-      "developerNote": "Developed by Infoz IT"
+      "developerNote": "Developed By Infoz IT"
     }
   }
 }

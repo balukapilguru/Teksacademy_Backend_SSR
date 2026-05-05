@@ -1,0 +1,116 @@
+{
+  "heading": "Interview Questions",
+  "cards": [
+    {
+      "title": "Full Stack Python",
+      "description": "Master Python, Django, and REST API development.",
+      "link": "/interview-questions/full-stack-python"
+    },
+    {
+      "title": "Full Stack Java",
+      "description": "Become a Java expert with Spring Boot and Microservices.",
+      "link": "/interview-questions/full-stack-java"
+    },
+    {
+      "title": "Data Science",
+      "description": "Learn AI, ML, Deep Learning, and Big Data Analytics.",
+      "link": "/interview-questions/data-science"
+    },
+    {
+      "title": "Digital Marketing",
+      "description": "SEO, Google Ads, Social Media Marketing, and Analytics.",
+      "link": "/interview-questions/digital-marketing"
+    },
+    {
+      "title": "AWS & DevOps",
+      "description": "Master cloud computing with AWS, Docker, and Kubernetes.",
+      "link": "/interview-questions/aws-devops"
+    },
+    {
+      "title": "BIM",
+      "description": "Learn 3D modeling and construction management tools.",
+      "link": "/interview-questions/bim"
+    },
+    {
+      "title": "Software Testing",
+      "description": "Manual & Automation Testing, Selenium, JIRA, API Testing.",
+      "link": "/interview-questions/software-testing"
+    },
+    {
+      "title": "VLSI Design",
+      "description": "Learn ASIC, FPGA, and semiconductor design methodologies.",
+      "link": "/interview-questions/vlsi-design"
+    },
+    {
+      "title": "SAP FICO",
+      "description": "Master SAP Finance & Controlling for business applications.",
+      "link": "/interview-questions/sap-fico"
+    },
+    {
+      "title": "Salesforce CRM",
+      "description": "Become a Salesforce admin & developer with Apex & LWC.",
+      "link": "/interview-questions/salesforce-crm"
+    },
+    {
+      "title": "Medical Coding",
+      "description": "ICD-10, CPT, HCPCS coding for healthcare industry.",
+      "link": "/interview-questions/medical-coding"
+    },
+    {
+      "title": "Multimedia",
+      "description": "Learn graphic design, 3D animation, and video editing.",
+      "link": "/interview-questions/multimedia"
+    },
+    {
+      "title": "Advanced Excel",
+      "description": "Master Excel formulas, Pivot Tables, Macros, and VBA.",
+      "link": "/interview-questions/advanced-excel"
+    },
+    {
+      "title": "AutoCAD",
+      "description": "Master 2D drafting and 3D modeling for architecture and engineering.",
+      "link": "/interview-questions/autocad"
+    },
+    {
+      "title": "Revit MEP",
+      "description": "Master BIM for architectural, structural, and MEP design.",
+      "link": "/interview-questions/revit-mep"
+    },
+    {
+      "title": "Data Analytics",
+      "description": "Data insights through analysis & visualization using key findings.",
+      "link": "/interview-questions/data-analytics"
+    },
+    {
+      "title": "SAP MM",
+      "description": "SAP MM is a module in SAP ERP that handles procurement and inventory management.",
+      "link": "/interview-questions/sap-mm"
+    },
+    {
+      "title": "Cyber Security",
+      "description": "Cyber security refers to the practice of protecting systems and networks.",
+      "link": "/interview-questions/cyber-security"
+    },
+    {
+      "title": "Generative AI",
+      "description": "Generative AI refers to algorithms that can create content such as text, images, and audio.",
+      "link": "/interview-questions/generative-ai"
+    },
+    {
+      "title": "Business Analytics",
+      "description": "Business analytics is the process of using data and statistical analysis.",
+      "link": "/interview-questions/business-analytics"
+    },
+    {
+      "title": "BFSI Interview Prep",
+      "description": "Learn key concepts of Banking, Securities, Mutual Funds, and Digital Banking.",
+      "link": "/interview-questions/bfsi-interview-prep"
+    },
+    {
+      "title": "PMP Interview Prep",
+      "description": "Master common PMP interview questions for your next project management role.",
+      "link": "/interview-questions/pmp-interview-prep"
+    }
+  ]
+}
+    

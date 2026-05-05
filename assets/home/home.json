@@ -6,8 +6,8 @@
 
   "banner": {
     "position": 1,
-    "video": "/assets/videossection/glimpse_video_for_website.mp4",
-    "thumbnail": "/home/banner/bannerfinallllllll.webp",
+    "video": "assets/videossection/glimpse_video_for_website.mp4",
+    "thumbnail": "home/banner/bannerfinal.webp",
     "subHeading": "Recognised by"
   },
 
@@ -52,7 +52,7 @@
           "videoCards": [
             {
               "name": "vennela",
-              "videoUrl": "/assets/success_stories_videos/Vennela_frontend.mp4",
+              "videoUrl": "assets/success_stories_videos/Vennela_frontend.mp4",
               "thumbnail": {
                 "src": "assets/img/success_Stories/Vennela_python.webp",
                 "alt": "vennela"
@@ -60,25 +60,25 @@
             },
             {
               "name": "Srinivas Rao",
-              "videoUrl": "/assets/success_stories_videos/srinivas_intern.mp4",
+              "videoUrl": "assets/success_stories_videos/srinivas_intern.mp4",
               "thumbnail": {
-                "src": "/assets/img/success_Stories/Srinivas_rao_java.webp",
+                "src": "assets/img/success_Stories/Srinivas_rao_java.webp",
                 "alt": "srinivas Rao"
               }
             },
             {
               "name": "Leela Prasad",
-              "videoUrl": "/assets/success_stories_videos/leela_prasad_bim.mp4",
+              "videoUrl": "assets/success_stories_videos/leela_prasad_bim.mp4",
               "thumbnail": {
-                "src": "/assets/img/success_Stories/leela_prasad_bim.webp",
+                "src": "assets/img/success_Stories/leela_prasad_bim.webp",
                 "alt": "leela prasad"
               }
             },
             {
               "name": "Ruchita",
-              "videoUrl": "/assets/success_stories_videos/Ruchita_fp.mp4",
+              "videoUrl": "assets/success_stories_videos/Ruchita_fp.mp4",
               "thumbnail": {
-                "src": "/assets/img/success_Stories/ruchita_sd.webp",
+                "src": "assets/img/success_Stories/ruchita_sd.webp",
                 "alt": "ruchita"
               }
             }
@@ -87,28 +87,28 @@
             {
               "name": "Shivaji Bakka",
               "image": {
-                "src": "/assets/img/success_Stories/shivaji_placed_card.webp",
+                "src": "assets/img/success_Stories/shivaji_placed_card.webp",
                 "alt": "Shivaji Bakka"
               }
             },
             {
               "name": "Sailaja",
               "image": {
-                "src": "/assets/img/success_Stories/sailaja_ft_dm.webp",
+                "src": "assets/img/success_Stories/sailaja_ft_dm.webp",
                 "alt": "Sailaja"
               }
             },
             {
               "name": "Sai Raghava",
               "image": {
-                "src": "/assets/img/success_Stories/sai_raghava_ft_fp.webp",
+                "src": "assets/img/success_Stories/sai_raghava_ft_fp.webp",
                 "alt": "Sai Raghava"
               }
             },
             {
               "name": "Krishna Prasad",
               "image": {
-                "src": "/assets/img/success_Stories/krishna_placed_card.webp",
+                "src": "assets/img/success_Stories/krishna_placed_card.webp",
                 "alt": "Krishna Prasad"
               }
             }
@@ -122,33 +122,33 @@
           "videoCards": [
             {
               "name": "chandravardhan",
-              "videoUrl": "/assets/success_stories_videos/Chandravardhan_fj.mp4",
+              "videoUrl": "assets/success_stories_videos/Chandravardhan_fj.mp4",
               "thumbnail": {
-                "src": "/assets/img/success_Stories/chandravardhan_ps_fj.webp",
+                "src": "assets/img/success_Stories/chandravardhan_ps_fj.webp",
                 "alt": "chandravardhan"
               }
             },
             {
               "name": "shandruth",
-              "videoUrl": "/assets/success_stories_videos/SHANDRUTH_fp.mp4",
+              "videoUrl": "assets/success_stories_videos/SHANDRUTH_fp.mp4",
               "thumbnail": {
-                "src": "/assets/img/success_Stories/shandruth_fp.webp",
+                "src": "assets/img/success_Stories/shandruth_fp.webp",
                 "alt": "shandruth"
               }
             },
             {
               "name": "srinivas",
-              "videoUrl": "/assets/success_stories_videos/SRINIVAS_ds.mp4",
+              "videoUrl": "assets/success_stories_videos/SRINIVAS_ds.mp4",
               "thumbnail": {
-                "src": "/assets/img/success_Stories/srinivas_ds.webp",
+                "src": "assets/img/success_Stories/srinivas_ds.webp",
                 "alt": "srinivas"
               }
             },
             {
               "name": "praveen",
-              "videoUrl": "/assets/success_stories_videos/PRAVEEN_dm.mp4",
+              "videoUrl": "assets/success_stories_videos/PRAVEEN_dm.mp4",
               "thumbnail": {
-                "src": "/assets/img/success_Stories/praveen_dm.webp",
+                "src": "assets/img/success_Stories/praveen_dm.webp",
                 "alt": "praveen"
               }
             }
@@ -157,28 +157,28 @@
             {
               "name": "Shravan",
               "image": {
-                "src": "/assets/img/success_Stories/fj_tc_1.webp",
+                "src": "assets/img/success_Stories/fj_tc_1.webp",
                 "alt": "Shravan"
               }
             },
             {
               "name": "Sai Shiva",
               "image": {
-                "src": "/assets/img/success_Stories/fp_tc_2.webp",
+                "src": "assets/img/success_Stories/fp_tc_2.webp",
                 "alt": "Sai Shiva"
               }
             },
             {
               "name": "Bharath Bandarupally",
               "image": {
-                "src": "/assets/img/success_Stories/bharath_tc_Ds.webp",
+                "src": "assets/img/success_Stories/bharath_tc_Ds.webp",
                 "alt": "Bharath Bandarupally"
               }
             },
             {
               "name": "Korra Vinay Kumar",
               "image": {
-                "src": "/assets/img/success_Stories/Dm_tc_4.webp",
+                "src": "assets/img/success_Stories/Dm_tc_4.webp",
                 "alt": "Korra Vinay Kumar"
               }
             }
@@ -193,236 +193,335 @@
     "hiringPartnersHeading": ["700+ Hiring", "Partners"],
     "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
     "image": {
-      "src": "/home/hiring_companies/business_person.webp",
+      "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/business_person.webp",
       "alt": "business_person"
     },
     "companies": {
       "row1": [
         {
-          "name": "Aspire Systems",
-          "image": { "src": "/home/companies/aasad.webp", "alt": "aasad" }
-        },
-        {
-          "name": "Bajaj",
-          "image": { "src": "/home/companies/bajaj.webp", "alt": "bajaj" }
-        },
-        {
-          "name": "Cognizant",
+          "name": "Adobe",
           "image": {
-            "src": "/home/companies/cognizant.webp",
-            "alt": "cognizant"
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/adobe.webp",
+            "alt": "adobe"
           }
         },
         {
           "name": "Google",
-          "image": { "src": "/home/companies/google.webp", "alt": "google" }
-        },
-        {
-          "name": "ICICI",
-          "image": { "src": "/home/companies/icici.webp", "alt": "icici" }
-        },
-        {
-          "name": "Kapil Chits",
           "image": {
-            "src": "/home/companies/kapil_chits.webp",
-            "alt": "kapil_chits"
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/google.webp",
+            "alt": "google"
           }
         },
         {
-          "name": "LIC",
-          "image": { "src": "/home/companies/lic.webp", "alt": "lic" }
-        },
-        {
-          "name": "Muthoot Finance",
+          "name": "Cognizant",
           "image": {
-            "src": "/home/companies/muthutfinance.webp",
-            "alt": "muthutfinance"
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/cognizant.webp",
+            "alt": "cognizant"
           }
-        },
-        {
-          "name": "T & T Finance",
-          "image": {
-            "src": "/home/companies/tandtfinance.webp",
-            "alt": "tandtfinance"
-          }
-        },
-        {
-          "name": "Ujjivan",
-          "image": { "src": "/home/companies/ujivan.webp", "alt": "ujivan" }
-        },
-        {
-          "name": "Zensar Technologies",
-          "image": {
-            "src": "/home/companies/zensarrr.webp",
-            "alt": "zensarrr"
-          }
-        },
-
-        {
-          "name": "Adobe",
-          "image": { "src": "/home/companies/adobe.webp", "alt": "adobe" }
-        },
-        {
-          "name": "Cyient",
-          "image": { "src": "/home/companies/cyient.webp", "alt": "cyient" }
-        }
-      ],
-
-      "row2": [
-        {
-          "name": "HCL",
-          "image": { "src": "/home/companies/hcll.webp", "alt": "hcll" }
         },
         {
           "name": "Infosys",
-          "image": { "src": "/home/companies/infosys.webp", "alt": "infosys" }
-        },
-        {
-          "name": "Kapil IT",
-          "image": { "src": "/home/companies/kapilit.webp", "alt": "kapilit" }
-        },
-        {
-          "name": "Mahindra",
           "image": {
-            "src": "/home/companies/mahindhra.webp",
-            "alt": "mahindhra"
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/infosys.webp",
+            "alt": "infosys"
           }
         },
         {
-          "name": "Nucleus Software",
+          "name": "Intel",
           "image": {
-            "src": "/home/companies/nucleuss.webp",
-            "alt": "nucleuss"
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/intel.webp",
+            "alt": "intel"
+          }
+        }
+      ],
+      "row2": [
+        {
+          "name": "TCS",
+          "image": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/tcs.webp",
+            "alt": "tcs"
           }
         },
         {
-          "name": "Tata",
-          "image": { "src": "/home/companies/tata.webp", "alt": "tata" }
-        },
-        {
-          "name": "ValueLabs",
+          "name": "Tech Mahindra",
           "image": {
-            "src": "/home/companies/valuelabs.webp",
-            "alt": "valuelabs"
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/techmahindra.webp",
+            "alt": "techmahindra"
           }
-        },
-        {
-          "name": "Zerodha",
-          "image": {
-            "src": "/home/companies/zerodhaa.webp",
-            "alt": "zerodhaa"
-          }
-        },
-
-        {
-          "name": "Apple",
-          "image": { "src": "/home/companies/apple.webp", "alt": "apple" }
         },
         {
           "name": "Capgemini",
           "image": {
-            "src": "/home/companies/capgemini.webp",
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/capgemini.webp",
             "alt": "capgemini"
           }
         },
         {
           "name": "Deloitte",
           "image": {
-            "src": "/home/companies/deloitte.webp",
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/deloitte.webp",
             "alt": "deloitte"
           }
         },
         {
-          "name": "HDFC Bank",
-          "image": { "src": "/home/companies/Hdfc.webp", "alt": "hdfc" }
-        },
-        {
-          "name": "Intel",
-          "image": { "src": "/home/companies/intel.webp", "alt": "intel" }
-        },
-        {
-          "name": "Karur Bank",
+          "name": "Microsoft",
           "image": {
-            "src": "/home/companies/karur_bank.webp",
-            "alt": "karur_bank"
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/microsoft.webp",
+            "alt": "microsoft"
           }
         }
       ],
-
       "row3": [
         {
-          "name": "Microland",
+          "name": "Apple",
           "image": {
-            "src": "/home/companies/microlandd.webp",
-            "alt": "microlandd"
-          }
-        },
-        {
-          "name": "Oracle",
-          "image": { "src": "/home/companies/oracle.webp", "alt": "oracle" }
-        },
-        {
-          "name": "TCS",
-          "image": { "src": "/home/companies/tcs.webp", "alt": "tcs" }
-        },
-        {
-          "name": "Wipro",
-          "image": { "src": "/home/companies/wipro.webp", "alt": "wipro" }
-        },
-
-        {
-          "name": "Acko",
-          "image": { "src": "/home/companies/asd.webp", "alt": "asd" }
-        },
-        {
-          "name": "Cisco",
-          "image": { "src": "/home/companies/cisco.webp", "alt": "cisco" }
-        },
-        {
-          "name": "Flipkart",
-          "image": {
-            "src": "/home/companies/flipkart.webp",
-            "alt": "flipkart"
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "apple"
           }
         },
         {
           "name": "IBM",
-          "image": { "src": "/home/companies/ibm.webp", "alt": "ibm" }
-        },
-        {
-          "name": "Jana Finance",
           "image": {
-            "src": "/home/companies/jana_finance.webp",
-            "alt": "jana_finance"
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/ibm.webp",
+            "alt": "ibm"
           }
         },
         {
-          "name": "Kotak",
-          "image": { "src": "/home/companies/kotak.webp", "alt": "kotak" }
-        },
-        {
-          "name": "Microsoft",
+          "name": "Flipkart",
           "image": {
-            "src": "/home/companies/microsoft.webp",
-            "alt": "microsoft"
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/flipkart.webp",
+            "alt": "flipkart"
           }
         },
         {
-          "name": "SBI",
-          "image": { "src": "/home/companies/sbi.webp", "alt": "sbi" }
-        },
-        {
-          "name": "Tech Mahindra",
+          "name": "Oracle",
           "image": {
-            "src": "/home/companies/techmahindra.webp",
-            "alt": "techmahindra"
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/oracle.webp",
+            "alt": "oracle"
           }
         },
         {
-          "name": "Yash Technologies",
-          "image": { "src": "/home/companies/yeshh.webp", "alt": "yeshh" }
+          "name": "Kapil IT",
+          "image": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/kapilit.webp",
+            "alt": "kapilit"
+          }
         }
       ]
+    }
+  },
+
+  "certificationCourse": {
+    "position": 1,
+    "heading": [
+      "Get Industry Ready Skills, ",
+      "IIT Certification, 100% Paid Internship"
+    ],
+    "courses": [
+      {
+        "programName": "data-science-with-ai-certification-course",
+        "category": "certifications",
+        "subCategory": "certification",
+        "isTop": true,
+        "image": {
+          "src": "/coursecards/certification/Certifications/Data-Science-With-AI-Certification-Course.webp",
+          "alt": "Professional Data Science with AI Certification Program for Real-World Analytics"
+        },
+        "heading": "Data Science with AI Certification Course",
+        "feeRange": "45,000 - 55,000",
+        "duration": "4-6 Months",
+        "mode": "",
+        "tags": ["Placement Assistance", "No Cost EMI"],
+        "button": [
+          {
+            "name": "Know More",
+            "link": "/courses/data-science-with-ai-certification-course",
+            "form": false
+          },
+          {
+            "name": "Enroll Now",
+            "link": "",
+            "form": true
+          }
+        ],
+        "universities": [
+          {
+            "productId": 393,
+            "sourceId": 148,
+            "name": "teksversity",
+            "universityName": "Teksversity"
+          }
+        ],
+        "specializations": [
+          {
+            "name": "Data Science with AI Certification Course",
+            "programName": "data-science-with-ai-certification-course",
+            "productId": "",
+            "universities": [
+              {
+                "productId": 393,
+                "sourceId": 148,
+                "name": "teksversity",
+                "universityName": "Teksversity"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "programName": "cyber-security-with-ai-certification-course",
+        "category": "certifications",
+        "subCategory": "certification",
+        "isTop": true,
+        "image": {
+          "src": "/coursecards/certification/Certifications/Cyber-Security-With-AI-Certification-Course.webp",
+          "alt": "Professional Cyber Security with AI Certification Program for Modern Security Solutions"
+        },
+        "heading": "Cyber Security with AI Certification Course",
+        "feeRange": "45,000 - 55,000",
+        "duration": "4-6 Months",
+        "mode": "",
+        "tags": ["Placement Assistance", "No Cost EMI"],
+        "button": [
+          {
+            "name": "Know More",
+            "link": "/courses/cyber-security-with-ai-certification-course",
+            "form": false
+          },
+          {
+            "name": "Enroll Now",
+            "link": "",
+            "form": true
+          }
+        ],
+        "universities": [
+          {
+            "productId": 394,
+            "sourceId": 148,
+            "name": "teksversity",
+            "universityName": "Teksversity"
+          }
+        ],
+        "specializations": [
+          {
+            "name": "Cyber Security with AI Certification Course",
+            "programName": "cyber-security-with-ai-certification-course",
+            "productId": "",
+            "universities": [
+              {
+                "productId": 394,
+                "sourceId": 148,
+                "name": "teksversity",
+                "universityName": "Teksversity"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "programName": "full-stack-development-with-ai-certification-course",
+        "category": "certifications",
+        "subCategory": "certification",
+        "isTop": true,
+        "image": {
+          "src": "/coursecards/certification/Certifications/Full-Stack-Development-With-AI-Certification-Course.webp",
+          "alt": "Professional Full Stack Development with AI Certification Program for Modern Web Applications"
+        },
+        "heading": "Full Stack Development with AI Certification Course",
+        "feeRange": "45,000 - 55,000",
+        "duration": "4-6 Months",
+        "mode": "",
+        "tags": ["Placement Assistance", "No Cost EMI"],
+        "button": [
+          {
+            "name": "Know More",
+            "link": "/courses/full-stack-development-with-ai-certification-course",
+            "form": false
+          },
+          {
+            "name": "Enroll Now",
+            "link": "",
+            "form": true
+          }
+        ],
+        "universities": [
+          {
+            "productId": 395,
+            "sourceId": 148,
+            "name": "teksversity",
+            "universityName": "Teksversity"
+          }
+        ],
+        "specializations": [
+          {
+            "name": "Full Stack Development with AI Certification Course",
+            "programName": "full-stack-development-with-ai-certification-course",
+            "productId": "",
+            "universities": [
+              {
+                "productId": 395,
+                "sourceId": 148,
+                "name": "teksversity",
+                "universityName": "Teksversity"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "programName": "generative-ai-certification-course",
+        "category": "certifications",
+        "subCategory": "certification",
+        "isTop": true,
+        "image": {
+          "src": "/coursecards/certification/Certifications/Generative-AI-Certification-Course.webp",
+          "alt": "Professional Generative AI Certification Program for Future AI Innovation"
+        },
+        "heading": "Generative AI Certification Course",
+        "feeRange": "45,000 - 55,000",
+        "duration": "4-6 Months",
+        "mode": "",
+        "tags": ["Placement Assistance", "No Cost EMI"],
+        "button": [
+          {
+            "name": "Know More",
+            "link": "/courses/generative-ai-certification-course",
+            "form": false
+          },
+          {
+            "name": "Enroll Now",
+            "link": "",
+            "form": true
+          }
+        ],
+        "universities": [
+          {
+            "productId": 396,
+            "sourceId": 148,
+            "name": "teksversity",
+            "universityName": "Teksversity"
+          }
+        ],
+        "specializations": [
+          {
+            "name": "Generative AI Certification Course",
+            "programName": "generative-ai-certification-course",
+            "productId": "",
+            "universities": [
+              {
+                "productId": 396,
+                "sourceId": 148,
+                "name": "teksversity",
+                "universityName": "Teksversity"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "viewAllButton": {
+      "name": "View All Courses",
+      "link": "/courses"
     }
   },
 
@@ -614,7 +713,7 @@
 
   "academicsCards": {
     "position": 4,
-    "heading": ["Bridge Academics & Industry skills With ", "Teksversity"],
+    "heading": ["Bridge Academics & Industry skills With ", "TeksAcademy"],
     "category": [
       { "name": "Under Graduation", "value": "ug" },
       { "name": "Post Graduation", "value": "pg" }
@@ -703,49 +802,54 @@
   "careerServices": {
     "position": 9,
     "title": ["Career Services ", "in a Nutshell"],
-    "careerServices": [
+
+    "services": [
       {
         "title": "Technical Seminars",
-        "icon": "seminar"
+        "icon": {
+          "name": "seminar",
+          "url": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/nutshell/nutshell-1.webp"
+        }
       },
       {
         "title": "Mock Interviews",
-        "icon": "interview"
+        "icon": {
+          "name": "interview",
+          "url": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/nutshell/nutshell-2.webp"
+        }
       },
       {
         "title": "CRT & Job Ready Skills",
-        "icon": "skills"
+        "icon": {
+          "name": "skills",
+          "url": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/nutshell/nutshell-3.webp"
+        }
       },
       {
         "title": "Dedicated Job Portal",
-        "icon": "job-portal"
+        "icon": {
+          "name": "job-portal",
+          "url": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/nutshell/nutshell-4.webp"
+        }
       },
       {
         "title": "Internship opportunity in a IT Company",
-        "icon": "internship"
+        "icon": {
+          "name": "internship",
+          "url": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/nutshell/nutshell-5.webp"
+        }
       }
     ],
-    "cards": [
-      {
-        "title": "Technical Seminars Dedicated Job Portal",
-        "image": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fnutshell%2Fnutshell.webp&w=1920&q=75"
-      },
-      {
-        "title": "Mock Interviews CRT & Job Ready Skills",
-        "image": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fnutshell%2Fnutshell.webp&w=1920&q=75"
-      },
-      {
-        "title": "Internship Opportunity in a IT Company",
-        "image": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fnutshell%2Fnutshell.webp&w=1920&q=75"
-      }
-    ],
+
     "button": {
       "text": "Request Call Back",
       "link": "/request-call-back"
     },
+
     "image": {
       "alt": "Career services section illustration",
-      "url": "/assets/images/career-services.png"
+      "desktop": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/nutshell/nutshell.webp",
+      "mobile": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/nutshell/nutshell_mobile.webp"
     }
   },
 
@@ -823,7 +927,7 @@
     }
   },
 
-   "awards": {
+  "awards": {
     "title": "Awards",
     "cards": [
       {
@@ -893,21 +997,66 @@
     "position": 14,
     "heading": ["Gallery"],
     "images": [
-      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage3.webp&w=640&q=75`", "alt": "image5" },
-      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage4.webp&w=640&q=75", "alt": "image6" },
-      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage5.webp&w=640&q=75", "alt": "image7" },
-      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage6.webp&w=640&q=75", "alt": "image8" },
-      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage7.webp&w=640&q=75", "alt": "image9" },
-      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage3.webp&w=640&q=75", "alt": "image3" },
-      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage4.webp&w=640&q=75", "alt": "image4" },
-      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage10.webp&w=640&q=75", "alt": "image10" },
-      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage11.webp&w=640&q=75", "alt": "image11" },
-      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage12.webp&w=640&q=75", "alt": "image12" },
-      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage14.webp&w=640&q=75", "alt": "image14" },
-      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage15.webp&w=640&q=75", "alt": "image15" },
-      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage16.webp&w=640&q=75", "alt": "image16" },
-      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage24.webp&w=640&q=75", "alt": "image24" },
-      { "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fgallery%2Fimage41.webp&w=640&q=75", "alt": "image41" }
+      {
+        "src": "assets/img/gallery/image3.webp",
+        "alt": "image3"
+      },
+      {
+        "src": "assets/img/gallery/image4.webp",
+        "alt": "image4"
+      },
+      {
+        "src": "assets/img/gallery/image5.webp",
+        "alt": "image5"
+      },
+      {
+        "src": "assets/img/gallery/image6.webp",
+        "alt": "image6"
+      },
+      {
+        "src": "assets/img/gallery/image7.webp",
+        "alt": "image7"
+      },
+      {
+        "src": "assets/img/gallery/image8.webp",
+        "alt": "image8"
+      },
+      {
+        "src": "assets/img/gallery/image9.webp",
+        "alt": "image9"
+      },
+      {
+        "src": "assets/img/gallery/image10.webp",
+        "alt": "image10"
+      },
+      {
+        "src": "assets/img/gallery/image11.webp",
+        "alt": "image11"
+      },
+      {
+        "src": "assets/img/gallery/image12.webp",
+        "alt": "image12"
+      },
+      {
+        "src": "assets/img/gallery/image41.webp",
+        "alt": "image41"
+      },
+      {
+        "src": "assets/img/gallery/image14.webp",
+        "alt": "image14"
+      },
+      {
+        "src": "assets/img/gallery/image15.webp",
+        "alt": "image15"
+      },
+      {
+        "src": "assets/img/gallery/image16.webp",
+        "alt": "image16"
+      },
+      {
+        "src": "assets/img/gallery/image24.webp",
+        "alt": "image24"
+      }
     ]
   },
 
@@ -916,52 +1065,94 @@
     "heading": ["Featured In"],
     "images": [
       {
-        "image": { "src": "/home/featuredin/v6.webp", "alt": "v6" }
-      },
-      {
-        "image": { "src": "/home/featuredin/zee.webp", "alt": "zee" }
-      },
-      {
-        "image": { "src": "/home/featuredin/cnn.webp", "alt": "cnn" }
-      },
-      {
-        "image": { "src": "/home/featuredin/daily.webp", "alt": "daily" }
-      },
-      {
-        "image": { "src": "/home/featuredin/enadu.webp", "alt": "enadu" }
-      },
-      {
-        "image": { "src": "/home/featuredin/hans.webp", "alt": "hans" }
-      },
-      {
-        "image": { "src": "/home/featuredin/hindhu.webp", "alt": "hindhu" }
-      },
-      {
-        "image": { "src": "/home/featuredin/hmtv.webp", "alt": "hmtv" }
-      },
-      {
-        "image": { "src": "/home/featuredin/india.webp", "alt": "india" }
-      },
-      {
         "image": {
-          "src": "/home/featuredin/indian_express.webp",
-          "alt": "image-alt"
+          "src": "assets/img/feature_in/aadab.webp",
+          "alt": "teksacademy featurein aadab-hyderabad news channel"
         }
       },
       {
-        "image": { "src": "/home/featuredin/lokal.webp", "alt": "lokal" }
+        "image": {
+          "src": "assets/img/feature_in/andhra.webp",
+          "alt": "teksacademy featurein andhra jyothi news channel"
+        }
       },
       {
-        "image": { "src": "/home/featuredin/metro.webp", "alt": "metro" }
+        "image": {
+          "src": "assets/img/feature_in/daily.webp",
+          "alt": "teksacademy featurein daily hunt news channel"
+        }
       },
       {
-        "image": { "src": "/home/featuredin/ndtv.webp", "alt": "ndtv" }
+        "image": {
+          "src": "assets/img/feature_in/enadu.webp",
+          "alt": "teksacademy featurein enadu news channel"
+        }
       },
       {
-        "image": { "src": "/home/featuredin/tv5.webp", "alt": "tv5" }
+        "image": {
+          "src": "assets/img/feature_in/hans.webp",
+          "alt": "teksacademy featurein hans india news channel"
+        }
       },
       {
-        "image": { "src": "/home/featuredin/andhra.webp", "alt": "andhra" }
+        "image": {
+          "src": "assets/img/feature_in/hindhu.webp",
+          "alt": "teksacademy featurein the hindhu news channel"
+        }
+      },
+      {
+        "image": {
+          "src": "assets/img/feature_in/tv5.webp",
+          "alt": "teksacademy featurein tv5 news channel"
+        }
+      },
+      {
+        "image": {
+          "src": "assets/img/feature_in/lokal.webp",
+          "alt": "teksacademy featurein lokal app news channel"
+        }
+      },
+      {
+        "image": {
+          "src": "assets/img/feature_in/metro.webp",
+          "alt": "teksacademy featurein metro udayam news channel"
+        }
+      },
+      {
+        "image": {
+          "src": "assets/img/feature_in/prajapalana.webp",
+          "alt": "teksacademy featurein prajapalana news channel"
+        }
+      },
+      {
+        "image": {
+          "src": "assets/img/feature_in/indian_express.webp",
+          "alt": "teksacademy featurein the indian express news channel"
+        }
+      },
+      {
+        "image": {
+          "src": "assets/img/feature_in/telugu.webp",
+          "alt": "teksacademy featurein telugu prabha news channel"
+        }
+      },
+      {
+        "image": {
+          "src": "assets/img/feature_in/v6.webp",
+          "alt": "teksacademy featurein v6 news channel"
+        }
+      },
+      {
+        "image": {
+          "src": "assets/img/feature_in/telangana.webp",
+          "alt": "teksacademy featurein telangana kranthi news channel"
+        }
+      },
+      {
+        "image": {
+          "src": "assets/img/feature_in/hmtv.webp",
+          "alt": "teksacademy featurein hmtv news channel"
+        }
       }
     ]
   },

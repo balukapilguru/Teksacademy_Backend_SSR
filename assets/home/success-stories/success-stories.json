@@ -1,266 +1,1761 @@
 {
   "meta": {
-    "title": "teksversity – Success Stories",
+    "title": "teksversity \u2013 Success Stories",
     "description": "teksversity Success Stories",
     "schemaCode": {}
   },
-  "heading": ["Our ", "Success Stories"],
-  "cards": [
-    {
-      "image": {
-        "src": "/successstories/abdul_khadir_cad_pc.webp",
-        "alt": "abdul_khadir_cad_pc"
+  "heading": "Our Success Stories",
+  "heroSection": {
+    "badge": "700+ Hiring Companies",
+    "title": "Our Ultimate Goal!",
+    "subtitle": "Making Job Cracking- Simple, Smarter and Faster",
+    "button": {
+      "text": "Explore Career Transitions",
+      "link": "/success-stories"
+    },
+    "description": "Our presence proudly extends across 4 major cities in the 4 southern states of India.",
+    "galleryImages": [
+      {
+        "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fsuccess_stories_home%2Fimg1.webp&w=640&q=75",
+        "alt": "Classroom Presentation"
+      },
+      {
+        "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fsuccess_stories_home%2Fimg2.webp&w=640&q=75",
+        "alt": "Student Group Session"
+      },
+      {
+        "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fsuccess_stories_home%2Fimg3.webp&w=640&q=75",
+        "alt": "Students Writing Exam"
+      },
+      {
+        "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fsuccess_stories_home%2Fimg4.webp&w=640&q=75",
+        "alt": "Training Session"
+      },
+      {
+        "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fsuccess_stories_home%2Fimg5.webp&w=640&q=75",
+        "alt": "Students Attending Class"
+      },
+      {
+        "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fsuccess_stories_home%2Fimg5.webp&w=640&q=75",
+        "alt": "Certificate Distribution"
       }
+    ]
+  },
+  "tabs": [
+    {
+      "title": "Learning Experience",
+      "active": true,
+      "videoCards": [
+        {
+          "name": "Architha Python",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Architha_python.webp",
+            "alt": "Architha_python"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/architha_intern.mp4"
+        },
+        {
+          "name": "Akshitha Python",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/akshitha_python.webp",
+            "alt": "askshita_placed_card"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/akshitha_intern.mp4"
+        },
+        {
+          "name": "Prasad Python",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Prasad_python.webp",
+            "alt": "leela_prasad_sd"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Prasad_fp.mp4"
+        },
+        {
+          "name": "Vennela Python",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Vennela_python.webp",
+            "alt": "Vennela_frontend.mp4"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Vennela_frontend.mp4"
+        },
+        {
+          "name": "Gayatry Placed Card",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/gayatry_placed_card.webp",
+            "alt": "gayatry_placed_card"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/gayathri_intern.mp4"
+        },
+        {
+          "name": "Srinivas Rao Java",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Srinivas_rao_java.webp",
+            "alt": "Prasad_sd"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/srinivas_intern.mp4"
+        },
+        {
+          "name": "Vignesh Sd",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Vignesh_sd.webp",
+            "alt": "Vignesh_sd"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Vignesh_fj.mp4"
+        },
+        {
+          "name": "Lipika Placed Card",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/lipika_placed_card.webp",
+            "alt": "lipika_placed_card"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/lipika_fj.mp4"
+        },
+        {
+          "name": "Santhosha Sd",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Santhosha_sd.webp",
+            "alt": "Santhosha_sd"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/santosha_fp.mp4"
+        },
+        {
+          "name": "Ruchita Sd",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/ruchita_sd.webp",
+            "alt": "ruchita_sd"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Ruchita_fp.mp4"
+        },
+        {
+          "name": "Srija Fj",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/srija_fj.webp",
+            "alt": "srija_fj"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/srija_intern.mp4"
+        },
+        {
+          "name": "Sai Kiran Sd",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/sai_kiran_sd.webp",
+            "alt": "sai_kiran_sd"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Sai_Kiran_fp.mp4"
+        },
+        {
+          "name": "Shiva Shankar Dm",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/shiva_shankar_dm.webp",
+            "alt": "shiva_shankar_dm"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Shiva_Shanker_Dm.mp4"
+        },
+        {
+          "name": "Navya Dm",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/navya_Dm.webp",
+            "alt": "navya"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Navya_dm.mp4"
+        },
+        {
+          "name": "Jai Rishanth Dm",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/jai_rishanth_Dm.webp",
+            "alt": "jai_rishanth"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Jai _Rishanth_contenct_write.mp4"
+        },
+        {
+          "name": "Shivakumar Reddy Dm Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Shivakumar_reddy_dm_pc.webp",
+            "alt": "Vennela_sd"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Vennela_frontend.mp4"
+        },
+        {
+          "name": "Mohitha Tt",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/mohitha_tt.webp",
+            "alt": "mohitha"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Mohitha_testing_tool.mp4"
+        },
+        {
+          "name": "Swathi Ac",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/swathi_Ac.webp",
+            "alt": "swathi"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Swathi_Ac.mp4"
+        },
+        {
+          "name": "Moulika Placed Card",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/moulika_placed_card.webp",
+            "alt": "moulika_placed_card"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/moulika_geovista.mp4"
+        },
+        {
+          "name": "Faiyaz Placed Card",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/faiyaz_placed_card.webp",
+            "alt": "faiyaz_placed_card"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/faiyaz_geovista.mp4"
+        },
+        {
+          "name": "Sravani Placed Card",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/sravani_placed_card.webp",
+            "alt": "sravani_placed_card"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/sravani_geovista.mp4"
+        },
+        {
+          "name": "Kishore Revit",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/kishore_revit.webp",
+            "alt": "kishore_revit"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Kishore_rivit_bim.mp4"
+        },
+        {
+          "name": "Priyanka Bim",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Priyanka_bim.webp",
+            "alt": "Priyanka_bim"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Priyanka_Ac.mp4"
+        },
+        {
+          "name": "Leela Prasad Bim",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/leela_prasad_bim.webp",
+            "alt": "leela_prasad_sd"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/leela_prasad_bim.mp4"
+        },
+        {
+          "name": "Krishna Bim",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/krishna_bim.webp",
+            "alt": "krishna_bim"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Krishna_bim.mp4"
+        },
+        {
+          "name": "Hansika Bim",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Hansika_bim.webp",
+            "alt": "Hansika_bim"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Hansika_bim.mp4"
+        },
+        {
+          "name": "Bhavana Bim",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Bhavana_bim.webp",
+            "alt": "Bhavana_bim"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Bhavana_bim.mp4"
+        },
+        {
+          "name": "Pooja Sd",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Pooja_sd.webp",
+            "alt": "Pooja_sd"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Pooja_fp.mp4"
+        },
+        {
+          "name": "Vennela Sd",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Vennela_sd.webp",
+            "alt": "Vennela_sd"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Vennela_frontend.mp4"
+        },
+        {
+          "name": "Askshita Placed Card",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/askshita_placed_card.webp",
+            "alt": "askshita_placed_card"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/akshitha_intern.mp4"
+        },
+        {
+          "name": "Leela Prasad Sd",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/leela_prasad_sd.webp",
+            "alt": "leela_prasad_sd"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/leela_prasad_bim.mp4"
+        },
+        {
+          "name": "Archita Placed Card",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/archita_placed_card.webp",
+            "alt": "archita_placed_card"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/architha_intern.mp4"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Bindu Ft Fp",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/bindu_ft_fp.webp",
+            "alt": "bindu_ft_fp"
+          }
+        },
+        {
+          "name": "Shubam Ft Fp",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/shubam_ft_fp.webp",
+            "alt": "shubam_ft_fp"
+          }
+        },
+        {
+          "name": "Sai Raghava Ft Fp",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/sai_raghava_ft_fp.webp",
+            "alt": "sai_raghava_ft_fp"
+          }
+        },
+        {
+          "name": "Chaitanya Likith Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/chaitanya_likith_pc.webp",
+            "alt": "chaitanya_likith_pc.webp"
+          }
+        },
+        {
+          "name": "Vineeth Ft Fp",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/vineeth_ft_fp.webp",
+            "alt": "vineeth_ft_fj"
+          }
+        },
+        {
+          "name": "Dasari Kalyan Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/dasari_kalyan_pc.webp",
+            "alt": "dasari_kalyan_pc"
+          }
+        },
+        {
+          "name": "Sai Sudhir Java Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/sai_sudhir_java_pc.webp",
+            "alt": "sai_sudhir_java"
+          }
+        },
+        {
+          "name": "Ravi Ft Fj",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/ravi_ft_fj.webp",
+            "alt": "ravi_ft_fj"
+          }
+        },
+        {
+          "name": "Mahesh Ft Da",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/mahesh_ft_da.webp",
+            "alt": "mahesh_ft_da"
+          }
+        },
+        {
+          "name": "Krishna Placed Card",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/krishna_placed_card.webp",
+            "alt": "krishna"
+          }
+        },
+        {
+          "name": "Nikhila Ft Fj",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/nikhila_ft_fj.webp",
+            "alt": "nikhila_ft_fj"
+          }
+        },
+        {
+          "name": "Billapati Nitish Java Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Billapati_nitish_java_pc.webp",
+            "alt": "Billapati_nitish_java"
+          }
+        },
+        {
+          "name": "Aanya Aws Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/aanya_AWS_pc.webp",
+            "alt": "aanya_AWS_pc"
+          }
+        },
+        {
+          "name": "Arjun Aws Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/arjun_aws_pc.webp",
+            "alt": "arjun_aws_pc.webp"
+          }
+        },
+        {
+          "name": "Anika Aws Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/anika_aws_pc.webp",
+            "alt": "anika_aws_pc.webp"
+          }
+        },
+        {
+          "name": "Hari Krishna Ft Aws",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/hari_krishna_ft_aws.webp",
+            "alt": "hari_krishna_ft_aws"
+          }
+        },
+        {
+          "name": "Praveen Ft Dm",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/praveen_ft_dm.webp",
+            "alt": "praveen_ft_dm"
+          }
+        },
+        {
+          "name": "Sailaja Ft Dm",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/sailaja_ft_dm.webp",
+            "alt": "sailaja_ft_dm"
+          }
+        },
+        {
+          "name": "Vaishnavi Ft Dm",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/vaishnavi_ft_dm.webp",
+            "alt": "vaishnavi_ft_dm"
+          }
+        },
+        {
+          "name": "Shivaji Placed Card",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/shivaji_placed_card.webp",
+            "alt": "shivaji_ft_dm"
+          }
+        },
+        {
+          "name": "Rohan Da Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/rohan_da_pc.webp",
+            "alt": "rohan_image"
+          }
+        },
+        {
+          "name": "Meera Da Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/meera_da_pc.webp",
+            "alt": "meera_image"
+          }
+        },
+        {
+          "name": "Ravi Teja Ft Da",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/ravi_teja_ft_da.webp",
+            "alt": "ravi_teja_ft_da"
+          }
+        },
+        {
+          "name": "Ravali Ft Da",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/ravali_ft_Da.webp",
+            "alt": "ravali_ft_Da"
+          }
+        },
+        {
+          "name": "Ishaan Sf Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/ishaan_sf_pc.webp",
+            "alt": "sai_raghava_ft_fp"
+          }
+        },
+        {
+          "name": "Kavya Sf Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/kavya_sf_pc.webp",
+            "alt": "ranjith_ft_sf"
+          }
+        },
+        {
+          "name": "Kunal Sf Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/kunal_sf_pc.webp",
+            "alt": "venkatesh_ft_sf"
+          }
+        },
+        {
+          "name": "Isha Sf Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/isha_sf_pc.webp",
+            "alt": "vineeth"
+          }
+        },
+        {
+          "name": "Siddharth Varma Sap Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/siddharth_varma_sap_pc.webp",
+            "alt": "siddharth_varma_sap_pc.webp"
+          }
+        },
+        {
+          "name": "Karthik Sap Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/karthik_sap_pc.webp",
+            "alt": "krishna"
+          }
+        },
+        {
+          "name": "Rajat Joshi Sap Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/rajat_joshi-sap_pc.webp",
+            "alt": "vaishu"
+          }
+        },
+        {
+          "name": "Ruthuja Sap Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/ruthuja_sap_pc.webp",
+            "alt": "ruthuja_sap_pc.webp"
+          }
+        },
+        {
+          "name": "Pranav Bhat Mc Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/pranav_bhat_mc_pc.webp",
+            "alt": "shivaji"
+          }
+        },
+        {
+          "name": "Deevansh Rao Mc Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/deevansh_rao_mc_pc.webp",
+            "alt": "krishna"
+          }
+        },
+        {
+          "name": "Isitha Patel Mc Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/isitha_patel_mc_pc.webp",
+            "alt": "vaishu"
+          }
+        },
+        {
+          "name": "Kavya Desai Mc Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/kavya_desai_mc_pc.webp",
+            "alt": "kavya_desai_mc_pc.webp"
+          }
+        },
+        {
+          "name": "Kishore Kannue Testing Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/kishore_kannue_testing_pc.webp",
+            "alt": "kishore_kannue_testing"
+          }
+        },
+        {
+          "name": "Vinod Ft Tt",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/vinod_ft_tt.webp",
+            "alt": "vinod_ft_tt"
+          }
+        },
+        {
+          "name": "Azharuddin Ft Tt",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/azharuddin_ft_tt.webp",
+            "alt": "azharuddin_ft_tt"
+          }
+        },
+        {
+          "name": "Sandeep Vlsi Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/sandeep_vlsi_pc.webp",
+            "alt": "sandeep_vlsi"
+          }
+        },
+        {
+          "name": "Pranav Vlsi Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/pranav_vlsi_pc.webp",
+            "alt": "pranav_vlsi"
+          }
+        },
+        {
+          "name": "Arun Vlsi Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/arun_vlsi_pc.webp",
+            "alt": "arun_vlsi"
+          }
+        },
+        {
+          "name": "Karthik Vlsi Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/karthik_vlsi_pc.webp",
+            "alt": "karthik_vlsi"
+          }
+        },
+        {
+          "name": "Vignesh Mm Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/vignesh_mm_pc.webp",
+            "alt": "vignesh_mm"
+          }
+        },
+        {
+          "name": "Rohit Mm Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/rohit_mm_pc.webp",
+            "alt": "rohit_mm"
+          }
+        },
+        {
+          "name": "Lakshmi Mm Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/lakshmi_mm_pc.webp",
+            "alt": "lakshmi_mm"
+          }
+        },
+        {
+          "name": "Meera Mm Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/meera_mm_pc.webp",
+            "alt": "meera_mm"
+          }
+        },
+        {
+          "name": "Surya Ae Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/surya_ae_pc.webp",
+            "alt": "surya_ae"
+          }
+        },
+        {
+          "name": "Rakesh Ae Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/rakesh_ae_pc.webp",
+            "alt": "rakesh_ae"
+          }
+        },
+        {
+          "name": "Kavya Ae Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/kavya_ae_pc.webp",
+            "alt": "kavya_ae"
+          }
+        },
+        {
+          "name": "Ajay Ae Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/ajay_ae_pc.webp",
+            "alt": "ajay_ae"
+          }
+        },
+        {
+          "name": "Bileep Ft Ac",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/bileep_ft_Ac.webp",
+            "alt": "bileep_ft_Ac"
+          }
+        },
+        {
+          "name": "Priya Ft Ac",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/priya_ft_Ac.webp",
+            "alt": "priya_ft_Ac"
+          }
+        },
+        {
+          "name": "Shanmukh Ft Ac",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/shanmukh_ft_Ac.webp",
+            "alt": "shanmukh_ft_Ac"
+          }
+        },
+        {
+          "name": "Vihansh Cad Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/vihansh_cad_pc.webp",
+            "alt": "vineeth"
+          }
+        },
+        {
+          "name": "Teja Reddy Ft Revit",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/teja_reddy_ft_revit.webp",
+            "alt": "teja_reddy_ft_revit"
+          }
+        },
+        {
+          "name": "Anand Ft Revit",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/anand_ft_revit.webp",
+            "alt": "anand_ft_revit"
+          }
+        },
+        {
+          "name": "Rajeshwari Ft Bim",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/rajeshwari_ft_bim.webp",
+            "alt": "rajeshwari_ft_bim"
+          }
+        },
+        {
+          "name": "Ramana Babu Ft Bim",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/ramana_babu_ft_bim.webp",
+            "alt": "ramana_babu_ft_bim"
+          }
+        },
+        {
+          "name": "Rupesh Ft Bim",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/rupesh_ft_bim.webp",
+            "alt": "rupesh_ft_bim"
+          }
+        },
+        {
+          "name": "Rahul Ba Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/rahul_ba_pc.webp",
+            "alt": "rahul_ba"
+          }
+        },
+        {
+          "name": "Sanjay Ba Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/sanjay_ba_pc.webp",
+            "alt": "sanjay_ba"
+          }
+        },
+        {
+          "name": "Manoj Ba Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/manoj_ba_pc.webp",
+            "alt": "manoj_ba"
+          }
+        },
+        {
+          "name": "Anand Ba Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/anand_ba_pc.webp",
+            "alt": "anand_ba"
+          }
+        },
+        {
+          "name": "Vijay Gen Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/vijay_gen_pc.webp",
+            "alt": "vijay_gen"
+          }
+        },
+        {
+          "name": "Siddharth Gen Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/siddharth_gen_pc.webp",
+            "alt": "siddharth_gen"
+          }
+        },
+        {
+          "name": "Praveen Gen Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/praveen_gen_pc.webp",
+            "alt": "praveen_gen"
+          }
+        },
+        {
+          "name": "Harish Gen Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/harish_gen_pc.webp",
+            "alt": "harish_gen"
+          }
+        },
+        {
+          "name": "Abhinav Sekhar Sapmm Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/abhinav_sekhar_sapmm_pc.webp",
+            "alt": "abhinav_sekhar_sapmm_pc.webp"
+          }
+        },
+        {
+          "name": "Ashwin Murthy Sapmm Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/ashwin_murthy_sapmm_pc.webp",
+            "alt": "ashwin_murthy_sapmm_pc.webp"
+          }
+        },
+        {
+          "name": "Deepaj Rsmsswamy Sapmm Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/deepaj_rsmsswamy_sapmm_pc.webp",
+            "alt": "deepaj_rsmsswamy_sapmm_pc.webp"
+          }
+        },
+        {
+          "name": "Naveen Prasad Sapmm Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/naveen_prasad_sapmm_pc.webp",
+            "alt": "naveen_prasad_sapmm_pc.webp"
+          }
+        },
+        {
+          "name": "Vinay Cs Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/vinay_cs_pc.webp",
+            "alt": "vinay"
+          }
+        },
+        {
+          "name": "Tejas Cs Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/tejas_cs_pc.webp",
+            "alt": "tejas_cs_pc.webp"
+          }
+        },
+        {
+          "name": "Aravind Cs Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/aravind_cs_pc.webp",
+            "alt": "aravind_cs"
+          }
+        },
+        {
+          "name": "Ganesh Cs Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/ganesh_cs_pc.webp",
+            "alt": "ganesh_cs_pc.webp"
+          }
+        },
+        {
+          "name": "Abdul Khadir Cad Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/abdul_khadir_cad_pc.webp",
+            "alt": "abdul_khadir_cad"
+          }
+        },
+        {
+          "name": "Avinash Cad Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Avinash_cad_pc.webp",
+            "alt": "abdul_khadir_cad"
+          }
+        },
+        {
+          "name": "Arjun Aws Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/arjun_aws_pc.webp",
+            "alt": "arjun_aws_pc"
+          }
+        },
+        {
+          "name": "Mary Manisha Cad Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/mary_manisha_cad_pc.webp",
+            "alt": "mary_manisha_cad"
+          }
+        },
+        {
+          "name": "Sara Akshara Dm Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/sara_akshara_dm_pc.webp",
+            "alt": "sara_akshara_dm"
+          }
+        },
+        {
+          "name": "Shivakumar Reddy Dm Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Shivakumar_reddy_dm_pc.webp",
+            "alt": "Shivakumar_reddy_dm_pc.webp"
+          }
+        },
+        {
+          "name": "Sravanthi Aws Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Sravanthi_aws_pc.webp",
+            "alt": "Sravanthi_aws_pc.webp"
+          }
+        },
+        {
+          "name": "Sai Ft Fj",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/sai_ft_fj.webp",
+            "alt": "sai_ft_fp"
+          }
+        },
+        {
+          "name": "Jagadeesh Ft Fj",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/jagadeesh_ft_fj.webp",
+            "alt": "jagadeesh_ft_fj"
+          }
+        }
+      ]
     },
     {
-      "image": { "src": "/successstories/ajay_ae_pc.webp", "alt": "ajay_ae_pc" }
-    },
-    {
-      "image": {
-        "src": "/successstories/anand_ft_revit.webp",
-        "alt": "anand_ft_revit"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/arjun_aws_pc.webp",
-        "alt": "arjun_aws_pc"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/Avinash_cad_pc.webp",
-        "alt": "Avinash_cad_pc"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/azharuddin_ft_tt.webp",
-        "alt": "azharuddin_ft_tt"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/bileep_ft_Ac.webp",
-        "alt": "bileep_ft_Ac"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/Billapati_nitish_java_pc.webp",
-        "alt": "Billapati_nitish_java_pc"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/bindu_ft_fp.webp",
-        "alt": "bindu_ft_fp"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/chaitanya_likith_pc.webp",
-        "alt": "chaitanya_likith_pc"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/dasari_kalyan_pc.webp",
-        "alt": "dasari_kalyan_pc"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/hari_krishna_ft_aws.webp",
-        "alt": "hari_krishna_ft_aws"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/ishaan_sf_pc.webp",
-        "alt": "ishaan_sf_pc"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/jagadeesh_ft_fj.webp",
-        "alt": "jagadeesh_ft_fj"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/kishore_kannue_testing_pc.webp",
-        "alt": "kishore_kannue_testing_pc"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/krishna_placed_card.webp",
-        "alt": "krishna_placed_card"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/kunal_sf_pc.webp",
-        "alt": "kunal_sf_pc"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/mahesh_ft_da.webp",
-        "alt": "mahesh_ft_da"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/mary_manisha_cad_pc.webp",
-        "alt": "mary_manisha_cad_pc"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/nikhila_ft_fj.webp",
-        "alt": "nikhila_ft_fj"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/praveen_ft_dm.webp",
-        "alt": "praveen_ft_dm"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/priya_ft_Ac.webp",
-        "alt": "priya_ft_Ac"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/rajeshwari_ft_bim.webp",
-        "alt": "rajeshwari_ft_bim"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/ramana_babu_ft_bim.webp",
-        "alt": "ramana_babu_ft_bim"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/ravali_ft_Da.webp",
-        "alt": "ravali_ft_Da"
-      }
-    },
-    {
-      "image": { "src": "/successstories/ravi_ft_fj.webp", "alt": "ravi_ft_fj" }
-    },
-    {
-      "image": {
-        "src": "/successstories/ravi_teja_ft_da.webp",
-        "alt": "ravi_teja_ft_da"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/rupesh_ft_bim.webp",
-        "alt": "rupesh_ft_bim"
-      }
-    },
-    {
-      "image": { "src": "/successstories/sai_ft_fj.webp", "alt": "sai_ft_fj" }
-    },
-    {
-      "image": {
-        "src": "/successstories/sai_raghava_ft_fp.webp",
-        "alt": "sai_raghava_ft_fp"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/sailaja_ft_dm.webp",
-        "alt": "sailaja_ft_dm"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/sara_akshara_dm_pc.webp",
-        "alt": "sara_akshara_dm_pc"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/shanmukh_ft_Ac.webp",
-        "alt": "shanmukh_ft_Ac"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/shivaji_placed_card.webp",
-        "alt": "shivaji_placed_card"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/Shivakumar_reddy_dm_pc.webp",
-        "alt": "Shivakumar_reddy_dm_pc"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/shubam_ft_fp.webp",
-        "alt": "shubam_ft_fp"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/teja_reddy_ft_revit.webp",
-        "alt": "teja_reddy_ft_revit"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/vaishnavi_ft_dm.webp",
-        "alt": "vaishnavi_ft_dm"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/vihansh_cad_pc.webp",
-        "alt": "vihansh_cad_pc"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/vineeth_ft_fp.webp",
-        "alt": "vineeth_ft_fp"
-      }
-    },
-    {
-      "image": {
-        "src": "/successstories/vinod_ft_tt.webp",
-        "alt": "vinod_ft_tt"
-      }
-    },{ "image": { "src": "/successstories/ps_1.webp", "alt": "ps_1" } },
-    { "image": { "src": "/successstories/ps_2.webp", "alt": "ps_2" } },
-    { "image": { "src": "/successstories/ps_3.webp", "alt": "ps_3" } },
-    { "image": { "src": "/successstories/ps_4.webp", "alt": "ps_4" } },
-    { "image": { "src": "/successstories/ps_5.webp", "alt": "ps_5" } },
-    { "image": { "src": "/successstories/ps_6.webp", "alt": "ps_6" } },
-    { "image": { "src": "/successstories/ps_7.webp", "alt": "ps_7" } },
-    { "image": { "src": "/successstories/ps_8.webp", "alt": "ps_8" } },
-    { "image": { "src": "/successstories/ps_9.webp", "alt": "ps_9" } },
-    { "image": { "src": "/successstories/ps_10.webp", "alt": "ps_10" } },
-    { "image": { "src": "/successstories/ps_11.webp", "alt": "ps_11" } },
-    { "image": { "src": "/successstories/ps_12.webp", "alt": "ps_12" } },
-    { "image": { "src": "/successstories/ps_13.webp", "alt": "ps_13" } },
-    { "image": { "src": "/successstories/ps_14.webp", "alt": "ps_14" } },
-    { "image": { "src": "/successstories/ps_15.webp", "alt": "ps_15" } },
-    { "image": { "src": "/successstories/ps_16.webp", "alt": "ps_16" } },
-    { "image": { "src": "/successstories/ps_17.webp", "alt": "ps_17" } },
-    { "image": { "src": "/successstories/ps_18.webp", "alt": "ps_18" } },
-    { "image": { "src": "/successstories/ps_19.webp", "alt": "ps_19" } },
-    { "image": { "src": "/successstories/ps_20.webp", "alt": "ps_20" } }
+      "title": "Placed Students",
+      "videoCards": [
+        {
+          "name": "Architha Python",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Architha_python.webp",
+            "alt": "Architha_python"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/architha_intern.mp4"
+        },
+        {
+          "name": "Akshitha Python",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/akshitha_python.webp",
+            "alt": "askshita_placed_card"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/akshitha_intern.mp4"
+        },
+        {
+          "name": "Prasad Python",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Prasad_python.webp",
+            "alt": "leela_prasad_sd"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Prasad_fp.mp4"
+        },
+        {
+          "name": "Vennela Python",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Vennela_python.webp",
+            "alt": "Vennela_frontend.mp4"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Vennela_frontend.mp4"
+        },
+        {
+          "name": "Bindu Ft Fp",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/bindu_ft_fp.webp",
+            "alt": "bindu_ft_fp"
+          }
+        },
+        {
+          "name": "Shubam Ft Fp",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/shubam_ft_fp.webp",
+            "alt": "shubam_ft_fp"
+          }
+        },
+        {
+          "name": "Sai Raghava Ft Fp",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/sai_raghava_ft_fp.webp",
+            "alt": "sai_raghava_ft_fp"
+          }
+        },
+        {
+          "name": "Chaitanya Likith Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/chaitanya_likith_pc.webp",
+            "alt": "chaitanya_likith_pc.webp"
+          }
+        },
+        {
+          "name": "Gayatry Placed Card",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/gayatry_placed_card.webp",
+            "alt": "gayatry_placed_card"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/gayathri_intern.mp4"
+        },
+        {
+          "name": "Srinivas Rao Java",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Srinivas_rao_java.webp",
+            "alt": "Prasad_sd"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/srinivas_intern.mp4"
+        },
+        {
+          "name": "Vignesh Sd",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Vignesh_sd.webp",
+            "alt": "Vignesh_sd"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Vignesh_fj.mp4"
+        },
+        {
+          "name": "Lipika Placed Card",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/lipika_placed_card.webp",
+            "alt": "lipika_placed_card"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/lipika_fj.mp4"
+        },
+        {
+          "name": "Vineeth Ft Fp",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/vineeth_ft_fp.webp",
+            "alt": "vineeth_ft_fj"
+          }
+        },
+        {
+          "name": "Dasari Kalyan Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/dasari_kalyan_pc.webp",
+            "alt": "dasari_kalyan_pc"
+          }
+        },
+        {
+          "name": "Sai Sudhir Java Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/sai_sudhir_java_pc.webp",
+            "alt": "sai_sudhir_java"
+          }
+        },
+        {
+          "name": "Ravi Ft Fj",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/ravi_ft_fj.webp",
+            "alt": "ravi_ft_fj"
+          }
+        },
+        {
+          "name": "Santhosha Sd",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Santhosha_sd.webp",
+            "alt": "Santhosha_sd"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/santosha_fp.mp4"
+        },
+        {
+          "name": "Ruchita Sd",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/ruchita_sd.webp",
+            "alt": "ruchita_sd"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Ruchita_fp.mp4"
+        },
+        {
+          "name": "Srija Fj",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/srija_fj.webp",
+            "alt": "srija_fj"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/srija_intern.mp4"
+        },
+        {
+          "name": "Sai Kiran Sd",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/sai_kiran_sd.webp",
+            "alt": "sai_kiran_sd"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Sai_Kiran_fp.mp4"
+        },
+        {
+          "name": "Mahesh Ft Da",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/mahesh_ft_da.webp",
+            "alt": "mahesh_ft_da"
+          }
+        },
+        {
+          "name": "Krishna Placed Card",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/krishna_placed_card.webp",
+            "alt": "krishna"
+          }
+        },
+        {
+          "name": "Nikhila Ft Fj",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/nikhila_ft_fj.webp",
+            "alt": "nikhila_ft_fj"
+          }
+        },
+        {
+          "name": "Billapati Nitish Java Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Billapati_nitish_java_pc.webp",
+            "alt": "Billapati_nitish_java"
+          }
+        },
+        {
+          "name": "Aanya Aws Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/aanya_AWS_pc.webp",
+            "alt": "aanya_AWS_pc"
+          }
+        },
+        {
+          "name": "Arjun Aws Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/arjun_aws_pc.webp",
+            "alt": "arjun_aws_pc.webp"
+          }
+        },
+        {
+          "name": "Anika Aws Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/anika_aws_pc.webp",
+            "alt": "anika_aws_pc.webp"
+          }
+        },
+        {
+          "name": "Hari Krishna Ft Aws",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/hari_krishna_ft_aws.webp",
+            "alt": "hari_krishna_ft_aws"
+          }
+        },
+        {
+          "name": "Shiva Shankar Dm",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/shiva_shankar_dm.webp",
+            "alt": "shiva_shankar_dm"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Shiva_Shanker_Dm.mp4"
+        },
+        {
+          "name": "Navya Dm",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/navya_Dm.webp",
+            "alt": "navya"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Navya_dm.mp4"
+        },
+        {
+          "name": "Jai Rishanth Dm",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/jai_rishanth_Dm.webp",
+            "alt": "jai_rishanth"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Jai _Rishanth_contenct_write.mp4"
+        },
+        {
+          "name": "Shivakumar Reddy Dm Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Shivakumar_reddy_dm_pc.webp",
+            "alt": "Vennela_sd"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Vennela_frontend.mp4"
+        },
+        {
+          "name": "Praveen Ft Dm",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/praveen_ft_dm.webp",
+            "alt": "praveen_ft_dm"
+          }
+        },
+        {
+          "name": "Sailaja Ft Dm",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/sailaja_ft_dm.webp",
+            "alt": "sailaja_ft_dm"
+          }
+        },
+        {
+          "name": "Vaishnavi Ft Dm",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/vaishnavi_ft_dm.webp",
+            "alt": "vaishnavi_ft_dm"
+          }
+        },
+        {
+          "name": "Shivaji Placed Card",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/shivaji_placed_card.webp",
+            "alt": "shivaji_ft_dm"
+          }
+        },
+        {
+          "name": "Rohan Da Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/rohan_da_pc.webp",
+            "alt": "rohan_image"
+          }
+        },
+        {
+          "name": "Meera Da Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/meera_da_pc.webp",
+            "alt": "meera_image"
+          }
+        },
+        {
+          "name": "Ravi Teja Ft Da",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/ravi_teja_ft_da.webp",
+            "alt": "ravi_teja_ft_da"
+          }
+        },
+        {
+          "name": "Ravali Ft Da",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/ravali_ft_Da.webp",
+            "alt": "ravali_ft_Da"
+          }
+        },
+        {
+          "name": "Ishaan Sf Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/ishaan_sf_pc.webp",
+            "alt": "sai_raghava_ft_fp"
+          }
+        },
+        {
+          "name": "Kavya Sf Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/kavya_sf_pc.webp",
+            "alt": "ranjith_ft_sf"
+          }
+        },
+        {
+          "name": "Kunal Sf Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/kunal_sf_pc.webp",
+            "alt": "venkatesh_ft_sf"
+          }
+        },
+        {
+          "name": "Isha Sf Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/isha_sf_pc.webp",
+            "alt": "vineeth"
+          }
+        },
+        {
+          "name": "Siddharth Varma Sap Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/siddharth_varma_sap_pc.webp",
+            "alt": "siddharth_varma_sap_pc.webp"
+          }
+        },
+        {
+          "name": "Karthik Sap Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/karthik_sap_pc.webp",
+            "alt": "krishna"
+          }
+        },
+        {
+          "name": "Rajat Joshi Sap Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/rajat_joshi-sap_pc.webp",
+            "alt": "vaishu"
+          }
+        },
+        {
+          "name": "Ruthuja Sap Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/ruthuja_sap_pc.webp",
+            "alt": "ruthuja_sap_pc.webp"
+          }
+        },
+        {
+          "name": "Pranav Bhat Mc Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/pranav_bhat_mc_pc.webp",
+            "alt": "shivaji"
+          }
+        },
+        {
+          "name": "Deevansh Rao Mc Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/deevansh_rao_mc_pc.webp",
+            "alt": "krishna"
+          }
+        },
+        {
+          "name": "Isitha Patel Mc Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/isitha_patel_mc_pc.webp",
+            "alt": "vaishu"
+          }
+        },
+        {
+          "name": "Kavya Desai Mc Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/kavya_desai_mc_pc.webp",
+            "alt": "kavya_desai_mc_pc.webp"
+          }
+        },
+        {
+          "name": "Mohitha Tt",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/mohitha_tt.webp",
+            "alt": "mohitha"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Mohitha_testing_tool.mp4"
+        },
+        {
+          "name": "Kishore Kannue Testing Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/kishore_kannue_testing_pc.webp",
+            "alt": "kishore_kannue_testing"
+          }
+        },
+        {
+          "name": "Vinod Ft Tt",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/vinod_ft_tt.webp",
+            "alt": "vinod_ft_tt"
+          }
+        },
+        {
+          "name": "Azharuddin Ft Tt",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/azharuddin_ft_tt.webp",
+            "alt": "azharuddin_ft_tt"
+          }
+        },
+        {
+          "name": "Sandeep Vlsi Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/sandeep_vlsi_pc.webp",
+            "alt": "sandeep_vlsi"
+          }
+        },
+        {
+          "name": "Pranav Vlsi Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/pranav_vlsi_pc.webp",
+            "alt": "pranav_vlsi"
+          }
+        },
+        {
+          "name": "Arun Vlsi Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/arun_vlsi_pc.webp",
+            "alt": "arun_vlsi"
+          }
+        },
+        {
+          "name": "Karthik Vlsi Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/karthik_vlsi_pc.webp",
+            "alt": "karthik_vlsi"
+          }
+        },
+        {
+          "name": "Vignesh Mm Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/vignesh_mm_pc.webp",
+            "alt": "vignesh_mm"
+          }
+        },
+        {
+          "name": "Rohit Mm Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/rohit_mm_pc.webp",
+            "alt": "rohit_mm"
+          }
+        },
+        {
+          "name": "Lakshmi Mm Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/lakshmi_mm_pc.webp",
+            "alt": "lakshmi_mm"
+          }
+        },
+        {
+          "name": "Meera Mm Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/meera_mm_pc.webp",
+            "alt": "meera_mm"
+          }
+        },
+        {
+          "name": "Surya Ae Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/surya_ae_pc.webp",
+            "alt": "surya_ae"
+          }
+        },
+        {
+          "name": "Rakesh Ae Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/rakesh_ae_pc.webp",
+            "alt": "rakesh_ae"
+          }
+        },
+        {
+          "name": "Kavya Ae Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/kavya_ae_pc.webp",
+            "alt": "kavya_ae"
+          }
+        },
+        {
+          "name": "Ajay Ae Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/ajay_ae_pc.webp",
+            "alt": "ajay_ae"
+          }
+        },
+        {
+          "name": "Swathi Ac",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/swathi_Ac.webp",
+            "alt": "swathi"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Swathi_Ac.mp4"
+        },
+        {
+          "name": "Moulika Placed Card",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/moulika_placed_card.webp",
+            "alt": "moulika_placed_card"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/moulika_geovista.mp4"
+        },
+        {
+          "name": "Faiyaz Placed Card",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/faiyaz_placed_card.webp",
+            "alt": "faiyaz_placed_card"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/faiyaz_geovista.mp4"
+        },
+        {
+          "name": "Sravani Placed Card",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/sravani_placed_card.webp",
+            "alt": "sravani_placed_card"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/sravani_geovista.mp4"
+        },
+        {
+          "name": "Bileep Ft Ac",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/bileep_ft_Ac.webp",
+            "alt": "bileep_ft_Ac"
+          }
+        },
+        {
+          "name": "Priya Ft Ac",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/priya_ft_Ac.webp",
+            "alt": "priya_ft_Ac"
+          }
+        },
+        {
+          "name": "Shanmukh Ft Ac",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/shanmukh_ft_Ac.webp",
+            "alt": "shanmukh_ft_Ac"
+          }
+        },
+        {
+          "name": "Vihansh Cad Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/vihansh_cad_pc.webp",
+            "alt": "vineeth"
+          }
+        },
+        {
+          "name": "Kishore Revit",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/kishore_revit.webp",
+            "alt": "kishore_revit"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Kishore_rivit_bim.mp4"
+        },
+        {
+          "name": "Priyanka Bim",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Priyanka_bim.webp",
+            "alt": "Priyanka_bim"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Priyanka_Ac.mp4"
+        },
+        {
+          "name": "Leela Prasad Bim",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/leela_prasad_bim.webp",
+            "alt": "leela_prasad_sd"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/leela_prasad_bim.mp4"
+        },
+        {
+          "name": "Krishna Bim",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/krishna_bim.webp",
+            "alt": "krishna_bim"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Krishna_bim.mp4"
+        },
+        {
+          "name": "Teja Reddy Ft Revit",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/teja_reddy_ft_revit.webp",
+            "alt": "teja_reddy_ft_revit"
+          }
+        },
+        {
+          "name": "Anand Ft Revit",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/anand_ft_revit.webp",
+            "alt": "anand_ft_revit"
+          }
+        },
+        {
+          "name": "Rajeshwari Ft Bim",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/rajeshwari_ft_bim.webp",
+            "alt": "rajeshwari_ft_bim"
+          }
+        },
+        {
+          "name": "Ramana Babu Ft Bim",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/ramana_babu_ft_bim.webp",
+            "alt": "ramana_babu_ft_bim"
+          }
+        },
+        {
+          "name": "Hansika Bim",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Hansika_bim.webp",
+            "alt": "Hansika_bim"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Hansika_bim.mp4"
+        },
+        {
+          "name": "Bhavana Bim",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Bhavana_bim.webp",
+            "alt": "Bhavana_bim"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Bhavana_bim.mp4"
+        },
+        {
+          "name": "Rupesh Ft Bim",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/rupesh_ft_bim.webp",
+            "alt": "rupesh_ft_bim"
+          }
+        },
+        {
+          "name": "Rahul Ba Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/rahul_ba_pc.webp",
+            "alt": "rahul_ba"
+          }
+        },
+        {
+          "name": "Sanjay Ba Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/sanjay_ba_pc.webp",
+            "alt": "sanjay_ba"
+          }
+        },
+        {
+          "name": "Manoj Ba Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/manoj_ba_pc.webp",
+            "alt": "manoj_ba"
+          }
+        },
+        {
+          "name": "Anand Ba Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/anand_ba_pc.webp",
+            "alt": "anand_ba"
+          }
+        },
+        {
+          "name": "Vijay Gen Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/vijay_gen_pc.webp",
+            "alt": "vijay_gen"
+          }
+        },
+        {
+          "name": "Siddharth Gen Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/siddharth_gen_pc.webp",
+            "alt": "siddharth_gen"
+          }
+        },
+        {
+          "name": "Praveen Gen Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/praveen_gen_pc.webp",
+            "alt": "praveen_gen"
+          }
+        },
+        {
+          "name": "Harish Gen Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/harish_gen_pc.webp",
+            "alt": "harish_gen"
+          }
+        },
+        {
+          "name": "Abhinav Sekhar Sapmm Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/abhinav_sekhar_sapmm_pc.webp",
+            "alt": "abhinav_sekhar_sapmm_pc.webp"
+          }
+        },
+        {
+          "name": "Ashwin Murthy Sapmm Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/ashwin_murthy_sapmm_pc.webp",
+            "alt": "ashwin_murthy_sapmm_pc.webp"
+          }
+        },
+        {
+          "name": "Deepaj Rsmsswamy Sapmm Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/deepaj_rsmsswamy_sapmm_pc.webp",
+            "alt": "deepaj_rsmsswamy_sapmm_pc.webp"
+          }
+        },
+        {
+          "name": "Naveen Prasad Sapmm Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/naveen_prasad_sapmm_pc.webp",
+            "alt": "naveen_prasad_sapmm_pc.webp"
+          }
+        },
+        {
+          "name": "Vinay Cs Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/vinay_cs_pc.webp",
+            "alt": "vinay"
+          }
+        },
+        {
+          "name": "Tejas Cs Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/tejas_cs_pc.webp",
+            "alt": "tejas_cs_pc.webp"
+          }
+        },
+        {
+          "name": "Aravind Cs Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/aravind_cs_pc.webp",
+            "alt": "aravind_cs"
+          }
+        },
+        {
+          "name": "Ganesh Cs Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/ganesh_cs_pc.webp",
+            "alt": "ganesh_cs_pc.webp"
+          }
+        },
+        {
+          "name": "Pooja Sd",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Pooja_sd.webp",
+            "alt": "Pooja_sd"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Pooja_fp.mp4"
+        },
+        {
+          "name": "Abdul Khadir Cad Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/abdul_khadir_cad_pc.webp",
+            "alt": "abdul_khadir_cad"
+          }
+        },
+        {
+          "name": "Avinash Cad Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Avinash_cad_pc.webp",
+            "alt": "abdul_khadir_cad"
+          }
+        },
+        {
+          "name": "Arjun Aws Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/arjun_aws_pc.webp",
+            "alt": "arjun_aws_pc"
+          }
+        },
+        {
+          "name": "Mary Manisha Cad Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/mary_manisha_cad_pc.webp",
+            "alt": "mary_manisha_cad"
+          }
+        },
+        {
+          "name": "Sara Akshara Dm Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/sara_akshara_dm_pc.webp",
+            "alt": "sara_akshara_dm"
+          }
+        },
+        {
+          "name": "Shivakumar Reddy Dm Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Shivakumar_reddy_dm_pc.webp",
+            "alt": "Shivakumar_reddy_dm_pc.webp"
+          }
+        },
+        {
+          "name": "Sravanthi Aws Pc",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Sravanthi_aws_pc.webp",
+            "alt": "Sravanthi_aws_pc.webp"
+          }
+        },
+        {
+          "name": "Sai Ft Fj",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/sai_ft_fj.webp",
+            "alt": "sai_ft_fp"
+          }
+        },
+        {
+          "name": "Jagadeesh Ft Fj",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/jagadeesh_ft_fj.webp",
+            "alt": "jagadeesh_ft_fj"
+          }
+        },
+        {
+          "name": "Vennela Sd",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Vennela_sd.webp",
+            "alt": "Vennela_sd"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Vennela_frontend.mp4"
+        },
+        {
+          "name": "Askshita Placed Card",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/askshita_placed_card.webp",
+            "alt": "askshita_placed_card"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/akshitha_intern.mp4"
+        },
+        {
+          "name": "Leela Prasad Sd",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/leela_prasad_sd.webp",
+            "alt": "leela_prasad_sd"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/leela_prasad_bim.mp4"
+        },
+        {
+          "name": "Archita Placed Card",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/archita_placed_card.webp",
+            "alt": "archita_placed_card"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/architha_intern.mp4"
+        }
+      ]
+    }
   ]
 }
