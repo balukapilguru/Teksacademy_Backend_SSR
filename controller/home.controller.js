@@ -272,10 +272,73 @@ const getDiscoverElements = async (req, res) => {
   }
 };
 
+const getplacementElements = async (req, res) => {
+  try {
+    const { placement_elements } = req.params;
+
+    const safeName = sanitizeFilename(placement_elements);
+
+    if (!safeName) {
+      return res.status(400).json({
+        success: false,
+        message: "Invalid placement name",
+      });
+    }
+
+    const placementDir = path.resolve(__dirname, "../assets/placements");
+
+    const placementFile = path.join(placementDir, safeName, `${safeName}.json`);
+
+    console.log("Placement File Path:", placementFile);
+
+    const data = await fs.readFile(placementFile, "utf8");
+
+    const cleanData = data.replace(/^\uFEFF/, "").trim();
+
+    // empty file check
+    if (!cleanData) {
+      return res.status(404).json({
+        success: true,
+        message: `No data found in ${safeName}.json`,
+      });
+    }
+
+    let placementData;
+
+    try {
+      placementData = JSON.parse(cleanData);
+    } catch (parseError) {
+      console.error("Invalid JSON:", parseError);
+
+      return res.status(500).json({
+        success: false,
+        message: `Invalid JSON format in ${safeName}.json`,
+      });
+    }
+
+    return sendSuccess(res, placementData);
+  } catch (err) {
+    console.error("getplacementElements error:", err);
+
+    if (err.code === "ENOENT") {
+      return res.status(404).json({
+        success: false,
+        message: `Placement page ${req.params.placement_name} not found`,
+      });
+    }
+
+    return res.status(500).json({
+      success: false,
+      message: "Error retrieving placement details",
+    });
+  }
+};
+
 export {
   getHomeData,
   getHomeSpecificField,
   getHomeFranchiseField,
   getBranchByName,
   getDiscoverElements,
+  getplacementElements,
 };

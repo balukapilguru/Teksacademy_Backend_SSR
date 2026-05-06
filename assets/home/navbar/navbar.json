@@ -252,8 +252,8 @@
         {
           "name": "Placements",
           "dropdown": [
-            { "name": "Alumni", "link": "/discover/alumni" },
-            { "name": "Recruiters", "link": "/discover/recruiters" }
+            { "name": "Alumni", "link": "/placements/alumni" },
+            { "name": "Recruiters", "link": "/placements/recruiters" }
           ]
         }
       ],
