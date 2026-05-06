@@ -305,17 +305,17 @@
   },
 
   "platFormSupport": {
-    "position": 9,
-    "heading": ["Take the Leap", "Towards Learning!"],
+    "position": 13,
+    "heading": ["Take the Leap", " Towards Learning!"],
     "subHeading": "null",
     "services": {
       "items": [
         {
           "id": 1,
-          "heading": ["Flexible Online Learning"],
+          "heading": ["Flexible Learning"],
           "icon": {
             "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
-            "alt": "flexible online learning"
+            "alt": "null"
           }
         },
         {
@@ -323,15 +323,15 @@
           "heading": ["Advanced LMS"],
           "icon": {
             "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
-            "alt": "advanced lms"
+            "alt": "null"
           }
         },
         {
           "id": 3,
-          "heading": ["Global Certification"],
+          "heading": ["International valid Certification"],
           "icon": {
             "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
-            "alt": "global certification"
+            "alt": "null"
           }
         },
         {
@@ -339,7 +339,7 @@
           "heading": ["No Cost EMI"],
           "icon": {
             "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
-            "alt": "no cost emi"
+            "alt": "null"
           }
         },
         {
@@ -347,85 +347,53 @@
           "heading": ["Affordable Fees"],
           "icon": {
             "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
-            "alt": "affrordable fees"
+            "alt": "null"
           }
         },
         {
           "id": 6,
-          "heading": ["UGC/NAAC Recognized Universities"],
+          "heading": ["Expert Faculty"],
           "icon": {
             "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
-            "alt": "ugc/naac recognized universities"
+            "alt": "null"
           }
         },
         {
           "id": 7,
-          "heading": ["Expert Faculty"],
+          "heading": ["AI Integrated Curriculum"],
           "icon": {
             "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
-            "alt": "expert faculty"
+            "alt": "null"
+          }
+        },
+        {
+          "id": 8,
+          "heading": ["Job-Focused Training"],
+          "icon": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "alt": "null"
           }
         },
         {
           "id": 9,
-          "heading": ["online live and recorded sessions"],
+          "heading": ["Placement & Career support"],
           "icon": {
             "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
-            "alt": "online live and recorded sessions"
+            "alt": "null"
           }
         },
         {
           "id": 10,
-          "heading": ["Industry-aligned Curriculum"],
+          "heading": ["100% Internship"],
           "icon": {
             "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
-            "alt": "industry-aligned curriculum"
-          }
-        },
-        {
-          "id": 11,
-          "heading": ["Dual Certifications"],
-          "icon": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
-            "alt": "dual certifications"
-          }
-        },
-        {
-          "id": 12,
-          "heading": ["AI-Enhanced Learning"],
-          "icon": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
-            "alt": "ai enhanced learning"
-          }
-        },
-        {
-          "id": 13,
-          "heading": ["Job-Focused Training"],
-          "icon": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
-            "alt": "job focused training"
-          }
-        },
-        {
-          "id": 14,
-          "heading": ["Affordable & Quality Learning"],
-          "icon": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
-            "alt": "affordable and quality learning"
-          }
-        },
-        {
-          "id": 15,
-          "heading": ["Placement & Career support"],
-          "icon": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
-            "alt": "placement and career support"
+            "alt": "null"
           }
         }
       ],
       "button": {
         "text": "View all",
-        "icon": { "src": "null", "alt": "view all" },
+        "icon": { "src": "null", "alt": "null" },
         "link": "null"
       }
     }
