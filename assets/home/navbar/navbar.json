@@ -75,7 +75,7 @@
             {
               "title": "Full-Stack Python",
               "description": "The Full-Stack Python course includes the prime elements of Python and web frameworks like Django, Flask, and more.",
-              "link": "/courses/full-stack-python",
+              "link": "/courses/full-stack-python-certification-course",
               "image": {
                 "url": "/assets/img/interview_question/python.webp",
                 "alt": "Full-Stack Python course"
@@ -93,7 +93,7 @@
             {
               "title": "Data Science",
               "description": "Become a Data Science professional by learning Python, Machine Learning, Power BI, and live data analytics projects.",
-              "link": "/courses/data-science",
+              "link": "/courses/data-science-certification-program",
               "image": {
                 "url": "/assets/img/interview_question/data_science.webp",
                 "alt": "Data Science course"
@@ -102,7 +102,7 @@
             {
               "title": "AWS & DevOps",
               "description": "Master AWS & DevOps with hands-on training in Cloud Computing, CI/CD, Docker, Jenkins, and Kubernetes deployment practices.",
-              "link": "/courses/aws-devops",
+              "link": "/courses/aws-and-devops-certification-program",
               "image": {
                 "url": "/assets/img/interview_question/aws_dev.webp",
                 "alt": "AWS and DevOps course"
@@ -111,7 +111,7 @@
             {
               "title": "Digital Marketing",
               "description": "Get trained in SEO, Google Ads, Analytics, Social Media Marketing, and Content Strategy in this industry-ready program.",
-              "link": "/courses/digital-marketing",
+              "link": "/courses/digital-marketing-certification-course",
               "image": {
                 "url": "/assets/img/interview_question/digital_Marketing.webp",
                 "alt": "Digital Marketing course"
@@ -120,7 +120,7 @@
             {
               "title": "BIM",
               "description": "Learn Revit, AutoCAD, Navisworks, and BIM coordination techniques with practical training in the AEC-focused BIM Course.",
-              "link": "/courses/bim",
+              "link": "/courses/bim-certification-course",
               "image": {
                 "url": "/assets/img/interview_question/BIM.webp",
                 "alt": "BIM course"
@@ -135,7 +135,7 @@
             {
               "title": "Ameerpet",
               "phone": "+91 78159 24610",
-              "link": "/branches/ameerpet",
+              "link": "/branch/best-software-training-institute-ameerpet",
               "image": {
                 "url": "/assets/img/branchnavimg/ameerpet.webp",
                 "alt": "Ameerpet branch"
@@ -144,7 +144,7 @@
             {
               "title": "Hitec City",
               "phone": "+91 78159 24622",
-              "link": "/branches/hitec-city",
+              "link": "/branch/best-software-training-institute-hiteccity",
               "image": {
                 "url": "/assets/img/branchnavimg/hiteccity.webp",
                 "alt": "Hitec City branch"
@@ -153,7 +153,7 @@
             {
               "title": "Secunderabad",
               "phone": "+91 92814 66365",
-              "link": "/branches/secunderabad",
+              "link": "/branch/best-software-training-institute-secunderabad",
               "image": {
                 "url": "/assets/img/branchnavimg/secunderabad.webp",
                 "alt": "Secunderabad branch"
@@ -162,7 +162,7 @@
             {
               "title": "Dilsukhnagar",
               "phone": "+91 78159 24700",
-              "link": "/branches/dilsukhnagar",
+              "link": "/branch/best-software-training-institute-dilsukhnagar",
               "image": {
                 "url": "/assets/img/branchnavimg/dilsuhknagar.webp",
                 "alt": "Dilsukhnagar branch"
@@ -171,7 +171,7 @@
             {
               "title": "Mehdipatnam",
               "phone": "+91 98660 47567",
-              "link": "/branches/mehdipatnam",
+              "link": "/branch/best-software-training-institute-mehdipatnam",
               "image": {
                 "url": "/assets/img/branchnavimg/mehdipatnam.webp",
                 "alt": "Mehdipatnam branch"
@@ -180,7 +180,7 @@
             {
               "title": "Kukatpally",
               "phone": "+91 86884 08352",
-              "link": "/branches/kukatpally",
+              "link": "/branch/best-software-training-institute-kukatpally",
               "image": {
                 "url": "/assets/img/branchnavimg/kukataplly.webp",
                 "alt": "Kukatpally branch"
@@ -189,7 +189,7 @@
             {
               "title": "Bangalore",
               "phone": "+91 70754 63275",
-              "link": "/branches/bangalore",
+              "link": "/branch/best-software-training-institute-bangalore",
               "image": {
                 "url": "/assets/img/branchnavimg/bangalore.webp",
                 "alt": "Bangalore branch"
@@ -198,7 +198,7 @@
             {
               "title": "Visakhapatnam",
               "phone": "+91 91333 08352",
-              "link": "/branches/visakhapatnam",
+              "link": "/branch/best-software-training-institute-visakhapatnam",
               "image": {
                 "url": "/assets/img/branchnavimg/vizag.webp",
                 "alt": "Visakhapatnam branch"
@@ -207,7 +207,7 @@
             {
               "title": "Salem",
               "phone": "+91 97885 77788",
-              "link": "/branches/salem",
+              "link": "/branch/best-software-training-institute-salem",
               "image": {
                 "url": "/assets/img/branchnavimg/salem.webp",
                 "alt": "Salem branch"

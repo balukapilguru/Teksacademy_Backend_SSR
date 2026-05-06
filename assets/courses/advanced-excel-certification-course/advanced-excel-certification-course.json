@@ -99,7 +99,7 @@
   },
   "offeredBy": {
     "position": 2,
-    "heading": ["Associated with"],
+    "heading": ["Partnered With"],
     "image": [
       {
         "src": "/home/universitylogos/amity.webp",
@@ -290,7 +290,7 @@
 
   "offeringUniversity": {
     "position": 7,
-    "heading": ["Offering ", "Universities"],
+    "heading": ["Offering ", "Programs"],
     "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
     "columns": [
       "University",

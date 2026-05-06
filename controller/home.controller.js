@@ -67,11 +67,7 @@ const sendSuccess = (res, data, statusCode = 200) => {
   });
 };
 
-const sendError = (
-  res,
-  error,
-  fallbackMessage = RESPONSE.INTERNAL_ERROR
-) => {
+const sendError = (res, error, fallbackMessage = RESPONSE.INTERNAL_ERROR) => {
   return res.status(error.statusCode || 500).json({
     success: false,
     message: error.message || fallbackMessage,
@@ -124,11 +120,7 @@ const getHomeFranchiseField = async (req, res) => {
       });
     }
 
-    const filePath = resolveSafePath(
-      name,
-      franchise,
-      `${franchise}.json`
-    );
+    const filePath = resolveSafePath(name, franchise, `${franchise}.json`);
 
     const data = await readJson(filePath);
 
@@ -142,8 +134,148 @@ const getHomeFranchiseField = async (req, res) => {
   }
 };
 
+const sanitizeFilename = (raw) => {
+  if (!raw || typeof raw !== "string") {
+    return null;
+  }
+
+  const candidate = raw.trim();
+
+  const ok = /^[a-z0-9-_]+$/i.test(candidate);
+
+  return ok ? candidate : null;
+};
+
+//get branch landing page data by field name
+const getBranchByName = async (req, res) => {
+  try {
+    const { branch_name } = req.params;
+
+    const safeName = sanitizeFilename(branch_name);
+
+    if (!safeName) {
+      return res.status(400).json({
+        success: false,
+        message: "Invalid branch name",
+      });
+    }
+
+    const branchDir = path.resolve(__dirname, "../assets/branch");
+
+    const branchFile = path.join(branchDir, safeName, `${safeName}.json`);
+
+    console.log("Branch File Path:", branchFile);
+
+    const data = await fs.readFile(branchFile, "utf8");
+
+    const cleanData = data.replace(/^\uFEFF/, "").trim();
+
+    // empty file check
+    if (!cleanData) {
+      return res.status(404).json({
+        success: true,
+        message: `No data found in ${safeName}.json`,
+      });
+    }
+
+    let branchData;
+
+    try {
+      branchData = JSON.parse(cleanData);
+    } catch (parseError) {
+      console.error("Invalid JSON:", parseError);
+
+      return res.status(500).json({
+        success: false,
+        message: `Invalid JSON format in ${safeName}.json`,
+      });
+    }
+
+    return sendSuccess(res, branchData);
+  } catch (err) {
+    console.error("getBranchByName error:", err);
+
+    if (err.code === "ENOENT") {
+      return res.status(404).json({
+        success: false,
+        message: `Branch ${req.params.branch_name} not found`,
+      });
+    }
+
+    return res.status(500).json({
+      success: false,
+      message: "Error retrieving branch details",
+    });
+  }
+};
+
+//get discover page data by discover name
+const getDiscoverElements = async (req, res) => {
+  try {
+    const { discovery_elements } = req.params;
+
+    const safeName = sanitizeFilename(discovery_elements);
+
+    if (!safeName) {
+      return res.status(400).json({
+        success: false,
+        message: "Invalid discover name",
+      });
+    }
+
+    const discoverDir = path.resolve(__dirname, "../assets/discover");
+
+    const discoverFile = path.join(discoverDir, safeName, `${safeName}.json`);
+
+    console.log("Discover File Path:", discoverFile);
+
+    const data = await fs.readFile(discoverFile, "utf8");
+
+    const cleanData = data.replace(/^\uFEFF/, "").trim();
+
+    // empty file check
+    if (!cleanData) {
+      return res.status(404).json({
+        success: true,
+        message: `No data found in ${safeName}.json`,
+      });
+    }
+
+    let discoverData;
+
+    try {
+      discoverData = JSON.parse(cleanData);
+    } catch (parseError) {
+      console.error("Invalid JSON:", parseError);
+
+      return res.status(500).json({
+        success: false,
+        message: `Invalid JSON format in ${safeName}.json`,
+      });
+    }
+
+    return sendSuccess(res, discoverData);
+  } catch (err) {
+    console.error("getDiscoverByName error:", err);
+
+    if (err.code === "ENOENT") {
+      return res.status(404).json({
+        success: false,
+        message: `Discover page ${req.params.discover_name} not found`,
+      });
+    }
+
+    return res.status(500).json({
+      success: false,
+      message: "Error retrieving discover details",
+    });
+  }
+};
+
 export {
   getHomeData,
   getHomeSpecificField,
   getHomeFranchiseField,
+  getBranchByName,
+  getDiscoverElements,
 };

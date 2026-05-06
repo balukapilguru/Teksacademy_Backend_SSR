@@ -6,7 +6,7 @@
 
   "banner": {
     "position": 1,
-    "video": "assets/videossection/glimpse_video_for_website.mp4",
+    "video": "/assets/videossection/glimpse_video_for_website.mp4",
     "thumbnail": "home/banner/bannerfinal.webp",
     "subHeading": "Recognised by"
   },
@@ -52,33 +52,33 @@
           "videoCards": [
             {
               "name": "vennela",
-              "videoUrl": "assets/success_stories_videos/Vennela_frontend.mp4",
+              "videoUrl": "/assets/success_stories_videos/Vennela_frontend.mp4",
               "thumbnail": {
-                "src": "assets/img/success_Stories/Vennela_python.webp",
+                "src": "/assets/img/success_Stories/Vennela_python.webp",
                 "alt": "vennela"
               }
             },
             {
               "name": "Srinivas Rao",
-              "videoUrl": "assets/success_stories_videos/srinivas_intern.mp4",
+              "videoUrl": "/assets/success_stories_videos/srinivas_intern.mp4",
               "thumbnail": {
-                "src": "assets/img/success_Stories/Srinivas_rao_java.webp",
+                "src": "/assets/img/success_Stories/Srinivas_rao_java.webp",
                 "alt": "srinivas Rao"
               }
             },
             {
               "name": "Leela Prasad",
-              "videoUrl": "assets/success_stories_videos/leela_prasad_bim.mp4",
+              "videoUrl": "/assets/success_stories_videos/leela_prasad_bim.mp4",
               "thumbnail": {
-                "src": "assets/img/success_Stories/leela_prasad_bim.webp",
+                "src": "/assets/img/success_Stories/leela_prasad_bim.webp",
                 "alt": "leela prasad"
               }
             },
             {
               "name": "Ruchita",
-              "videoUrl": "assets/success_stories_videos/Ruchita_fp.mp4",
+              "videoUrl": "/assets/success_stories_videos/Ruchita_fp.mp4",
               "thumbnail": {
-                "src": "assets/img/success_Stories/ruchita_sd.webp",
+                "src": "/assets/img/success_Stories/ruchita_sd.webp",
                 "alt": "ruchita"
               }
             }
@@ -87,28 +87,28 @@
             {
               "name": "Shivaji Bakka",
               "image": {
-                "src": "assets/img/success_Stories/shivaji_placed_card.webp",
+                "src": "/assets/img/success_Stories/shivaji_placed_card.webp",
                 "alt": "Shivaji Bakka"
               }
             },
             {
               "name": "Sailaja",
               "image": {
-                "src": "assets/img/success_Stories/sailaja_ft_dm.webp",
+                "src": "/assets/img/success_Stories/sailaja_ft_dm.webp",
                 "alt": "Sailaja"
               }
             },
             {
               "name": "Sai Raghava",
               "image": {
-                "src": "assets/img/success_Stories/sai_raghava_ft_fp.webp",
+                "src": "/assets/img/success_Stories/sai_raghava_ft_fp.webp",
                 "alt": "Sai Raghava"
               }
             },
             {
               "name": "Krishna Prasad",
               "image": {
-                "src": "assets/img/success_Stories/krishna_placed_card.webp",
+                "src": "/assets/img/success_Stories/krishna_placed_card.webp",
                 "alt": "Krishna Prasad"
               }
             }
@@ -122,33 +122,33 @@
           "videoCards": [
             {
               "name": "chandravardhan",
-              "videoUrl": "assets/success_stories_videos/Chandravardhan_fj.mp4",
+              "videoUrl": "/assets/success_stories_videos/Chandravardhan_fj.mp4",
               "thumbnail": {
-                "src": "assets/img/success_Stories/chandravardhan_ps_fj.webp",
+                "src": "/assets/img/success_Stories/chandravardhan_ps_fj.webp",
                 "alt": "chandravardhan"
               }
             },
             {
               "name": "shandruth",
-              "videoUrl": "assets/success_stories_videos/SHANDRUTH_fp.mp4",
+              "videoUrl": "/assets/success_stories_videos/SHANDRUTH_fp.mp4",
               "thumbnail": {
-                "src": "assets/img/success_Stories/shandruth_fp.webp",
+                "src": "/assets/img/success_Stories/shandruth_fp.webp",
                 "alt": "shandruth"
               }
             },
             {
               "name": "srinivas",
-              "videoUrl": "assets/success_stories_videos/SRINIVAS_ds.mp4",
+              "videoUrl": "/assets/success_stories_videos/SRINIVAS_ds.mp4",
               "thumbnail": {
-                "src": "assets/img/success_Stories/srinivas_ds.webp",
+                "src": "/assets/img/success_Stories/srinivas_ds.webp",
                 "alt": "srinivas"
               }
             },
             {
               "name": "praveen",
-              "videoUrl": "assets/success_stories_videos/PRAVEEN_dm.mp4",
+              "videoUrl": "/assets/success_stories_videos/PRAVEEN_dm.mp4",
               "thumbnail": {
-                "src": "assets/img/success_Stories/praveen_dm.webp",
+                "src": "/assets/img/success_Stories/praveen_dm.webp",
                 "alt": "praveen"
               }
             }
@@ -157,28 +157,28 @@
             {
               "name": "Shravan",
               "image": {
-                "src": "assets/img/success_Stories/fj_tc_1.webp",
+                "src": "/assets/img/success_Stories/fj_tc_1.webp",
                 "alt": "Shravan"
               }
             },
             {
               "name": "Sai Shiva",
               "image": {
-                "src": "assets/img/success_Stories/fp_tc_2.webp",
+                "src": "/assets/img/success_Stories/fp_tc_2.webp",
                 "alt": "Sai Shiva"
               }
             },
             {
               "name": "Bharath Bandarupally",
               "image": {
-                "src": "assets/img/success_Stories/bharath_tc_Ds.webp",
+                "src": "/assets/img/success_Stories/bharath_tc_Ds.webp",
                 "alt": "Bharath Bandarupally"
               }
             },
             {
               "name": "Korra Vinay Kumar",
               "image": {
-                "src": "assets/img/success_Stories/Dm_tc_4.webp",
+                "src": "/assets/img/success_Stories/Dm_tc_4.webp",
                 "alt": "Korra Vinay Kumar"
               }
             }
@@ -193,7 +193,7 @@
     "hiringPartnersHeading": ["700+ Hiring", "Partners"],
     "hiringPartnersSubheading": "Get ready to grab your dream job! Join the talent pool with access to the world's best hiring companies.",
     "image": {
-      "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/business_person.webp",
+      "src": "/assets/img/hiring_companies/business_person.webp",
       "alt": "business_person"
     },
     "companies": {
@@ -201,35 +201,35 @@
         {
           "name": "Adobe",
           "image": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/adobe.webp",
+            "src": "/assets/img/hiring_companies/adobe.webp",
             "alt": "adobe"
           }
         },
         {
           "name": "Google",
           "image": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/google.webp",
+            "src": "/assets/img/hiring_companies/google.webp",
             "alt": "google"
           }
         },
         {
           "name": "Cognizant",
           "image": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/cognizant.webp",
+            "src": "/assets/img/hiring_companies/cognizant.webp",
             "alt": "cognizant"
           }
         },
         {
           "name": "Infosys",
           "image": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/infosys.webp",
+            "src": "/assets/img/hiring_companies/infosys.webp",
             "alt": "infosys"
           }
         },
         {
           "name": "Intel",
           "image": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/intel.webp",
+            "src": "/assets/img/hiring_companies/intel.webp",
             "alt": "intel"
           }
         }
@@ -238,35 +238,35 @@
         {
           "name": "TCS",
           "image": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/tcs.webp",
+            "src": "/assets/img/hiring_companies/tcs.webp",
             "alt": "tcs"
           }
         },
         {
           "name": "Tech Mahindra",
           "image": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/techmahindra.webp",
+            "src": "/assets/img/hiring_companies/techmahindra.webp",
             "alt": "techmahindra"
           }
         },
         {
           "name": "Capgemini",
           "image": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/capgemini.webp",
+            "src": "/assets/img/hiring_companies/capgemini.webp",
             "alt": "capgemini"
           }
         },
         {
           "name": "Deloitte",
           "image": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/deloitte.webp",
+            "src": "/assets/img/hiring_companies/deloitte.webp",
             "alt": "deloitte"
           }
         },
         {
           "name": "Microsoft",
           "image": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/microsoft.webp",
+            "src": "/assets/img/hiring_companies/microsoft.webp",
             "alt": "microsoft"
           }
         }
@@ -275,35 +275,35 @@
         {
           "name": "Apple",
           "image": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
+            "src": "/assets/img/hiring_companies/apple.webp",
             "alt": "apple"
           }
         },
         {
           "name": "IBM",
           "image": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/ibm.webp",
+            "src": "/assets/img/hiring_companies/ibm.webp",
             "alt": "ibm"
           }
         },
         {
           "name": "Flipkart",
           "image": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/flipkart.webp",
+            "src": "/assets/img/hiring_companies/flipkart.webp",
             "alt": "flipkart"
           }
         },
         {
           "name": "Oracle",
           "image": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/oracle.webp",
+            "src": "/assets/img/hiring_companies/oracle.webp",
             "alt": "oracle"
           }
         },
         {
           "name": "Kapil IT",
           "image": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/kapilit.webp",
+            "src": "/assets/img/hiring_companies/kapilit.webp",
             "alt": "kapilit"
           }
         }
@@ -315,7 +315,7 @@
     "position": 1,
     "heading": [
       "Get Industry Ready Skills, ",
-      "IIT Certification, 100% Paid Internship"
+      "IIT Certification, 100% Internship"
     ],
     "courses": [
       {
@@ -808,35 +808,35 @@
         "title": "Technical Seminars",
         "icon": {
           "name": "seminar",
-          "url": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/nutshell/nutshell-1.webp"
+          "url": "/assets/img/nutshell/nutshell-1.webp"
         }
       },
       {
         "title": "Mock Interviews",
         "icon": {
           "name": "interview",
-          "url": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/nutshell/nutshell-2.webp"
+          "url": "/assets/img/nutshell/nutshell-2.webp"
         }
       },
       {
         "title": "CRT & Job Ready Skills",
         "icon": {
           "name": "skills",
-          "url": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/nutshell/nutshell-3.webp"
+          "url": "/assets/img/nutshell/nutshell-3.webp"
         }
       },
       {
         "title": "Dedicated Job Portal",
         "icon": {
           "name": "job-portal",
-          "url": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/nutshell/nutshell-4.webp"
+          "url": "/assets/img/nutshell/nutshell-4.webp"
         }
       },
       {
         "title": "Internship opportunity in a IT Company",
         "icon": {
           "name": "internship",
-          "url": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/nutshell/nutshell-5.webp"
+          "url": "/assets/img/nutshell/nutshell-5.webp"
         }
       }
     ],
@@ -848,8 +848,8 @@
 
     "image": {
       "alt": "Career services section illustration",
-      "desktop": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/nutshell/nutshell.webp",
-      "mobile": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/nutshell/nutshell_mobile.webp"
+      "desktop": "/assets/img/nutshell/nutshell.webp",
+      "mobile": "/assets/img/nutshell/nutshell_mobile.webp"
     }
   },
 
@@ -929,6 +929,8 @@
 
   "awards": {
     "title": "Awards",
+    "leftLeaf": "/assets/img/left_leaf.webp",
+    "rightLeaf": "/assets/img/right_leaf.webp",
     "cards": [
       {
         "title": "Most Promising Data Science Training Institutes - 2023",
@@ -936,7 +938,7 @@
         "year": "2023",
         "description": "Most Promising Data Science Training Institutes - 2023 by Silicon India.",
         "image": {
-          "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2FAwards%2FArtboard1.webp&w=640&q=75",
+          "src": "/assets/img/Awards/Artboard1.webp",
           "alt": "Silicon India Data Science Award 2023"
         }
       },
@@ -946,7 +948,7 @@
         "year": "2023",
         "description": "Best Emerging Real-Time Training Academy of the Year - PRIDE OF INDIAN EDUCATION Awards by Brands Impact.",
         "image": {
-          "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2FAwards%2FArtboard2.webp&w=640&q=75",
+          "src": "/assets/img/Awards/Artboard2.webp",
           "alt": "Pride of Indian Education Award 2023"
         }
       },
@@ -956,7 +958,7 @@
         "year": "2023",
         "description": "Best Online Training Institute of the Year - Hybiz TV Education Excellence Awards 2023.",
         "image": {
-          "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2FAwards%2FArtboard3.webp&w=640&q=75",
+          "src": "/assets/img/Awards/Artboard3.webp",
           "alt": "Hybiz TV Education Excellence Award 2023"
         }
       },
@@ -966,7 +968,7 @@
         "year": "2023",
         "description": "Most Innovative Online Education Platform 2023 - South India in Education and Training Awarded by Corporate Vision.",
         "image": {
-          "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2FAwards%2FArtboard4.webp&w=640&q=75",
+          "src": "/assets/img/Awards/Artboard4.webp",
           "alt": "Corporate Vision Education Award 2023"
         }
       },
@@ -976,7 +978,7 @@
         "year": "2024",
         "description": "Most Trusted Education Brand recognized for outstanding contribution made by Teks Academy.",
         "image": {
-          "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2FAwards%2FArtboard5.webp&w=640&q=75",
+          "src": "/assets/img/Awards/Artboard5.webp",
           "alt": "Most Trusted Education Brand Award 2024"
         }
       },
@@ -986,7 +988,7 @@
         "year": "2025",
         "description": "Indian Iconic Skill & Career Empowering Institute 2025.",
         "image": {
-          "src": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2FAwards%2Fteks_pride.webp&w=640&q=75",
+          "src": "/assets/img/Awards/teks_pride.webp",
           "alt": "Indian Iconic Skill & Career Empowering Institute 2025"
         }
       }
@@ -998,63 +1000,63 @@
     "heading": ["Gallery"],
     "images": [
       {
-        "src": "assets/img/gallery/image3.webp",
+        "src": "/assets/img/gallery/image3.webp",
         "alt": "image3"
       },
       {
-        "src": "assets/img/gallery/image4.webp",
+        "src": "/assets/img/gallery/image4.webp",
         "alt": "image4"
       },
       {
-        "src": "assets/img/gallery/image5.webp",
+        "src": "/assets/img/gallery/image5.webp",
         "alt": "image5"
       },
       {
-        "src": "assets/img/gallery/image6.webp",
+        "src": "/assets/img/gallery/image6.webp",
         "alt": "image6"
       },
       {
-        "src": "assets/img/gallery/image7.webp",
+        "src": "/assets/img/gallery/image7.webp",
         "alt": "image7"
       },
       {
-        "src": "assets/img/gallery/image8.webp",
+        "src": "/assets/img/gallery/image8.webp",
         "alt": "image8"
       },
       {
-        "src": "assets/img/gallery/image9.webp",
+        "src": "/assets/img/gallery/image9.webp",
         "alt": "image9"
       },
       {
-        "src": "assets/img/gallery/image10.webp",
+        "src": "/assets/img/gallery/image10.webp",
         "alt": "image10"
       },
       {
-        "src": "assets/img/gallery/image11.webp",
+        "src": "/assets/img/gallery/image11.webp",
         "alt": "image11"
       },
       {
-        "src": "assets/img/gallery/image12.webp",
+        "src": "/assets/img/gallery/image12.webp",
         "alt": "image12"
       },
       {
-        "src": "assets/img/gallery/image41.webp",
+        "src": "/assets/img/gallery/image41.webp",
         "alt": "image41"
       },
       {
-        "src": "assets/img/gallery/image14.webp",
+        "src": "/assets/img/gallery/image14.webp",
         "alt": "image14"
       },
       {
-        "src": "assets/img/gallery/image15.webp",
+        "src": "/assets/img/gallery/image15.webp",
         "alt": "image15"
       },
       {
-        "src": "assets/img/gallery/image16.webp",
+        "src": "/assets/img/gallery/image16.webp",
         "alt": "image16"
       },
       {
-        "src": "assets/img/gallery/image24.webp",
+        "src": "/assets/img/gallery/image24.webp",
         "alt": "image24"
       }
     ]
@@ -1066,91 +1068,91 @@
     "images": [
       {
         "image": {
-          "src": "assets/img/feature_in/aadab.webp",
+          "src": "/assets/img/feature_in/aadab.webp",
           "alt": "teksacademy featurein aadab-hyderabad news channel"
         }
       },
       {
         "image": {
-          "src": "assets/img/feature_in/andhra.webp",
+          "src": "/assets/img/feature_in/andhra.webp",
           "alt": "teksacademy featurein andhra jyothi news channel"
         }
       },
       {
         "image": {
-          "src": "assets/img/feature_in/daily.webp",
+          "src": "/assets/img/feature_in/daily.webp",
           "alt": "teksacademy featurein daily hunt news channel"
         }
       },
       {
         "image": {
-          "src": "assets/img/feature_in/enadu.webp",
+          "src": "/assets/img/feature_in/enadu.webp",
           "alt": "teksacademy featurein enadu news channel"
         }
       },
       {
         "image": {
-          "src": "assets/img/feature_in/hans.webp",
+          "src": "/assets/img/feature_in/hans.webp",
           "alt": "teksacademy featurein hans india news channel"
         }
       },
       {
         "image": {
-          "src": "assets/img/feature_in/hindhu.webp",
+          "src": "/assets/img/feature_in/hindhu.webp",
           "alt": "teksacademy featurein the hindhu news channel"
         }
       },
       {
         "image": {
-          "src": "assets/img/feature_in/tv5.webp",
+          "src": "/assets/img/feature_in/tv5.webp",
           "alt": "teksacademy featurein tv5 news channel"
         }
       },
       {
         "image": {
-          "src": "assets/img/feature_in/lokal.webp",
+          "src": "/assets/img/feature_in/lokal.webp",
           "alt": "teksacademy featurein lokal app news channel"
         }
       },
       {
         "image": {
-          "src": "assets/img/feature_in/metro.webp",
+          "src": "/assets/img/feature_in/metro.webp",
           "alt": "teksacademy featurein metro udayam news channel"
         }
       },
       {
         "image": {
-          "src": "assets/img/feature_in/prajapalana.webp",
+          "src": "/assets/img/feature_in/prajapalana.webp",
           "alt": "teksacademy featurein prajapalana news channel"
         }
       },
       {
         "image": {
-          "src": "assets/img/feature_in/indian_express.webp",
+          "src": "/assets/img/feature_in/indian_express.webp",
           "alt": "teksacademy featurein the indian express news channel"
         }
       },
       {
         "image": {
-          "src": "assets/img/feature_in/telugu.webp",
+          "src": "/assets/img/feature_in/telugu.webp",
           "alt": "teksacademy featurein telugu prabha news channel"
         }
       },
       {
         "image": {
-          "src": "assets/img/feature_in/v6.webp",
+          "src": "/assets/img/feature_in/v6.webp",
           "alt": "teksacademy featurein v6 news channel"
         }
       },
       {
         "image": {
-          "src": "assets/img/feature_in/telangana.webp",
+          "src": "/assets/img/feature_in/telangana.webp",
           "alt": "teksacademy featurein telangana kranthi news channel"
         }
       },
       {
         "image": {
-          "src": "assets/img/feature_in/hmtv.webp",
+          "src": "/assets/img/feature_in/hmtv.webp",
           "alt": "teksacademy featurein hmtv news channel"
         }
       }

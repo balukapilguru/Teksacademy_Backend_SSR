@@ -368,7 +368,6 @@ const getAllCourses = async (req, res) => {
 };
 
 // GET COURSE BY NAME
-
 const getCourseByName = async (req, res) => {
   try {
     const { course_name } = req.params;

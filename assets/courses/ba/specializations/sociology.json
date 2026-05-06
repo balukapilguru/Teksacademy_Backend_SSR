@@ -178,7 +178,7 @@
 
   "offeredBy": {
     "position": 2,
-    "heading": ["Associated with"],
+    "heading": ["Partnered With"],
     "subHeading": "null",
     "image": [
       {
@@ -354,7 +354,7 @@
 
   "offeringUniversity": {
     "position": 7,
-    "heading": ["Offering ", "Universities"],
+    "heading": ["Offering ", "Programs"],
     "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
     "columns": [
       "University",
