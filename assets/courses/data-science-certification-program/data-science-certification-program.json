@@ -103,7 +103,7 @@
           "src": "/home/Teksversity_navbar.webp",
           "alt": "teksversity"
         },
-        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "TrainingMode": "Online/Offline",
         "rating": 4.8,
         "duration": "4-6 Months",
         "courseFee": {
@@ -809,8 +809,8 @@
     "heading": ["Offering ", "Programs"],
     "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
     "columns": [
-      "University",
-      "Accreditations",
+      "Program",
+      "Training Mode",
       "Rating",
       "Duration",
       "Course Fee",
@@ -823,7 +823,7 @@
           "src": "/certificate/Teksversity_In1.webp",
           "alt": "Teksversity"
         },
-        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "TrainingMode": "Online/Offline",
         "rating": 4.8,
         "duration": "4-6 Months",
         "courseFee": {
@@ -893,7 +893,7 @@
       "items": [
         {
           "id": 1,
-          "heading": ["Flexible Online Learning"],
+          "heading": ["Flexible Learning"],
           "icon": {
             "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
             "alt": "null"
@@ -909,7 +909,7 @@
         },
         {
           "id": 3,
-          "heading": ["Global Certification"],
+          "heading": ["International valid Certification"],
           "icon": {
             "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
             "alt": "null"
@@ -933,14 +933,6 @@
         },
         {
           "id": 6,
-          "heading": ["UGC/NAAC Recognized Universities"],
-          "icon": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
-            "alt": "null"
-          }
-        },
-        {
-          "id": 7,
           "heading": ["Expert Faculty"],
           "icon": {
             "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
@@ -948,39 +940,15 @@
           }
         },
         {
-          "id": 9,
-          "heading": ["online live and recorded sessions"],
+          "id": 7,
+          "heading": ["AI Integrated Curriculum"],
           "icon": {
             "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
             "alt": "null"
           }
         },
         {
-          "id": 10,
-          "heading": ["Industry-aligned Curriculum"],
-          "icon": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
-            "alt": "null"
-          }
-        },
-        {
-          "id": 11,
-          "heading": ["Dual Certifications"],
-          "icon": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
-            "alt": "null"
-          }
-        },
-        {
-          "id": 12,
-          "heading": ["AI-Enhanced Learning"],
-          "icon": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
-            "alt": "null"
-          }
-        },
-        {
-          "id": 13,
+          "id": 8,
           "heading": ["Job-Focused Training"],
           "icon": {
             "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
@@ -988,16 +956,16 @@
           }
         },
         {
-          "id": 14,
-          "heading": ["Affordable & Quality Learning"],
+          "id": 9,
+          "heading": ["Placement & Career support"],
           "icon": {
             "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
             "alt": "null"
           }
         },
         {
-          "id": 15,
-          "heading": ["Placement & Career support"],
+          "id": 10,
+          "heading": ["100% Internship"],
           "icon": {
             "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/hiring_companies/apple.webp",
             "alt": "null"
@@ -1011,6 +979,7 @@
       }
     }
   },
+  
   "testimonials": {
     "position": 14,
     "heading": ["Our Students", "Experience"],

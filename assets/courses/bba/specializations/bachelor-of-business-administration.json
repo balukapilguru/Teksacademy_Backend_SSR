@@ -144,7 +144,7 @@
           "alt": "amity",
           "url": "/university/amity-university"
         },
-        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "TrainingMode": "Online/Offline",
         "rating": 4.5,
         "fee": "1,65,000",
         "duration": "36 months 6 sem",
@@ -373,8 +373,8 @@
     "heading": ["Offering ", "Programs"],
     "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
     "columns": [
-      "University",
-      "Accreditations",
+      "Program",
+      "Training Mode",
       "Rating",
       "Duration",
       "Course Fee",

@@ -59,7 +59,7 @@
           "src": "/home/Teksversity_navbar.webp",
           "alt": "teksversity"
         },
-        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "TrainingMode": "Online/Offline",
         "rating": 4.8,
         "duration": "4-6 Months",
         "courseFee": {
@@ -298,8 +298,8 @@
     "heading": ["Offering ", "Programs"],
     "getDiscount": ["Spin the Wheel for a", " Surprise Discount!"],
     "columns": [
-      "University",
-      "Accreditations",
+      "Program",
+      "Training Mode",
       "Rating",
       "Duration",
       "Course Fee",
@@ -312,7 +312,7 @@
           "src": "/certificate/Teksversity_In1.webp",
           "alt": "Teksversity"
         },
-        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "TrainingMode": "Online/Offline",
         "rating": 4.8,
         "duration": "4-6 Months",
         "courseFee": {

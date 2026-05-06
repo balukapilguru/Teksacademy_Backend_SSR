@@ -145,7 +145,7 @@
           "alt": "jain",
           "url": "/university/jain-university"
         },
-        "accreditations": ["ISO", "NASSCOM", "MSME", "NSDC"],
+        "TrainingMode": "Online/Offline",
         "rating": 4.5,
         "duration": "3 years",
         "courseFee": { "range": "1,50,000", "note": "Total program fee" },
@@ -376,8 +376,8 @@
     "heading": ["Offering ", "Programs"],
     "getDiscount":["Spin the Wheel for a"," Surprise Discount!"],
     "columns": [
-      "University",
-      "Accreditations",
+      "Program",
+      "Training Mode",
       "Rating",
       "Duration",
       "Course Fee",
