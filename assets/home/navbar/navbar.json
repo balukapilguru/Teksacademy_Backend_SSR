@@ -27,7 +27,7 @@
         },
         "login": {
           "name": "Login",
-          "link": "https://www.student.teksversity.com/auth/login/"
+          "link": "https://students.teksacademy.com/auth/login/"
         },
 
         "socialMedia": {
@@ -36,22 +36,22 @@
             {
               "platform": "facebook",
               "icon": "/icons/facebook.svg",
-              "link": "https://www.facebook.com/people/Teksversity/61578853585345/"
+              "link": "https://www.facebook.com/teksacademy"
             },
             {
               "platform": "instagram",
               "icon": "/icons/instagram.svg",
-              "link": "https://www.instagram.com/teksversity/"
+              "link": "https://www.instagram.com/teks_academy/"
             },
             {
               "platform": "youtube",
               "icon": "/icons/youtube.svg",
-              "link": "https://www.youtube.com/@Teksversity"
+              "link": "https://www.youtube.com/@teksacademy/playlists"
             },
             {
               "platform": "linkedin",
               "icon": "/icons/linkedin.svg",
-              "link": "https://www.linkedin.com/company/108117280/admin/dashboard/"
+              "link": "https://www.linkedin.com/company/teks-academy"
             }
           ]
         }
@@ -75,7 +75,7 @@
             {
               "title": "Full-Stack Python",
               "description": "The Full-Stack Python course includes the prime elements of Python and web frameworks like Django, Flask, and more.",
-              "link": "/courses/full-stack-python-certification-course",
+              "link": "/courses/best-full-stack-python-development-course-training-institute",
               "image": {
                 "url": "/assets/img/interview_question/python.webp",
                 "alt": "Full-Stack Python course"
@@ -84,7 +84,7 @@
             {
               "title": "Full-Stack Java",
               "description": "Learn Full-Stack Java using Core Java, Spring Boot, Hibernate, and front-end tools with real-time project exposure.",
-              "link": "/courses/full-stack-java",
+              "link": "/courses/best-full-stack-java-development-course-training-institute",
               "image": {
                 "url": "/assets/img/interview_question/fullstack.webp",
                 "alt": "Full-Stack Java course"
@@ -93,7 +93,7 @@
             {
               "title": "Data Science",
               "description": "Become a Data Science professional by learning Python, Machine Learning, Power BI, and live data analytics projects.",
-              "link": "/courses/data-science-certification-program",
+              "link": "/courses/best-data-science-course-training-institute",
               "image": {
                 "url": "/assets/img/interview_question/data_science.webp",
                 "alt": "Data Science course"
@@ -102,7 +102,7 @@
             {
               "title": "AWS & DevOps",
               "description": "Master AWS & DevOps with hands-on training in Cloud Computing, CI/CD, Docker, Jenkins, and Kubernetes deployment practices.",
-              "link": "/courses/aws-and-devops-certification-program",
+              "link": "/courses/best-awsplusdevops-course-training-institute",
               "image": {
                 "url": "/assets/img/interview_question/aws_dev.webp",
                 "alt": "AWS and DevOps course"
@@ -111,7 +111,7 @@
             {
               "title": "Digital Marketing",
               "description": "Get trained in SEO, Google Ads, Analytics, Social Media Marketing, and Content Strategy in this industry-ready program.",
-              "link": "/courses/digital-marketing-certification-course",
+              "link": "/courses/best-digital-marketing-course-training-institute",
               "image": {
                 "url": "/assets/img/interview_question/digital_Marketing.webp",
                 "alt": "Digital Marketing course"
@@ -120,7 +120,7 @@
             {
               "title": "BIM",
               "description": "Learn Revit, AutoCAD, Navisworks, and BIM coordination techniques with practical training in the AEC-focused BIM Course.",
-              "link": "/courses/bim-certification-course",
+              "link": "/courses/best-bim-building-information-modeling-course-training-institute",
               "image": {
                 "url": "/assets/img/interview_question/BIM.webp",
                 "alt": "BIM course"
