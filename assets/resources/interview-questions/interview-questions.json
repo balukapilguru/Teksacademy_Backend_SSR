@@ -1,0 +1,325 @@
+{
+  "meta": {
+    "title": "Interview Questions | Teks Academy",
+    "description": "Explore top interview questions and preparation resources for Full Stack, Data Science, AWS, SAP, Cyber Security, Digital Marketing, and more."
+  },
+
+  "heroSection": {
+    "position": 1,
+    "heading": ["Interview", "Questions"],
+    "subHeading": "Prepare for your dream job with the most asked interview questions across trending technologies and domains."
+  },
+
+  "interviewQuestions": {
+    "position": 2,
+    "cards": [
+      {
+        "title": "Full Stack Python",
+        "slug": "full-stack-python-interview-questions",
+        "description": "Master Python, Django, and REST API development.",
+        "image": {
+          "src": "/assets/interview/full-stack-python.webp",
+          "alt": "Full Stack Python"
+        },
+        "button": {
+          "text": "Read More",
+          "link": "/interview-questions/python-interview-questions"
+        }
+      },
+
+      {
+        "title": "Full Stack Java",
+        "slug": "full-stack-java-interview-questions",
+        "description": "Become a Java expert with Spring Boot and Microservices.",
+        "image": {
+          "src": "/assets/interview/full-stack-java.webp",
+          "alt": "Full Stack Java"
+        },
+        "button": {
+          "text": "Read More",
+          "link": "/interview-questions/java-interview-questions"
+        }
+      },
+
+      {
+        "title": "Data Science",
+        "slug": "data-science-interview-questions",
+        "description": "Learn AI, ML, Deep Learning, and Big Data Analytics.",
+        "image": {
+          "src": "/assets/interview/data-science.webp",
+          "alt": "Data Science"
+        },
+        "button": {
+          "text": "Read More",
+          "link": "/interview-questions/data-science-interview-questions"
+        }
+      },
+
+      {
+        "title": "Digital Marketing",
+        "slug": "digital-marketing-interview-questions",
+        "description": "SEO, Google Ads, Social Media Marketing, and Analytics.",
+        "image": {
+          "src": "/assets/interview/digital-marketing.webp",
+          "alt": "Digital Marketing"
+        },
+        "button": {
+          "text": "Read More",
+          "link": "/interview-questions/digital-marketing-interview-questions"
+        }
+      },
+
+      {
+        "title": "AWS & DevOps",
+        "slug": "aws-devops-interview-questions",
+        "description": "Master cloud computing with AWS, Docker, Kubernetes.",
+        "image": {
+          "src": "/assets/interview/aws-devops.webp",
+          "alt": "AWS & DevOps"
+        },
+        "button": {
+          "text": "Read More",
+          "link": "/interview-questions/aws-devops-interview-questions"
+        }
+      },
+
+      {
+        "title": "BIM",
+        "slug": "bim-interview-questions",
+        "description": "Learn 3D modeling and construction management tools.",
+        "image": {
+          "src": "/assets/interview/bim.webp",
+          "alt": "BIM"
+        },
+        "button": {
+          "text": "Read More",
+          "link": "/interview-questions/bim-interview-questions"
+        }
+      },
+
+      {
+        "title": "Software Testing",
+        "slug": "software-testing-interview-questions",
+        "description": "Manual & Automation Testing, Selenium, JIRA, API Testing.",
+        "image": {
+          "src": "/assets/interview/software-testing.webp",
+          "alt": "Software Testing"
+        },
+        "button": {
+          "text": "Read More",
+          "link": "/interview-questions/software-testing-interview-questions"
+        }
+      },
+
+      {
+        "title": "VLSI Design",
+        "slug": "vlsi-design-interview-questions",
+        "description": "Learn ASIC, FPGA, and semiconductor design methodologies.",
+        "image": {
+          "src": "/assets/interview/vlsi-design.webp",
+          "alt": "VLSI Design"
+        },
+        "button": {
+          "text": "Read More",
+          "link": "/interview-questions/vlsi-design-interview-questions"
+        }
+      },
+
+      {
+        "title": "SAP FICO",
+        "slug": "sap-fico-interview-questions",
+        "description": "Master SAP Finance & Controlling for business applications.",
+        "image": {
+          "src": "/assets/interview/sap-fico.webp",
+          "alt": "SAP FICO"
+        },
+        "button": {
+          "text": "Read More",
+          "link": "/interview-questions/sap-fico-interview-questions"
+        }
+      },
+
+      {
+        "title": "Salesforce CRM",
+        "slug": "salesforce-crm-interview-questions",
+        "description": "Become a Salesforce admin & developer with Apex & LWC.",
+        "image": {
+          "src": "/assets/interview/salesforce-crm.webp",
+          "alt": "Salesforce CRM"
+        },
+        "button": {
+          "text": "Read More",
+          "link": "/interview-questions/salesforce-crm-interview-questions"
+        }
+      },
+
+      {
+        "title": "Medical Coding",
+        "slug": "medical-coding-interview-questions",
+        "description": "ICD-10, CPT, HCPCS coding for healthcare industry.",
+        "image": {
+          "src": "/assets/interview/medical-coding.webp",
+          "alt": "Medical Coding"
+        },
+        "button": {
+          "text": "Read More",
+          "link": "/interview-questions/medical-coding-interview-questions"
+        }
+      },
+
+      {
+        "title": "Multimedia",
+        "slug": "multimedia-interview-questions",
+        "description": "Learn graphic design, 3D animation, and video editing.",
+        "image": {
+          "src": "/assets/interview/multimedia.webp",
+          "alt": "Multimedia"
+        },
+        "button": {
+          "text": "Read More",
+          "link": "/interview-questions/multimedia-interview-questions"
+        }
+      },
+
+      {
+        "title": "Advanced Excel",
+        "slug": "advanced-excel-interview-questions",
+        "description": "Master Excel formulas, Pivot Tables, Macros, and VBA.",
+        "image": {
+          "src": "/assets/interview/advanced-excel.webp",
+          "alt": "Advanced Excel"
+        },
+        "button": {
+          "text": "Read More",
+          "link": "/interview-questions/advanced-excel-interview-questions"
+        }
+      },
+
+      {
+        "title": "AutoCAD",
+        "slug": "autocad-interview-questions",
+        "description": "Master 2D drafting and 3D modeling for architecture and engineering.",
+        "image": {
+          "src": "/assets/interview/autocad.webp",
+          "alt": "AutoCAD"
+        },
+        "button": {
+          "text": "Read More",
+          "link": "/interview-questions/autocad-interview-questions"
+        }
+      },
+
+      {
+        "title": "Revit MEP",
+        "slug": "revit-mep-interview-questions",
+        "description": "Master BIM for architectural, structural, and MEP design.",
+        "image": {
+          "src": "/assets/interview/revit-mep.webp",
+          "alt": "Revit MEP"
+        },
+        "button": {
+          "text": "Read More",
+          "link": "/interview-questions/revit-mep-interview-questions"
+        }
+      },
+
+      {
+        "title": "Data Analytics",
+        "slug": "data-analytics-interview-questions",
+        "description": "Data insights through analysis & visualization techniques.",
+        "image": {
+          "src": "/assets/interview/data-analytics.webp",
+          "alt": "Data Analytics"
+        },
+        "button": {
+          "text": "Read More",
+          "link": "/interview-questions/data-analytics-interview-questions"
+        }
+      },
+
+      {
+        "title": "SAP MM",
+        "slug": "sap-mm-interview-questions",
+        "description": "SAP MM handles procurement and inventory management processes.",
+        "image": {
+          "src": "/assets/interview/sap-mm.webp",
+          "alt": "SAP MM"
+        },
+        "button": {
+          "text": "Read More",
+          "link": "/interview-questions/sap-mm-interview-questions"
+        }
+      },
+
+      {
+        "title": "Cyber Security",
+        "slug": "cyber-security-interview-questions",
+        "description": "Learn system, network, and application security practices.",
+        "image": {
+          "src": "/assets/interview/cyber-security.webp",
+          "alt": "Cyber Security"
+        },
+        "button": {
+          "text": "Read More",
+          "link": "/interview-questions/cyber-security-interview-questions"
+        }
+      },
+
+      {
+        "title": "Generative AI",
+        "slug": "generative-ai-interview-questions",
+        "description": "Learn AI models that generate text, images, and audio.",
+        "image": {
+          "src": "/assets/interview/generative-ai.webp",
+          "alt": "Generative AI"
+        },
+        "button": {
+          "text": "Read More",
+          "link": "/interview-questions/generative-ai-interview-questions"
+        }
+      },
+
+      {
+        "title": "Business Analytics",
+        "slug": "business-analytics-interview-questions",
+        "description": "Learn business data analysis and decision-making techniques.",
+        "image": {
+          "src": "/assets/interview/business-analytics.webp",
+          "alt": "Business Analytics"
+        },
+        "button": {
+          "text": "Read More",
+          "link": "/interview-questions/business-analytics-interview-questions"
+        }
+      },
+
+      {
+        "title": "BFSI Interview Prep",
+        "slug": "bfsi-interview-questions",
+        "description": "Learn banking, securities, mutual funds, and digital banking concepts.",
+        "image": {
+          "src": "/assets/interview/bfsi.webp",
+          "alt": "BFSI Interview Prep"
+        },
+        "button": {
+          "text": "Read More",
+          "link": "/interview-questions/banking-financial-services-and-insurance-interview-questions"
+        }
+      },
+
+      {
+        "title": "PMP Interview Prep",
+        "slug": "pmp-interview-questions",
+        "description": "Master PMP interview questions and project management concepts.",
+        "image": {
+          "src": "/assets/interview/pmp.webp",
+          "alt": "PMP Interview Prep"
+        },
+        "button": {
+          "text": "Read More",
+          "link": "/interview-questions/project-management-program-interview-questions"
+        }
+      }
+    ]
+  }
+}

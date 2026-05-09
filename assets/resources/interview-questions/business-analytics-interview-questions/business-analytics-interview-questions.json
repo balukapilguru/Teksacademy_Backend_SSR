@@ -1,0 +1,314 @@
+{
+  "meta": {
+    "title": "Business Analytics Interview Questions | Teks Academy",
+    "description": "Explore top Business Analytics interview questions and answers covering business intelligence, data analysis, reporting, KPIs, forecasting, and decision-making.",
+    "keywords": [
+      "Business Analytics Interview Questions",
+      "Business Intelligence Questions",
+      "KPI Questions",
+      "Forecasting Questions",
+      "Reporting and Analytics Questions"
+    ]
+  },
+  "heroSection": {
+    "position": 1,
+    "heading": ["Business Analytics", "Interview Questions"],
+    "subHeading": "Prepare for Business Analytics interviews with analytical and decision-making interview questions and answers.",
+    "bannerImage": {
+      "src": "/assets/resources/interview-questions/business-analytics/business-analytics_interview_banner.webp",
+      "alt": "Business Analytics Interview Questions"
+    }
+  },
+  "interviewQuestionsSection": {
+    "position": 2,
+    "heading": "Business Analytics Interview Questions & Answers",
+    "sideImages": {
+      "topRight": {
+        "src": "/assets/resources/interview-questions/common/interview_vector.webp",
+        "alt": "Interview Illustration"
+      },
+      "middleRight": {
+        "src": "/assets/resources/interview-questions/common/megaphone.webp",
+        "alt": "Megaphone Illustration"
+      },
+      "bottomRight": {
+        "src": "/assets/resources/interview-questions/common/circle_shape.webp",
+        "alt": "Circle Shape"
+      }
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is business analytics?",
+        "answer": "Business analytics is the process of using data, statistical analysis, and modeling to make business decisions and gain insights."
+      },
+      {
+        "id": 2,
+        "question": "What are the types of business analytics?",
+        "answer": "The three main types are Descriptive (what happened), Predictive (what might happen), and Prescriptive (what should be done)."
+      },
+      {
+        "id": 3,
+        "question": "How does business intelligence differ from business analytics?",
+        "answer": "Business intelligence focuses on reporting past and current data, while business analytics emphasizes future predictions and optimization."
+      },
+      {
+        "id": 4,
+        "question": "What is the role of a business analyst?",
+        "answer": "A business analyst identifies business needs, gathers requirements, and provides data-driven solutions to improve processes."
+      },
+      {
+        "id": 5,
+        "question": "What tools are commonly used in business analytics?",
+        "answer": "Popular tools include Excel, SQL, Tableau, Power BI, Python, R, and SAS."
+      },
+      {
+        "id": 6,
+        "question": "What is data cleaning?",
+        "answer": "Data cleaning is the process of fixing or removing incorrect, corrupted, or incomplete data to improve data quality."
+      },
+      {
+        "id": 7,
+        "question": "Why is data visualization important?",
+        "answer": "It helps present data in an easily understandable format, revealing patterns, trends, and outliers that support better decision-making."
+      },
+      {
+        "id": 8,
+        "question": "What are key performance indicators (KPIs)?",
+        "answer": "KPIs are measurable values that indicate how effectively a company is achieving its business objectives."
+      },
+      {
+        "id": 9,
+        "question": "What is correlation?",
+        "answer": "Correlation measures the strength and direction of a linear relationship between two variables."
+      },
+      {
+        "id": 10,
+        "question": "What is regression analysis?",
+        "answer": "Regression is a statistical method used to examine the relationship between a dependent variable and one or more independent variables."
+      },
+      {
+        "id": 11,
+        "question": "What is the difference between mean, median, and mode?",
+        "answer": [
+          "• Mean: Average value",
+          "• Median: Middle value",
+          "• Mode: Most frequently occurring value"
+        ]
+      },
+      {
+        "id": 12,
+        "question": "What is standard deviation?",
+        "answer": "Standard deviation shows the dispersion or spread of a dataset relative to its mean."
+      },
+      {
+        "id": 13,
+        "question": "What is a p-value?",
+        "answer": "A p-value indicates the probability that the observed results happened by chance. A lower p-value suggests statistical significance."
+      },
+      {
+        "id": 14,
+        "question": "What is hypothesis testing?",
+        "answer": "It is a method to test an assumption about a population parameter using sample data."
+      },
+      {
+        "id": 15,
+        "question": "What is the difference between Type I and Type II errors?",
+        "answer": [
+          "• Type I: False positive (rejecting a true null hypothesis)",
+          "• Type II: False negative (failing to reject a false null hypothesis)"
+        ]
+      },
+      {
+        "id": 16,
+        "question": "What is the use of SQL in business analytics?",
+        "answer": "SQL is used to extract, manipulate, and manage data from relational databases for analysis."
+      },
+      {
+        "id": 17,
+        "question": "What is a JOIN in SQL?",
+        "answer": "A JOIN combines rows from two or more tables based on a related column between them."
+      },
+      {
+        "id": 18,
+        "question": "What is the difference between INNER JOIN and LEFT JOIN?",
+        "answer": [
+          "• INNER JOIN: Returns matching rows from both tables",
+          "• LEFT JOIN: Returns all rows from the left table and matching rows from the right"
+        ]
+      },
+      {
+        "id": 19,
+        "question": "What is a dashboard?",
+        "answer": "A dashboard is a visual representation of key data metrics and trends, typically created using tools like Power BI or Tableau."
+      },
+      {
+        "id": 20,
+        "question": "What is data warehousing?",
+        "answer": "A data warehouse is a central repository where data is stored for reporting and analysis purposes."
+      },
+      {
+        "id": 21,
+        "question": "What is predictive analytics?",
+        "answer": "Predictive analytics uses statistical models and machine learning to forecast future outcomes based on historical data."
+      },
+      {
+        "id": 22,
+        "question": "What is logistic regression used for?",
+        "answer": "Logistic regression is used to predict binary outcomes (like yes/no, success/failure) based on independent variables."
+      },
+      {
+        "id": 23,
+        "question": "What is clustering?",
+        "answer": "Clustering is a machine learning technique that groups similar data points into clusters based on shared features."
+      },
+      {
+        "id": 24,
+        "question": "What is time series analysis?",
+        "answer": "It is used to analyze data points collected over time to identify trends, seasonality, and forecast future values."
+      },
+      {
+        "id": 25,
+        "question": "What is optimization in business analytics?",
+        "answer": "Optimization involves finding the best solution from a set of alternatives to maximize or minimize a business objective."
+      },
+      {
+        "id": 26,
+        "question": "Describe a situation where you solved a business problem using analytics.",
+        "answer": "(Example: Used Excel and SQL to analyze sales data and identified a drop in performance, leading to a successful pricing strategy revision.)"
+      },
+      {
+        "id": 27,
+        "question": "How would you handle missing data in a dataset?",
+        "answer": "Options include deleting, imputing values using mean/median, or using algorithms that handle missing values."
+      },
+      {
+        "id": 28,
+        "question": "How do you prioritize tasks in a data analysis project?",
+        "answer": "By assessing business impact, data availability, timeline, and complexity of analysis."
+      },
+      {
+        "id": 29,
+        "question": "How do you validate your findings?",
+        "answer": "Cross-validation, statistical testing, and reviewing with stakeholders help ensure the accuracy of insights."
+      },
+      {
+        "id": 30,
+        "question": "What would you do if your analysis contradicts management’s opinion?",
+        "answer": "Present the data objectively with visualizations and explain the methodology clearly to support your conclusions."
+      },
+      {
+        "id": 31,
+        "question": "What is market basket analysis?",
+        "answer": "It’s a technique to find relationships between items bought together, often used in cross-selling strategies."
+      },
+      {
+        "id": 32,
+        "question": "How do you measure customer retention?",
+        "answer": "By calculating metrics like churn rate, retention rate, or customer lifetime value over a given time period."
+      },
+      {
+        "id": 33,
+        "question": "What is A/B testing?",
+        "answer": "A/B testing compares two versions of a product or webpage to see which performs better based on key metrics."
+      },
+      {
+        "id": 34,
+        "question": "What is the difference between qualitative and quantitative analysis?",
+        "answer": [
+          "• Qualitative: Non-numeric, like customer feedback",
+          "• Quantitative: Numeric, like sales figures or survey scores"
+        ]
+      },
+      {
+        "id": 35,
+        "question": "How would you use data to improve a product?",
+        "answer": "By analyzing user feedback, feature usage data, and performance metrics to recommend improvements."
+      },
+      {
+        "id": 36,
+        "question": "How do you explain complex data findings to non-technical stakeholders?",
+        "answer": "Use visuals, simplify language, and focus on insights and business impact rather than technical details."
+      },
+      {
+        "id": 37,
+        "question": "What is storytelling with data?",
+        "answer": "It’s the art of communicating data insights in a compelling and meaningful way to influence decision-making."
+      },
+      {
+        "id": 38,
+        "question": "What is a data-driven decision?",
+        "answer": "A decision based on analysis of actual data rather than intuition or opinion."
+      },
+      {
+        "id": 39,
+        "question": "How often should dashboards be updated?",
+        "answer": "Depending on business needs—real-time for operational dashboards, or weekly/monthly for strategic ones."
+      },
+      {
+        "id": 40,
+        "question": "What is drill-down in reporting?",
+        "answer": "It refers to exploring data at a more detailed level, such as moving from sales by region to sales by city."
+      },
+      {
+        "id": 41,
+        "question": "What made you choose a career in business analytics?",
+        "answer": "The blend of data, problem-solving, and business impact attracted me to this dynamic and growing field."
+      },
+      {
+        "id": 42,
+        "question": "What’s your favorite analytics tool and why?",
+        "answer": "(Example: Tableau, because it’s intuitive and great for creating interactive dashboards."
+      },
+      {
+        "id": 43,
+        "question": "What skills are important for a business analyst?",
+        "answer": "Analytical thinking, communication, SQL, Excel, domain knowledge, and problem-solving."
+      },
+      {
+        "id": 44,
+        "question": "What challenges have you faced in data analysis?",
+        "answer": "Challenges include incomplete data, misaligned KPIs, or lack of stakeholder clarity—but these are opportunities to add value."
+      },
+      {
+        "id": 45,
+        "question": "How do you stay updated in the analytics field?",
+        "answer": "Through blogs, online courses, LinkedIn communities, and platforms like Coursera or Kaggle."
+      },
+      {
+        "id": 46,
+        "question": "Your manager needs insights from a large dataset. How do you approach it?",
+        "answer": "Understand the business question, clean the data, perform EDA (exploratory data analysis), and present actionable insights."
+      },
+      {
+        "id": 47,
+        "question": "How do you measure the success of a business analytics project?",
+        "answer": "By evaluating outcomes like improved KPIs, cost reduction, customer satisfaction, or faster decision-making."
+      },
+      {
+        "id": 48,
+        "question": "You find a data anomaly. What do you do?",
+        "answer": "Investigate the root cause, check for errors, verify data sources, and communicate findings."
+      },
+      {
+        "id": 49,
+        "question": "A stakeholder requests last-minute changes to a dashboard. What’s your response?",
+        "answer": "Assess the urgency and impact, and accommodate the request if feasible while setting realistic expectations."
+      },
+      {
+        "id": 50,
+        "question": "Where do you see yourself in the next 2–3 years?",
+        "answer": "Expanding my expertise in analytics, mastering advanced tools, and contributing to strategic decision-making in the organization."
+      }
+    ]
+  },
+  "ctaSection": {
+    "position": 3,
+    "heading": "Start Your Business Analytics Career Today",
+    "description": "Join Teks Academy’s Business Analytics Training Program and become job-ready with real-time analytics projects and placement support.",
+    "button": {
+      "text": "Enquire Now",
+      "link": "/courses/business-analytics"
+    }
+  }
+}

@@ -334,6 +334,137 @@ const getplacementElements = async (req, res) => {
   }
 };
 
+const getResourceByName = async (req, res) => {
+  try {
+    const { resource_name } = req.params;
+
+    const safeName = sanitizeFilename(resource_name);
+
+    if (!safeName) {
+      return res.status(400).json({
+        success: false,
+        message: "Invalid resource name",
+      });
+    }
+
+    const resourcesDir = path.resolve(__dirname, "../assets/resources");
+
+    const resourceFile = path.join(resourcesDir, safeName, `${safeName}.json`);
+
+    console.log("Resource File Path:", resourceFile);
+
+    const data = await fs.readFile(resourceFile, "utf8");
+
+    const cleanData = data.replace(/^\uFEFF/, "").trim();
+
+    // empty file check
+    if (!cleanData) {
+      return res.status(404).json({
+        success: true,
+        message: `No data found in ${safeName}.json`,
+      });
+    }
+
+    let resourceData;
+
+    try {
+      resourceData = JSON.parse(cleanData);
+    } catch (parseError) {
+      console.error("Invalid JSON:", parseError);
+
+      return res.status(500).json({
+        success: false,
+        message: `Invalid JSON format in ${safeName}.json`,
+      });
+    }
+
+    return sendSuccess(res, resourceData);
+  } catch (err) {
+    console.error("getResourcesElements error:", err);
+
+    if (err.code === "ENOENT") {
+      return res.status(404).json({
+        success: false,
+        message: `Resource page ${req.params.resource_elements} not found`,
+      });
+    }
+
+    return res.status(500).json({
+      success: false,
+      message: "Error retrieving resource details",
+    });
+  }
+};
+
+const getInterviewQuestionByName = async (req, res) => {
+  try {
+    const { interview_question_name } = req.params;
+
+    const safeName = sanitizeFilename(interview_question_name);
+
+    if (!safeName) {
+      return res.status(400).json({
+        success: false,
+        message: "Invalid interview question name",
+      });
+    }
+
+    const interviewQuestionsDir = path.resolve(
+      __dirname,
+      "../assets/resources/interview-questions",
+    );
+
+    const interviewQuestionFile = path.join(
+      interviewQuestionsDir,
+      safeName,
+      `${safeName}.json`,
+    );
+
+    console.log("Interview Question File Path:", interviewQuestionFile);
+
+    const data = await fs.readFile(interviewQuestionFile, "utf8");
+
+    const cleanData = data.replace(/^\uFEFF/, "").trim();
+
+    // empty file check
+    if (!cleanData) {
+      return res.status(404).json({
+        success: false,
+        message: `No data found in ${safeName}.json`,
+      });
+    }
+
+    let interviewQuestionData;
+
+    try {
+      interviewQuestionData = JSON.parse(cleanData);
+    } catch (parseError) {
+      console.error("Invalid JSON:", parseError);
+
+      return res.status(500).json({
+        success: false,
+        message: `Invalid JSON format in ${safeName}.json`,
+      });
+    }
+
+    return sendSuccess(res, interviewQuestionData);
+  } catch (err) {
+    console.error("getInterviewQuestionByName error:", err);
+
+    if (err.code === "ENOENT") {
+      return res.status(404).json({
+        success: false,
+        message: `Interview question page ${req.params.interview_question_name} not found`,
+      });
+    }
+
+    return res.status(500).json({
+      success: false,
+      message: "Error retrieving interview question details",
+    });
+  }
+};
+
 export {
   getHomeData,
   getHomeSpecificField,
@@ -341,4 +472,6 @@ export {
   getBranchByName,
   getDiscoverElements,
   getplacementElements,
+  getResourceByName,
+  getInterviewQuestionByName
 };

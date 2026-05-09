@@ -1,0 +1,304 @@
+{
+  "meta": {
+    "title": "Software Testing Interview Questions | Teks Academy",
+    "description": "Explore top Software Testing interview questions and answers covering Manual Testing, Automation Testing, Selenium, API Testing, JIRA, and QA processes.",
+    "keywords": [
+      "Software Testing Interview Questions",
+      "Selenium Interview Questions",
+      "Manual Testing Questions",
+      "Automation Testing Questions",
+      "QA Interview Questions"
+    ]
+  },
+  "heroSection": {
+    "position": 1,
+    "heading": ["Software Testing", "Interview Questions"],
+    "subHeading": "Prepare for Software Testing interviews with top QA and automation interview questions and answers.",
+    "bannerImage": {
+      "src": "/assets/resources/interview-questions/software-testing/software-testing_interview_banner.webp",
+      "alt": "Software Testing Interview Questions"
+    }
+  },
+  "interviewQuestionsSection": {
+    "position": 2,
+    "heading": "Software Testing Interview Questions & Answers",
+    "sideImages": {
+      "topRight": {
+        "src": "/assets/resources/interview-questions/common/interview_vector.webp",
+        "alt": "Interview Illustration"
+      },
+      "middleRight": {
+        "src": "/assets/resources/interview-questions/common/megaphone.webp",
+        "alt": "Megaphone Illustration"
+      },
+      "bottomRight": {
+        "src": "/assets/resources/interview-questions/common/circle_shape.webp",
+        "alt": "Circle Shape"
+      }
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is software testing?",
+        "answer": "Software testing is the process of executing a program or application with the intent of finding errors, verifying that the software performs as expected, and ensuring it meets specified requirements."
+      },
+      {
+        "id": 2,
+        "question": "What are the main types of software testing?",
+        "answer": "The main types include Functional Testing (validating features), Non-Functional Testing (performance, usability), Regression Testing, Unit Testing, Integration Testing, System Testing, and Acceptance Testing."
+      },
+      {
+        "id": 3,
+        "question": "What is manual testing?",
+        "answer": "Manual testing involves human testers executing test cases without the help of automation tools to identify any defects or issues in the software."
+      },
+      {
+        "id": 4,
+        "question": "What is automation testing?",
+        "answer": "Automation testing uses software tools to run tests automatically, compare actual and expected outcomes, and report the results, which increases speed, consistency, and coverage."
+      },
+      {
+        "id": 5,
+        "question": "What are some popular automation testing tools?",
+        "answer": "Examples include Selenium, QTP/UFT, TestComplete, Appium, JUnit, NUnit, and Robot Framework."
+      },
+      {
+        "id": 6,
+        "question": "What is Selenium?",
+        "answer": "Selenium is an open-source automation tool used primarily for web application testing. It supports multiple programming languages and browsers."
+      },
+      {
+        "id": 7,
+        "question": "What are the different components of Selenium?",
+        "answer": "Components include Selenium WebDriver, Selenium IDE (a record/playback tool), Selenium Grid (for distributed testing), and Selenium RC (deprecated)."
+      },
+      {
+        "id": 8,
+        "question": "What is Selenium WebDriver?",
+        "answer": "Selenium WebDriver is a browser automation framework that allows testers to control web browsers programmatically, supporting multiple languages such as Java, C#, Python, etc."
+      },
+      {
+        "id": 9,
+        "question": "How does Selenium Grid work?",
+        "answer": "Selenium Grid allows execution of tests on different machines and browsers in parallel by distributing the test cases across various nodes connected to a central hub."
+      },
+      {
+        "id": 10,
+        "question": "What are locators in Selenium?",
+        "answer": "Locators are used to identify elements on a web page. Examples include ID, Name, Class Name, Tag Name, Link Text, Partial Link Text, XPath, and CSS Selector."
+      },
+      {
+        "id": 11,
+        "question": "What is QTP/UFT?",
+        "answer": "QuickTest Professional, now called Unified Functional Testing (UFT), is an automation testing tool by Micro Focus used for functional and regression testing of desktop, web, and mobile applications."
+      },
+      {
+        "id": 12,
+        "question": "What scripting language is used in UFT?",
+        "answer": "UFT uses VBScript as its scripting language."
+      },
+      {
+        "id": 13,
+        "question": "Can you explain what Appium is used for?",
+        "answer": "Appium is an open-source tool used for automating mobile application testing on iOS, Android, and Windows platforms. It supports native, hybrid, and mobile web apps."
+      },
+      {
+        "id": 14,
+        "question": "What is the role of Test Complete?",
+        "answer": "Test Complete is a commercial automation testing tool that supports functional testing for desktop, mobile, and web applications. It provides both record & playback features and script-based testing in multiple languages."
+      },
+      {
+        "id": 15,
+        "question": "What is the use of the Robot Framework?",
+        "answer": "The Robot Framework is an open-source automation framework that uses keyword-driven testing to simplify test automation for various applications, integrating with Selenium, Appium, and more."
+      },
+      {
+        "id": 16,
+        "question": "What is a test script?",
+        "answer": "A test script is a set of instructions written in a programming language or as keywords in a tool that automates the execution of tests on an application."
+      },
+      {
+        "id": 17,
+        "question": "What is a test case?",
+        "answer": "A test case is a documented set of actions, conditions, and expected results developed to verify a particular aspect of an application's functionality."
+      },
+      {
+        "id": 18,
+        "question": "What is test automation framework?",
+        "answer": "An automation framework is a structured set of guidelines, tools, and practices designed to help in creating and executing automated test cases effectively and maintainably."
+      },
+      {
+        "id": 19,
+        "question": "What are the benefits of using a testing tool?",
+        "answer": "Benefits include increased test coverage, faster execution, reduced human error, repeatability, and improved efficiency in regression testing."
+      },
+      {
+        "id": 20,
+        "question": "What is Continuous Integration (CI) in testing?",
+        "answer": "CI is a practice where developers integrate code into a shared repository frequently. Automated tests run on each integration to ensure new changes do not break existing functionality."
+      },
+      {
+        "id": 21,
+        "question": "Can you explain what a build pipeline is?",
+        "answer": "A build pipeline automates the process of code compilation, testing, and deployment. Tools like Jenkins or Bamboo are commonly used to integrate testing tools in the pipeline."
+      },
+      {
+        "id": 22,
+        "question": "What is JIRA, and how is it used in testing?",
+        "answer": "JIRA is a widely used issue tracking and project management tool that helps in managing defects, test cases, and automating workflows to track the testing process."
+      },
+      {
+        "id": 23,
+        "question": "What is TestRail?",
+        "answer": "TestRail is a test case management tool that provides a central place to manage test cases, plan and run test execution, and generate reports."
+      },
+      {
+        "id": 24,
+        "question": "What is the purpose of a bug tracking tool?",
+        "answer": "Bug tracking tools help log, track, and manage defects found during the testing process, ensuring that issues are documented and resolved efficiently."
+      },
+      {
+        "id": 25,
+        "question": "What is a test environment?",
+        "answer": "A test environment is a setup of software and hardware where tests are executed, simulating the production environment to ensure the system functions as intended."
+      },
+      {
+        "id": 26,
+        "question": "What is regression testing and why is it important?",
+        "answer": "Regression testing is the process of re-running previously completed tests to ensure that changes haven’t introduced new faults in the application."
+      },
+      {
+        "id": 27,
+        "question": "How do you determine which test cases to automate?",
+        "answer": "Test cases that are highly repetitive, have stable requirements, need to be run frequently, or require input data can be prioritized for automation."
+      },
+      {
+        "id": 28,
+        "question": "What is a smoke test?",
+        "answer": "A smoke test is a preliminary test to reveal simple failures severe enough to reject a prospective software release, verifying that the major functionalities work."
+      },
+      {
+        "id": 29,
+        "question": "What is sanity testing?",
+        "answer": "Sanity testing is a subset of regression testing performed to check if specific functionality works after changes, often a narrower test scope than smoke testing."
+      },
+      {
+        "id": 30,
+        "question": "What is the difference between black-box and white-box testing?",
+        "answer": [
+          "Black-box testing: Tests the application's functionality without viewing internal code or structure.",
+          "White-box testing: Involves looking at the code structure and internal workings of the application."
+        ]
+      },
+      {
+        "id": 31,
+        "question": "What is a test plan?",
+        "answer": "A test plan is a document outlining the strategy, objectives, resources, schedule, and scope of testing activities for a project."
+      },
+      {
+        "id": 32,
+        "question": "What is meant by data-driven testing?",
+        "answer": "Data-driven testing is an approach where test data is externalized, often in spreadsheets or databases, and tests are executed repeatedly with different sets of data."
+      },
+      {
+        "id": 33,
+        "question": "What is keyword-driven testing?",
+        "answer": "Keyword-driven testing is a methodology where test cases are designed using keywords, making the tests easier to understand and maintain, with logic handled by an underlying framework."
+      },
+      {
+        "id": 34,
+        "question": "What is behavior-driven development (BDD)?",
+        "answer": "BDD is an agile approach that encourages collaboration between developers, testers, and non-technical stakeholders. Test scenarios are written in natural language using tools like Cucumber."
+      },
+      {
+        "id": 35,
+        "question": "How does Cucumber work?",
+        "answer": "Cucumber uses Gherkin syntax to define test scenarios in plain language. These scenarios are then mapped to code (step definitions) that execute the corresponding automation steps."
+      },
+      {
+        "id": 36,
+        "question": "What is a test harness?",
+        "answer": "A test harness is the collection of software and test data configured to test a program unit or system. It typically includes test scripts, drivers, and any auxiliary tools."
+      },
+      {
+        "id": 37,
+        "question": "What is an API testing tool?",
+        "answer": "API testing tools, like Postman or SoapUI, are used to test application programming interfaces by sending requests, verifying responses, and ensuring the APIs work as intended."
+      },
+      {
+        "id": 38,
+        "question": "What is Postman and how is it used?",
+        "answer": "Postman is a popular API testing tool that allows developers and testers to create, send, and manage API requests, automate test cases, and view responses."
+      },
+      {
+        "id": 39,
+        "question": "What is LoadRunner?",
+        "answer": "LoadRunner is a performance testing tool from Micro Focus used to simulate virtual users and analyze system behavior under load, measuring response times and resource utilization."
+      },
+      {
+        "id": 40,
+        "question": "What is JMeter?",
+        "answer": "Apache JMeter is an open-source performance testing tool designed to load test functional behavior and measure performance of web applications and other services."
+      },
+      {
+        "id": 41,
+        "question": "What is the difference between performance testing and load testing?",
+        "answer": "Performance testing assesses the responsiveness and stability of an application under normal conditions, while load testing determines how the system handles increased user loads."
+      },
+      {
+        "id": 42,
+        "question": "What is continuous testing?",
+        "answer": "Continuous testing is the practice of integrating automated testing into the software delivery pipeline to ensure rapid and reliable feedback throughout the development cycle."
+      },
+      {
+        "id": 43,
+        "question": "What is test automation reporting?",
+        "answer": "It involves generating reports from automated tests that summarize test runs, highlight pass/fail statuses, and provide logs for debugging."
+      },
+      {
+        "id": 44,
+        "question": "How do you integrate automation tools with CI/CD pipelines?",
+        "answer": "Automation tests can be executed as part of the build process in CI/CD pipelines using tools like Jenkins, Bamboo, or GitLab CI, which trigger tests on code changes and report results."
+      },
+      {
+        "id": 45,
+        "question": "What are some challenges in test automation?",
+        "answer": "Common challenges include test maintenance, handling dynamic elements, dealing with browser compatibility issues, synchronization problems, and initial setup overhead."
+      },
+      {
+        "id": 46,
+        "question": "How do you handle dynamic web elements in Selenium?",
+        "answer": "Using strategies like explicit waits, dynamic XPath/CSS selectors, and incorporating unique attributes that change less frequently helps manage dynamic elements."
+      },
+      {
+        "id": 47,
+        "question": "What is the role of version control in test automation?",
+        "answer": "Version control (e.g., Git) manages changes to test scripts, allows for collaborative development, and helps track revisions in test automation projects."
+      },
+      {
+        "id": 48,
+        "question": "What is the importance of modular test design?",
+        "answer": "Modular design breaks tests into reusable components, making scripts easier to maintain, update, and debug."
+      },
+      {
+        "id": 49,
+        "question": "What is exploratory testing in the context of automation?",
+        "answer": "While exploratory testing is largely manual, automation can help log sessions and inputs used during exploratory testing to assist in reproducing defects."
+      },
+      {
+        "id": 50,
+        "question": "How do you decide between manual and automation testing?",
+        "answer": "The choice depends on factors like test case repetitiveness, complexity, frequency of test execution, and available resources. Repetitive and stable test cases favor automation, while exploratory and ad-hoc tests are better suited for manual testing."
+      }
+    ]
+  },
+  "ctaSection": {
+    "position": 3,
+    "heading": "Start Your Software Testing Career Today",
+    "description": "Join Teks Academy’s Software Testing Training Program and become job-ready with automation projects and placement support.",
+    "button": {
+      "text": "Enquire Now",
+      "link": "/courses/software-testing"
+    }
+  }
+}

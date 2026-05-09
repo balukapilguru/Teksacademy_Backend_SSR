@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "title": "SAP MM Interview Questions | Teks Academy",
+    "description": "Explore top SAP MM interview questions and answers covering procurement, inventory management, material management, SAP ERP, and supply chain workflows.",
+    "keywords": [
+      "SAP MM Interview Questions",
+      "SAP Material Management Questions",
+      "SAP Procurement Questions",
+      "Inventory Management Questions",
+      "SAP ERP Questions"
+    ]
+  },
+  "heroSection": {
+    "position": 1,
+    "heading": ["SAP MM", "Interview Questions"],
+    "subHeading": "Prepare for SAP MM interviews with procurement and inventory-focused technical interview questions and answers.",
+    "bannerImage": {
+      "src": "/assets/resources/interview-questions/sap-mm/sap-mm_interview_banner.webp",
+      "alt": "SAP MM Interview Questions"
+    }
+  },
+  "interviewQuestionsSection": {
+    "position": 2,
+    "heading": "SAP MM Interview Questions & Answers",
+    "sideImages": {
+      "topRight": {
+        "src": "/assets/resources/interview-questions/common/interview_vector.webp",
+        "alt": "Interview Illustration"
+      },
+      "middleRight": {
+        "src": "/assets/resources/interview-questions/common/megaphone.webp",
+        "alt": "Megaphone Illustration"
+      },
+      "bottomRight": {
+        "src": "/assets/resources/interview-questions/common/circle_shape.webp",
+        "alt": "Circle Shape"
+      }
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is SAP MM?",
+        "answer": [
+          "SAP MM (Materials Management) is a module in SAP ERP that handles procurement, inventory management, and material valuation.",
+          "It supports functions such as purchasing, inventory, and invoice verification."
+        ]
+      },
+      {
+        "id": 2,
+        "question": "What are the key components of SAP MM?",
+        "answer": "Key components include Purchasing, Inventory Management, Material Master, Vendor Master, Invoice Verification, and Inventory Valuation."
+      },
+      {
+        "id": 3,
+        "question": "What is a purchase requisition?",
+        "answer": [
+          "A purchase requisition is an internal document generated to request the procurement of materials or services.",
+          "It is the first step in the procurement cycle."
+        ]
+      },
+      {
+        "id": 4,
+        "question": "What is the difference between a purchase requisition and a purchase order?",
+        "answer": "A purchase requisition is an internal request, while a purchase order is a formal document sent to the vendor to procure materials or services."
+      },
+      {
+        "id": 5,
+        "question": "What is a material master record?",
+        "answer": "It is a central source of information related to a material, containing data such as description, unit of measure, purchasing details, and storage data."
+      },
+      {
+        "id": 6,
+        "question": "What is a vendor master record?",
+        "answer": "A vendor master holds data about external suppliers and includes general data, purchasing data, and company code-specific data."
+      },
+      {
+        "id": 7,
+        "question": "What is the importance of material types in SAP MM?",
+        "answer": [
+          "Material types determine how materials are managed in inventory and how they are procured.",
+          "Examples include RAW (raw materials), ROH (consumables), and FERT (finished goods)."
+        ]
+      },
+      {
+        "id": 8,
+        "question": "What are purchasing info records?",
+        "answer": "Purchasing info records store data related to a vendor and a material combination, such as pricing, lead time, and delivery terms."
+      },
+      {
+        "id": 9,
+        "question": "What is a source list in SAP MM?",
+        "answer": "A source list specifies the preferred vendor(s) for a material and is used to control the source determination process during procurement."
+      },
+      {
+        "id": 10,
+        "question": "What is quota arrangement?",
+        "answer": "It is used to determine the proportion of procurement that should be assigned to different sources of supply based on predefined quotas."
+      },
+      {
+        "id": 11,
+        "question": "What are the steps in the procurement cycle?",
+        "answer": "The cycle includes requirement determination, source determination, vendor selection, purchase order processing, goods receipt, and invoice verification."
+      },
+      {
+        "id": 12,
+        "question": "What is a request for quotation (RFQ)?",
+        "answer": "An RFQ is a document used to invite vendors to submit quotations for supplying materials or services."
+      },
+      {
+        "id": 13,
+        "question": "What is the purpose of a purchase order?",
+        "answer": "A purchase order is a legally binding document sent to a vendor, confirming the purchase of materials or services."
+      },
+      {
+        "id": 14,
+        "question": "What are outline agreements in SAP MM?",
+        "answer": "These are long-term purchasing agreements that include contracts and scheduling agreements with vendors for specific materials or services."
+      },
+      {
+        "id": 15,
+        "question": "What is a scheduling agreement?",
+        "answer": "It is a type of outline agreement where delivery dates and quantities are specified for a material, and deliveries are made according to this schedule."
+      },
+      {
+        "id": 16,
+        "question": "What is goods receipt in SAP MM?",
+        "answer": [
+          "Goods receipt is the process of receiving materials into inventory.",
+          "It updates stock levels and generates accounting documents."
+        ]
+      },
+      {
+        "id": 17,
+        "question": "What is a movement type?",
+        "answer": "Movement types are used to differentiate between various kinds of stock movements, such as 101 for goods receipt and 201 for goods issue."
+      },
+      {
+        "id": 18,
+        "question": "What is the difference between stock transfer and transfer posting?",
+        "answer": "Stock transfer involves physical movement of materials, whereas transfer posting is used for changes in stock type or location without physical movement."
+      },
+      {
+        "id": 19,
+        "question": "What are stock types in SAP MM?",
+        "answer": "Stock types include unrestricted stock, quality inspection stock, and blocked stock, representing different statuses of inventory."
+      },
+      {
+        "id": 20,
+        "question": "What is physical inventory?",
+        "answer": "Physical inventory is the process of counting actual stock to verify and correct the stock records in the system."
+      },
+      {
+        "id": 21,
+        "question": "What is invoice verification in SAP MM?",
+        "answer": "Invoice verification is the process of matching the vendor invoice with the purchase order and goods receipt to ensure accurate payment."
+      },
+      {
+        "id": 22,
+        "question": "What is the difference between planned and unplanned delivery costs?",
+        "answer": "Planned costs are known in advance and added to the PO, while unplanned costs are unexpected and entered during invoice verification."
+      },
+      {
+        "id": 23,
+        "question": "What is a pricing procedure?",
+        "answer": "A pricing procedure defines how prices and costs (like taxes and discounts) are calculated in purchasing documents."
+      },
+      {
+        "id": 24,
+        "question": "How is the valuation of material done in SAP MM?",
+        "answer": "Valuation can be done using standard price or moving average price based on the material type and valuation class."
+      },
+      {
+        "id": 25,
+        "question": "What is the use of condition types in pricing?",
+        "answer": "Condition types represent individual pricing elements, such as gross price, discount, or freight, in the pricing procedure."
+      },
+      {
+        "id": 26,
+        "question": "What is batch management?",
+        "answer": "Batch management is used to manage and track materials in batches, typically for quality control and traceability purposes."
+      },
+      {
+        "id": 27,
+        "question": "What are release strategies?",
+        "answer": "Release strategies define approval workflows for purchasing documents such as purchase requisitions and purchase orders."
+      },
+      {
+        "id": 28,
+        "question": "What is MRP in SAP MM?",
+        "answer": "MRP (Material Requirements Planning) ensures that materials are available in the right quantity at the right time by analyzing stock and demand."
+      },
+      {
+        "id": 29,
+        "question": "What is the purpose of split valuation?",
+        "answer": "Split valuation allows valuation of a material by different criteria, such as origin or procurement type (in-house vs. external)."
+      },
+      {
+        "id": 30,
+        "question": "What are consignment stocks?",
+        "answer": "Consignment stocks are stored at the company’s premises but owned by the vendor until they are used or consumed."
+      },
+      {
+        "id": 31,
+        "question": "What is subcontracting in SAP MM?",
+        "answer": "Subcontracting is a procurement process where raw materials are provided to a vendor who processes them into finished goods."
+      },
+      {
+        "id": 32,
+        "question": "What is third-party procurement?",
+        "answer": "In third-party procurement, goods are delivered directly from the vendor to the customer without being received by the purchasing company."
+      },
+      {
+        "id": 33,
+        "question": "What is an account assignment category?",
+        "answer": "It determines the type of account assignment (e.g., cost center, asset) and controls how costs are posted for the purchased material."
+      },
+      {
+        "id": 34,
+        "question": "What is a blanket purchase order?",
+        "answer": "A blanket PO is used for procurement of services or consumables without specifying exact quantities and delivery dates."
+      },
+      {
+        "id": 35,
+        "question": "What are the types of purchase orders in SAP MM?",
+        "answer": "Standard PO, subcontracting PO, third-party PO, stock transport order, and consignment PO."
+      },
+      {
+        "id": 36,
+        "question": "What is automatic account determination?",
+        "answer": "It determines the G/L accounts automatically for inventory postings based on settings in SAP configuration."
+      },
+      {
+        "id": 37,
+        "question": "What is LIV (Logistics Invoice Verification)?",
+        "answer": "LIV is the process of verifying invoices against goods receipts and purchase orders for payment processing."
+      },
+      {
+        "id": 38,
+        "question": "What is the role of organizational structure in SAP MM?",
+        "answer": "It defines the hierarchy such as company code, plant, storage location, and purchasing organization, which is critical for transaction processing."
+      },
+      {
+        "id": 39,
+        "question": "What is the function of a purchasing group?",
+        "answer": "A purchasing group represents the buyer or group of buyers responsible for procurement activities in the organization."
+      },
+      {
+        "id": 40,
+        "question": "What is a material group?",
+        "answer": "A material group is a classification of materials with similar attributes used to streamline procurement and reporting."
+      },
+      {
+        "id": 41,
+        "question": "What is a service entry sheet?",
+        "answer": "It is used to record the services performed by a vendor before processing the invoice."
+      },
+      {
+        "id": 42,
+        "question": "What is the importance of document types in SAP MM?",
+        "answer": "Document types define the purpose and number range of purchasing documents such as PO, PR, contracts, etc."
+      },
+      {
+        "id": 43,
+        "question": "What is GR/IR account in SAP?",
+        "answer": "Goods Receipt/Invoice Receipt (GR/IR) account is a clearing account used during goods receipt and invoice verification."
+      },
+      {
+        "id": 44,
+        "question": "What is the transaction code for creating a purchase order?",
+        "answer": "The transaction code is ME21N."
+      },
+      {
+        "id": 45,
+        "question": "What is the transaction code for goods receipt?",
+        "answer": "The transaction code is MIGO."
+      },
+      {
+        "id": 46,
+        "question": "What is the transaction code for invoice verification?",
+        "answer": "The transaction code is MIRO."
+      },
+      {
+        "id": 47,
+        "question": "What is the purpose of customizing in SAP MM?",
+        "answer": "Customization tailors SAP to the organization’s needs by configuring settings in IMG (Implementation Guide)."
+      },
+      {
+        "id": 48,
+        "question": "What is the difference between contract and scheduling agreement?",
+        "answer": "Contract is a long-term agreement with no fixed delivery dates, while a scheduling agreement contains delivery schedules."
+      },
+      {
+        "id": 49,
+        "question": "What are internal tables in SAP MM?",
+        "answer": "Internal tables are temporary data storage areas used in ABAP programs to perform operations like data selection and manipulation."
+      },
+      {
+        "id": 50,
+        "question": "What is the purpose of IDoc in SAP MM?",
+        "answer": "IDoc (Intermediate Document) is a data structure used for exchanging information between SAP and external systems."
+      }
+    ]
+  },
+  "ctaSection": {
+    "position": 3,
+    "heading": "Start Your SAP MM Career Today",
+    "description": "Join Teks Academy’s SAP MM Training Program and become job-ready with real-time ERP projects and placement support.",
+    "button": {
+      "text": "Enquire Now",
+      "link": "/courses/sap-mm"
+    }
+  }
+}

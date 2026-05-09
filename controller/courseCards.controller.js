@@ -70,6 +70,7 @@ const sendError = (res, status = 500, message = "Server error") => {
 };
 
 // GET ALL COURSES
+
 const getAllCourses = async (req, res) => {
   try {
     const {
@@ -100,9 +101,27 @@ const getAllCourses = async (req, res) => {
       programName: course.programName?.toString().trim(),
     }));
 
-    let filteredCourses = [...coursesData.courses];
+    // REMOVE ACADEMIC LANDING PAGES
+    const isCountableCourse = (course) => {
+      if (
+        course.category === "academics" &&
+        course.subCategory &&
+        course.specialization
+      ) {
+        return false;
+      }
 
-    // PAGINATION
+      return isRealCourseCard(course);
+    };
+
+    // ONLY COURSES
+    let filteredCourses = coursesData.courses.filter(isCountableCourse);
+    let academicCards = coursesData.courses.filter(
+      (course) =>
+        course.category === "academics" &&
+        course.subCategory &&
+        course.specialization,
+    );
 
     const parsedPage = parsePositiveInt(page, 1);
 
@@ -112,30 +131,26 @@ const getAllCourses = async (req, res) => {
     );
 
     // SEARCH
-
     const parsedSearch = search?.trim().toLowerCase();
 
     if (parsedSearch) {
-      filteredCourses = filteredCourses
-        .filter(isRealCourseCard)
-        .filter((course) => {
-          const searchableText = [
-            course.programName,
-            course.heading,
-            course.category,
-            course.subCategory,
-            course.branch,
-          ]
-            .filter(Boolean)
-            .join(" ")
-            .toLowerCase();
+      filteredCourses = filteredCourses.filter((course) => {
+        const searchableText = [
+          course.programName,
+          course.heading,
+          course.category,
+          course.subCategory,
+          course.branch,
+        ]
+          .filter(Boolean)
+          .join(" ")
+          .toLowerCase();
 
-          return searchableText.includes(parsedSearch);
-        });
+        return searchableText.includes(parsedSearch);
+      });
     }
 
     // PROGRAM NAME FILTER
-
     const parsedProgramName = programName?.trim().toLowerCase();
 
     if (parsedProgramName) {
@@ -145,7 +160,6 @@ const getAllCourses = async (req, res) => {
     }
 
     // TOP COURSES
-
     if (top === "true") {
       filteredCourses = filteredCourses.filter(
         (course) => course.isTop === true,
@@ -153,17 +167,20 @@ const getAllCourses = async (req, res) => {
     }
 
     // CATEGORY FILTER
-
     if (category) {
       const categoryLower = category.trim().toLowerCase();
 
-      filteredCourses = filteredCourses.filter(
-        (course) => course.category === categoryLower,
-      );
+      // ACADEMICS => RETURN ACADEMIC LANDING CARDS
+      if (categoryLower === "academics") {
+        filteredCourses = academicCards;
+      } else {
+        filteredCourses = filteredCourses.filter(
+          (course) => course.category === categoryLower,
+        );
+      }
     }
 
     // SUB CATEGORY FILTER
-
     if (subCategory) {
       const subLower = subCategory.trim().toLowerCase();
 
@@ -173,7 +190,6 @@ const getAllCourses = async (req, res) => {
     }
 
     // BRANCH FILTER
-
     if (branch) {
       const branchLower = branch.trim().toLowerCase();
 
@@ -183,7 +199,6 @@ const getAllCourses = async (req, res) => {
     }
 
     // UNIVERSITY FILTER
-
     if (name) {
       const nameLower = name.trim().toLowerCase();
 
@@ -195,18 +210,16 @@ const getAllCourses = async (req, res) => {
     }
 
     // COUNTS
-
     const counts = {
-      allCourses: pad(coursesData.courses.filter(isRealCourseCard).length),
+      allCourses: pad(coursesData.courses.filter(isCountableCourse).length),
 
       sections: {},
     };
 
     // INDUSTRY READY PROGRAMS
-
     const certificationCount = coursesData.courses.filter(
       (course) =>
-        course.category === "certifications" && isRealCourseCard(course),
+        course.category === "certifications" && isCountableCourse(course),
     ).length;
 
     counts.sections.certifications = {
@@ -214,7 +227,6 @@ const getAllCourses = async (req, res) => {
     };
 
     // ACADEMICS
-
     const BRANCH_ORDER = {
       ug: ["bba", "bcom", "bca", "ba"],
 
@@ -229,18 +241,16 @@ const getAllCourses = async (req, res) => {
 
     let academicsTotal = 0;
 
-    Object.entries(BRANCH_ORDER).forEach(([subCategory, branches]) => {
+    Object.entries(BRANCH_ORDER).forEach(([subCategoryKey, branches]) => {
       let subTotal = 0;
 
       const programs = {};
 
       branches.forEach((branchName) => {
-        // ORIGINAL WORKING LOGIC
         const branchCount = coursesData.courses.filter(
           (course) =>
-            isRealCourseCard(course) &&
-            (course.branch || "").toString().trim().toLowerCase() ===
-              branchName,
+            isCountableCourse(course) &&
+            (course.branch || "").trim().toLowerCase() === branchName,
         ).length;
 
         programs[branchName] = pad(branchCount);
@@ -248,7 +258,7 @@ const getAllCourses = async (req, res) => {
         subTotal += branchCount;
       });
 
-      counts.sections.academics.subCategory[subCategory] = {
+      counts.sections.academics.subCategory[subCategoryKey] = {
         total: pad(subTotal),
 
         programs,
@@ -260,7 +270,6 @@ const getAllCourses = async (req, res) => {
     counts.sections.academics.total = pad(academicsTotal);
 
     // PAGINATION
-
     const pagination = paginate(filteredCourses, parsedPage, parsedPageSize, {
       defaultPageSize: DEFAULTS.ALL_COURSES_PAGE_SIZE,
 
@@ -299,23 +308,18 @@ const getAllCourses = async (req, res) => {
 
           {
             name: "Industry Ready Programs",
-
             value: "certifications",
-
             active: false,
           },
 
           {
             name: "Academics",
-
             value: "academics",
-
             active: false,
 
             subCategory: [
               {
                 name: "Under Graduation",
-
                 value: "ug",
 
                 programs: [
@@ -343,7 +347,6 @@ const getAllCourses = async (req, res) => {
 
               {
                 name: "Post Graduation",
-
                 value: "pg",
 
                 programs: [
@@ -386,6 +389,5 @@ const getAllCourses = async (req, res) => {
     return sendError(res, 500, "Courses not found");
   }
 };
-export {
-  getAllCourses
-}
+
+export { getAllCourses };

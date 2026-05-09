@@ -1,0 +1,28 @@
+{
+  "mediaSection": {
+    "title": "Media",
+    "tabs": [
+      {
+        "id": "news-papers",
+        "label": "News Papers",
+        "active": true,
+        "icon": "newspaper",
+        "mediaCards": [ ]
+      },
+      {
+        "id": "digital-media",
+        "label": "Digital Media",
+        "active": false,
+        "icon": "mic",
+        "mediaCards": [ ]
+      },
+      {
+        "id": "influencer",
+        "label": "Influencer",
+        "active": false,
+        "icon": "video",
+        "mediaCards": [ ]
+      }
+    ]
+  }
+}

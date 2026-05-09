@@ -226,7 +226,7 @@
           "dropdown": [
             {
               "title": "Ebook",
-              "link": "/ebook"
+              "link": "/resources/ebook"
             },
             {
               "title": "Video Lectures",
@@ -234,7 +234,7 @@
             },
             {
               "title": "Interview Questions",
-              "link": "/interview-questions"
+              "link": "/resources/interview-questions"
             }
           ]
         },

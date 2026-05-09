@@ -1,0 +1,301 @@
+{
+  "meta": {
+    "title": "Generative AI Interview Questions | Teks Academy",
+    "description": "Explore top Generative AI interview questions and answers covering LLMs, Prompt Engineering, AI Models, NLP, Transformers, and Generative AI applications.",
+    "keywords": [
+      "Generative AI Interview Questions",
+      "LLM Interview Questions",
+      "Prompt Engineering Questions",
+      "AI Model Questions",
+      "NLP Interview Questions"
+    ]
+  },
+  "heroSection": {
+    "position": 1,
+    "heading": ["Generative AI", "Interview Questions"],
+    "subHeading": "Prepare for Generative AI interviews with top AI and machine learning interview questions and answers.",
+    "bannerImage": {
+      "src": "/assets/resources/interview-questions/generative-ai/generative-ai_interview_banner.webp",
+      "alt": "Generative AI Interview Questions"
+    }
+  },
+  "interviewQuestionsSection": {
+    "position": 2,
+    "heading": "Generative AI Interview Questions & Answers",
+    "sideImages": {
+      "topRight": {
+        "src": "/assets/resources/interview-questions/common/interview_vector.webp",
+        "alt": "Interview Illustration"
+      },
+      "middleRight": {
+        "src": "/assets/resources/interview-questions/common/megaphone.webp",
+        "alt": "Megaphone Illustration"
+      },
+      "bottomRight": {
+        "src": "/assets/resources/interview-questions/common/circle_shape.webp",
+        "alt": "Circle Shape"
+      }
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is Generative AI?",
+        "answer": "Generative AI refers to algorithms that can create new content such as text, images, audio, or code based on training data."
+      },
+      {
+        "id": 2,
+        "question": "Name some common use cases of Generative AI.",
+        "answer": "Use cases include text generation, image synthesis, music creation, code generation, chatbots, and content summarization."
+      },
+      {
+        "id": 3,
+        "question": "What is the difference between discriminative and generative models?",
+        "answer": "Discriminative models classify data, while generative models learn the data distribution and generate new data samples."
+      },
+      {
+        "id": 4,
+        "question": "Name popular generative models.",
+        "answer": "GANs (Generative Adversarial Networks), VAEs (Variational Autoencoders), and Transformer-based models like GPT are popular."
+      },
+      {
+        "id": 5,
+        "question": "How is Generative AI used in real-world applications?",
+        "answer": "It's used in chatbots, design tools, AI writing assistants, game development, and drug discovery."
+      },
+      {
+        "id": 6,
+        "question": "What is a GAN?",
+        "answer": "A GAN consists of two neural networks—a generator and a discriminator—trained in opposition to create realistic outputs."
+      },
+      {
+        "id": 7,
+        "question": "What is a VAE?",
+        "answer": "A Variational Autoencoder is a generative model that compresses input into a latent space and reconstructs data from it probabilistically."
+      },
+      {
+        "id": 8,
+        "question": "What are transformers in AI?",
+        "answer": "Transformers are deep learning models based on self-attention mechanisms, widely used in NLP and generative models like GPT."
+      },
+      {
+        "id": 9,
+        "question": "What is attention in transformers?",
+        "answer": "Attention allows the model to focus on relevant parts of the input when generating output, improving context understanding."
+      },
+      {
+        "id": 10,
+        "question": "What is a diffusion model?",
+        "answer": "Diffusion models generate data by reversing a process that gradually adds noise to the data, used in tools like DALL•E 2 and Stable Diffusion."
+      },
+      {
+        "id": 11,
+        "question": "How does GPT work?",
+        "answer": "GPT uses transformer architecture and is trained to predict the next word in a sentence, enabling it to generate coherent text."
+      },
+      {
+        "id": 12,
+        "question": "What is prompt engineering?",
+        "answer": "Prompt engineering is crafting input queries to elicit desired outputs from a generative AI model."
+      },
+      {
+        "id": 13,
+        "question": "What is temperature in text generation?",
+        "answer": "Temperature controls randomness in predictions—lower values make output more predictable, higher values make it more diverse."
+      },
+      {
+        "id": 14,
+        "question": "What is top-k and top-p sampling?",
+        "answer": "These are techniques to control text generation. Top-k picks from top k likely words, while top-p selects from a dynamic list whose cumulative probability is p."
+      },
+      {
+        "id": 15,
+        "question": "How is bias handled in generative text models?",
+        "answer": "Bias is mitigated using fine-tuning, prompt filtering, or human feedback to improve model fairness."
+      },
+      {
+        "id": 16,
+        "question": "What are diffusion models used for?",
+        "answer": "Diffusion models are used to generate high-quality images, popular in models like DALL•E, Midjourney, and Stable Diffusion."
+      },
+      {
+        "id": 17,
+        "question": "How does Stable Diffusion work?",
+        "answer": "It starts with random noise and gradually refines the image using a learned denoising process guided by prompts."
+      },
+      {
+        "id": 18,
+        "question": "What is CLIP in image generation?",
+        "answer": "CLIP (Contrastive Language–Image Pretraining) links text and images, helping models understand prompts for image synthesis."
+      },
+      {
+        "id": 19,
+        "question": "How is image quality evaluated in generative models?",
+        "answer": "Using metrics like FID (Fréchet Inception Distance), IS (Inception Score), and human evaluations."
+      },
+      {
+        "id": 20,
+        "question": "What is style transfer?",
+        "answer": "Style transfer combines the content of one image with the style of another using neural networks."
+      },
+      {
+        "id": 21,
+        "question": "What is fine-tuning in Generative AI?",
+        "answer": "Fine-tuning involves training a pre-trained model on specific data to make it better suited for a particular task."
+      },
+      {
+        "id": 22,
+        "question": "What is transfer learning?",
+        "answer": "Transfer learning reuses a pre-trained model’s knowledge for a new but related task, saving time and resources."
+      },
+      {
+        "id": 23,
+        "question": "What are common datasets used in generative AI training?",
+        "answer": "Common datasets include COCO, ImageNet, C4 (for text), LAION, and Common Crawl."
+      },
+      {
+        "id": 24,
+        "question": "What is tokenization?",
+        "answer": "Tokenization is the process of converting text into smaller units (tokens) that a model can understand and process."
+      },
+      {
+        "id": 25,
+        "question": "What is a latent space?",
+        "answer": "Latent space is a compressed representation of data where similar inputs are close together, used in VAEs and GANs."
+      },
+      {
+        "id": 26,
+        "question": "What are the ethical concerns with Generative AI?",
+        "answer": "Concerns include deepfakes, misinformation, copyright issues, and reinforcing biases."
+      },
+      {
+        "id": 27,
+        "question": "How can misuse of generative AI be prevented?",
+        "answer": "By implementing usage policies, content filters, watermarking, and human review."
+      },
+      {
+        "id": 28,
+        "question": "What is deepfake technology?",
+        "answer": "Deepfakes use AI to create hyper-realistic fake audio or video, often misused for misinformation."
+      },
+      {
+        "id": 29,
+        "question": "What is content moderation in AI?",
+        "answer": "It involves detecting and filtering harmful, biased, or offensive outputs before reaching users."
+      },
+      {
+        "id": 30,
+        "question": "How do you ensure responsible AI development?",
+        "answer": "By following ethical guidelines, performing bias audits, ensuring transparency, and involving diverse perspectives in development."
+      },
+      {
+        "id": 31,
+        "question": "What is BLEU score?",
+        "answer": "BLEU evaluates the quality of machine-generated text by comparing it to reference text, commonly used in translation tasks."
+      },
+      {
+        "id": 32,
+        "question": "What is FID score in image generation?",
+        "answer": "FID measures the similarity between generated images and real images, with lower scores indicating better quality."
+      },
+      {
+        "id": 33,
+        "question": "What is human-in-the-loop evaluation?",
+        "answer": "It's when humans assist in evaluating, correcting, or training AI to ensure higher quality results."
+      },
+      {
+        "id": 34,
+        "question": "Why is perplexity used in NLP models?",
+        "answer": "Perplexity measures how well a model predicts text; lower perplexity indicates better performance."
+      },
+      {
+        "id": 35,
+        "question": "What does zero-shot learning mean in generative models?",
+        "answer": "Zero-shot learning allows the model to perform tasks it wasn’t explicitly trained on by understanding the prompt context."
+      },
+      {
+        "id": 36,
+        "question": "How is Generative AI used in customer service?",
+        "answer": "It powers chatbots, virtual assistants, and automated responses that enhance user engagement and reduce support costs."
+      },
+      {
+        "id": 37,
+        "question": "What are AI copilots?",
+        "answer": "Copilots are AI tools that assist users in tasks like coding, writing, or designing by suggesting content in real time."
+      },
+      {
+        "id": 38,
+        "question": "How does generative AI help in marketing?",
+        "answer": "It creates copy, ad creatives, and campaign ideas, and personalizes content for different audiences."
+      },
+      {
+        "id": 39,
+        "question": "How is Generative AI used in education?",
+        "answer": "It creates interactive learning materials, explains complex topics, and personalizes tutoring experiences."
+      },
+      {
+        "id": 40,
+        "question": "How can businesses integrate Generative AI into their workflow?",
+        "answer": "Through APIs, SaaS tools, or fine-tuned models embedded into CRMs, CMSs, and productivity platforms."
+      },
+      {
+        "id": 41,
+        "question": "What skills are important for a generative AI professional?",
+        "answer": "Strong foundation in machine learning, deep learning, programming (Python), NLP, and creativity."
+      },
+      {
+        "id": 42,
+        "question": "What programming languages are used in generative AI?",
+        "answer": "Python is most common, often used with libraries like PyTorch, TensorFlow, and Hugging Face Transformers."
+      },
+      {
+        "id": 43,
+        "question": "What is Hugging Face?",
+        "answer": "Hugging Face is an open-source platform offering pre-trained models and tools for working with transformers and generative AI."
+      },
+      {
+        "id": 44,
+        "question": "What is LangChain?",
+        "answer": "LangChain is a framework for building applications powered by large language models (LLMs), with focus on chaining prompts and memory."
+      },
+      {
+        "id": 45,
+        "question": "What certifications or courses are useful for Generative AI?",
+        "answer": "Courses on Coursera, edX, and platforms like DeepLearning.AI, as well as certifications in NLP, GANs, and prompt engineering."
+      },
+      {
+        "id": 46,
+        "question": "Tell us about a project where you used Generative AI.",
+        "answer": "(Example: Built a chatbot using GPT-3 API for a product Q&A bot to reduce customer support load.)"
+      },
+      {
+        "id": 47,
+        "question": "What challenges have you faced in working with generative models?",
+        "answer": "Challenges include managing hallucination, model bias, output unpredictability, and high computational cost."
+      },
+      {
+        "id": 48,
+        "question": "How do you debug an AI model producing incorrect outputs?",
+        "answer": "Analyze the input, check tokenization, examine model weights, and verify the prompt or training data quality."
+      },
+      {
+        "id": 49,
+        "question": "How would you explain Generative AI to a non-technical person?",
+        "answer": "It’s like teaching a computer to create content—like writing a story or drawing a picture—based on what it’s learned."
+      },
+      {
+        "id": 50,
+        "question": "Where do you see your career in Generative AI going?",
+        "answer": "Growing into advanced AI product development, contributing to ethical AI practices, and building real-world applications that empower users."
+      }
+    ]
+  },
+  "ctaSection": {
+    "position": 3,
+    "heading": "Start Your Generative AI Career Today",
+    "description": "Join Teks Academy’s Generative AI Training Program and become job-ready with real-world AI projects and placement support.",
+    "button": {
+      "text": "Enquire Now",
+      "link": "/courses/generative-ai"
+    }
+  }
+}

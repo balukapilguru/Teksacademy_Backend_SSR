@@ -1,0 +1,325 @@
+{
+  "meta": {
+    "title": "VLSI Design Interview Questions | Teks Academy",
+    "description": "Explore top VLSI Design interview questions and answers covering ASIC, FPGA, Verilog, Semiconductor Design, RTL Design, and Embedded Systems.",
+    "keywords": [
+      "VLSI Interview Questions",
+      "ASIC Interview Questions",
+      "FPGA Questions",
+      "Verilog Interview Questions",
+      "Semiconductor Design Questions"
+    ]
+  },
+  "heroSection": {
+    "position": 1,
+    "heading": ["VLSI Design", "Interview Questions"],
+    "subHeading": "Prepare for VLSI Design interviews with semiconductor and hardware-focused interview questions and answers.",
+    "bannerImage": {
+      "src": "/assets/resources/interview-questions/vlsi-design/vlsi-design_interview_banner.webp",
+      "alt": "VLSI Design Interview Questions"
+    }
+  },
+  "interviewQuestionsSection": {
+    "position": 2,
+    "heading": "VLSI Design Interview Questions & Answers",
+    "sideImages": {
+      "topRight": {
+        "src": "/assets/resources/interview-questions/common/interview_vector.webp",
+        "alt": "Interview Illustration"
+      },
+      "middleRight": {
+        "src": "/assets/resources/interview-questions/common/megaphone.webp",
+        "alt": "Megaphone Illustration"
+      },
+      "bottomRight": {
+        "src": "/assets/resources/interview-questions/common/circle_shape.webp",
+        "alt": "Circle Shape"
+      }
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is VLSI?",
+        "answer": "VLSI (Very Large Scale Integration) is the process of creating integrated circuits by combining thousands to millions of transistors on a single chip."
+      },
+      {
+        "id": 2,
+        "question": "What is the difference between ASIC and FPGA?",
+        "answer": [
+          " ASIC: Application-Specific Integrated Circuit, custom-designed for a particular use.",
+          " FPGA: Field-Programmable Gate Array, programmable after manufacturing."
+        ]
+      },
+      {
+        "id": 3,
+        "question": "What is Moore’s Law?",
+        "answer": "Moore’s Law states that the number of transistors in an IC doubles approximately every two years."
+      },
+      {
+        "id": 4,
+        "question": "What is the difference between combinational and sequential circuits?",
+        "answer": [
+          " Combinational: Output depends only on current inputs.",
+          " Sequential: Output depends on current inputs and past states (uses memory elements)."
+        ]
+      },
+      {
+        "id": 5,
+        "question": "What is setup time and hold time?",
+        "answer": [
+          " Setup Time: Minimum time before the clock edge that data must be stable.",
+          " Hold Time: Minimum time after the clock edge that data must remain stable."
+        ]
+      },
+      {
+        "id": 6,
+        "question": "What is metastability?",
+        "answer": "A condition in flip-flops where the output is unpredictable due to violation of setup or hold time."
+      },
+      {
+        "id": 7,
+        "question": "What is RTL in VLSI?",
+        "answer": "Register Transfer Level – a design abstraction representing data flow between registers using hardware description languages."
+      },
+      {
+        "id": 8,
+        "question": "What is CMOS?",
+        "answer": "Complementary Metal-Oxide-Semiconductor – uses both NMOS and PMOS transistors for logic implementation."
+      },
+      {
+        "id": 9,
+        "question": "What are NMOS and PMOS?",
+        "answer": [
+          " NMOS: Active when gate voltage is high.",
+          " PMOS: Active when gate voltage is low."
+        ]
+      },
+      {
+        "id": 10,
+        "question": "What is the difference between latch and flip-flop?",
+        "answer": [" Latch: Level-triggered.", " Flip-Flop: Edge-triggered."]
+      },
+      {
+        "id": 11,
+        "question": "What is fan-in and fan-out?",
+        "answer": [
+          " Fan-in: Number of inputs a gate can handle.",
+          " Fan-out: Number of inputs a gate output can drive."
+        ]
+      },
+      {
+        "id": 12,
+        "question": "What is propagation delay?",
+        "answer": "Time taken for the output of a gate to respond after the input changes."
+      },
+      {
+        "id": 13,
+        "question": "What is clock skew?",
+        "answer": "Difference in arrival time of the clock signal at different parts of the circuit."
+      },
+      {
+        "id": 14,
+        "question": "What is power gating?",
+        "answer": "Technique to reduce leakage power by turning off power to unused blocks."
+      },
+      {
+        "id": 15,
+        "question": "What is dynamic and static power consumption?",
+        "answer": [
+          " Dynamic: Due to switching activity.",
+          " Static: Due to leakage current."
+        ]
+      },
+      {
+        "id": 16,
+        "question": "What is synthesis in VLSI?",
+        "answer": "Converting RTL code (Verilog/VHDL) into gate-level netlist."
+      },
+      {
+        "id": 17,
+        "question": "What is floorplanning?",
+        "answer": "Arranging blocks and macros on a chip before place and route."
+      },
+      {
+        "id": 18,
+        "question": "What is clock gating?",
+        "answer": "A technique to reduce dynamic power by disabling the clock in idle modules."
+      },
+      {
+        "id": 19,
+        "question": "What is IR drop?",
+        "answer": "Voltage drop due to resistance in power delivery network."
+      },
+      {
+        "id": 20,
+        "question": "What is electromigration?",
+        "answer": "Movement of metal atoms due to high current density causing circuit failure."
+      },
+      {
+        "id": 21,
+        "question": "What is a standard cell?",
+        "answer": "Pre-designed, reusable logic blocks used in ASIC design."
+      },
+      {
+        "id": 22,
+        "question": "What is DRC and LVS?",
+        "answer": [
+          " DRC: Design Rule Check – ensures layout follows fabrication rules.",
+          " LVS: Layout vs tic – ensures layout matches circuit tic."
+        ]
+      },
+      {
+        "id": 23,
+        "question": "What is a netlist?",
+        "answer": "A file containing components and their interconnections."
+      },
+      {
+        "id": 24,
+        "question": "What is hold violation and how to fix it?",
+        "answer": "A condition where data changes too soon after the clock edge. Fixed using delay buffers."
+      },
+      {
+        "id": 25,
+        "question": "What is setup violation and how to fix it?",
+        "answer": "Data arrives too late before the clock edge. Fixed by reducing logic delay or improving clock distribution."
+      },
+      {
+        "id": 26,
+        "question": "What is scan chain?",
+        "answer": "A chain of flip-flops used for testing by shifting in test patterns."
+      },
+      {
+        "id": 27,
+        "question": "What is ATPG?",
+        "answer": "Automatic Test Pattern Generation – used for generating test vectors for fault detection."
+      },
+      {
+        "id": 28,
+        "question": "What is BIST?",
+        "answer": "Built-In Self-Test – circuit can test itself using internal logic."
+      },
+      {
+        "id": 29,
+        "question": "What is timing analysis?",
+        "answer": "The process of checking whether the circuit meets setup and hold timing requirements."
+      },
+      {
+        "id": 30,
+        "question": "What is STA?",
+        "answer": "Static Timing Analysis – calculates worst-case timing without simulating all inputs."
+      },
+      {
+        "id": 31,
+        "question": "What is pipelining?",
+        "answer": "Splitting tasks into stages to improve throughput."
+      },
+      {
+        "id": 32,
+        "question": "What is Moore machine vs Mealy machine?",
+        "answer": [
+          " Moore: Output depends only on state.",
+          " Mealy: Output depends on state and input."
+        ]
+      },
+      {
+        "id": 33,
+        "question": "What is a multiplexer?",
+        "answer": "A digital switch that selects one input from many and forwards it to output."
+      },
+      {
+        "id": 34,
+        "question": "What is a priority encoder?",
+        "answer": "Encodes the input line with the highest priority."
+      },
+      {
+        "id": 35,
+        "question": "What is glitch in digital logic?",
+        "answer": "An unwanted transition due to gate delays causing incorrect output."
+      },
+      {
+        "id": 36,
+        "question": "What is cross talk?",
+        "answer": "Unwanted coupling between adjacent wires causing signal interference."
+      },
+      {
+        "id": 37,
+        "question": "What is yield in VLSI fabrication?",
+        "answer": "Percentage of functioning chips per wafer."
+      },
+      {
+        "id": 38,
+        "question": "What is the difference between Verilog and VHDL?",
+        "answer": "Verilog is more C-like, widely used in the US. VHDL is strongly typed, popular in Europe."
+      },
+      {
+        "id": 39,
+        "question": "What is RTL-to-GDSII flow?",
+        "answer": "Design process from coding to final layout – includes synthesis, P&R, DRC, LVS."
+      },
+      {
+        "id": 40,
+        "question": "What is physical design?",
+        "answer": "Converting netlist into layout (placement, routing, and verification)."
+      },
+      {
+        "id": 41,
+        "question": "What is Design for Testability (DFT)?",
+        "answer": "Adding test logic to improve test coverage and ease debugging."
+      },
+      {
+        "id": 42,
+        "question": "What is latch-up in CMOS?",
+        "answer": "A short circuit due to parasitic transistors turning on, causing high current draw."
+      },
+      {
+        "id": 43,
+        "question": "What is dual-rail logic?",
+        "answer": "Logic using both true and complementary signals to reduce noise."
+      },
+      {
+        "id": 44,
+        "question": "What is race condition?",
+        "answer": "Undesired behavior when circuit output depends on the order of signal arrival."
+      },
+      {
+        "id": 45,
+        "question": "What is a PLA (Programmable Logic Array)?",
+        "answer": "A programmable device used to implement combinational logic."
+      },
+      {
+        "id": 46,
+        "question": "What is technology node?",
+        "answer": "Feature size (e.g., 7nm, 5nm) indicating the minimum transistor dimension."
+      },
+      {
+        "id": 47,
+        "question": "What is antenna effect in VLSI?",
+        "answer": "Charge accumulation during plasma etching that can damage transistors."
+      },
+      {
+        "id": 48,
+        "question": "What is GDSII file?",
+        "answer": "The final file format used to represent the layout of an IC for fabrication."
+      },
+      {
+        "id": 49,
+        "question": "What is the purpose of decoupling capacitors?",
+        "answer": "To suppress voltage fluctuations by stabilizing power supply lines."
+      },
+      {
+        "id": 50,
+        "question": "What is the role of a D flip-flop?",
+        "answer": "It stores and synchronizes data on the rising/falling edge of the clock."
+      }
+    ]
+  },
+  "ctaSection": {
+    "position": 3,
+    "heading": "Start Your VLSI Career Today",
+    "description": "Join Teks Academy’s VLSI Design Training Program and become job-ready with real-time chip design projects and placement support.",
+    "button": {
+      "text": "Enquire Now",
+      "link": "/courses/vlsi-design"
+    }
+  }
+}

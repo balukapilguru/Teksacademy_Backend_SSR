@@ -1,0 +1,345 @@
+{
+  "meta": {
+    "title": "Java Interview Questions | Teks Academy",
+    "description": "Explore top Java interview questions and answers for freshers and experienced candidates covering Core Java, OOPs, Collections, JDBC, Spring Boot, Hibernate, Multithreading, and more.",
+    "keywords": [
+      "Java Interview Questions",
+      "Java Interview Questions and Answers",
+      "Core Java Interview Questions",
+      "Spring Boot Interview Questions",
+      "Hibernate Interview Questions",
+      "Java Developer Interview Questions"
+    ]
+  },
+  "heroSection": {
+    "position": 1,
+    "heading": ["Java", "Interview Questions"],
+    "subHeading": "Prepare for Java developer interviews with top technical questions and answers for freshers and experienced candidates.",
+    "bannerImage": {
+      "src": "/assets/resources/interview-questions/java/java_interview_banner.webp",
+      "alt": "Java Interview Questions"
+    }
+  },
+  "interviewQuestionsSection": {
+    "position": 2,
+    "heading": "Java Interview Questions & Answers",
+    "sideImages": {
+      "topRight": {
+        "src": "/assets/resources/interview-questions/common/interview_vector.webp",
+        "alt": "Interview Illustration"
+      },
+      "middleRight": {
+        "src": "/assets/resources/interview-questions/common/megaphone.webp",
+        "alt": "Megaphone Illustration"
+      },
+      "bottomRight": {
+        "src": "/assets/resources/interview-questions/common/circle_shape.webp",
+        "alt": "Circle Shape"
+      }
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is Full Stack Development in Java?",
+        "answer": [
+          "Full Stack Java Development means working on both the frontend and backend of a web application using Java technologies.",
+          "The frontend involves HTML, CSS, JavaScript, and frameworks like Angular or React.",
+          "The backend includes Java, Spring Boot, Hibernate, and REST APIs.",
+          "The database layer can use MySQL, PostgreSQL, or MongoDB.",
+          "Additionally, Full Stack developers work with tools like Git, Docker, and Jenkins for deployment and version control."
+        ]
+      },
+      {
+        "id": 2,
+        "question": "What are the key features of Java?",
+        "answer": [
+          "Java is a powerful, object-oriented programming language known for its platform independence via the JVM.",
+          "It is robust and secure, thanks to automatic memory management and strong exception handling.",
+          "Java supports multithreading for efficient resource use and includes a Just-In-Time (JIT) compiler to improve performance.",
+          "Its vast ecosystem includes frameworks like Spring and Hibernate for enterprise applications."
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Explain the Spring Boot architecture.",
+        "answer": [
+          "Spring Boot simplifies Java application development by offering pre-configured settings on top of the Spring Framework.",
+          "It includes Spring Core for dependency injection, Spring MVC for web requests, and Spring Data JPA for database interaction.",
+          "Spring Boot supports embedded servers like Tomcat and has built-in microservices support for easier deployment and scalability."
+        ]
+      },
+      {
+        "id": 4,
+        "question": "What is Dependency Injection in Spring?",
+        "answer": [
+          "Dependency Injection (DI) is a design pattern used to manage object dependencies in Spring.",
+          "Spring injects required components automatically using constructor, setter, or field injection.",
+          "Using annotations like @Autowired, DI promotes modularity and easier testing of Java components."
+        ]
+      },
+      {
+        "id": 5,
+        "question": "What is REST API and how does Spring Boot implement it?",
+        "answer": [
+          "A REST API enables communication between systems over HTTP using methods like GET, POST, PUT, and DELETE.",
+          "In Spring Boot, REST APIs are created using @RestController and @RequestMapping annotations.",
+          "Endpoints like @GetMapping('/users') return JSON data, allowing client-server interaction."
+        ]
+      },
+      {
+        "id": 6,
+        "question": "What is Hibernate and how does it simplify database operations?",
+        "answer": [
+          "Hibernate is an ORM framework that maps Java objects to database tables.",
+          "It allows developers to interact with databases using Java methods rather than SQL.",
+          "Hibernate supports features like lazy loading, caching, and table generation with annotations like @Entity and @Table."
+        ]
+      },
+      {
+        "id": 7,
+        "question": "What is the difference between Monolithic and Microservices architecture?",
+        "answer": [
+          "Monolithic architecture combines all application components into a single unit, making scaling difficult as the app grows.",
+          "Microservices break applications into small, independent services that communicate via APIs.",
+          "Each service can be developed and scaled individually, making it ideal for large applications. Spring Boot is often used to build microservices."
+        ]
+      },
+      {
+        "id": 8,
+        "question": "How does Spring Security handle authentication?",
+        "answer": [
+          "Spring Security provides mechanisms for authentication and authorization in Java apps.",
+          "It supports methods like basic auth, JWT, and OAuth2.",
+          "With Spring Boot, user roles and access control can be configured using UserDetailsService, PasswordEncoder, and HttpSecurity."
+        ]
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between GET and POST methods in REST?",
+        "answer": [
+          "GET is used to retrieve data and is idempotent, meaning repeated calls return the same result.",
+          "POST is used to send data and typically creates new resources. It is not idempotent.",
+          "Spring Boot handles GET with @GetMapping and POST with @PostMapping along with @RequestBody for data input."
+        ]
+      },
+      {
+        "id": 10,
+        "question": "How does Docker help in Full Stack Java Development?",
+        "answer": [
+          "Docker is a tool for containerizing applications with all their dependencies.",
+          "In Java development, it is used to deploy Spring Boot apps, databases, and other services in isolated environments.",
+          "Docker ensures consistency across development and production, and simplifies deployment via Dockerfiles."
+        ]
+      },
+      {
+        "id": 11,
+        "question": "What is the difference between JDK, JRE, and JVM?",
+        "answer": "JDK is the development kit, JRE runs Java applications, and JVM is the runtime engine that executes bytecode."
+      },
+      {
+        "id": 12,
+        "question": "What are the main features of Java 8?",
+        "answer": "Java 8 introduced Lambda expressions, Stream API, Functional interfaces, and the new Date/Time API."
+      },
+      {
+        "id": 13,
+        "question": "What is a RESTful web service?",
+        "answer": "RESTful services follow REST principles and use HTTP methods to perform CRUD operations on resources."
+      },
+      {
+        "id": 14,
+        "question": "What is the use of Spring Boot?",
+        "answer": "Spring Boot simplifies Java application development by auto-configuring and reducing boilerplate code."
+      },
+      {
+        "id": 15,
+        "question": "Explain the MVC architecture.",
+        "answer": "MVC separates an application into Model (data), View (UI), and Controller (business logic)."
+      },
+      {
+        "id": 16,
+        "question": "What is Hibernate and why is it used?",
+        "answer": "Hibernate is an ORM tool that maps Java objects to database tables, simplifying database operations."
+      },
+      {
+        "id": 17,
+        "question": "What is the difference between HashMap and Hashtable?",
+        "answer": "HashMap is not synchronized and allows nulls, while Hashtable is synchronized and doesn't allow null keys."
+      },
+      {
+        "id": 18,
+        "question": "What is the purpose of the `final` keyword in Java?",
+        "answer": "It is used to make variables constant, prevent method overriding, and inheritance of classes."
+      },
+      {
+        "id": 19,
+        "question": "What are microservices?",
+        "answer": "Microservices are small, independent services that communicate over APIs and are deployable individually."
+      },
+      {
+        "id": 20,
+        "question": "What is the role of the `@Autowired` annotation in Spring?",
+        "answer": "It automatically injects dependencies by type into Spring beans."
+      },
+      {
+        "id": 21,
+        "question": "What is the use of the `static` keyword in Java?",
+        "answer": "It allows methods or variables to belong to the class rather than instances."
+      },
+      {
+        "id": 22,
+        "question": "What is dependency injection in Spring?",
+        "answer": "It's a design pattern that allows objects to be injected rather than created inside a class."
+      },
+      {
+        "id": 23,
+        "question": "What is the difference between GET and POST methods?",
+        "answer": "GET requests data and shows parameters in the URL; POST sends data securely in the request body."
+      },
+      {
+        "id": 24,
+        "question": "What is a servlet in Java?",
+        "answer": "A servlet is a Java class used to handle HTTP requests and generate responses in web applications."
+      },
+      {
+        "id": 25,
+        "question": "What is JSP?",
+        "answer": "JSP (JavaServer Pages) is used to create dynamic web pages using HTML and Java code."
+      },
+      {
+        "id": 26,
+        "question": "What is polymorphism in Java?",
+        "answer": "Polymorphism allows objects to take many forms, typically through method overriding or overloading."
+      },
+      {
+        "id": 27,
+        "question": "What is encapsulation?",
+        "answer": "Encapsulation hides the internal state of an object and only exposes behavior via public methods."
+      },
+      {
+        "id": 28,
+        "question": "What is inheritance in Java?",
+        "answer": "Inheritance allows one class to acquire fields and methods of another class."
+      },
+      {
+        "id": 29,
+        "question": "What are the types of exceptions in Java?",
+        "answer": "Checked exceptions must be handled, while unchecked exceptions occur at runtime."
+      },
+      {
+        "id": 30,
+        "question": "What is a constructor in Java?",
+        "answer": "A constructor initializes an object when it's created and has the same name as the class."
+      },
+      {
+        "id": 31,
+        "question": "What is the use of the `this` keyword?",
+        "answer": "`this` refers to the current instance of the class and is used to avoid naming conflicts."
+      },
+      {
+        "id": 32,
+        "question": "What is the difference between `==` and `equals()`?",
+        "answer": "`==` compares references, while `equals()` compares object content."
+      },
+      {
+        "id": 33,
+        "question": "What is multithreading?",
+        "answer": "Multithreading allows concurrent execution of two or more threads for better performance."
+      },
+      {
+        "id": 34,
+        "question": "What is the difference between an abstract class and an interface?",
+        "answer": "An abstract class can have method bodies, while interfaces can only declare methods (Java 8+ allows default)."
+      },
+      {
+        "id": 35,
+        "question": "What is a build tool like Maven used for?",
+        "answer": "Maven automates project builds, dependency management, and packaging of Java applications."
+      },
+      {
+        "id": 36,
+        "question": "What is a package in Java?",
+        "answer": "A package organizes related classes and interfaces into namespaces."
+      },
+      {
+        "id": 37,
+        "question": "What are lambda expressions?",
+        "answer": "Lambda expressions provide a concise way to represent functional interfaces in Java."
+      },
+      {
+        "id": 38,
+        "question": "What is a stream in Java 8?",
+        "answer": "Streams allow functional-style operations on sequences of data like map, filter, and reduce."
+      },
+      {
+        "id": 39,
+        "question": "What is the `super` keyword in Java?",
+        "answer": "`super` refers to the parent class and is used to access parent class members."
+      },
+      {
+        "id": 40,
+        "question": "What are design patterns?",
+        "answer": "Design patterns are standard solutions to common software design problems."
+      },
+      {
+        "id": 41,
+        "question": "What is the singleton pattern?",
+        "answer": "Singleton ensures a class has only one instance and provides a global point of access to it."
+      },
+      {
+        "id": 42,
+        "question": "What is a DTO?",
+        "answer": "A Data Transfer Object is used to transfer data between layers in an application."
+      },
+      {
+        "id": 43,
+        "question": "What is JSON?",
+        "answer": "JSON (JavaScript Object Notation) is a lightweight format for storing and exchanging data."
+      },
+      {
+        "id": 44,
+        "question": "What is CORS?",
+        "answer": "CORS (Cross-Origin Resource Sharing) is a security feature that controls access between domains."
+      },
+      {
+        "id": 45,
+        "question": "What is the use of `try-catch-finally` in Java?",
+        "answer": "It's used for handling exceptions, ensuring cleanup code runs with `finally`."
+      },
+      {
+        "id": 46,
+        "question": "What is a session in web applications?",
+        "answer": "A session stores user data across multiple HTTP requests during a user’s visit."
+      },
+      {
+        "id": 47,
+        "question": "What is token-based authentication?",
+        "answer": "It uses a token (like JWT) to authenticate users without storing session on the server."
+      },
+      {
+        "id": 48,
+        "question": "What is the difference between SQL and NoSQL?",
+        "answer": "SQL databases are relational and use structured schemas; NoSQL is flexible and schema-less."
+      },
+      {
+        "id": 49,
+        "question": "What is continuous integration?",
+        "answer": "CI is the practice of merging code changes frequently and automatically testing them."
+      },
+      {
+        "id": 50,
+        "question": "What tools are used for version control?",
+        "answer": "Git is the most popular tool for version control; platforms include GitHub and GitLab."
+      }
+    ]
+  },
+  "ctaSection": {
+    "position": 3,
+    "heading": "Start Your Java Career Today",
+    "description": "Join Teks Academy’s Full Stack Java Training Program and become job-ready with real-time projects and placement support.",
+    "button": {
+      "text": "Enquire Now",
+      "link": "/courses/full-stack-java"
+    }
+  }
+}

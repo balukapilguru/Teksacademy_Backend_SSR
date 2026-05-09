@@ -1,0 +1,301 @@
+{
+  "meta": {
+    "title": "Medical Coding Interview Questions | Teks Academy",
+    "description": "Explore top Medical Coding interview questions and answers covering ICD-10, CPT, HCPCS, Medical Billing, Healthcare Claims, and Compliance.",
+    "keywords": [
+      "Medical Coding Interview Questions",
+      "ICD-10 Questions",
+      "CPT Coding Questions",
+      "Healthcare Billing Questions",
+      "Medical Billing Interview Questions"
+    ]
+  },
+  "heroSection": {
+    "position": 1,
+    "heading": ["Medical Coding", "Interview Questions"],
+    "subHeading": "Prepare for Medical Coding interviews with healthcare and billing-focused interview questions and answers.",
+    "bannerImage": {
+      "src": "/assets/resources/interview-questions/medical-coding/medical-coding_interview_banner.webp",
+      "alt": "Medical Coding Interview Questions"
+    }
+  },
+  "interviewQuestionsSection": {
+    "position": 2,
+    "heading": "Medical Coding Interview Questions & Answers",
+    "sideImages": {
+      "topRight": {
+        "src": "/assets/resources/interview-questions/common/interview_vector.webp",
+        "alt": "Interview Illustration"
+      },
+      "middleRight": {
+        "src": "/assets/resources/interview-questions/common/megaphone.webp",
+        "alt": "Megaphone Illustration"
+      },
+      "bottomRight": {
+        "src": "/assets/resources/interview-questions/common/circle_shape.webp",
+        "alt": "Circle Shape"
+      }
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is medical coding?",
+        "answer": "Medical coding is the process of translating healthcare diagnoses, procedures, medical services, and equipment into universal medical alphanumeric codes."
+      },
+      {
+        "id": 2,
+        "question": "What are the main types of medical coding systems?",
+        "answer": "The main coding systems are ICD (International Classification of Diseases), CPT (Current Procedural Terminology), and HCPCS (Healthcare Common Procedure Coding System)."
+      },
+      {
+        "id": 3,
+        "question": "What is ICD-10?",
+        "answer": "ICD-10 stands for the 10th revision of the International Classification of Diseases. It is used to code diagnoses and reasons for patient visits."
+      },
+      {
+        "id": 4,
+        "question": "What is CPT coding?",
+        "answer": "CPT coding involves the use of the Current Procedural Terminology code set to describe medical, surgical, and diagnostic procedures and services."
+      },
+      {
+        "id": 5,
+        "question": "What is the difference between ICD and CPT codes?",
+        "answer": "ICD codes describe diagnoses and medical conditions, while CPT codes describe procedures and services provided to patients."
+      },
+      {
+        "id": 6,
+        "question": "What is a modifier in medical coding?",
+        "answer": "A modifier is a two-digit code appended to a CPT or HCPCS code to provide additional information about the procedure or service performed."
+      },
+      {
+        "id": 7,
+        "question": "What is upcoding and why is it problematic?",
+        "answer": "Upcoding is the practice of using a billing code that provides a higher reimbursement than the actual service provided. It is considered fraudulent."
+      },
+      {
+        "id": 8,
+        "question": "What is the role of a medical coder?",
+        "answer": "A medical coder reviews clinical documentation and assigns standardized codes for diagnoses, procedures, and services to support billing and data analysis."
+      },
+      {
+        "id": 9,
+        "question": "What does HCPCS stand for?",
+        "answer": "HCPCS stands for Healthcare Common Procedure Coding System. It is primarily used for coding products, supplies, and services not covered by CPT."
+      },
+      {
+        "id": 10,
+        "question": "What is medical necessity in coding?",
+        "answer": "Medical necessity refers to services or procedures that are needed for the diagnosis or treatment of a medical condition and are justified by patient symptoms and findings."
+      },
+      {
+        "id": 11,
+        "question": "What is the use of an encoder in medical coding?",
+        "answer": "An encoder is a software tool that helps coders assign accurate and compliant medical codes by guiding them through the coding process."
+      },
+      {
+        "id": 12,
+        "question": "What is DRG in medical billing?",
+        "answer": "DRG stands for Diagnosis-Related Group, which is a system used to classify hospital cases into categories for the purpose of payment."
+      },
+      {
+        "id": 13,
+        "question": "What is a superbill?",
+        "answer": "A superbill is a document used by healthcare providers to record the services provided to a patient, which is then used for billing and insurance claims."
+      },
+      {
+        "id": 14,
+        "question": "How do you handle coding denials?",
+        "answer": "Review the denial reason, verify documentation, correct any errors, and resubmit the claim with appropriate codes or supporting information."
+      },
+      {
+        "id": 15,
+        "question": "What is an NCCI edit?",
+        "answer": "NCCI stands for National Correct Coding Initiative. NCCI edits prevent improper coding that may lead to inappropriate payment in Medicare claims."
+      },
+      {
+        "id": 16,
+        "question": "What are E/M codes?",
+        "answer": "E/M codes, or Evaluation and Management codes, are used to bill for patient visits and encounters with physicians or healthcare providers."
+      },
+      {
+        "id": 17,
+        "question": "Why is accuracy important in medical coding?",
+        "answer": "Accurate coding ensures proper billing, reduces claim denials, supports healthcare data integrity, and maintains compliance with regulations."
+      },
+      {
+        "id": 18,
+        "question": "What is the significance of HIPAA in medical coding?",
+        "answer": "HIPAA mandates the standardization and privacy of patient health information and requires the use of standardized code sets for electronic transactions."
+      },
+      {
+        "id": 19,
+        "question": "What is outpatient coding?",
+        "answer": "Outpatient coding involves assigning codes for patients who receive care without being admitted to a hospital, such as clinic visits or same-day surgeries."
+      },
+      {
+        "id": 20,
+        "question": "What is inpatient coding?",
+        "answer": "Inpatient coding is the assignment of diagnosis and procedure codes for patients who are formally admitted to a hospital for treatment and care."
+      },
+      {
+        "id": 21,
+        "question": "What are some common coding errors?",
+        "answer": "Common coding errors include incorrect use of modifiers, missing or incomplete documentation, upcoding, undercoding, and failing to follow payer-specific guidelines."
+      },
+      {
+        "id": 22,
+        "question": "What are the three key components of E/M coding?",
+        "answer": "The three key components of E/M coding are history, examination, and medical decision making (MDM)."
+      },
+      {
+        "id": 23,
+        "question": "What is the purpose of medical coding audits?",
+        "answer": "Medical coding audits are performed to ensure coding accuracy, proper reimbursement, and compliance with regulatory requirements."
+      },
+      {
+        "id": 24,
+        "question": "What is the difference between the CPT and HCPCS Level II codes?",
+        "answer": "CPT codes are used for medical procedures and services, while HCPCS Level II codes are used for non-physician services, including durable medical equipment (DME), drugs, and other items not covered by CPT."
+      },
+      {
+        "id": 25,
+        "question": "What are diagnosis codes used for?",
+        "answer": "Diagnosis codes are used to describe the patient's medical condition, which justifies the need for medical services and procedures."
+      },
+      {
+        "id": 26,
+        "question": "What are procedure codes used for?",
+        "answer": "Procedure codes are used to describe the services, procedures, and treatments provided by healthcare providers."
+      },
+      {
+        "id": 27,
+        "question": "How do you ensure the accuracy of the codes you assign?",
+        "answer": "I ensure accuracy by reviewing the clinical documentation thoroughly, using appropriate coding manuals, and verifying codes with coding guidelines."
+      },
+      {
+        "id": 28,
+        "question": "What is the difference between a diagnosis code and a procedure code?",
+        "answer": "Diagnosis codes describe the patient's medical condition, while procedure codes describe the services or treatments provided to address those conditions."
+      },
+      {
+        "id": 29,
+        "question": "What is the purpose of the ICD-10 codes?",
+        "answer": "ICD-10 codes are used to classify and code all diagnoses, symptoms, and procedures recorded in conjunction with healthcare services."
+      },
+      {
+        "id": 30,
+        "question": "What is a coding guideline?",
+        "answer": "A coding guideline is a set of rules or instructions that help coders accurately assign codes based on clinical documentation."
+      },
+      {
+        "id": 31,
+        "question": "What is the difference between primary and secondary diagnoses?",
+        "answer": "Primary diagnoses are the main conditions treated during a patient’s encounter, while secondary diagnoses are additional conditions that coexist with the primary diagnosis."
+      },
+      {
+        "id": 32,
+        "question": "What is the role of clinical documentation improvement (CDI)?",
+        "answer": "CDI ensures that the documentation accurately reflects the patient’s conditions and the services provided, which is essential for proper coding and reimbursement."
+      },
+      {
+        "id": 33,
+        "question": "How do you keep yourself updated with the latest coding changes?",
+        "answer": "I stay updated by subscribing to coding newsletters, attending webinars, and reviewing updates from coding authorities such as the AAPC and AMA."
+      },
+      {
+        "id": 34,
+        "question": "What are some common compliance issues in medical coding?",
+        "answer": "Common compliance issues include improper use of modifiers, incorrect documentation, upcoding, and failing to comply with payer-specific rules."
+      },
+      {
+        "id": 35,
+        "question": "What are the levels of HCPCS codes?",
+        "answer": "HCPCS codes are divided into two levels: Level I (CPT codes) for physician services and Level II for non-physician services like DME and drugs."
+      },
+      {
+        "id": 36,
+        "question": "What is the role of the American Academy of Professional Coders (AAPC)?",
+        "answer": "The AAPC is an organization that provides professional coding certifications, training, and resources for medical coders."
+      },
+      {
+        "id": 37,
+        "question": "What are the different types of medical coding certifications?",
+        "answer": "Common medical coding certifications include CPC (Certified Professional Coder), CCS (Certified Coding Specialist), and CPC-H (Certified Professional Coder-Hospital)."
+      },
+      {
+        "id": 38,
+        "question": "What is the difference between a professional coder and a facility coder?",
+        "answer": "A professional coder codes for physician services, while a facility coder codes for services provided in a hospital or outpatient facility."
+      },
+      {
+        "id": 39,
+        "question": "What is the significance of CPT modifiers?",
+        "answer": "CPT modifiers provide additional information to distinguish services provided under special circumstances or that require adjustments for reimbursement."
+      },
+      {
+        "id": 40,
+        "question": "What is the process of coding a procedure?",
+        "answer": "The process includes reviewing the clinical documentation, identifying the procedure performed, selecting the appropriate CPT code, and applying any necessary modifiers."
+      },
+      {
+        "id": 41,
+        "question": "What is the role of medical coding in healthcare reimbursement?",
+        "answer": "Medical coding plays a critical role in healthcare reimbursement by ensuring that services are correctly documented, coded, and billed for proper payment."
+      },
+      {
+        "id": 42,
+        "question": "What is the National Correct Coding Initiative (NCCI)?",
+        "answer": "NCCI is an initiative by the Centers for Medicare & Medicaid Services (CMS) to promote correct coding practices and prevent improper payments."
+      },
+      {
+        "id": 43,
+        "question": "What are claim scrubbing tools?",
+        "answer": "Claim scrubbing tools are used to check medical claims for errors before submission, ensuring compliance and reducing the chances of claim rejections."
+      },
+      {
+        "id": 44,
+        "question": "How do you deal with coding discrepancies or conflicts?",
+        "answer": "I resolve coding discrepancies by reviewing the documentation, clarifying with healthcare providers if necessary, and adhering to coding guidelines."
+      },
+      {
+        "id": 45,
+        "question": "What is the difference between Medicare and Medicaid coding?",
+        "answer": "Medicare coding follows guidelines for senior citizens, while Medicaid coding follows state-specific guidelines for low-income individuals."
+      },
+      {
+        "id": 46,
+        "question": "What is bundling in medical coding?",
+        "answer": "Bundling refers to grouping multiple related services together and coding them as a single comprehensive code for payment purposes."
+      },
+      {
+        "id": 47,
+        "question": "What are high-deductible health plans (HDHP) and how do they impact coding?",
+        "answer": "HDHPs require patients to pay more out-of-pocket before insurance coverage kicks in, which may affect the documentation and coding of services provided."
+      },
+      {
+        "id": 48,
+        "question": "How do you manage claims for multiple providers involved in a patient’s care?",
+        "answer": "I ensure each provider’s services are accurately coded and billed separately according to the specific services rendered and guidelines."
+      },
+      {
+        "id": 49,
+        "question": "What is an ICD-10 code book?",
+        "answer": "An ICD-10 code book contains the official codes used to classify diseases and related health problems, including diagnostic codes for medical billing."
+      },
+      {
+        "id": 50,
+        "question": "How do you handle rejected or denied claims?",
+        "answer": "I investigate the reasons for rejection or denial, correct any errors, and resubmit the claim with appropriate documentation and codes."
+      }
+    ]
+  },
+  "ctaSection": {
+    "position": 3,
+    "heading": "Start Your Medical Coding Career Today",
+    "description": "Join Teks Academy’s Medical Coding Training Program and become job-ready with healthcare industry projects and placement support.",
+    "button": {
+      "text": "Enquire Now",
+      "link": "/courses/medical-coding"
+    }
+  }
+}

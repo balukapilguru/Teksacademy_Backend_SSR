@@ -47,7 +47,7 @@
           },
           {
             "name": "About Us",
-            "url": "/about-us"
+            "url": "/discover/about-us"
           },
           {
             "name": "Apply For Jobs",
@@ -55,7 +55,7 @@
           },
           {
             "name": "Alumni",
-            "url": "/alumni"
+            "url": "/placements/alumni"
           }
         ]
       },
@@ -68,7 +68,7 @@
           },
           {
             "name": "Video Lectures",
-            "url": "/resources/video-lectures"
+            "url": "https://www.youtube.com/@teksacademy/playlists"
           },
           {
             "name": "Interview Questions",
@@ -85,7 +85,7 @@
         "items": [
           {
             "name": "Student Login",
-            "url": "/student-login"
+            "url": "https://students.teksacademy.com/auth/login/"
           },
           {
             "name": "Book A Demo",

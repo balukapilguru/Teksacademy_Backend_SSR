@@ -1,0 +1,325 @@
+{
+  "meta": {
+    "title": "Advanced Excel Interview Questions | Teks Academy",
+    "description": "Explore top Advanced Excel interview questions and answers covering formulas, Pivot Tables, Macros, VBA, dashboards, and data analysis techniques.",
+    "keywords": [
+      "Advanced Excel Interview Questions",
+      "Excel VBA Questions",
+      "Pivot Table Questions",
+      "Excel Formulas Questions",
+      "Data Analysis Excel Questions"
+    ]
+  },
+  "heroSection": {
+    "position": 1,
+    "heading": ["Advanced Excel", "Interview Questions"],
+    "subHeading": "Prepare for Advanced Excel interviews with practical spreadsheet and analytics interview questions and answers.",
+    "bannerImage": {
+      "src": "/assets/resources/interview-questions/advanced-excel/advanced-excel_interview_banner.webp",
+      "alt": "Advanced Excel Interview Questions"
+    }
+  },
+  "interviewQuestionsSection": {
+    "position": 2,
+    "heading": "Advanced Excel Interview Questions & Answers",
+    "sideImages": {
+      "topRight": {
+        "src": "/assets/resources/interview-questions/common/interview_vector.webp",
+        "alt": "Interview Illustration"
+      },
+      "middleRight": {
+        "src": "/assets/resources/interview-questions/common/megaphone.webp",
+        "alt": "Megaphone Illustration"
+      },
+      "bottomRight": {
+        "src": "/assets/resources/interview-questions/common/circle_shape.webp",
+        "alt": "Circle Shape"
+      }
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the difference between Excel functions and Excel formulas?",
+        "answer": [
+          "• Function: Predefined operation (e.g., SUM, VLOOKUP).",
+          "• Formula: User-defined combination of functions, operators, and references (e.g., =A1+B1)."
+        ]
+      },
+      {
+        "id": 2,
+        "question": "What is a pivot table?",
+        "answer": "A Pivot Table summarizes large datasets to analyze data patterns and trends through grouping, sorting, and filtering."
+      },
+      {
+        "id": 3,
+        "question": "How do you remove duplicates in Excel?",
+        "answer": "Go to Data > Remove Duplicates, select the column(s), and click OK."
+      },
+      {
+        "id": 4,
+        "question": "What is the use of VLOOKUP?",
+        "answer": "It searches a value vertically in the first column of a table and returns a corresponding value in the same row."
+      },
+      {
+        "id": 5,
+        "question": "What is the syntax of VLOOKUP?",
+        "answer": "=VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])"
+      },
+      {
+        "id": 6,
+        "question": "What is an INDEX MATCH? How is it different from VLOOKUP?",
+        "answer": "INDEX MATCH is a combination of the INDEX function (returns a value based on row/column numbers) and the MATCH function (finds the position of a value). Unlike VLOOKUP, INDEX MATCH can look up values from any direction (left-to-right or right-to-left)."
+      },
+      {
+        "id": 7,
+        "question": "What is a CONCATENATE function?",
+        "answer": "The CONCATENATE function joins multiple strings of text into a single string."
+      },
+      {
+        "id": 8,
+        "question": "How do you use IF statements in Excel?",
+        "answer": "The IF function evaluates a condition and returns one value if true, another if false. Syntax: =IF(condition, value_if_true, value_if_false)."
+      },
+      {
+        "id": 9,
+        "question": "What are absolute and relative references in Excel?",
+        "answer": [
+          "• Relative Reference: Changes when copied (e.g., A1).",
+          "• Absolute Reference: Remains fixed when copied (e.g., $A$1)."
+        ]
+      },
+      {
+        "id": 10,
+        "question": "What is the difference between COUNT and COUNTA functions?",
+        "answer": [
+          "• COUNT: Counts only numeric values.",
+          "• COUNTA: Counts all non-empty cells (including text)."
+        ]
+      },
+      {
+        "id": 11,
+        "question": "How do you find the sum of a range of cells?",
+        "answer": "Use the SUM function: =SUM(A1:A10)."
+      },
+      {
+        "id": 12,
+        "question": "What is a named range in Excel?",
+        "answer": "A named range is a descriptive name for a cell or range of cells that makes formulas easier to understand (e.g., TotalSales)."
+      },
+      {
+        "id": 13,
+        "question": "What is conditional formatting in Excel?",
+        "answer": "Conditional formatting allows you to apply formatting (e.g., color) to cells that meet specific criteria."
+      },
+      {
+        "id": 14,
+        "question": "How do you protect a worksheet in Excel?",
+        "answer": "Go to Review > Protect Sheet. Set a password and select the actions allowed."
+      },
+      {
+        "id": 15,
+        "question": "What is a drop-down list in Excel?",
+        "answer": "A drop-down list is a cell with pre-defined options that can be selected. Created using Data Validation."
+      },
+      {
+        "id": 16,
+        "question": "How do you create a chart in Excel?",
+        "answer": "Select the data, then go to Insert > Chart and choose a chart type (e.g., bar, line, pie)."
+      },
+      {
+        "id": 17,
+        "question": "What is the use of the LEN function?",
+        "answer": "The LEN function returns the number of characters in a text string."
+      },
+      {
+        "id": 18,
+        "question": "How do you calculate the average in Excel?",
+        "answer": "Use the AVERAGE function: =AVERAGE(A1:A10)."
+      },
+      {
+        "id": 19,
+        "question": "What is the use of the ROUND function?",
+        "answer": "The ROUND function rounds a number to a specified number of digits."
+      },
+      {
+        "id": 20,
+        "question": "What is the purpose of the NOW function?",
+        "answer": "The NOW function returns the current date and time."
+      },
+      {
+        "id": 21,
+        "question": "What is a data table in Excel?",
+        "answer": "A data table is a range of cells that shows how changing one or two variables in a formula affects the result."
+      },
+      {
+        "id": 22,
+        "question": "How do you apply a filter in Excel?",
+        "answer": "Go to Data > Filter, then click the drop-down arrow next to the column header to filter the data."
+      },
+      {
+        "id": 23,
+        "question": "What is a dynamic chart in Excel?",
+        "answer": "A dynamic chart automatically updates when data is added or changed. You can use named ranges or tables for this purpose."
+      },
+      {
+        "id": 24,
+        "question": "What is a macro in Excel?",
+        "answer": "A macro is a series of actions or commands that can be recorded and executed automatically to save time and effort."
+      },
+      {
+        "id": 25,
+        "question": "How do you record a macro in Excel?",
+        "answer": "Go to View > Macros > Record Macro. Perform the actions you want to automate, then stop recording."
+      },
+      {
+        "id": 26,
+        "question": "What is Power Query in Excel?",
+        "answer": "Power Query is a tool for data import, transformation, and automation of data cleansing tasks in Excel."
+      },
+      {
+        "id": 27,
+        "question": "How do you import data from external sources into Excel?",
+        "answer": "Go to Data > Get External Data, and select from options such as From Web, From Text, or From Access."
+      },
+      {
+        "id": 28,
+        "question": "What is the difference between Excel 365 and Excel 2016?",
+        "answer": "Excel 365 includes more cloud-based features like collaboration tools, automatic updates, and integration with Power BI."
+      },
+      {
+        "id": 29,
+        "question": "What is the TRANSPOSE function in Excel?",
+        "answer": "The TRANSPOSE function changes the orientation of a range of cells (e.g., converts rows to columns)."
+      },
+      {
+        "id": 30,
+        "question": "What is a slicer in Excel?",
+        "answer": "A slicer is a visual filter that allows you to filter data in PivotTables or PivotCharts interactively."
+      },
+      {
+        "id": 31,
+        "question": "How do you create a hyperlink in Excel?",
+        "answer": "Right-click a cell, choose 'Hyperlink,' then enter the URL or select the document to link to."
+      },
+      {
+        "id": 32,
+        "question": "What is the TEXT function used for in Excel?",
+        "answer": "The TEXT function converts a value into text in a specific format (e.g., =TEXT(A1, 'mm/dd/yyyy'))."
+      },
+      {
+        "id": 33,
+        "question": "How do you apply a style in Excel?",
+        "answer": "Go to Home > Cell Styles, and choose the appropriate style."
+      },
+      {
+        "id": 34,
+        "question": "What is the MATCH function used for in Excel?",
+        "answer": "The MATCH function searches for a specified value within a range and returns its position."
+      },
+      {
+        "id": 35,
+        "question": "What is the difference between a workbook and a worksheet in Excel?",
+        "answer": [
+          "• Workbook: An Excel file containing one or more worksheets.",
+          "• Worksheet: A single sheet within a workbook that holds data."
+        ]
+      },
+      {
+        "id": 36,
+        "question": "What are the keyboard shortcuts for commonly used Excel functions?",
+        "answer": [
+          "• Ctrl + C: Copy",
+          "• Ctrl + V: Paste",
+          "• Ctrl + Z: Undo",
+          "• Ctrl + Y: Redo",
+          "• Ctrl + F: Find"
+        ]
+      },
+      {
+        "id": 37,
+        "question": "How do you hide rows or columns in Excel?",
+        "answer": "Right-click on the row/column header and choose 'Hide'."
+      },
+      {
+        "id": 38,
+        "question": "What is a scatter plot in Excel?",
+        "answer": "A scatter plot is a chart that displays data points based on two variables to show relationships between them."
+      },
+      {
+        "id": 39,
+        "question": "What is the use of the SUMIF function?",
+        "answer": "The SUMIF function adds the values in a range that meet a specified condition."
+      },
+      {
+        "id": 40,
+        "question": "What is the IFERROR function used for in Excel?",
+        "answer": "The IFERROR function returns a specified value if a formula results in an error, otherwise returns the formula result."
+      },
+      {
+        "id": 41,
+        "question": "What is the difference between a static and dynamic reference in Excel?",
+        "answer": [
+          "• Static Reference: Does not change when the formula is copied (e.g., $A$1).",
+          "• Dynamic Reference: Changes when the formula is copied (e.g., A1)."
+        ]
+      },
+      {
+        "id": 42,
+        "question": "How do you split text into multiple columns in Excel?",
+        "answer": "Use the 'Text to Columns' tool under Data to split text based on delimiters (e.g., commas, spaces)."
+      },
+      {
+        "id": 43,
+        "question": "What is a dynamic named range?",
+        "answer": "A dynamic named range automatically adjusts its size based on the number of items in the range."
+      },
+      {
+        "id": 44,
+        "question": "How do you calculate the number of working days between two dates in Excel?",
+        "answer": "Use the NETWORKDAYS function: =NETWORKDAYS(start_date, end_date)."
+      },
+      {
+        "id": 45,
+        "question": "What is a 3D reference in Excel?",
+        "answer": "A 3D reference refers to cells across multiple worksheets, such as =SUM(Sheet1:Sheet3!A1)."
+      },
+      {
+        "id": 46,
+        "question": "What is an array formula in Excel?",
+        "answer": "An array formula performs calculations on multiple values or ranges at once and must be entered with Ctrl+Shift+Enter."
+      },
+      {
+        "id": 47,
+        "question": "What is the use of the RANK function in Excel?",
+        "answer": "The RANK function returns the rank of a number within a range, based on its size relative to the other numbers."
+      },
+      {
+        "id": 48,
+        "question": "How do you link Excel data with other Microsoft applications?",
+        "answer": "You can link Excel to Word, PowerPoint, or Outlook by copying and pasting data or embedding Excel objects."
+      },
+      {
+        "id": 49,
+        "question": "What is the difference between CONCAT and CONCATENATE in Excel?",
+        "answer": [
+          "• CONCAT: A new function that combines text strings without a separator.",
+          "• CONCATENATE: The older function that joins text with or without a separator."
+        ]
+      },
+      {
+        "id": 50,
+        "question": "What is the use of the INDIRECT function in Excel?",
+        "answer": "The INDIRECT function returns a reference specified by a text string, allowing dynamic referencing of cells."
+      }
+    ]
+  },
+  "ctaSection": {
+    "position": 3,
+    "heading": "Start Your Advanced Excel Career Today",
+    "description": "Join Teks Academy’s Advanced Excel Training Program and become job-ready with real-time analytics projects and placement support.",
+    "button": {
+      "text": "Enquire Now",
+      "link": "/courses/advanced-excel"
+    }
+  }
+}

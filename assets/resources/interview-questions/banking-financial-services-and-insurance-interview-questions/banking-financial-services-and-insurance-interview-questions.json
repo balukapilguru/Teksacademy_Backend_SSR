@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "title": "BFSI Interview Questions | Teks Academy",
+    "description": "Explore top BFSI interview questions and answers covering banking, financial services, insurance, mutual funds, digital banking, and financial regulations.",
+    "keywords": [
+      "BFSI Interview Questions",
+      "Banking Interview Questions",
+      "Insurance Interview Questions",
+      "Financial Services Questions",
+      "Digital Banking Questions"
+    ]
+  },
+  "heroSection": {
+    "position": 1,
+    "heading": ["BFSI", "Interview Questions"],
+    "subHeading": "Prepare for BFSI interviews with banking and financial services interview questions and answers.",
+    "bannerImage": {
+      "src": "/assets/resources/interview-questions/bfsi/bfsi_interview_banner.webp",
+      "alt": "BFSI Interview Questions"
+    }
+  },
+  "interviewQuestionsSection": {
+    "position": 2,
+    "heading": "BFSI Interview Questions & Answers",
+    "sideImages": {
+      "topRight": {
+        "src": "/assets/resources/interview-questions/common/interview_vector.webp",
+        "alt": "Interview Illustration"
+      },
+      "middleRight": {
+        "src": "/assets/resources/interview-questions/common/megaphone.webp",
+        "alt": "Megaphone Illustration"
+      },
+      "bottomRight": {
+        "src": "/assets/resources/interview-questions/common/circle_shape.webp",
+        "alt": "Circle Shape"
+      }
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "What does BFSI stand for?",
+        "answer": [
+          "BFSI stands for Banking, Financial Services, and Insurance. It encompasses institutions that",
+          "provide a range of financial products and services."
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Name three core functions of banks.",
+        "answer": "Accepting deposits, providing loans and advances, and facilitating payments and settlements."
+      },
+      {
+        "id": 3,
+        "question": "What are the major regulatory bodies in the BFSI sector?",
+        "answer": [
+          "The major regulatory bodies are RBI (Reserve Bank of India), SEBI (Securities and Exchange",
+          "Board of India), and IRDAI (Insurance Regulatory and Development Authority of India)."
+        ]
+      },
+      {
+        "id": 4,
+        "question": "What is the purpose of KYC in banking?",
+        "answer": [
+          "KYC (Know Your Customer) ensures customer identity verification to prevent money laundering",
+          "and financial fraud."
+        ]
+      },
+      {
+        "id": 5,
+        "question": "What types of bank accounts are commonly available?",
+        "answer": "Savings, Current, Fixed Deposit (FD), and Recurring Deposit (RD) accounts."
+      },
+      {
+        "id": 6,
+        "question": "What is a Non-Performing Asset (NPA)?",
+        "answer": [
+          "An NPA is a loan or advance for which the principal or interest payment remains overdue for 90",
+          "days or more."
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Define mutual funds.",
+        "answer": [
+          "Mutual funds pool money from investors to invest in diversified assets like stocks, bonds, and",
+          "other securities."
+        ]
+      },
+      {
+        "id": 8,
+        "question": "What are SIP, SWP, and STP?",
+        "answer": [
+          "SIP: Systematic Investment Plan; SWP: Systematic Withdrawal Plan; STP: Systematic Transfer",
+          "Plan."
+        ]
+      },
+      {
+        "id": 9,
+        "question": "What is the role of SEBI?",
+        "answer": "SEBI regulates securities markets, protects investors, and ensures market integrity."
+      },
+      {
+        "id": 10,
+        "question": "Name different types of insurance.",
+        "answer": "Life, Term, Health, Motor, Travel, Fidelity, Reinsurance, and Double Insurance."
+      },
+      {
+        "id": 11,
+        "question": "What is a promissory note?",
+        "answer": [
+          "A promissory note is a financial instrument in which one party promises in writing to pay a",
+          "definite sum of money to another."
+        ]
+      },
+      {
+        "id": 12,
+        "question": "What are negotiable instruments?",
+        "answer": [
+          "Instruments like cheques, promissory notes, and bills of exchange that guarantee payment to",
+          "the bearer."
+        ]
+      },
+      {
+        "id": 13,
+        "question": "Define credit rating.",
+        "answer": "A credit rating assesses the creditworthiness of a borrower or financial instrument."
+      },
+      {
+        "id": 14,
+        "question": "What are chit funds?",
+        "answer": [
+          "A savings scheme involving regular contributions from members, with funds awarded",
+          "periodically to one member."
+        ]
+      },
+      {
+        "id": 15,
+        "question": "Explain CRM in banking.",
+        "answer": [
+          "Customer Relationship Management (CRM) involves using tools and strategies to manage",
+          "customer interactions and improve satisfaction."
+        ]
+      },
+      {
+        "id": 16,
+        "question": "What are the components of a bank's liability?",
+        "answer": "Deposits, borrowings, and other obligations that appear on the bank's balance sheet."
+      },
+      {
+        "id": 17,
+        "question": "What is blockchain's role in BFSI?",
+        "answer": [
+          "Blockchain enhances security, transparency, and efficiency in transactions across the BFSI",
+          "sector."
+        ]
+      },
+      {
+        "id": 18,
+        "question": "What is the function of the IRDAI?",
+        "answer": "IRDAI regulates the insurance industry and ensures policyholder protection and fair practices."
+      },
+      {
+        "id": 19,
+        "question": "What is credit creation?",
+        "answer": [
+          "Credit creation refers to banks' ability to expand the money supply by lending more than the",
+          "original deposits."
+        ]
+      },
+      {
+        "id": 20,
+        "question": "What is the AIDA sales framework?",
+        "answer": [
+          "AIDA stands for Attention, Interest, Desire, and Action - a model used in sales to guide",
+          "customer behavior."
+        ]
+      }
+    ]
+  },
+  "ctaSection": {
+    "position": 3,
+    "heading": "Start Your BFSI Career Today",
+    "description": "Join Teks Academy’s BFSI Training Program and become job-ready with finance and banking projects and placement support.",
+    "button": {
+      "text": "Enquire Now",
+      "link": "/courses/bfsi"
+    }
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "meta": {
+    "title": "Data Analytics Interview Questions | Teks Academy",
+    "description": "Explore top Data Analytics interview questions and answers covering Excel, SQL, Power BI, Tableau, Python, data visualization, and business reporting.",
+    "keywords": [
+      "Data Analytics Interview Questions",
+      "Power BI Interview Questions",
+      "Tableau Questions",
+      "SQL Analytics Questions",
+      "Data Visualization Questions"
+    ]
+  },
+  "heroSection": {
+    "position": 1,
+    "heading": ["Data Analytics", "Interview Questions"],
+    "subHeading": "Prepare for Data Analytics interviews with top technical and reporting interview questions and answers.",
+    "bannerImage": {
+      "src": "/assets/resources/interview-questions/data-analytics/data-analytics_interview_banner.webp",
+      "alt": "Data Analytics Interview Questions"
+    }
+  },
+  "interviewQuestionsSection": {
+    "position": 2,
+    "heading": "Data Analytics Interview Questions & Answers",
+    "sideImages": {
+      "topRight": {
+        "src": "/assets/resources/interview-questions/common/interview_vector.webp",
+        "alt": "Interview Illustration"
+      },
+      "middleRight": {
+        "src": "/assets/resources/interview-questions/common/megaphone.webp",
+        "alt": "Megaphone Illustration"
+      },
+      "bottomRight": {
+        "src": "/assets/resources/interview-questions/common/circle_shape.webp",
+        "alt": "Circle Shape"
+      }
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is data analytics?",
+        "answer": "Data analytics is the process of examining data sets to draw conclusions, identify patterns, and make informed decisions."
+      },
+      {
+        "id": 2,
+        "question": "What are the types of data analytics?",
+        "answer": "Descriptive, Diagnostic, Predictive, and Prescriptive analytics."
+      },
+      {
+        "id": 3,
+        "question": "What is the difference between data analytics and data science?",
+        "answer": "Data analytics focuses on analyzing existing data for insights, while data science includes building models and algorithms to predict or automate decisions."
+      },
+      {
+        "id": 4,
+        "question": "What are the steps in a data analytics project?",
+        "answer": "Define objectives, collect data, clean data, analyze data, interpret results, and communicate insights."
+      },
+      {
+        "id": 5,
+        "question": "What is data cleaning?",
+        "answer": "The process of correcting, removing, or filling in inaccurate or incomplete data."
+      },
+      {
+        "id": 6,
+        "question": "What is data wrangling?",
+        "answer": "The process of transforming and mapping raw data into a usable format."
+      },
+      {
+        "id": 7,
+        "question": "What is data visualization and why is it important?",
+        "answer": "It's the graphical representation of data to make trends, patterns, and outliers easier to understand."
+      },
+      {
+        "id": 8,
+        "question": "What tools are used for data analytics?",
+        "answer": "Excel, SQL, Python, R, Tableau, Power BI, SAS, and Apache Spark."
+      },
+      {
+        "id": 9,
+        "question": "What is a data warehouse?",
+        "answer": "A centralized repository for storing integrated data from different sources for analysis and reporting."
+      },
+      {
+        "id": 10,
+        "question": "What is ETL?",
+        "answer": "Extract, Transform, Load – a process for collecting data from various sources, converting it into the proper format, and loading it into a database or warehouse."
+      },
+      {
+        "id": 11,
+        "question": "What is SQL?",
+        "answer": "Structured Query Language – used to query, update, and manage relational databases."
+      },
+      {
+        "id": 12,
+        "question": "What’s the difference between INNER JOIN and OUTER JOIN in SQL?",
+        "answer": "INNER JOIN returns matching rows from both tables, while OUTER JOIN returns matched and unmatched rows from one or both tables."
+      },
+      {
+        "id": 13,
+        "question": "What is normalization?",
+        "answer": "Organizing database tables to reduce redundancy and improve data integrity."
+      },
+      {
+        "id": 14,
+        "question": "What is denormalization?",
+        "answer": "Combining tables to improve read performance, at the cost of redundancy."
+      },
+      {
+        "id": 15,
+        "question": "What is a primary key?",
+        "answer": "A column or set of columns that uniquely identifies each row in a table."
+      },
+      {
+        "id": 16,
+        "question": "What is a foreign key?",
+        "answer": "A key used to link two tables, referencing a primary key in another table."
+      },
+      {
+        "id": 17,
+        "question": "What is data mining?",
+        "answer": "The process of discovering patterns, trends, and relationships in large datasets."
+      },
+      {
+        "id": 18,
+        "question": "What is regression analysis?",
+        "answer": "A technique to model and analyze relationships between variables."
+      },
+      {
+        "id": 19,
+        "question": "What is correlation?",
+        "answer": "A measure of the relationship between two variables (positive, negative, or no correlation)."
+      },
+      {
+        "id": 20,
+        "question": "What is hypothesis testing?",
+        "answer": "A method to test an assumption about a population parameter using sample data."
+      },
+      {
+        "id": 21,
+        "question": "What is a p-value?",
+        "answer": "The probability of obtaining test results at least as extreme as the results actually observed, assuming the null hypothesis is true."
+      },
+      {
+        "id": 22,
+        "question": "What is a confidence interval?",
+        "answer": "A range within which we expect the true population parameter to fall, with a certain level of confidence (e.g., 95%)."
+      },
+      {
+        "id": 23,
+        "question": "What is standard deviation?",
+        "answer": "A measure of how spread out the numbers are in a dataset."
+      },
+      {
+        "id": 24,
+        "question": "What is variance?",
+        "answer": "The average of the squared differences from the mean; it's the square of the standard deviation."
+      },
+      {
+        "id": 25,
+        "question": "What is a histogram?",
+        "answer": "A graphical representation showing the distribution of data using bars."
+      },
+      {
+        "id": 26,
+        "question": "What is a box plot?",
+        "answer": "A chart that shows the median, quartiles, and outliers in a dataset."
+      },
+      {
+        "id": 27,
+        "question": "What are outliers?",
+        "answer": "Data points that significantly differ from others in a dataset."
+      },
+      {
+        "id": 28,
+        "question": "What is time series analysis?",
+        "answer": "Analyzing time-ordered data points to identify trends, seasonality, and forecasting patterns."
+      },
+      {
+        "id": 29,
+        "question": "What is clustering?",
+        "answer": "An unsupervised learning method to group similar data points together."
+      },
+      {
+        "id": 30,
+        "question": "What is classification?",
+        "answer": "A supervised learning method to predict categories based on input features."
+      },
+      {
+        "id": 31,
+        "question": "What is dimensionality reduction?",
+        "answer": "Reducing the number of input variables in a dataset while preserving important information."
+      },
+      {
+        "id": 32,
+        "question": "What is PCA (Principal Component Analysis)?",
+        "answer": "A technique used for dimensionality reduction by transforming variables into a new set of uncorrelated variables."
+      },
+      {
+        "id": 33,
+        "question": "What is the difference between supervised and unsupervised learning?",
+        "answer": "Supervised learning uses labeled data; unsupervised learning uses unlabeled data."
+      },
+      {
+        "id": 34,
+        "question": "What is overfitting?",
+        "answer": "When a model learns the training data too well, including noise, and performs poorly on new data."
+      },
+      {
+        "id": 35,
+        "question": "What is underfitting?",
+        "answer": "When a model is too simple to capture the patterns in the data."
+      },
+      {
+        "id": 36,
+        "question": "What is cross-validation?",
+        "answer": "A method to test model performance by dividing data into training and testing sets multiple times."
+      },
+      {
+        "id": 37,
+        "question": "What is feature engineering?",
+        "answer": "Creating new input features from existing ones to improve model performance."
+      },
+      {
+        "id": 38,
+        "question": "What is a confusion matrix?",
+        "answer": "A table to evaluate the performance of a classification model by comparing actual vs predicted values."
+      },
+      {
+        "id": 39,
+        "question": "What is precision?",
+        "answer": "The number of true positives divided by the number of predicted positives."
+      },
+      {
+        "id": 40,
+        "question": "What is recall?",
+        "answer": "The number of true positives divided by the number of actual positives."
+      },
+      {
+        "id": 41,
+        "question": "What is F1 Score?",
+        "answer": "The harmonic mean of precision and recall, used for imbalanced classes."
+      },
+      {
+        "id": 42,
+        "question": "What is big data?",
+        "answer": "Large volumes of data that are too complex for traditional processing tools."
+      },
+      {
+        "id": 43,
+        "question": "What is Hadoop?",
+        "answer": "An open-source framework for storing and processing big data across clusters of computers."
+      },
+      {
+        "id": 44,
+        "question": "What is Apache Spark?",
+        "answer": "A fast and general-purpose engine for big data processing, with support for SQL, machine learning, and more."
+      },
+      {
+        "id": 45,
+        "question": "What is data governance?",
+        "answer": "The management of data availability, usability, integrity, and security."
+      },
+      {
+        "id": 46,
+        "question": "What is metadata?",
+        "answer": "Data that describes other data (e.g., data type, format, source)."
+      },
+      {
+        "id": 47,
+        "question": "What is anomaly detection?",
+        "answer": "Identifying unusual patterns that do not conform to expected behavior."
+      },
+      {
+        "id": 48,
+        "question": "What are KPIs (Key Performance Indicators)?",
+        "answer": "Metrics that measure the performance and success of an organization or activity."
+      },
+      {
+        "id": 49,
+        "question": "What is a dashboard?",
+        "answer": "A visual display of key metrics and trends used to monitor business performance."
+      },
+      {
+        "id": 50,
+        "question": "How do you deal with missing data?",
+        "answer": "Options include removal, imputation (mean, median, mode), or using algorithms that support missing values."
+      }
+    ]
+  },
+  "ctaSection": {
+    "position": 3,
+    "heading": "Start Your Data Analytics Career Today",
+    "description": "Join Teks Academy’s Data Analytics Training Program and become job-ready with analytics projects and placement support.",
+    "button": {
+      "text": "Enquire Now",
+      "link": "/courses/data-analytics"
+    }
+  }
+}

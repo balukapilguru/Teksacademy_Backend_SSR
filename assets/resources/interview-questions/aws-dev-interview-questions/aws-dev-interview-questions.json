@@ -1,0 +1,348 @@
+{
+  "meta": {
+    "title": "AWS & DevOps Interview Questions | Teks Academy",
+    "description": "Explore top AWS & DevOps interview questions and answers covering AWS Cloud, Docker, Kubernetes, CI/CD, Jenkins, Terraform, and DevOps practices.",
+    "keywords": [
+      "AWS Interview Questions",
+      "DevOps Interview Questions",
+      "Docker Interview Questions",
+      "Kubernetes Interview Questions",
+      "CI/CD Interview Questions",
+      "Cloud Computing Questions"
+    ]
+  },
+  "heroSection": {
+    "position": 1,
+    "heading": ["AWS & DevOps", "Interview Questions"],
+    "subHeading": "Prepare for AWS & DevOps interviews with top cloud and automation interview questions and answers.",
+    "bannerImage": {
+      "src": "/assets/resources/interview-questions/aws-devops/aws-devops_interview_banner.webp",
+      "alt": "AWS & DevOps Interview Questions"
+    }
+  },
+  "interviewQuestionsSection": {
+    "position": 2,
+    "heading": "AWS & DevOps Interview Questions & Answers",
+    "sideImages": {
+      "topRight": {
+        "src": "/assets/resources/interview-questions/common/interview_vector.webp",
+        "alt": "Interview Illustration"
+      },
+      "middleRight": {
+        "src": "/assets/resources/interview-questions/common/megaphone.webp",
+        "alt": "Megaphone Illustration"
+      },
+      "bottomRight": {
+        "src": "/assets/resources/interview-questions/common/circle_shape.webp",
+        "alt": "Circle Shape"
+      }
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is AWS, and why is it widely used in DevOps?",
+        "answer": [
+          "AWS (Amazon Web Services) is a cloud computing platform offering scalable infrastructure, storage, databases, and networking.",
+          "It is widely used in DevOps for automation, CI/CD, and efficient deployment.",
+          "Key services include EC2 (virtual servers), S3 (storage), Lambda (serverless), and RDS (managed databases).",
+          "Its pay-as-you-go model and global reach make it ideal for high-availability deployments."
+        ]
+      },
+      {
+        "id": 2,
+        "question": "What is DevOps, and how does it improve software development?",
+        "answer": [
+          "DevOps combines Development and Operations to automate and streamline the software development lifecycle.",
+          "It promotes collaboration between dev and IT teams through continuous integration, deployment, and monitoring.",
+          "Tools like Jenkins, Docker, Kubernetes, and AWS services enhance quality, reduce time to market, and increase system reliability."
+        ]
+      },
+      {
+        "id": 3,
+        "question": "What is Infrastructure as Code (IaC), and how does it help in AWS?",
+        "answer": [
+          "IaC is the practice of managing infrastructure through code for automation and consistency.",
+          "In AWS, tools like CloudFormation and Terraform define infrastructure using declarative syntax.",
+          "IaC enables version control, reduces errors, and allows reproducible environments across stages."
+        ]
+      },
+      {
+        "id": 4,
+        "question": "What is CI/CD, and which AWS services support it?",
+        "answer": [
+          "CI/CD automates the integration, testing, and deployment of code.",
+          "CI: Code is tested and merged using AWS CodeCommit and CodeBuild.",
+          "CD: Code is deployed using AWS CodeDeploy and CodePipeline.",
+          "These tools improve deployment speed, reduce errors, and ensure consistency."
+        ]
+      },
+      {
+        "id": 5,
+        "question": "What is Docker, and how does it help in DevOps?",
+        "answer": [
+          "Docker is a containerization tool that packages apps and dependencies into isolated environments.",
+          "It enables consistent behavior across development, testing, and production stages.",
+          "AWS services like ECS and EKS manage Docker containers for scalable deployments."
+        ]
+      },
+      {
+        "id": 6,
+        "question": "What is Kubernetes, and how does AWS support it?",
+        "answer": [
+          "Kubernetes is a container orchestration platform that manages containerized applications.",
+          "It automates load balancing, scaling, and rolling updates.",
+          "AWS supports Kubernetes via Amazon EKS, a managed service that simplifies deployment and integrates with AWS services."
+        ]
+      },
+      {
+        "id": 7,
+        "question": "What is Amazon EC2, and how do you scale it in AWS?",
+        "answer": [
+          "Amazon EC2 provides virtual servers to run applications on AWS.",
+          "Scaling methods include:",
+          "Auto Scaling Groups (ASG) to automatically adjust capacity.",
+          "Elastic Load Balancer (ELB) to distribute traffic.",
+          "Spot and Reserved Instances for cost-effective scaling."
+        ]
+      },
+      {
+        "id": 8,
+        "question": "What is Terraform, and how does it differ from AWS CloudFormation?",
+        "answer": [
+          "Terraform is an open-source IaC tool that supports multiple cloud providers.",
+          "CloudFormation is AWS-native and deeply integrated with AWS services.",
+          "Terraform is preferred for multi-cloud environments, while CloudFormation is ideal for AWS-specific deployments."
+        ]
+      },
+      {
+        "id": 9,
+        "question": "What is AWS Lambda, and how does it fit into DevOps?",
+        "answer": [
+          "AWS Lambda is a serverless compute service that runs code in response to events without managing servers.",
+          "It is used for automation, real-time data processing, and monitoring.",
+          "It supports event-driven architecture, auto-scaling, and is cost-efficient as you pay per execution."
+        ]
+      },
+      {
+        "id": 10,
+        "question": "What is monitoring in DevOps, and which AWS services are used for it?",
+        "answer": [
+          "Monitoring ensures systems run reliably by tracking performance and errors.",
+          "AWS monitoring tools include:",
+          "Amazon CloudWatch for metrics, logs, and events.",
+          "AWS X-Ray for tracing and debugging applications.",
+          "AWS Config for compliance and resource tracking."
+        ]
+      },
+      {
+        "id": 11,
+        "question": "What is AWS?",
+        "answer": "Amazon Web Services (AWS) is a cloud platform that provides compute, storage, and other services."
+      },
+      {
+        "id": 12,
+        "question": "What are the key services in AWS?",
+        "answer": "Key services include EC2, S3, RDS, Lambda, VPC, IAM, and CloudWatch."
+      },
+      {
+        "id": 13,
+        "question": "What is EC2?",
+        "answer": "EC2 (Elastic Compute Cloud) provides scalable virtual servers in the AWS cloud."
+      },
+      {
+        "id": 14,
+        "question": "What is S3?",
+        "answer": "S3 (Simple Storage Service) is an object storage service for storing and retrieving any amount of data."
+      },
+      {
+        "id": 15,
+        "question": "What is IAM in AWS?",
+        "answer": "IAM (Identity and Access Management) is used to manage users, roles, and permissions securely."
+      },
+      {
+        "id": 16,
+        "question": "What is an AWS VPC?",
+        "answer": "VPC (Virtual Private Cloud) allows you to launch AWS resources in a logically isolated network."
+      },
+      {
+        "id": 17,
+        "question": "What is Elastic Load Balancer (ELB)?",
+        "answer": "ELB distributes incoming traffic across multiple targets like EC2 instances."
+      },
+      {
+        "id": 18,
+        "question": "What is Auto Scaling?",
+        "answer": "Auto Scaling automatically adjusts the number of EC2 instances based on traffic or load."
+      },
+      {
+        "id": 19,
+        "question": "What is AWS Lambda?",
+        "answer": "Lambda is a serverless compute service that runs code in response to events without managing servers."
+      },
+      {
+        "id": 20,
+        "question": "What is RDS?",
+        "answer": "RDS (Relational Database Service) is a managed service for relational databases like MySQL and PostgreSQL."
+      },
+      {
+        "id": 21,
+        "question": "What is Route 53?",
+        "answer": "Route 53 is AWS's scalable DNS and domain name registration service."
+      },
+      {
+        "id": 22,
+        "question": "What is CloudFront?",
+        "answer": "CloudFront is a CDN that delivers content with low latency using edge locations."
+      },
+      {
+        "id": 23,
+        "question": "What is CloudWatch?",
+        "answer": "CloudWatch monitors AWS resources and applications in real time using logs and metrics."
+      },
+      {
+        "id": 24,
+        "question": "What is the use of SNS?",
+        "answer": "SNS (Simple Notification Service) is used to send messages and alerts to users or systems."
+      },
+      {
+        "id": 25,
+        "question": "What is DevOps?",
+        "answer": "DevOps is a set of practices that integrates development and operations for faster delivery."
+      },
+      {
+        "id": 26,
+        "question": "What are the key principles of DevOps?",
+        "answer": "Key principles include automation, collaboration, CI/CD, and continuous feedback."
+      },
+      {
+        "id": 27,
+        "question": "What is CI/CD?",
+        "answer": "CI/CD automates integration and delivery of code using pipelines for fast, reliable deployments."
+      },
+      {
+        "id": 28,
+        "question": "What is Jenkins?",
+        "answer": "Jenkins is an open-source automation server used to build and deploy software continuously."
+      },
+      {
+        "id": 29,
+        "question": "What is Docker?",
+        "answer": "Docker is a containerization platform that packages applications with dependencies into containers."
+      },
+      {
+        "id": 30,
+        "question": "What is a Dockerfile?",
+        "answer": "A Dockerfile is a script that contains instructions to build a Docker image."
+      },
+      {
+        "id": 31,
+        "question": "What is Kubernetes?",
+        "answer": "Kubernetes is an orchestration platform for managing containerized applications at scale."
+      },
+      {
+        "id": 32,
+        "question": "What is a Pod in Kubernetes?",
+        "answer": "A Pod is the smallest deployable unit in Kubernetes that holds one or more containers."
+      },
+      {
+        "id": 33,
+        "question": "What is Helm in Kubernetes?",
+        "answer": "Helm is a package manager for Kubernetes that simplifies application deployment."
+      },
+      {
+        "id": 34,
+        "question": "What is Ansible?",
+        "answer": "Ansible is an automation tool used for configuration management, application deployment, and provisioning."
+      },
+      {
+        "id": 35,
+        "question": "What is Terraform?",
+        "answer": "Terraform is an infrastructure as code tool used to provision and manage cloud infrastructure."
+      },
+      {
+        "id": 36,
+        "question": "What is Infrastructure as Code (IaC)?",
+        "answer": "IaC automates infrastructure provisioning using code instead of manual processes."
+      },
+      {
+        "id": 37,
+        "question": "What is Git?",
+        "answer": "Git is a version control system that tracks changes in source code during development."
+      },
+      {
+        "id": 38,
+        "question": "What is a Git branch?",
+        "answer": "A Git branch allows parallel development by isolating code changes from the main branch."
+      },
+      {
+        "id": 39,
+        "question": "What is a pull request?",
+        "answer": "A pull request proposes code changes to be reviewed and merged into the main branch."
+      },
+      {
+        "id": 40,
+        "question": "What is Blue-Green Deployment?",
+        "answer": "Blue-Green Deployment reduces downtime by switching traffic between two identical environments."
+      },
+      {
+        "id": 41,
+        "question": "What is Canary Deployment?",
+        "answer": "Canary Deployment gradually rolls out changes to a small subset of users before full deployment."
+      },
+      {
+        "id": 42,
+        "question": "What is monitoring in DevOps?",
+        "answer": "Monitoring involves tracking the health and performance of applications and infrastructure."
+      },
+      {
+        "id": 43,
+        "question": "What is logging in DevOps?",
+        "answer": "Logging collects and stores application logs for debugging and analysis."
+      },
+      {
+        "id": 44,
+        "question": "What is the difference between DevOps and Agile?",
+        "answer": "Agile focuses on software development; DevOps combines development with operations for full delivery."
+      },
+      {
+        "id": 45,
+        "question": "What are artifacts in CI/CD?",
+        "answer": "Artifacts are compiled code or build outputs that are deployed to environments."
+      },
+      {
+        "id": 46,
+        "question": "What is a pipeline in DevOps?",
+        "answer": "A pipeline is a set of automated processes that move code through build, test, and deploy stages."
+      },
+      {
+        "id": 47,
+        "question": "What is a build tool?",
+        "answer": "A build tool compiles source code into binaries and manages dependencies (e.g., Maven, Gradle)."
+      },
+      {
+        "id": 48,
+        "question": "What is a configuration management tool?",
+        "answer": "It automates the setup and maintenance of software environments (e.g., Chef, Puppet)."
+      },
+      {
+        "id": 49,
+        "question": "What is rollback in DevOps?",
+        "answer": "Rollback means reverting a deployment to a previous stable state if issues occur."
+      },
+      {
+        "id": 50,
+        "question": "What is high availability?",
+        "answer": "High availability ensures systems remain accessible and operational even during failures."
+      }
+    ]
+  },
+  "ctaSection": {
+    "position": 3,
+    "heading": "Start Your AWS & DevOps Career Today",
+    "description": "Join Teks Academy’s AWS & DevOps Training Program and become job-ready with cloud projects and placement support.",
+    "button": {
+      "text": "Enquire Now",
+      "link": "/courses/aws-devops"
+    }
+  }
+}

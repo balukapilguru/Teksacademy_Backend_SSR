@@ -27,7 +27,11 @@
             "link": "/university/jain-university",
             "form": false
           },
-          { "name": "Enroll Now", "link": "", "form": true }
+                  {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
         ],
         "productId": 222,
         "sourceId": 155,
@@ -70,25 +74,24 @@
     "subHeading": "null",
     "image": [
       {
-        "src": "/home/universitylogos/amity.webp",
-        "alt": "amity"
-      },
-
-      {
-        "src": "/home/universitylogos/jain.webp",
+        "src": "/assets/img/partners-images/jain.webp",
         "alt": "jain"
       },
       {
-        "src": "/home/universitylogos/manipal.webp",
-        "alt": "manipal.webp"
+        "src": "/assets/img/partners-images/linkedin.webp",
+        "alt": "linkedin"
       },
       {
-        "src": "/home/universitylogos/mnr.webp",
-        "alt": "mnr.webp"
+        "src": "/assets/img/partners-images/mumbai.webp",
+        "alt": "mumbai"
       },
       {
-        "src": "/home/universitylogos/teks.webp",
-        "alt": "teks.webp"
+        "src": "/assets/img/partners-images/palakkad.webp",
+        "alt": "palakkad"
+      },
+      {
+        "src": "/assets/img/partners-images/patna.webp",
+        "alt": "patna"
       }
     ],
     "whyJoinThisCourse": {

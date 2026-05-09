@@ -116,7 +116,11 @@
             "link": "",
             "form": false
           },
-          { "name": "Enroll Now", "link": "", "form": true }
+                  {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
         ],
         "productId": 273,
         "sourceId": 148,
@@ -148,25 +152,24 @@
     "subHeading": "null",
     "image": [
       {
-        "src": "/home/universitylogos/amity.webp",
-        "alt": "amity"
-      },
-
-      {
-        "src": "/home/universitylogos/jain.webp",
+        "src": "/assets/img/partners-images/jain.webp",
         "alt": "jain"
       },
       {
-        "src": "/home/universitylogos/manipal.webp",
-        "alt": "manipal.webp"
+        "src": "/assets/img/partners-images/linkedin.webp",
+        "alt": "linkedin"
       },
       {
-        "src": "/home/universitylogos/mnr.webp",
-        "alt": "mnr.webp"
+        "src": "/assets/img/partners-images/mumbai.webp",
+        "alt": "mumbai"
       },
       {
-        "src": "/home/universitylogos/teks.webp",
-        "alt": "teks.webp"
+        "src": "/assets/img/partners-images/palakkad.webp",
+        "alt": "palakkad"
+      },
+      {
+        "src": "/assets/img/partners-images/patna.webp",
+        "alt": "patna"
       }
     ],
     "whyJoinThisCourse": {
@@ -337,9 +340,28 @@
       "Course Fee",
       "Action"
     ],
-    "universityOfferings": [
+      "universityOfferings": [
       {
-        "university": "TEKSVERITY INSTITUTE OF ADVANCED LEARNING",
+        "university": "IIT Certification Program",
+        "image": {
+          "src": "/certificate/Teksversity_In1.webp",
+          "alt": "Teksversity"
+        },
+        "TrainingMode": "Online/Offline",
+        "rating": 4.8,
+        "duration": "4-6 Months",
+        "courseFee": {
+          "range": "40,000 - 50,000",
+          "note": "Total program fee"
+        },
+        "button": {
+          "text": "Enroll Now",
+          "icon": { "src": "null", "alt": "null" },
+          "link": "null"
+        }
+      },
+      {
+        "university": "Teks Industry Ready Program",
         "image": {
           "src": "/certificate/Teksversity_In1.webp",
           "alt": "Teksversity"

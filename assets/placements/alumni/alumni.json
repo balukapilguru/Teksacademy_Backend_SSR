@@ -1,3 +1,48 @@
 {
-    "hello": "This is the placements page"
+  "alumniSection": {
+    "position": 1,
+    "title": "Alumni",
+
+    "heroSection": {
+      "image": {
+        "src": "/assets/alumni/alumni_hero.webp",
+        "alt": "Teks Academy Alumni"
+      },
+
+      "floatingCards": [
+        {
+          "id": 1,
+          "title": "Successful Verified",
+          "description": "Your job certification",
+          "icon": "verified"
+        },
+        {
+          "id": 2,
+          "title": "swetha dheeraj",
+          "description": "Software Developer",
+          "icon": "profile"
+        },
+        {
+          "id": 3,
+          "title": "Your job experience",
+          "description": "Tell us about your experience",
+          "progress": "80%"
+        }
+      ],
+
+      "content": {
+        "heading": "Teks Offers India’s No. 1 Alumni Network",
+        "description": [
+          "Over the past 14 years, we have proudly dedicated ourselves to shaping careers and empowering the future of young tech enthusiasts. With a strong commitment to quality education and industry-relevant training, we have successfully trained over 48,000 students across more than 30 diverse courses. This remarkable achievement stands as a testament to our passion, consistency, and student-first approach.",
+          "We don’t just offer courses—we build career-ready professionals equipped with the latest skills in Best Full Stack Development, Data Science, AWS DevOps, and more. With a proven track record of placements in top companies, we continue to bridge the gap between learning and employment, empowering students to land their dream jobs. Teks Academy plays a key role in building India’s No.1 Alumni Network—empowering future leaders, entrepreneurs, innovators, and technological change-makers."
+        ]
+      }
+    },
+
+    "networkSection": {
+      "heading": "Our Global Alumni Network",
+
+      "alumniCards": []
+    }
+  }
 }

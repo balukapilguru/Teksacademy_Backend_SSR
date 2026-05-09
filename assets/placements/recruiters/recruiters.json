@@ -1,0 +1,41 @@
+{
+  "recruitersSection": {
+    "position": 1,
+    "title": "Recruiters",
+
+    "heroSection": {
+      "heading": "Become Hiring Partner with Us",
+      "subHeading": "Build Your Future Workforce!",
+
+      "description": [
+        "Teks Academy bridges the gap between industry and talent with hands-on, job-ready training.",
+        "29+ companies trust us for skilled hires in Full Stack, Data Science, GIS, and ERP Partner with us for free and access trained professionals from 30+ courses. Let’s build a future-ready, skilled workforce together!"
+      ],
+
+      "highlights": [
+        {
+          "id": 1,
+          "text": "Hiring Fee for Recruiters – Zero"
+        },
+        {
+          "id": 2,
+          "text": "Access to Job-Ready Talent Pool"
+        },
+        {
+          "id": 3,
+          "text": "Flexible Hiring Models"
+        },
+        {
+          "id": 4,
+          "text": "Full Placement Support"
+        }
+      ]
+    },
+
+    "recruitersCardsSection": {
+      "position": 2,
+
+      "cards": []
+    }
+  }
+}

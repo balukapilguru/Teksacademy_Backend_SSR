@@ -1,0 +1,312 @@
+{
+  "meta": {
+    "title": "Cyber Security Interview Questions | Teks Academy",
+    "description": "Explore top Cyber Security interview questions and answers covering network security, ethical hacking, penetration testing, firewalls, malware, and security practices.",
+    "keywords": [
+      "Cyber Security Interview Questions",
+      "Ethical Hacking Questions",
+      "Network Security Questions",
+      "Penetration Testing Questions",
+      "Information Security Questions"
+    ]
+  },
+  "heroSection": {
+    "position": 1,
+    "heading": ["Cyber Security", "Interview Questions"],
+    "subHeading": "Prepare for Cyber Security interviews with network and application security interview questions and answers.",
+    "bannerImage": {
+      "src": "/assets/resources/interview-questions/cyber-security/cyber-security_interview_banner.webp",
+      "alt": "Cyber Security Interview Questions"
+    }
+  },
+  "interviewQuestionsSection": {
+    "position": 2,
+    "heading": "Cyber Security Interview Questions & Answers",
+    "sideImages": {
+      "topRight": {
+        "src": "/assets/resources/interview-questions/common/interview_vector.webp",
+        "alt": "Interview Illustration"
+      },
+      "middleRight": {
+        "src": "/assets/resources/interview-questions/common/megaphone.webp",
+        "alt": "Megaphone Illustration"
+      },
+      "bottomRight": {
+        "src": "/assets/resources/interview-questions/common/circle_shape.webp",
+        "alt": "Circle Shape"
+      }
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is cyber security?",
+        "answer": "Cyber security refers to the practice of protecting systems, networks, and data from digital attacks, theft, or damage."
+      },
+      {
+        "id": 2,
+        "question": "What is the difference between a threat, vulnerability, and risk?",
+        "answer": [
+          "• Threat: Potential cause of an unwanted incident.",
+          "• Vulnerability: A weakness in the system.",
+          "• Risk: The potential for loss or damage when a threat exploits a vulnerability."
+        ]
+      },
+      {
+        "id": 3,
+        "question": "What is the CIA triad?",
+        "answer": "CIA stands for Confidentiality, Integrity, and Availability, the core principles of cyber security."
+      },
+      {
+        "id": 4,
+        "question": "What is a firewall?",
+        "answer": "A firewall is a security device that monitors and filters incoming and outgoing network traffic based on security rules."
+      },
+      {
+        "id": 5,
+        "question": "What is an IDS and how is it different from IPS?",
+        "answer": "IDS (Intrusion Detection System) monitors traffic for suspicious activity, while IPS (Intrusion Prevention System) actively blocks threats."
+      },
+      {
+        "id": 6,
+        "question": "Name some common cyber security tools.",
+        "answer": "Wireshark, Nmap, Nessus, Metasploit, Burp Suite, and Snort are popular tools for scanning, testing, and analyzing vulnerabilities."
+      },
+      {
+        "id": 7,
+        "question": "What is penetration testing?",
+        "answer": "Penetration testing is a simulated cyberattack used to identify vulnerabilities in a system or application."
+      },
+      {
+        "id": 8,
+        "question": "What is the difference between black hat, white hat, and grey hat hackers?",
+        "answer": [
+          "• Black hat: Malicious hackers.",
+          "• White hat: Ethical hackers.",
+          "• Grey hat: Hackers who break the rules but without malicious intent."
+        ]
+      },
+      {
+        "id": 9,
+        "question": "What is encryption?",
+        "answer": "Encryption converts data into a coded format to prevent unauthorized access during transmission or storage."
+      },
+      {
+        "id": 10,
+        "question": "What’s the difference between symmetric and asymmetric encryption?",
+        "answer": [
+          "• Symmetric: Same key for encryption/decryption.",
+          "• Asymmetric: Uses a public and private key pair."
+        ]
+      },
+      {
+        "id": 11,
+        "question": "What is a phishing attack?",
+        "answer": "Phishing is a fraudulent attempt to obtain sensitive information by disguising as a trustworthy entity via email or message."
+      },
+      {
+        "id": 12,
+        "question": "What is malware?",
+        "answer": "Malware is malicious software designed to harm or exploit systems. Types include viruses, worms, Trojans, ransomware, etc."
+      },
+      {
+        "id": 13,
+        "question": "What is ransomware?",
+        "answer": "Ransomware encrypts a victim’s files and demands payment for the decryption key."
+      },
+      {
+        "id": 14,
+        "question": "What is a DDoS attack?",
+        "answer": "Distributed Denial of Service (DDoS) overwhelms a server or network with excessive traffic, causing it to crash or become unavailable."
+      },
+      {
+        "id": 15,
+        "question": "What is SQL Injection?",
+        "answer": "SQL Injection is a code injection technique that allows attackers to manipulate backend databases via web input fields."
+      },
+      {
+        "id": 16,
+        "question": "What is multi-factor authentication (MFA)?",
+        "answer": "MFA is a security process that requires two or more verification methods to access a resource."
+      },
+      {
+        "id": 17,
+        "question": "What is least privilege principle?",
+        "answer": "It means giving users only the access necessary to perform their job functions, reducing risk."
+      },
+      {
+        "id": 18,
+        "question": "What is patch management?",
+        "answer": "Patch management is the process of updating software to fix vulnerabilities and improve performance or security."
+      },
+      {
+        "id": 19,
+        "question": "What is a VPN and how does it work?",
+        "answer": "A Virtual Private Network (VPN) encrypts internet traffic and masks the user’s IP address, enhancing privacy and security."
+      },
+      {
+        "id": 20,
+        "question": "What is a security policy?",
+        "answer": "A security policy is a set of rules and practices that regulate how an organization protects its assets."
+      },
+      {
+        "id": 21,
+        "question": "What are the steps in incident response?",
+        "answer": "Preparation, Identification, Containment, Eradication, Recovery, and Lessons Learned."
+      },
+      {
+        "id": 22,
+        "question": "What is the first thing you do after detecting a breach?",
+        "answer": "Immediately contain the breach to prevent further damage, then start investigating the source."
+      },
+      {
+        "id": 23,
+        "question": "How do you perform a root cause analysis?",
+        "answer": "By collecting evidence, analyzing logs, and tracing attack paths to find the origin of an incident."
+      },
+      {
+        "id": 24,
+        "question": "What is a SIEM system?",
+        "answer": "Security Information and Event Management (SIEM) aggregates and analyzes activity from various resources to detect threats."
+      },
+      {
+        "id": 25,
+        "question": "What is log monitoring and why is it important?",
+        "answer": "Log monitoring tracks system logs to identify suspicious activity, helping detect threats early."
+      },
+      {
+        "id": 26,
+        "question": "How do you stay updated on cyber security trends?",
+        "answer": "Through blogs, newsletters, forums (like Reddit, Stack Overflow), and certifications such as CEH or CompTIA Security+."
+      },
+      {
+        "id": 27,
+        "question": "How would you explain cyber security to a non-technical person?",
+        "answer": "Cyber security is like locking your house digitally—protecting your data and devices from online threats."
+      },
+      {
+        "id": 28,
+        "question": "Describe a time you handled a cyber security issue.",
+        "answer": "Example: Found an open port on a web server and coordinated with the network team to close it and document the fix."
+      },
+      {
+        "id": 29,
+        "question": "What do you do when a user reports a suspicious email?",
+        "answer": "Analyze the email headers and links, quarantine the message, and inform the user not to click on it."
+      },
+      {
+        "id": 30,
+        "question": "How do you prioritize security tasks?",
+        "answer": "By assessing risk severity, impact on operations, and likelihood of exploitation."
+      },
+      {
+        "id": 31,
+        "question": "What is GDPR?",
+        "answer": "The General Data Protection Regulation is a European law that governs how personal data must be protected and processed."
+      },
+      {
+        "id": 32,
+        "question": "What is ISO 27001?",
+        "answer": "It is an international standard for managing information security and risk through an Information Security Management System (ISMS)."
+      },
+      {
+        "id": 33,
+        "question": "What are security audits?",
+        "answer": "Audits assess an organization’s security posture to identify gaps and verify compliance with standards."
+      },
+      {
+        "id": 34,
+        "question": "What is a risk assessment?",
+        "answer": "It’s the process of identifying, analyzing, and evaluating risks to reduce the impact of cyber threats."
+      },
+      {
+        "id": 35,
+        "question": "What is data classification?",
+        "answer": "It involves categorizing data based on sensitivity (public, internal, confidential, etc.) to apply appropriate protection."
+      },
+      {
+        "id": 36,
+        "question": "What is secure coding?",
+        "answer": "Writing code with security best practices to avoid vulnerabilities like XSS, SQL injection, etc."
+      },
+      {
+        "id": 37,
+        "question": "What is XSS (Cross-Site Scripting)?",
+        "answer": "XSS allows attackers to inject malicious scripts into websites viewed by other users."
+      },
+      {
+        "id": 38,
+        "question": "What is CSRF (Cross-Site Request Forgery)?",
+        "answer": "It tricks users into performing unwanted actions on a web application where they’re authenticated."
+      },
+      {
+        "id": 39,
+        "question": "What are common cloud security risks?",
+        "answer": "Misconfigured storage, weak authentication, data breaches, and lack of encryption are common issues."
+      },
+      {
+        "id": 40,
+        "question": "How do you secure APIs?",
+        "answer": "Use authentication (OAuth, API keys), rate limiting, encryption (HTTPS), and input validation."
+      },
+      {
+        "id": 41,
+        "question": "If a server is infected with malware, what steps would you take?",
+        "answer": "Isolate the server, analyze the malware, remove it, restore from backup, and update security patches."
+      },
+      {
+        "id": 42,
+        "question": "A user clicked on a phishing link—what should you do?",
+        "answer": "Disconnect the device, reset passwords, check for malware, and educate the user on phishing."
+      },
+      {
+        "id": 43,
+        "question": "How would you secure a new application?",
+        "answer": "By conducting threat modeling, applying secure coding practices, performing regular testing, and using security tools."
+      },
+      {
+        "id": 44,
+        "question": "How do you detect insider threats?",
+        "answer": "Monitor unusual behavior like login times, data access patterns, and use of unauthorized tools."
+      },
+      {
+        "id": 45,
+        "question": "How do you respond to a zero-day vulnerability?",
+        "answer": "Apply vendor patches if available, isolate affected systems, implement workarounds, and monitor for exploitation."
+      },
+      {
+        "id": 46,
+        "question": "What certifications have you pursued or plan to pursue?",
+        "answer": "CompTIA Security+, CEH, CISSP, or OSCP—depending on your area of interest and experience."
+      },
+      {
+        "id": 47,
+        "question": "What’s the most interesting cyber security issue you’ve read about recently?",
+        "answer": "Example: SolarWinds supply chain attack or MOVEit breach—shows awareness of real-world threats."
+      },
+      {
+        "id": 48,
+        "question": "Why do you want a career in cyber security?",
+        "answer": "It’s a fast-growing, dynamic field with opportunities to protect people and organizations from real threats."
+      },
+      {
+        "id": 49,
+        "question": "What skills are most important in cyber security?",
+        "answer": "Analytical thinking, attention to detail, problem-solving, and knowledge of networks and systems."
+      },
+      {
+        "id": 50,
+        "question": "Where do you see yourself in the next 2–3 years?",
+        "answer": "Gaining deeper hands-on experience, achieving a professional certification, and contributing to incident response or threat analysis."
+      }
+    ]
+  },
+  "ctaSection": {
+    "position": 3,
+    "heading": "Start Your Cyber Security Career Today",
+    "description": "Join Teks Academy’s Cyber Security Training Program and become job-ready with hands-on security projects and placement support.",
+    "button": {
+      "text": "Enquire Now",
+      "link": "/courses/cyber-security"
+    }
+  }
+}

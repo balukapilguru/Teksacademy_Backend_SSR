@@ -39,7 +39,11 @@
             "link": "/university/jain-university",
             "form": false
           },
-          { "name": "Enroll Now", "link": "", "form": true }
+                  {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
         ],
         "productId": 144,
         "sourceId": 155,

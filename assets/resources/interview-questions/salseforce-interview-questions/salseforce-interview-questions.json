@@ -1,0 +1,301 @@
+{
+  "meta": {
+    "title": "Salesforce CRM Interview Questions | Teks Academy",
+    "description": "Explore top Salesforce CRM interview questions and answers covering Apex, Lightning Web Components, Salesforce Administration, Automation, and CRM workflows.",
+    "keywords": [
+      "Salesforce Interview Questions",
+      "Salesforce CRM Questions",
+      "Apex Interview Questions",
+      "LWC Interview Questions",
+      "Salesforce Admin Questions"
+    ]
+  },
+  "heroSection": {
+    "position": 1,
+    "heading": ["Salesforce CRM", "Interview Questions"],
+    "subHeading": "Prepare for Salesforce CRM interviews with top administrator and developer interview questions and answers.",
+    "bannerImage": {
+      "src": "/assets/resources/interview-questions/salesforce-crm/salesforce-crm_interview_banner.webp",
+      "alt": "Salesforce CRM Interview Questions"
+    }
+  },
+  "interviewQuestionsSection": {
+    "position": 2,
+    "heading": "Salesforce CRM Interview Questions & Answers",
+    "sideImages": {
+      "topRight": {
+        "src": "/assets/resources/interview-questions/common/interview_vector.webp",
+        "alt": "Interview Illustration"
+      },
+      "middleRight": {
+        "src": "/assets/resources/interview-questions/common/megaphone.webp",
+        "alt": "Megaphone Illustration"
+      },
+      "bottomRight": {
+        "src": "/assets/resources/interview-questions/common/circle_shape.webp",
+        "alt": "Circle Shape"
+      }
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is Salesforce?",
+        "answer": "Salesforce is a cloud-based Customer Relationship Management (CRM) platform that helps businesses manage sales, service, marketing, and more."
+      },
+      {
+        "id": 2,
+        "question": "What is an object in Salesforce?",
+        "answer": "An object is a database table that allows you to store data specific to your organization in Salesforce."
+      },
+      {
+        "id": 3,
+        "question": "What are the types of objects in Salesforce?",
+        "answer": "There are two types: Standard Objects (provided by Salesforce) and Custom Objects (created by users)."
+      },
+      {
+        "id": 4,
+        "question": "What is a custom object?",
+        "answer": "A custom object is a user-defined object that stores data unique to your organization."
+      },
+      {
+        "id": 5,
+        "question": "What is a standard object?",
+        "answer": "Standard objects are pre-built objects provided by Salesforce, such as Accounts, Contacts, Leads, and Opportunities."
+      },
+      {
+        "id": 6,
+        "question": "What is a field in Salesforce?",
+        "answer": "A field is a single piece of data attached to an object, similar to a column in a database."
+      },
+      {
+        "id": 7,
+        "question": "What is a record in Salesforce?",
+        "answer": "A record is a row of data in an object; each record is an instance of an object."
+      },
+      {
+        "id": 8,
+        "question": "What is a relationship in Salesforce?",
+        "answer": "Relationships are used to link objects together. Common types are Lookup and Master-Detail relationships."
+      },
+      {
+        "id": 9,
+        "question": "What is a Lookup relationship?",
+        "answer": "A Lookup relationship links two objects loosely, allowing one to reference another."
+      },
+      {
+        "id": 10,
+        "question": "What is a Master-Detail relationship?",
+        "answer": "A Master-Detail relationship creates a strong dependency between objects; the detail record's lifecycle depends on the master."
+      },
+      {
+        "id": 11,
+        "question": "What is a trigger in Salesforce?",
+        "answer": "A trigger is Apex code that executes before or after specific data manipulation language (DML) events on a particular object."
+      },
+      {
+        "id": 12,
+        "question": "What is Apex?",
+        "answer": "Apex is a strongly typed, object-oriented programming language used by developers to execute flow and transaction control statements on Salesforce servers."
+      },
+      {
+        "id": 13,
+        "question": "What is a workflow rule?",
+        "answer": "Workflow rules automate standard internal procedures to save time across your org."
+      },
+      {
+        "id": 14,
+        "question": "What is a validation rule?",
+        "answer": "Validation rules verify that the data entered by users meets certain criteria before the record can be saved."
+      },
+      {
+        "id": 15,
+        "question": "What is a formula field?",
+        "answer": "A formula field is a read-only field that derives its value from a formula expression defined by the user."
+      },
+      {
+        "id": 16,
+        "question": "What is a roll-up summary field?",
+        "answer": "A roll-up summary field calculates values from related records, such as the sum of related opportunities on an account."
+      },
+      {
+        "id": 17,
+        "question": "What is a profile in Salesforce?",
+        "answer": "A profile controls object permissions, field-level access, user permissions, and more."
+      },
+      {
+        "id": 18,
+        "question": "What is a role in Salesforce?",
+        "answer": "Roles control the level of visibility that users have to organization data."
+      },
+      {
+        "id": 19,
+        "question": "What is permission set?",
+        "answer": "Permission sets grant additional permissions to users without changing their profile."
+      },
+      {
+        "id": 20,
+        "question": "What is the difference between profile and permission set?",
+        "answer": "Profiles define baseline access; permission sets add extra permissions without altering the profile."
+      },
+      {
+        "id": 21,
+        "question": "What is a sandbox?",
+        "answer": "A sandbox is a copy of the production environment used for development, testing, and training."
+      },
+      {
+        "id": 22,
+        "question": "What are the types of sandboxes?",
+        "answer": "Developer, Developer Pro, Partial Copy, and Full Sandbox."
+      },
+      {
+        "id": 23,
+        "question": "What is SOQL?",
+        "answer": "SOQL (Salesforce Object Query Language) is used to query data from Salesforce objects."
+      },
+      {
+        "id": 24,
+        "question": "What is SOSL?",
+        "answer": "SOSL (Salesforce Object Search Language) is used to perform text searches in records."
+      },
+      {
+        "id": 25,
+        "question": "What is the difference between SOQL and SOSL?",
+        "answer": "SOQL retrieves records from a single object; SOSL searches text across multiple objects."
+      },
+      {
+        "id": 26,
+        "question": "What is a report in Salesforce?",
+        "answer": "A report is a list of records that meet the criteria you define."
+      },
+      {
+        "id": 27,
+        "question": "What is a dashboard?",
+        "answer": "A dashboard is a visual display of key metrics and trends for records in your org."
+      },
+      {
+        "id": 28,
+        "question": "What is a Lightning Component?",
+        "answer": "A Lightning Component is a UI framework for developing dynamic web apps for mobile and desktop devices."
+      },
+      {
+        "id": 29,
+        "question": "What is the difference between Classic and Lightning?",
+        "answer": "Lightning offers a modern UI and additional features not available in Classic."
+      },
+      {
+        "id": 30,
+        "question": "What is the use of AppExchange?",
+        "answer": "AppExchange is Salesforce's marketplace for apps, components, and consulting services."
+      },
+      {
+        "id": 31,
+        "question": "What is Governor Limit?",
+        "answer": "Governor Limits are runtime limits enforced by Salesforce to ensure efficient use of resources."
+      },
+      {
+        "id": 32,
+        "question": "What is a static resource?",
+        "answer": "Static resources allow you to upload files like images, JavaScript, and CSS to reference in Visualforce or Lightning components."
+      },
+      {
+        "id": 33,
+        "question": "What is an Apex class?",
+        "answer": "An Apex class is a template or blueprint from which Apex objects are created."
+      },
+      {
+        "id": 34,
+        "question": "What is a test class in Salesforce?",
+        "answer": "Test classes ensure your code works as expected and help meet the code coverage requirement for deployment."
+      },
+      {
+        "id": 35,
+        "question": "What is the use of batch Apex?",
+        "answer": "Batch Apex is used to process large data volumes asynchronously in batches."
+      },
+      {
+        "id": 36,
+        "question": "What is a future method?",
+        "answer": "Future methods are used to perform long-running operations asynchronously."
+      },
+      {
+        "id": 37,
+        "question": "What is a queueable Apex?",
+        "answer": "Queueable Apex allows you to add jobs to a queue and is more flexible than future methods."
+      },
+      {
+        "id": 38,
+        "question": "What is a wrapper class?",
+        "answer": "A wrapper class is a custom object defined by a developer to group multiple fields or objects."
+      },
+      {
+        "id": 39,
+        "question": "What is the use of Chatter?",
+        "answer": "Chatter is a Salesforce collaboration tool that lets users work together, talk to each other, and share information securely."
+      },
+      {
+        "id": 40,
+        "question": "What is deployment in Salesforce?",
+        "answer": "Deployment is the process of moving metadata from one Salesforce organization to another."
+      },
+      {
+        "id": 41,
+        "question": "What tools are used for deployment?",
+        "answer": "Change Sets, ANT Migration Tool, and Salesforce DX."
+      },
+      {
+        "id": 42,
+        "question": "What is schema builder?",
+        "answer": "Schema Builder is a tool that lets you visualize and edit your data model."
+      },
+      {
+        "id": 43,
+        "question": "What is a junction object?",
+        "answer": "A junction object is a custom object with two master-detail relationships, used to create many-to-many relationships."
+      },
+      {
+        "id": 44,
+        "question": "What is data loader?",
+        "answer": "Data Loader is a client application to bulk import, export, update, or delete data."
+      },
+      {
+        "id": 45,
+        "question": "What is the use of the recycle bin?",
+        "answer": "The recycle bin allows you to restore accidentally deleted records within a certain period."
+      },
+      {
+        "id": 46,
+        "question": "What is a record type?",
+        "answer": "Record types allow you to offer different business processes, picklist values, and page layouts to different users."
+      },
+      {
+        "id": 47,
+        "question": "What is a page layout?",
+        "answer": "Page layouts control the layout and organization of fields, buttons, and related lists on object record pages."
+      },
+      {
+        "id": 48,
+        "question": "What is a flow?",
+        "answer": "Flow is an automation tool that collects data and performs actions in Salesforce without code."
+      },
+      {
+        "id": 49,
+        "question": "What is a Lightning Web Component (LWC)?",
+        "answer": "LWC is a new programming model built on web standards for building fast, reusable components."
+      },
+      {
+        "id": 50,
+        "question": "What is Salesforce DX?",
+        "answer": "Salesforce DX is a set of tools and features that improve the end-to-end development lifecycle and enable continuous delivery on the Salesforce platform."
+      }
+    ]
+  },
+  "ctaSection": {
+    "position": 3,
+    "heading": "Start Your Salesforce Career Today",
+    "description": "Join Teks Academy’s Salesforce CRM Training Program and become job-ready with real-time CRM projects and placement support.",
+    "button": {
+      "text": "Enquire Now",
+      "link": "/courses/salesforce-crm"
+    }
+  }
+}

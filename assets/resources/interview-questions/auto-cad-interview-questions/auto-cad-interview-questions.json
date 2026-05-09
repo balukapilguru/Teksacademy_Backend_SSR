@@ -1,0 +1,301 @@
+{
+  "meta": {
+    "title": "AutoCAD Interview Questions | Teks Academy",
+    "description": "Explore top AutoCAD interview questions and answers covering 2D drafting, 3D modeling, architectural design, engineering drawings, and CAD tools.",
+    "keywords": [
+      "AutoCAD Interview Questions",
+      "CAD Interview Questions",
+      "2D Drafting Questions",
+      "3D Modeling Questions",
+      "Engineering Drawing Questions"
+    ]
+  },
+  "heroSection": {
+    "position": 1,
+    "heading": ["AutoCAD", "Interview Questions"],
+    "subHeading": "Prepare for AutoCAD interviews with architecture and engineering-focused technical questions and answers.",
+    "bannerImage": {
+      "src": "/assets/resources/interview-questions/autocad/autocad_interview_banner.webp",
+      "alt": "AutoCAD Interview Questions"
+    }
+  },
+  "interviewQuestionsSection": {
+    "position": 2,
+    "heading": "AutoCAD Interview Questions & Answers",
+    "sideImages": {
+      "topRight": {
+        "src": "/assets/resources/interview-questions/common/interview_vector.webp",
+        "alt": "Interview Illustration"
+      },
+      "middleRight": {
+        "src": "/assets/resources/interview-questions/common/megaphone.webp",
+        "alt": "Megaphone Illustration"
+      },
+      "bottomRight": {
+        "src": "/assets/resources/interview-questions/common/circle_shape.webp",
+        "alt": "Circle Shape"
+      }
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is AutoCAD?",
+        "answer": "AutoCAD is a computer-aided design (CAD) software application used for creating 2D and 3D designs and drafting. It was developed by Autodesk."
+      },
+      {
+        "id": 2,
+        "question": "What file format does AutoCAD use?",
+        "answer": "DWG (Drawing) is the native file format used by AutoCAD."
+      },
+      {
+        "id": 3,
+        "question": "What is the use of the UCS in AutoCAD?",
+        "answer": "UCS stands for User Coordinate System. It allows users to define a custom coordinate system for drawing in 2D or 3D."
+      },
+      {
+        "id": 4,
+        "question": "What are layers in AutoCAD?",
+        "answer": "Layers are like transparent overlays that help organize different elements of a drawing. Each layer can have its own color, linetype, and properties."
+      },
+      {
+        "id": 5,
+        "question": "How do you draw a line in AutoCAD?",
+        "answer": "Use the LINE command, then specify start and end points."
+      },
+      {
+        "id": 6,
+        "question": "What is the difference between MODEL space and LAYOUT space?",
+        "answer": "MODEL space is where the actual drawing is created. LAYOUT space is used for plotting or printing and typically includes title blocks and viewports."
+      },
+      {
+        "id": 7,
+        "question": "What is a block in AutoCAD?",
+        "answer": "A block is a collection of objects grouped into a single object. It is useful for repeating content like doors or symbols."
+      },
+      {
+        "id": 8,
+        "question": "How do you insert a block?",
+        "answer": "Use the INSERT command or drag and drop from the tool palette or block library."
+      },
+      {
+        "id": 9,
+        "question": "What command is used to create circles?",
+        "answer": "The CIRCLE command."
+      },
+      {
+        "id": 10,
+        "question": "What is the function of the TRIM command?",
+        "answer": "It removes or trims objects that intersect or touch another object."
+      },
+      {
+        "id": 11,
+        "question": "What is the difference between ‘COPY’ and ‘MIRROR’?",
+        "answer": "COPY duplicates an object, while MIRROR creates a mirrored version about a specified axis."
+      },
+      {
+        "id": 12,
+        "question": "What is the purpose of object snap (OSNAP)?",
+        "answer": "OSNAP helps accurately select specific points on objects, like endpoints, midpoints, or intersections."
+      },
+      {
+        "id": 13,
+        "question": "How do you scale an object in AutoCAD?",
+        "answer": "Use the SCALE command, select the object, then specify a base point and scale factor."
+      },
+      {
+        "id": 14,
+        "question": "What is the difference between absolute, relative, and polar coordinates?",
+        "answer": "* Absolute: uses the origin (0,0)\n* Relative: uses the last point as reference\n* Polar: uses distance and angle from the last point"
+      },
+      {
+        "id": 15,
+        "question": "How do you create a hatch in AutoCAD?",
+        "answer": "Use the HATCH command and choose an area and pattern."
+      },
+      {
+        "id": 16,
+        "question": "What does the ARRAY command do?",
+        "answer": "It creates multiple copies of objects in a pattern — rectangular, polar, or path."
+      },
+      {
+        "id": 17,
+        "question": "What is the purpose of the ‘XREF’ command?",
+        "answer": "XREF (external reference) links an external drawing into your current drawing."
+      },
+      {
+        "id": 18,
+        "question": "What is a viewport?",
+        "answer": "A viewport displays a view of your model space drawing in a layout."
+      },
+      {
+        "id": 19,
+        "question": "What are dimension styles?",
+        "answer": "They control the appearance and formatting of dimensions."
+      },
+      {
+        "id": 20,
+        "question": "How do you match properties from one object to another?",
+        "answer": "Use the MATCHPROP or MATCH command."
+      },
+      {
+        "id": 21,
+        "question": "How can you clean up a drawing?",
+        "answer": "Use PURGE to remove unused items and OVERKILL to delete duplicate or overlapping objects."
+      },
+      {
+        "id": 22,
+        "question": "What is the difference between MODEL and PAPER space?",
+        "answer": "Model space is for designing; paper space is for printing and presentation."
+      },
+      {
+        "id": 23,
+        "question": "What is a polyline?",
+        "answer": "A polyline is a connected sequence of line or arc segments that is treated as a single object."
+      },
+      {
+        "id": 24,
+        "question": "How do you convert lines to a polyline?",
+        "answer": "Use the PEDIT command, then choose JOIN."
+      },
+      {
+        "id": 25,
+        "question": "What does the FILLET command do?",
+        "answer": "It creates a rounded corner between two lines."
+      },
+      {
+        "id": 26,
+        "question": "What is dynamic block in AutoCAD?",
+        "answer": "A dynamic block contains rules and constraints that allow you to change its appearance using grips or parameters."
+      },
+      {
+        "id": 27,
+        "question": "What are annotative objects?",
+        "answer": "Annotative objects automatically scale according to the viewport scale, such as text or dimensions."
+      },
+      {
+        "id": 28,
+        "question": "What is the use of the WIPEOUT command?",
+        "answer": "It creates a blank area to mask parts of the drawing under it."
+      },
+      {
+        "id": 29,
+        "question": "What is the difference between ‘BYLAYER’ and ‘BYBLOCK’?",
+        "answer": "BYLAYER uses the properties of the layer, while BYBLOCK inherits properties from the block until it's inserted."
+      },
+      {
+        "id": 30,
+        "question": "How do you import Excel data into AutoCAD?",
+        "answer": "Use DATAEXTRACTION or insert as an OLE object or linked table."
+      },
+      {
+        "id": 31,
+        "question": "What is the difference between GROUP and BLOCK?",
+        "answer": "GROUP allows easy selection of objects but can be ungrouped; BLOCK is a more permanent combination."
+      },
+      {
+        "id": 32,
+        "question": "How do you create custom linetypes?",
+        "answer": "By editing the LIN file or using MKLTYPE command."
+      },
+      {
+        "id": 33,
+        "question": "What is the difference between TEXT and MTEXT?",
+        "answer": "TEXT is single-line text, while MTEXT is multiline with formatting options."
+      },
+      {
+        "id": 34,
+        "question": "How can you automate repetitive tasks in AutoCAD?",
+        "answer": "Using scripts, LISP routines, or AutoCAD macros."
+      },
+      {
+        "id": 35,
+        "question": "What is a plot style in AutoCAD?",
+        "answer": "A plot style controls how objects are printed, such as color, lineweight, and screening."
+      },
+      {
+        "id": 36,
+        "question": "What are constraints in AutoCAD?",
+        "answer": "Constraints are used to control the geometry of objects, such as locking lengths, angles, or positions."
+      },
+      {
+        "id": 37,
+        "question": "What is the OVERKILL command?",
+        "answer": "It deletes overlapping or duplicate objects to clean the drawing."
+      },
+      {
+        "id": 38,
+        "question": "What is a CTB file?",
+        "answer": "A Color-dependent Plot Style Table file that maps colors to lineweights when plotting."
+      },
+      {
+        "id": 39,
+        "question": "How do you create a title block?",
+        "answer": "Design the layout, insert company logo, drawing fields, and save it as a block or template."
+      },
+      {
+        "id": 40,
+        "question": "What is the use of BATTMAN?",
+        "answer": "It manages attributes in a block."
+      },
+      {
+        "id": 41,
+        "question": "What is the difference between EXTEND and LENGTHEN?",
+        "answer": "EXTEND stretches to meet another object, LENGTHEN modifies length/angle directly."
+      },
+      {
+        "id": 42,
+        "question": "What are isometric drawings?",
+        "answer": "Isometric drawings represent 3D objects in 2D with 30-degree angles, useful in mechanical design."
+      },
+      {
+        "id": 43,
+        "question": "What is the function of ISOPLANE?",
+        "answer": "It switches between isometric planes for isometric drawing."
+      },
+      {
+        "id": 44,
+        "question": "How do you recover a corrupt drawing file?",
+        "answer": "Use RECOVER or AUDIT commands."
+      },
+      {
+        "id": 45,
+        "question": "How do you create 3D objects in AutoCAD?",
+        "answer": "Use 3D commands like EXTRUDE, REVOLVE, SWEEP, and PRESSPULL."
+      },
+      {
+        "id": 46,
+        "question": "What is a section plane?",
+        "answer": "It creates a cross-sectional view of a 3D model."
+      },
+      {
+        "id": 47,
+        "question": "What are solid, surface, and wireframe modeling?",
+        "answer": "* Different methods of 3D modeling:\n  - Solid: full volume\n  - Surface: only outer faces\n  - Wireframe: skeleton model"
+      },
+      {
+        "id": 48,
+        "question": "What is the use of REGEN?",
+        "answer": "Regenerates the drawing and refreshes the display, useful after major changes."
+      },
+      {
+        "id": 49,
+        "question": "How do you customize the AutoCAD interface?",
+        "answer": "Using the CUI (Customize User Interface) dialog box."
+      },
+      {
+        "id": 50,
+        "question": "How do you apply material and lighting in 3D AutoCAD?",
+        "answer": "Use the MATERIALS and LIGHTING panels, and render the model for visualization."
+      }
+    ]
+  },
+  "ctaSection": {
+    "position": 3,
+    "heading": "Start Your AutoCAD Career Today",
+    "description": "Join Teks Academy’s AutoCAD Training Program and become job-ready with real-time drafting projects and placement support.",
+    "button": {
+      "text": "Enquire Now",
+      "link": "/courses/autocad"
+    }
+  }
+}

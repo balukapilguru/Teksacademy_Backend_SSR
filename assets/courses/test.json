@@ -78,7 +78,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -128,7 +128,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -178,7 +178,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -228,7 +228,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -277,7 +277,11 @@
           "link": " /courses/digital-marketing-certification-course",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ],
       "universities": [
         {
@@ -322,7 +326,11 @@
           "link": " /courses/data-analytics-certification-program",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ],
       "universities": [
         {
@@ -367,7 +375,11 @@
           "link": " /courses/salesforce-certification-training-program",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ],
       "universities": [
         {
@@ -412,7 +424,11 @@
           "link": " /courses/bim-certification-course",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ],
       "universities": [
         {
@@ -457,7 +473,11 @@
           "link": " /courses/sap-fico-certification-program",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ],
       "universities": [
         {
@@ -502,7 +522,11 @@
           "link": " /courses/medical-coding-certification-course",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ],
       "universities": [
         {
@@ -547,7 +571,11 @@
           "link": " /courses/testing-tools-certification-program",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ],
       "universities": [
         {
@@ -592,7 +620,11 @@
           "link": " /courses/vlsi-certification-training-program",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ],
       "universities": [
         {
@@ -637,7 +669,11 @@
           "link": " /courses/multimedia-certification-course",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ],
       "universities": [
         {
@@ -682,7 +718,11 @@
           "link": " /courses/advanced-excel-certification-course",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ],
       "universities": [
         {
@@ -727,7 +767,11 @@
           "link": " /courses/autocad-certification-training-course",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ],
       "universities": [
         {
@@ -772,7 +816,11 @@
           "link": " /courses/revit-mep-certification-course",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ],
       "universities": [
         {
@@ -818,7 +866,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -867,7 +915,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -916,7 +964,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -965,7 +1013,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -1014,7 +1062,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -1063,7 +1111,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -1218,7 +1266,11 @@
           "link": " /courses/bba",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
     {
@@ -1253,7 +1305,11 @@
           "link": " /courses/bba/bachelor-of-business-administration",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
 
@@ -1285,7 +1341,11 @@
           "link": " /courses/bba/digital-marketing",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
     {
@@ -1316,7 +1376,11 @@
           "link": " /courses/bba/data-science-and-analytics",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
 
@@ -1352,7 +1416,11 @@
           "link": " /courses/bba/data-analytics",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
     {
@@ -1388,7 +1456,11 @@
           "link": " /courses/bba/business-analytics",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
     {
@@ -1423,7 +1495,11 @@
           "link": " /courses/bba/travel-and-tourism-management",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
     {
@@ -1454,7 +1530,11 @@
           "link": " /courses/bba/healthcare-management",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
     {
@@ -1531,7 +1611,11 @@
           "link": " /courses/bcom",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
     {
@@ -1568,7 +1652,11 @@
           "link": " /courses/bcom/bachelor-of-commerce",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
 
@@ -1602,7 +1690,11 @@
           "link": " /courses/bcom/accounting-and-finance",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
     {
@@ -1647,7 +1739,11 @@
           "link": " /courses/bcom/international-finance-and-accounting",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
 
@@ -1836,7 +1932,11 @@
           "link": " /courses/bca",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
     {
@@ -1867,7 +1967,11 @@
           "link": " /courses/bca/data-science-and-analytics",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
     {
@@ -1898,7 +2002,11 @@
           "link": " /courses/bca/cloud-computing",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
     {
@@ -1929,7 +2037,11 @@
           "link": " /courses/bca/cyber-security",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
     {
@@ -1960,7 +2072,11 @@
           "link": " /courses/bca/computer-science-and-it",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
     {
@@ -1991,7 +2107,11 @@
           "link": " /courses/bca/artificial-intelligence",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
     {
@@ -2026,7 +2146,11 @@
           "link": " /courses/bca/cloud-and-security",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
     {
@@ -2061,7 +2185,11 @@
           "link": " /courses/bca/software-engineering",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
     {
@@ -2096,7 +2224,11 @@
           "link": " /courses/bca/data-science",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
     {
@@ -2131,7 +2263,11 @@
           "link": " /courses/bca/data-engineering",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
     {
@@ -2166,7 +2302,11 @@
           "link": " /courses/bca/applied-data-engineering",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
     {
@@ -2201,7 +2341,11 @@
           "link": " /courses/bca/data-analytics",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
     {
@@ -2296,7 +2440,11 @@
       ],
       "button": [
         { "name": "Know More", "link": " /courses/ba", "form": false },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
     {
@@ -2331,7 +2479,11 @@
           "link": " /courses/ba/economics",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
     {
@@ -2366,7 +2518,11 @@
           "link": " /courses/ba/english",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
     {
@@ -2401,7 +2557,11 @@
           "link": " /courses/ba/sociology",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
     {
@@ -2436,7 +2596,11 @@
           "link": " /courses/ba/political-science",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
     {
@@ -2471,7 +2635,11 @@
           "link": " /courses/ba/journalism-and-mass-communication",
           "form": false
         },
-        { "name": "Enroll Now", "link": "", "form": true }
+                {
+          "name": "Enquire Now",
+          "link": "",
+          "form": true
+        }
       ]
     },
 
@@ -2508,7 +2676,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -2547,7 +2715,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -2587,7 +2755,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -2626,7 +2794,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -2665,7 +2833,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -2704,7 +2872,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -2743,7 +2911,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -2782,7 +2950,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -2821,7 +2989,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -2860,7 +3028,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -2899,7 +3067,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -2938,7 +3106,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -2978,7 +3146,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -3017,7 +3185,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -3056,7 +3224,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -3095,7 +3263,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -3146,7 +3314,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -3185,7 +3353,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -3224,7 +3392,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -3263,7 +3431,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -3302,7 +3470,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -3353,7 +3521,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -3392,7 +3560,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -3431,7 +3599,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -3470,7 +3638,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -3509,7 +3677,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -3548,7 +3716,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -3587,7 +3755,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -3627,7 +3795,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -4095,7 +4263,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -4339,7 +4507,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -4379,7 +4547,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -4430,7 +4598,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -4470,7 +4638,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -4504,7 +4672,7 @@
       ],
       "button": [
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -4543,7 +4711,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -4582,7 +4750,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -4621,7 +4789,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -4660,7 +4828,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -4699,7 +4867,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -4738,7 +4906,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -4777,7 +4945,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -4816,7 +4984,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -4855,7 +5023,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -4894,7 +5062,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -5012,7 +5180,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -5051,7 +5219,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -5091,7 +5259,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -5130,7 +5298,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -5169,7 +5337,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -5209,7 +5377,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -5248,7 +5416,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -5287,7 +5455,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -5326,7 +5494,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -5366,7 +5534,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -5405,7 +5573,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -5445,7 +5613,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -5549,7 +5717,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -5592,7 +5760,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }
@@ -5631,7 +5799,7 @@
           "form": false
         },
         {
-          "name": "Enroll Now",
+          "name": "Enquire Now",
           "link": "",
           "form": true
         }

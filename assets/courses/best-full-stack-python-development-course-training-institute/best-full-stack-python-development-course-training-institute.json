@@ -117,7 +117,11 @@
             "link": "",
             "form": false
           },
-          { "name": "Enroll Now", "link": "", "form": true }
+          {
+            "name": "Enquire Now",
+            "link": "",
+            "form": true
+          }
         ],
         "productId": 392,
         "sourceId": 148,
@@ -149,25 +153,24 @@
     "subHeading": "null",
     "image": [
       {
-        "src": "/home/universitylogos/amity.webp",
-        "alt": "amity"
-      },
-
-      {
-        "src": "/home/universitylogos/jain.webp",
+        "src": "/assets/img/partners-images/jain.webp",
         "alt": "jain"
       },
       {
-        "src": "/home/universitylogos/manipal.webp",
-        "alt": "manipal.webp"
+        "src": "/assets/img/partners-images/linkedin.webp",
+        "alt": "linkedin"
       },
       {
-        "src": "/home/universitylogos/mnr.webp",
-        "alt": "mnr.webp"
+        "src": "/assets/img/partners-images/mumbai.webp",
+        "alt": "mumbai"
       },
       {
-        "src": "/home/universitylogos/teks.webp",
-        "alt": "teks.webp"
+        "src": "/assets/img/partners-images/palakkad.webp",
+        "alt": "palakkad"
+      },
+      {
+        "src": "/assets/img/partners-images/patna.webp",
+        "alt": "patna"
       }
     ],
     "whyJoinThisCourse": {
@@ -266,12 +269,15 @@
     ]
   },
 
- "keyHighlights": {
+  "keyHighlights": {
     "position": 5,
     "heading": ["Key Highlights of", "Full Stack Python Certification Course"],
     "sections": [
       { "name": "Industry-Driven Curriculum", "value": "LearningExperience" },
-      { "name": "Hands-On Learning Experience ", "value": "SupportAndAssistance" },
+      {
+        "name": "Hands-On Learning Experience ",
+        "value": "SupportAndAssistance"
+      },
       { "name": "Support & Assistance ", "value": "CareerSupport" },
       {
         "name": "Career Intelligence & Placement Support",
@@ -280,7 +286,7 @@
     ],
     "tabsData": {
       "LearningExperience": {
-        "keyPoints":  [
+        "keyPoints": [
           "Learn Python concepts used in real development",
           "Topics designed based on industry needs",
           "Clear learning path from basics to advanced skills",
@@ -361,6 +367,46 @@
       "Duration",
       "Course Fee",
       "Action"
+    ],
+    "universityOfferings": [
+      {
+        "university": "IIT Certification Program",
+        "image": {
+          "src": "/certificate/Teksversity_In1.webp",
+          "alt": "Teksversity"
+        },
+        "TrainingMode": "Online/Offline",
+        "rating": 4.8,
+        "duration": "4-6 Months",
+        "courseFee": {
+          "range": "40,000 - 50,000",
+          "note": "Total program fee"
+        },
+        "button": {
+          "text": "Enroll Now",
+          "icon": { "src": "null", "alt": "null" },
+          "link": "null"
+        }
+      },
+      {
+        "university": "Teks Industry Ready Program",
+        "image": {
+          "src": "/certificate/Teksversity_In1.webp",
+          "alt": "Teksversity"
+        },
+        "TrainingMode": "Online/Offline",
+        "rating": 4.8,
+        "duration": "4-6 Months",
+        "courseFee": {
+          "range": "40,000 - 50,000",
+          "note": "Total program fee"
+        },
+        "button": {
+          "text": "Enroll Now",
+          "icon": { "src": "null", "alt": "null" },
+          "link": "null"
+        }
+      }
     ]
   },
 
