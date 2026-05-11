@@ -1,0 +1,636 @@
+{
+  "meta": {
+    "title": "Best Software Training Institute in Ameerpet | Teks Academy",
+    "description": "Join Teks Academy Ameerpet for industry-oriented software training courses with placement assistance, internships, certifications, and real-time projects."
+  },
+
+  "heroSection": {
+    "position": 1,
+    "backgroundImage": "/assets/branches/ameerpet/banner.webp",
+    "heading": "Best Software Training Institute in Ameerpet",
+    "subHeading": "Learn trending software courses with internship and placement support.",
+    "description": "Ameerpet - “Locality of the Rich”- Now became home to Teks Academy, the best software training institute in Hyderabad. The name Ameerpet is commonly used to refer to a wealthy area. It is popular due to its geographical location as the hub of the twin cities-Hyderabad and Secunderabad. After the IT boom started, it became a software training hub. A lot of training institutes came here. Students flock to the area to learn not just programming languages but also other IT technologies and trending software courses.",
+    "button": {
+      "text": "Enquire Now",
+      "link": "#enquiry-form"
+    }
+  },
+
+  "topScroll": {
+    "position": 2,
+    "list": [
+      {
+        "src": "/assets/img/partners-images/p-3.webp",
+        "alt": "skill_nasscom"
+      },
+      {
+        "src": "/assets/img/partners-images/p-4.webp",
+        "alt": "national skill_development_corporation"
+      },
+      {
+        "src": "/assets/img/partners-images/p-5.webp",
+        "alt": "skill_india"
+      },
+      {
+        "src": "/assets/img/partners-images/p-6.webp",
+        "alt": "skill_msme"
+      },
+      {
+        "src": "/assets/img/partners-images/p-1.webp",
+        "alt": "ddu-gky"
+      },
+      {
+        "src": "/assets/img/partners-images/p-2.webp",
+        "alt": "iso"
+      }
+    ]
+  },
+
+  "courseOffered": {
+    "position": 3,
+    "heading": "Course Offered",
+    "courses": []
+  },
+
+  "excelWithTeksacademy": {
+    "position": 8,
+    "title": "Excel with Teks Academy",
+    "features": [
+      {
+        "leftSection": [
+          {
+            "title": "Free",
+            "subtitle": "Career Guidance",
+            "icon": "career-guidance"
+          },
+          {
+            "title": "IIT",
+            "subtitle": "Approved Curriculum",
+            "icon": "curriculum"
+          },
+          {
+            "title": "Dedicated",
+            "subtitle": "Student Dashboard",
+            "icon": "dashboard"
+          },
+          {
+            "title": "Classroom",
+            "subtitle": "& Online Trainings",
+            "icon": "classroom"
+          },
+          {
+            "title": "Class",
+            "subtitle": "Recordings",
+            "icon": "recordings"
+          }
+        ],
+        "rightSection": [
+          {
+            "title": "Course",
+            "subtitle": "Materials",
+            "icon": "course-materials"
+          },
+          {
+            "title": "Module",
+            "subtitle": "Based Assessments",
+            "icon": "assessments"
+          },
+          {
+            "title": "Hands",
+            "subtitle": "On Projects",
+            "icon": "projects"
+          },
+          {
+            "title": "Internship",
+            "subtitle": "Opportunity",
+            "icon": "internship"
+          },
+          {
+            "title": "100%",
+            "subtitle": "Job Assistance",
+            "icon": "job-assistance"
+          }
+        ]
+      }
+    ],
+    "form": {
+      "title": "Request Call Back",
+      "isForm": true,
+      "submitButton": {
+        "text": "Request Call Back"
+      }
+    },
+    "image": {
+      "alt": "Excel with Teks Academy illustration",
+      "url": "https://teksacademy.com/_next/image?url=https%3A%2F%2Fteksacademynewwebsite.s3.ap-south-1.amazonaws.com%2Fassets%2Fimg%2Fexcel%2Fteks_logo.webp&w=640&q=75"
+    }
+  },
+
+  "aboutTeksAcandemy": {
+    "position": 11,
+    "title": "About Teks Academy",
+    "image": {
+      "alt": "About Teks Academy section image",
+      "url": "/assets/images/about-teks-academy.png"
+    },
+    "heading": ["Teks ", "Making Job Cracking Easier!"],
+    "description": {
+      "subHeading1": "OUR MISSION :",
+      "text1": "Our transformative mission at Teks Academy - The best software training institute in India is to empower students and working professionals with the most advanced software courses.",
+      "subHeading2": "OUR VISION :",
+      "text2": "Our vision is to make modern technical education accessible to every aspiring student, including those from non-English medium backgrounds, rural areas, and financially weaker sections."
+    },
+    "button": {
+      "text": "Learn More",
+      "icon": "arrow-right",
+      "link": "/about-us"
+    },
+    "statistics": [
+      {
+        "count": "120+",
+        "label": "Trainers",
+        "icon": "trainer"
+      },
+      {
+        "count": "48K+",
+        "label": "Trained Students",
+        "icon": "students"
+      },
+      {
+        "count": "39K+",
+        "label": "Professionals",
+        "icon": "professionals"
+      },
+      {
+        "count": "14+",
+        "label": "Years",
+        "icon": "years"
+      }
+    ]
+  },
+
+  "careerServices": {
+    "position": 9,
+    "title": ["Career Services ", "in a Nutshell"],
+
+    "services": [
+      {
+        "title": "Technical Seminars",
+        "icon": {
+          "name": "seminar",
+          "url": "/assets/img/nutshell/nutshell-1.webp"
+        }
+      },
+      {
+        "title": "Mock Interviews",
+        "icon": {
+          "name": "interview",
+          "url": "/assets/img/nutshell/nutshell-2.webp"
+        }
+      },
+      {
+        "title": "CRT & Job Ready Skills",
+        "icon": {
+          "name": "skills",
+          "url": "/assets/img/nutshell/nutshell-3.webp"
+        }
+      },
+      {
+        "title": "Dedicated Job Portal",
+        "icon": {
+          "name": "job-portal",
+          "url": "/assets/img/nutshell/nutshell-4.webp"
+        }
+      },
+      {
+        "title": "Internship opportunity in a IT Company",
+        "icon": {
+          "name": "internship",
+          "url": "/assets/img/nutshell/nutshell-5.webp"
+        }
+      }
+    ],
+
+    "button": {
+      "text": "Request Call Back",
+      "link": "/request-call-back"
+    },
+
+    "image": {
+      "alt": "Career services section illustration",
+      "desktop": "/assets/img/nutshell/nutshell.webp",
+      "mobile": "/assets/img/nutshell/nutshell_mobile.webp"
+    }
+  },
+
+  "ourSuccessStories": {
+    "position": 3,
+    "heading": ["Our Success", "Stories"],
+    "data": {
+      "placedStudents": {
+        "position": 1,
+        "heading": "Placed Students",
+        "cards": {
+          "videoCards": [
+            {
+              "id": 5,
+              "name": "Vennela",
+              "videoUrl": "/assets/success_stories_videos/Vennela_frontend.mp4",
+              "thumbnail": {
+                "src": "/assets/img/success_Stories/Vennela_sd.webp",
+                "alt": "Vennela_sd"
+              }
+            },
+            {
+              "id": 6,
+              "name": "Akshita",
+              "videoUrl": "/assets/success_stories_videos/akshitha_intern.mp4",
+              "thumbnail": {
+                "src": "/assets/img/success_Stories/askshita_placed_card.webp",
+                "alt": "askshita_placed_card"
+              }
+            },
+            {
+              "id": 7,
+              "name": "Leela Prasad",
+              "videoUrl": "/assets/success_stories_videos/leela_prasad_bim.mp4",
+              "thumbnail": {
+                "src": "/assets/img/success_Stories/leela_prasad_sd.webp",
+                "alt": "leela_prasad_sd"
+              }
+            },
+            {
+              "id": 8,
+              "name": "Archita",
+              "videoUrl": "/assets/success_stories_videos/architha_intern.mp4",
+              "thumbnail": {
+                "src": "/assets/img/success_Stories/archita_placed_card.webp",
+                "alt": "archita_placed_card"
+              }
+            }
+          ],
+
+          "placementCards": [
+            {
+              "id": 1,
+              "name": "Bindu",
+              "image": {
+                "src": "/assets/img/success_Stories/bindu_ft_fp.webp",
+                "alt": "bindu_ft_fp"
+              }
+            },
+            {
+              "id": 2,
+              "name": "Shubam",
+              "image": {
+                "src": "/assets/img/success_Stories/shubam_ft_fp.webp",
+                "alt": "shubam_ft_fp"
+              }
+            },
+            {
+              "id": 3,
+              "name": "Sai Raghava",
+              "image": {
+                "src": "/assets/img/success_Stories/sai_raghava_ft_fp.webp",
+                "alt": "sai_raghava_ft_fp"
+              }
+            },
+            {
+              "id": 4,
+              "name": "Vineeth",
+              "image": {
+                "src": "/assets/img/success_Stories/vineeth_ft_fp.webp",
+                "alt": "vineeth_ft_fp"
+              }
+            }
+          ]
+        }
+      },
+
+      "LearningExperience": {
+        "position": 2,
+        "heading": "Learning Experience",
+        "Cards": {
+          "videoCards": [
+            {
+              "name": "chandravardhan",
+              "videoUrl": "/assets/success_stories_videos/Chandravardhan_fj.mp4",
+              "thumbnail": {
+                "src": "/assets/img/success_Stories/chandravardhan_ps_fj.webp",
+                "alt": "chandravardhan"
+              }
+            },
+            {
+              "name": "shandruth",
+              "videoUrl": "/assets/success_stories_videos/SHANDRUTH_fp.mp4",
+              "thumbnail": {
+                "src": "/assets/img/success_Stories/shandruth_fp.webp",
+                "alt": "shandruth"
+              }
+            },
+            {
+              "name": "srinivas",
+              "videoUrl": "/assets/success_stories_videos/SRINIVAS_ds.mp4",
+              "thumbnail": {
+                "src": "/assets/img/success_Stories/srinivas_ds.webp",
+                "alt": "srinivas"
+              }
+            },
+            {
+              "name": "praveen",
+              "videoUrl": "/assets/success_stories_videos/PRAVEEN_dm.mp4",
+              "thumbnail": {
+                "src": "/assets/img/success_Stories/praveen_dm.webp",
+                "alt": "praveen"
+              }
+            }
+          ],
+          "placementCards": [
+            {
+              "name": "Shravan",
+              "image": {
+                "src": "/assets/img/success_Stories/fj_tc_1.webp",
+                "alt": "Shravan"
+              }
+            },
+            {
+              "name": "Sai Shiva",
+              "image": {
+                "src": "/assets/img/success_Stories/fp_tc_2.webp",
+                "alt": "Sai Shiva"
+              }
+            },
+            {
+              "name": "Bharath Bandarupally",
+              "image": {
+                "src": "/assets/img/success_Stories/bharath_tc_Ds.webp",
+                "alt": "Bharath Bandarupally"
+              }
+            },
+            {
+              "name": "Korra Vinay Kumar",
+              "image": {
+                "src": "/assets/img/success_Stories/Dm_tc_4.webp",
+                "alt": "Korra Vinay Kumar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "awards": {
+    "title": "Awards",
+    "leftLeaf": "/assets/img/left_leaf.webp",
+    "rightLeaf": "/assets/img/right_leaf.webp",
+    "cards": [
+      {
+        "title": "Most Promising Data Science Training Institutes - 2023",
+        "organization": "Silicon India",
+        "year": "2023",
+        "description": "Most Promising Data Science Training Institutes - 2023 by Silicon India.",
+        "image": {
+          "src": "/assets/img/Awards/Artboard1.webp",
+          "alt": "Silicon India Data Science Award 2023"
+        }
+      },
+      {
+        "title": "Best Emerging Real-Time Training Academy of the Year",
+        "organization": "Pride of Indian Education Awards",
+        "year": "2023",
+        "description": "Best Emerging Real-Time Training Academy of the Year - PRIDE OF INDIAN EDUCATION Awards by Brands Impact.",
+        "image": {
+          "src": "/assets/img/Awards/Artboard2.webp",
+          "alt": "Pride of Indian Education Award 2023"
+        }
+      },
+      {
+        "title": "Best Online Training Institute of the Year",
+        "organization": "Hybiz TV Education Excellence Awards",
+        "year": "2023",
+        "description": "Best Online Training Institute of the Year - Hybiz TV Education Excellence Awards 2023.",
+        "image": {
+          "src": "/assets/img/Awards/Artboard3.webp",
+          "alt": "Hybiz TV Education Excellence Award 2023"
+        }
+      },
+      {
+        "title": "Most Innovative Online Education Platform 2023 - South India",
+        "organization": "Corporate Vision",
+        "year": "2023",
+        "description": "Most Innovative Online Education Platform 2023 - South India in Education and Training Awarded by Corporate Vision.",
+        "image": {
+          "src": "/assets/img/Awards/Artboard4.webp",
+          "alt": "Corporate Vision Education Award 2023"
+        }
+      },
+      {
+        "title": "Most Trusted Education Brand",
+        "organization": "India's Brand Leadership Awards",
+        "year": "2024",
+        "description": "Most Trusted Education Brand recognized for outstanding contribution made by Teks Academy.",
+        "image": {
+          "src": "/assets/img/Awards/Artboard5.webp",
+          "alt": "Most Trusted Education Brand Award 2024"
+        }
+      },
+      {
+        "title": "Indian Iconic Skill & Career Empowering Institute",
+        "organization": "Certificate of Excellence",
+        "year": "2025",
+        "description": "Indian Iconic Skill & Career Empowering Institute 2025.",
+        "image": {
+          "src": "/assets/img/Awards/teks_pride.webp",
+          "alt": "Indian Iconic Skill & Career Empowering Institute 2025"
+        }
+      }
+    ]
+  },
+
+  "gallery": {
+    "position": 2,
+    "heading": ["Gallery"],
+    "images": [
+      { "id": 1, "src": "/gallery/image1.webp", "alt": "gallery-1" },
+      { "id": 2, "src": "/gallery/image3.webp", "alt": "gallery-3" },
+      { "id": 3, "src": "/gallery/image4.webp", "alt": "gallery-4" },
+      { "id": 4, "src": "/gallery/image5.webp", "alt": "gallery-5" },
+      { "id": 5, "src": "/gallery/image6.webp", "alt": "gallery-6" },
+      { "id": 6, "src": "/gallery/image7.webp", "alt": "gallery-7" },
+      { "id": 7, "src": "/gallery/image8.webp", "alt": "gallery-8" },
+      { "id": 8, "src": "/gallery/image9.webp", "alt": "gallery-9" },
+      { "id": 9, "src": "/gallery/image10.webp", "alt": "gallery-10" },
+      { "id": 10, "src": "/gallery/image11.webp", "alt": "gallery-11" },
+      { "id": 11, "src": "/gallery/image12.webp", "alt": "gallery-12" },
+      { "id": 12, "src": "/gallery/image14.webp", "alt": "gallery-14" },
+      { "id": 13, "src": "/gallery/image15.webp", "alt": "gallery-15" },
+      { "id": 14, "src": "/gallery/image16.webp", "alt": "gallery-16" },
+      { "id": 15, "src": "/gallery/image17.webp", "alt": "gallery-17" }
+    ],
+    "button": {
+      "text": "View More",
+      "link": "/discover/gallery"
+    }
+  },
+
+  "featuredIn": {
+    "position": 15,
+    "heading": ["Featured In"],
+    "images": [
+      {
+        "image": {
+          "src": "/assets/img/feature_in/aadab.webp",
+          "alt": "teksacademy featurein aadab-hyderabad news channel"
+        }
+      },
+      {
+        "image": {
+          "src": "/assets/img/feature_in/andhra.webp",
+          "alt": "teksacademy featurein andhra jyothi news channel"
+        }
+      },
+      {
+        "image": {
+          "src": "/assets/img/feature_in/daily.webp",
+          "alt": "teksacademy featurein daily hunt news channel"
+        }
+      },
+      {
+        "image": {
+          "src": "/assets/img/feature_in/enadu.webp",
+          "alt": "teksacademy featurein enadu news channel"
+        }
+      },
+      {
+        "image": {
+          "src": "/assets/img/feature_in/hans.webp",
+          "alt": "teksacademy featurein hans india news channel"
+        }
+      },
+      {
+        "image": {
+          "src": "/assets/img/feature_in/hindhu.webp",
+          "alt": "teksacademy featurein the hindhu news channel"
+        }
+      },
+      {
+        "image": {
+          "src": "/assets/img/feature_in/tv5.webp",
+          "alt": "teksacademy featurein tv5 news channel"
+        }
+      },
+      {
+        "image": {
+          "src": "/assets/img/feature_in/lokal.webp",
+          "alt": "teksacademy featurein lokal app news channel"
+        }
+      },
+      {
+        "image": {
+          "src": "/assets/img/feature_in/metro.webp",
+          "alt": "teksacademy featurein metro udayam news channel"
+        }
+      },
+      {
+        "image": {
+          "src": "/assets/img/feature_in/prajapalana.webp",
+          "alt": "teksacademy featurein prajapalana news channel"
+        }
+      },
+      {
+        "image": {
+          "src": "/assets/img/feature_in/indian_express.webp",
+          "alt": "teksacademy featurein the indian express news channel"
+        }
+      },
+      {
+        "image": {
+          "src": "/assets/img/feature_in/telugu.webp",
+          "alt": "teksacademy featurein telugu prabha news channel"
+        }
+      },
+      {
+        "image": {
+          "src": "/assets/img/feature_in/v6.webp",
+          "alt": "teksacademy featurein v6 news channel"
+        }
+      },
+      {
+        "image": {
+          "src": "/assets/img/feature_in/telangana.webp",
+          "alt": "teksacademy featurein telangana kranthi news channel"
+        }
+      },
+      {
+        "image": {
+          "src": "/assets/img/feature_in/hmtv.webp",
+          "alt": "teksacademy featurein hmtv news channel"
+        }
+      }
+    ]
+  },
+
+  "branchLocation": {
+    "position": 11,
+    "heading": "Explore Ameerpet Branch",
+    "description": [
+      {
+        "firstDescription": "Ameerpet is famous for IT training and Teks Academy stands out as the best software training institute in Ameerpet. Our advanced IT trainings offers you top IT courses such as Digital Marketing, Full Stack Java, Python, AWS & DevOps, and Data Science. This branch is ideal for students because it’s surrounded by tech-focused people, great transport, and endless learning opportunities."
+      },
+      {
+        "secondDescription": "At Teks Academy, students benefit from 100% placement assistance, hands-on internships, and industry-level certifications that prepare them for real jobs. Our expert trainers make learning easy, practical, and career-oriented. With the right mix of theory and real-time projects, we help students build the confidence and skills they need. Whether you're a beginner or upgrading your tech knowledge, Teks Academy’s Ameerpet is the best place to shape your IT future."
+      }
+    ],
+    "address": "Ameerpet, Hyderabad, Telangana",
+    "mapImage": "/assets/branches/ameerpet/map.webp",
+    "link": "https://goo.gl/maps/1Zt7n9sH2hL2"
+  },
+
+  "faq": {
+    "position": 12,
+    "heading": ["Frequently Asked", "Questions"],
+    "faq": [
+      {
+        "question": "Which is the best software training institute in Ameerpet?",
+        "answer": "Ameerpet is known for its software training institutes, and Teks Academy stands out for job-oriented programs like Full Stack Development, Data Science, Digital Marketing, and AWS & DevOps. With expert trainers, real-time projects, and 100% placement assistance, it’s one of the most trusted learning centers for IT careers."
+      },
+      {
+        "question": "What are the most in-demand IT courses to learn in Ameerpet right now?",
+        "answer": "The most in-demand courses in Ameerpet include Full Stack Python, Full Stack Java, Data Science, Digital Marketing, and AWS & DevOps. These programs help students build high-paying IT careers in web development, data analytics, and cloud automation."
+      },
+      {
+        "question": "How much does it cost to do a software course in Ameerpet?",
+        "answer": "Software course fees in Ameerpet generally range between ₹35,000 and ₹60,000, depending on the course and duration. Institutes like Teks Academy also provide EMI and installment options to make professional education affordable for students."
+      },
+      {
+        "question": "Which institute in Ameerpet offers both online and classroom training?",
+        "answer": "Teks Academy Ameerpet offers flexible online and offline training options for students and working professionals. Learners can attend in-person classes or live interactive online sessions with the same expert trainers and project support."
+      },
+      {
+        "question": "Which is the best institute in Ameerpet for Full Stack Python training?",
+        "answer": "Teks Academy Ameerpet offers a top-rated Full Stack Python course that covers HTML, CSS, JavaScript, Django, and REST APIs. Students learn by building live projects and get job-ready skills for front-end and back-end development roles."
+      },
+      {
+        "question": "Which is the best institute in Ameerpet for Data Science training?",
+        "answer": "Teks Academy’s Data Science program trains students in Python, Machine Learning, Power BI, and AI tools. Learners gain hands-on experience through real-time datasets and guided projects aligned with industry requirements."
+      },
+      {
+        "question": "What kind of job support does Teks Academy provide in Ameerpet?",
+        "answer": "Teks Academy offers 100% placement support through resume building, mock interviews, HR sessions, and direct recruiter tie-ups. Students receive career guidance until they get placed in reputed IT companies in roles related to Full Stack, Data Science, or Cloud technologies."
+      },
+      {
+        "question": "Can beginners without any coding knowledge join software training in Ameerpet?",
+        "answer": "Yes! Teks Academy Ameerpet welcomes beginners from non-IT backgrounds. The courses start from scratch, covering basics of coding, logic building, and hands-on projects — helping students gain confidence and transform into job-ready IT professionals step by step."
+      },
+      {
+        "question": "Which courses in Ameerpet have the highest placement rate?",
+        "answer": "Courses like Full Stack Development, Data Science, and AWS & DevOps have the highest placement rates in Ameerpet because of the growing demand in the IT job market. Teks Academy provides project-based learning to help students get placed faster."
+      },
+      {
+        "question": "Why should I choose the Teks Academy Ameerpet for my IT career?",
+        "answer": "Teks Academy Ameerpet provides the perfect mix of expert mentorship, AI-integrated learning, real-world projects, and 100% placement assistance. It’s the best institute in Ameerpet for students who want to build future-proof careers in Python, Data Science, and cloud-based technologies."
+      }
+    ]
+  }
+}

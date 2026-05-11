@@ -80,6 +80,7 @@ const getAllCourses = async (req, res) => {
       category,
       subCategory,
       branch,
+      branches,
       name,
       programName,
       top,
@@ -198,6 +199,20 @@ const getAllCourses = async (req, res) => {
       );
     }
 
+    // BRANCHES FILTER
+    // BRANCHES ARRAY FILTER
+    if (branches) {
+      const branchesLower = branches.trim().toLowerCase();
+
+      filteredCourses = filteredCourses.filter((course) =>
+        Array.isArray(course.branches)
+          ? course.branches.some(
+              (item) => item?.toString().trim().toLowerCase() === branchesLower,
+            )
+          : false,
+      );
+    }
+    
     // UNIVERSITY FILTER
     if (name) {
       const nameLower = name.trim().toLowerCase();
