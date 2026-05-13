@@ -1,5 +1,5 @@
 {
-  "page": ["contact","us"],
+  "page": ["contact", "us"],
   "meta": {
     "title": "teksversity – contact us",
     "description": "",
@@ -7,7 +7,7 @@
   },
 
   "contactSection": {
-    "heading": ["contact","us"],
+    "heading": ["contact", "us"],
     "image": {
       "src": "/discovery/Contact_us.webp",
       "alt": "ContactUs"
@@ -16,6 +16,7 @@
 
   "locationDetails": {
     "heading": "Location Details",
+
     "branches": [
       {
         "id": 1,
@@ -24,8 +25,8 @@
           "src": "/locations/secunderabad.webp",
           "alt": "secunderabad-branch"
         },
-        "address": "H.no 5-1-127/4, Flat No. 501, 5th Floor, Amsri Faust Building, SD Road, Secunderabad, Telangana 500003",
-        "phone": "+91 9281466365"
+        "address": "H.no: 9-1-127/4, Flat No: 501 & 502, 5th Floor, Amsri Faust Building, S.D. Road, Secunderabad, Telangana 500025",
+        "phone": "+91 92814 66365"
       },
       {
         "id": 2,
@@ -34,8 +35,78 @@
           "src": "/locations/ameerpet.webp",
           "alt": "ameerpet-branch"
         },
-        "address": "Ground Floor (GF2), Sree Swathi Anukar Building, Kumar Basti Rd, Besides HDFC Life, Punjagutta Officers Colony, A.M. Road, Ameerpet, Hyderabad, Telangana 500073",
+        "address": "Ground Floor (G2), Sree Swathi Anukar Building, Kumar Basti, 2nd besides of the Passport Office, AAA Mall Road, Ameerpet, Hyderabad, Telangana 500016",
         "phone": "+91 7815924610"
+      },
+      {
+        "id": 3,
+        "name": "Hitec City",
+        "image": {
+          "src": "/locations/hitec-city.webp",
+          "alt": "hitec-city-branch"
+        },
+        "address": "Plot No. 30, 3rd Floor, Cyber Heights, H. No: 1, 99/64/30, Rohini Layout Rd, Madhapur, Hyderabad, Telangana 500018",
+        "phone": "+91 78159 24622"
+      },
+      {
+        "id": 4,
+        "name": "Kukatpally",
+        "image": {
+          "src": "/locations/kukatpally.webp",
+          "alt": "kukatpally-branch"
+        },
+        "address": "2-22-293, Maruti Complex, Plot No 1, near KPHB Metro, Bhagya Nagar Colony, Kukatpally, Hyderabad, Telangana 500085",
+        "phone": "+91 86884 08352"
+      },
+      {
+        "id": 5,
+        "name": "Dilsukhnagar",
+        "image": {
+          "src": "/locations/dilsukhnagar.webp",
+          "alt": "dilsukhnagar-branch"
+        },
+        "address": "5th Floor, Padmavathi Complex, H.No. 16, 11-477/3/2/1, Dilsukh Nagar Main Rd, above Poornima Furnitures, opp. Pillar No 1521, Hyderabad, Telangana 500060",
+        "phone": "+91 7815924700"
+      },
+      {
+        "id": 6,
+        "name": "Mehdipatnam",
+        "image": {
+          "src": "/locations/mehdipatnam.webp",
+          "alt": "mehdipatnam-branch"
+        },
+        "address": "1st Floor, Safa Arcade, Asif Nagar, Mehdipatnam, Hyderabad, Telangana 500028",
+        "phone": "+91 98660 47567"
+      },
+      {
+        "id": 7,
+        "name": "Visakhapatnam",
+        "image": {
+          "src": "/locations/visakhapatnam.webp",
+          "alt": "visakhapatnam-branch"
+        },
+        "address": "2nd floor, Isnar Plaza, 47-14-18/8, Main Rd, Opp. HDFC Bank, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh 530016",
+        "phone": "+91 91333 08352"
+      },
+      {
+        "id": 8,
+        "name": "Bangalore",
+        "image": {
+          "src": "/locations/bangalore.webp",
+          "alt": "bangalore-branch"
+        },
+        "address": "First floor, Udupi Vaibhav, Subbaiah Reddy Colony, Aswath Nagar, Marathahalli, Bengaluru, Karnataka 560037",
+        "phone": "+91 70754 63275"
+      },
+      {
+        "id": 9,
+        "name": "Salem",
+        "image": {
+          "src": "/locations/salem.webp",
+          "alt": "salem-branch"
+        },
+        "address": "D. No B 26 Rajaji street Swarnapuri Salem -636004 Tamilnadu",
+        "phone": "+91 97885 77788"
       }
     ]
   },
