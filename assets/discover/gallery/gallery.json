@@ -4,55 +4,349 @@
     "description": "teksversity gallery page.",
     "schemaCode": {}
   },
-
   "gallery": {
     "position": 2,
-    "heading": ["Gallery"],
-      "images": [
-    { "id": 1, "src": "/gallery/image1.webp", "alt": "gallery-1" },
-    { "id": 2, "src": "/gallery/image3.webp", "alt": "gallery-3" },
-    { "id": 3, "src": "/gallery/image4.webp", "alt": "gallery-4" },
-    { "id": 4, "src": "/gallery/image5.webp", "alt": "gallery-5" },
-    { "id": 5, "src": "/gallery/image6.webp", "alt": "gallery-6" },
-    { "id": 6, "src": "/gallery/image7.webp", "alt": "gallery-7" },
-    { "id": 7, "src": "/gallery/image8.webp", "alt": "gallery-8" },
-    { "id": 8, "src": "/gallery/image9.webp", "alt": "gallery-9" },
-    { "id": 9, "src": "/gallery/image10.webp", "alt": "gallery-10" },
-    { "id": 10, "src": "/gallery/image11.webp", "alt": "gallery-11" },
-    { "id": 11, "src": "/gallery/image12.webp", "alt": "gallery-12" },
-    { "id": 12, "src": "/gallery/image14.webp", "alt": "gallery-14" },
-    { "id": 13, "src": "/gallery/image15.webp", "alt": "gallery-15" },
-    { "id": 14, "src": "/gallery/image16.webp", "alt": "gallery-16" },
-    { "id": 15, "src": "/gallery/image17.webp", "alt": "gallery-17" },
-    { "id": 16, "src": "/gallery/image18.webp", "alt": "gallery-18" },
-    { "id": 17, "src": "/gallery/image19.webp", "alt": "gallery-19" },
-    { "id": 18, "src": "/gallery/image21.webp", "alt": "gallery-21" },
-    { "id": 19, "src": "/gallery/image22.webp", "alt": "gallery-22" },
-    { "id": 20, "src": "/gallery/image23.webp", "alt": "gallery-23" },
-    { "id": 21, "src": "/gallery/image25.webp", "alt": "gallery-25" },
-    { "id": 22, "src": "/gallery/image26.webp", "alt": "gallery-26" },
-    { "id": 23, "src": "/gallery/image27.webp", "alt": "gallery-27" },
-    { "id": 24, "src": "/gallery/image28.webp", "alt": "gallery-28" },
-    { "id": 25, "src": "/gallery/image29.webp", "alt": "gallery-29" },
-    { "id": 26, "src": "/gallery/image30.webp", "alt": "gallery-30" },
-    { "id": 27, "src": "/gallery/image31.webp", "alt": "gallery-31" },
-    { "id": 28, "src": "/gallery/image32.webp", "alt": "gallery-32" },
-    { "id": 29, "src": "/gallery/image33.webp", "alt": "gallery-33" },
-    { "id": 30, "src": "/gallery/image34.webp", "alt": "gallery-34" },
-    { "id": 31, "src": "/gallery/image35.webp", "alt": "gallery-35" },
-    { "id": 32, "src": "/gallery/image36.webp", "alt": "gallery-36" },
-    { "id": 33, "src": "/gallery/image38.webp", "alt": "gallery-38" },
-    { "id": 34, "src": "/gallery/image39.webp", "alt": "gallery-39" },
-    { "id": 35, "src": "/gallery/image40.webp", "alt": "gallery-40" },
-    { "id": 36, "src": "/gallery/image41.webp", "alt": "gallery-41" },
-    { "id": 37, "src": "/gallery/image43.webp", "alt": "gallery-43" },
-    { "id": 38, "src": "/gallery/image44.webp", "alt": "gallery-44" },
-    { "id": 39, "src": "/gallery/image45.webp", "alt": "gallery-45" },
-    { "id": 40, "src": "/gallery/image47.webp", "alt": "gallery-47" },
-    { "id": 41, "src": "/gallery/image48.webp", "alt": "gallery-48" },
-    { "id": 42, "src": "/gallery/image49.webp", "alt": "gallery-49" },
-    { "id": 43, "src": "/gallery/image50.webp", "alt": "gallery-50" }
-  ]
+    "heading": [
+      "Gallery"
+    ],
+    "images": [
+      {
+        "id": 51,
+        "name": "AmeerpetBranch1",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/branches-gallery/ameerpet/1.webp",
+        "alt": "Teks Academy Ameerpet branch image 1"
+      },
+      {
+        "id": 52,
+        "name": "AmeerpetBranch2",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/branches-gallery/ameerpet/2.webp",
+        "alt": "Teks Academy Ameerpet branch image 2"
+      },
+      {
+        "id": 53,
+        "name": "AmeerpetBranch3",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/branches-gallery/ameerpet/3.webp",
+        "alt": "Teks Academy Ameerpet branch image 3"
+      },
+      {
+        "id": 54,
+        "name": "AmeerpetBranch4",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/branches-gallery/ameerpet/4.webp",
+        "alt": "Teks Academy Ameerpet branch image 4"
+      },
+      {
+        "id": 55,
+        "name": "AmeerpetBranch5",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/branches-gallery/ameerpet/5.webp",
+        "alt": "Teks Academy Ameerpet branch image 5"
+      },
+      {
+        "id": 56,
+        "name": "AmeerpetBranch6",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/branches-gallery/ameerpet/6.webp",
+        "alt": "Teks Academy Ameerpet branch image 6"
+      },
+      {
+        "id": 57,
+        "name": "AmeerpetBranch7",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/branches-gallery/ameerpet/7.webp",
+        "alt": "Teks Academy Ameerpet branch image 7"
+      },
+      {
+        "id": 58,
+        "name": "AmeerpetBranch8",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/branches-gallery/ameerpet/8.webp",
+        "alt": "Teks Academy Ameerpet branch image 8"
+      },
+      {
+        "id": 59,
+        "name": "AmeerpetBranch9",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/branches-gallery/ameerpet/9.webp",
+        "alt": "Teks Academy Ameerpet branch image 9"
+      },
+      {
+        "id": 60,
+        "name": "AmeerpetBranch10",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/branches-gallery/ameerpet/10.webp",
+        "alt": "Teks Academy Ameerpet branch image 10"
+      },
+      {
+        "id": 1,
+        "name": "TeksStudents1",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/image3.webp",
+        "alt": "teks academy placement drive"
+      },
+      {
+        "id": 2,
+        "name": "TeksStudents2",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/image4.webp",
+        "alt": "teks academy placement drive intro"
+      },
+      {
+        "id": 3,
+        "name": "TeksStudents3",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/image5.webp",
+        "alt": "teks academy meeting"
+      },
+      {
+        "id": 4,
+        "name": "TeksStudents4",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/image6.webp",
+        "alt": "teks academy placement drive"
+      },
+      {
+        "id": 5,
+        "name": "TeksStudents5",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/image7.webp",
+        "alt": "teks academy traineers"
+      },
+      {
+        "id": 6,
+        "name": "TeksStudents6",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/image8.webp",
+        "alt": "teks academy classes"
+      },
+      {
+        "id": 7,
+        "name": "TeksStudents7",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/image9.webp",
+        "alt": "teks academy placement sessions"
+      },
+      {
+        "id": 8,
+        "name": "TeksStudents8",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/image10.webp",
+        "alt": "teks academy teachers day celebrations"
+      },
+      {
+        "id": 9,
+        "name": "TeksStudents9",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/image11.webp",
+        "alt": "teks academy trainers"
+      },
+      {
+        "id": 10,
+        "name": "TeksStudents10",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/image12.webp",
+        "alt": "teks academy placement discussion"
+      },
+      {
+        "id": 11,
+        "name": "TeksStudents11",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/image1.webp",
+        "alt": "teks academy memebers"
+      },
+      {
+        "id": 12,
+        "name": "TeksStudents12",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/image14.webp",
+        "alt": "teks academy interviews session"
+      },
+      {
+        "id": 13,
+        "name": "TeksStudents13",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/image15.webp",
+        "alt": "teks academy interviews session"
+      },
+      {
+        "id": 14,
+        "name": "TeksStudents14",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/image16.webp",
+        "alt": "teks academy felicitation"
+      },
+      {
+        "id": 15,
+        "name": "TeksStudents15",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/image17.webp",
+        "alt": "teks academy interviews session"
+      },
+      {
+        "id": 16,
+        "name": "TeksStudents16",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/image18.webp",
+        "alt": "teks academy interviews session"
+      },
+      {
+        "id": 17,
+        "name": "TeksStudents17",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/image19.webp",
+        "alt": "teks students project presentation"
+      },
+      {
+        "id": 18,
+        "name": "TeksStudents18",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/image20.webp",
+        "alt": "teks academy interviews session"
+      },
+      {
+        "id": 19,
+        "name": "TeksStudents19",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/image21.webp",
+        "alt": "teks academy interviews session"
+      },
+      {
+        "id": 20,
+        "name": "TeksStudents20",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/image22.webp",
+        "alt": "teks academy interviews session"
+      },
+      {
+        "id": 21,
+        "name": "TeksStudents21",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/image23.webp",
+        "alt": "teks academy event celebrations"
+      },
+      {
+        "id": 61,
+        "name": "BangloreBranch1",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/branches-gallery/banglore/1.webp",
+        "alt": "Teks Academy Bangalore branch image 1"
+      },
+      {
+        "id": 62,
+        "name": "BangloreBranch2",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/branches-gallery/banglore/2.webp",
+        "alt": "Teks Academy Bangalore branch image 2"
+      },
+      {
+        "id": 63,
+        "name": "BangloreBranch3",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/branches-gallery/banglore/3.webp",
+        "alt": "Teks Academy Bangalore branch image 3"
+      },
+      {
+        "id": 64,
+        "name": "BangloreBranch4",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/branches-gallery/banglore/4.webp",
+        "alt": "Teks Academy Bangalore branch image 4"
+      },
+      {
+        "id": 65,
+        "name": "BangloreBranch5",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/branches-gallery/banglore/5.webp",
+        "alt": "Teks Academy Bangalore branch image 5"
+      },
+      {
+        "id": 66,
+        "name": "BangloreBranch6",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/branches-gallery/banglore/6.webp",
+        "alt": "Teks Academy Bangalore branch image 6"
+      },
+      {
+        "id": 67,
+        "name": "BangloreBranch7",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/branches-gallery/banglore/7.webp",
+        "alt": "Teks Academy Bangalore branch image 7"
+      },
+      {
+        "id": 68,
+        "name": "DilshuknagarBranch1",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/branches-gallery/dilsukhnagar/1.webp",
+        "alt": "Teks Academy Dilshuknagar branch image 1"
+      },
+      {
+        "id": 69,
+        "name": "DilshuknagarBranch2",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/branches-gallery/dilsukhnagar/2.webp",
+        "alt": "Teks Academy Dilshuknagar branch image 2"
+      },
+      {
+        "id": 70,
+        "name": "DilshuknagarBranch3",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/branches-gallery/dilsukhnagar/3.webp",
+        "alt": "Teks Academy Dilshuknagar branch image 3"
+      },
+      {
+        "id": 71,
+        "name": "DilshuknagarBranch4",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/branches-gallery/dilsukhnagar/4.webp",
+        "alt": "Teks Academy Dilshuknagar branch image 4"
+      },
+      {
+        "id": 72,
+        "name": "DilshuknagarBranch5",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/branches-gallery/dilsukhnagar/5.webp",
+        "alt": "Teks Academy Dilshuknagar branch image 5"
+      },
+      {
+        "id": 73,
+        "name": "DilshuknagarBranch6",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/branches-gallery/dilsukhnagar/6.webp",
+        "alt": "Teks Academy Dilshuknagar branch image 6"
+      },
+      {
+        "id": 74,
+        "name": "DilshuknagarBranch7",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/branches-gallery/dilsukhnagar/7.webp",
+        "alt": "Teks Academy Dilshuknagar branch image 7"
+      },
+      {
+        "id": 75,
+        "name": "DilshuknagarBranch8",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/branches-gallery/dilsukhnagar/8.webp",
+        "alt": "Teks Academy Dilshuknagar branch image 8"
+      },
+      {
+        "id": 76,
+        "name": "DilshuknagarBranch9",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/branches-gallery/dilsukhnagar/9.webp",
+        "alt": "Teks Academy Dilshuknagar branch image 9"
+      },
+      {
+        "id": 77,
+        "name": "DilshuknagarBranch10",
+        "role": "Designer",
+        "imgsrc": "/assets/img/gallery/branches-gallery/dilsukhnagar/10.webp",
+        "alt": "Teks Academy Dilshuknagar branch image 10"
+      }
+    ]
   },
   "communitySection": {
     "position": 3,

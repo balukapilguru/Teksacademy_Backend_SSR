@@ -5,23 +5,28 @@
     "description": "Learn about teksversity, mission, vision, success team and branch locations.",
     "canonical": "/about-us"
   },
-
-  "title": ["About", " Us"],
-
+  "title": [
+    "About",
+    " Us"
+  ],
   "aboutUS": {
     "id": "about-intro",
-    "heading": ["We're here to -", "Guarantee your success"],
+    "heading": [
+      "We're here to -",
+      "Guarantee your success"
+    ],
     "description": "Teksversity is redefining modern education by connecting learners with the most in-demand tech and professional skills of today. Built for ambitious students and working professionals, our platform blends university-level academics with real-world applications, helping learners stay ahead in a fast-changing digital world. Through flexible online programs, expert-led instruction, and hands-on learning experiences, Teksversity makes advanced education accessible to anyone, anywhere. We focus on shaping confident, industry-ready individuals who can adapt, innovate, and thrive in global workplaces. Whether you're starting your academic journey or upgrading your skill set, Teksversity offers a seamless pathway to growth—powered by technology, guided by experts, and designed for the future. ",
-
     "image": {
       "src": "/discovery/Teskversity_About_Us.webp",
       "alt": "About_Us"
     }
   },
-
   "mapSection": {
     "id": "locations-map",
-    "heading": ["We're here for you -", "No matter where you are"],
+    "heading": [
+      "We're here for you -",
+      "No matter where you are"
+    ],
     "description": "Find the nearest teksversity branch across Telangana, Andhra Pradesh, Karnataka and Tamil Nadu.",
     "map": {
       "provider": "google-maps",
@@ -29,7 +34,6 @@
       "title": "teksversity Branch Locations Map"
     }
   },
-
   "ourVision": {
     "blocks": [
       {
@@ -42,31 +46,119 @@
       }
     ]
   },
-
-
   "locationDetails": {
-    "heading": ["Location", "Details"],
+    "heading": [
+      "Location",
+      "Details"
+    ],
     "branches": [
       {
         "branchId": "secunderabad",
         "city": "Secunderabad",
         "label": "Secunderabad",
         "image": {
-          "src": "/kakinada/image.png",
-          "alt": "teksversity Secunderabad branch"
+          "src": "/assets/img/locations/secunderabad.webp",
+          "alt": "teksacademy Secunderabad branch"
         },
-        "address": "3rd Floor, Amsri Faust Building, Sarojini Devi Road, opp to pista house, Regimental Bazaar, Shivaji Nagar, Secunderabad, Hyderabad - 500025",
-        "phone": "+91 9121355225",
-        "mapLink": "https://maps.app.goo.gl/zwc2krMR8Db37hXq8"
+        "address": "H.no: 9-1-127/4, Flat No: 501 & 502, 5th Floor, Amsri Faust Building, S.D. Road, Secunderabad, Telangana 500025",
+        "phone": "+91 92814 66365",
+        "mapLink": "https://maps.google.com/?q=Amsri+Faust+Building+Secunderabad"
       },
       {
-        "branchId": "Kakinada",
+        "branchId": "ameerpet",
         "city": "Hyderabad",
-        "label": "Kakinada",
-        "image":{ "src": "/kakinada/gallery/gallery11.webp", "alt": "kakinada" },
-        "address": "2nd Floor, Kokila center, 2-32-1, Sai Complex, opp. YSR Circle, Kakinada, Andhra Pradesh 533003",
-        "phone": "+91 9257669779",
-        "mapLink": "https://maps.app.goo.gl/oD7rtQfbLoXAC5Dq6"
+        "label": "Ameerpet",
+        "image": {
+          "src": "/assets/img/locations/ameerpet.webp",
+          "alt": "teksacademy Ameerpet branch"
+        },
+        "address": "Ground Floor (G2), Sree Swathi Anukar Building, Kumar Basti, 2nd besides of the Passport Office, AAA Mall Road, Ameerpet, Hyderabad, Telangana 500016",
+        "phone": "+91 7815924610",
+        "mapLink": "https://maps.google.com/?q=Sree+Swathi+Anukar+Building+Ameerpet"
+      },
+      {
+        "branchId": "hitech-city",
+        "city": "Hyderabad",
+        "label": "Hitec City",
+        "image": {
+          "src": "/assets/img/locations/hitech-city.webp",
+          "alt": "teksacademy Hitec City branch"
+        },
+        "address": "Plot No. 30, 3rd Floor, Cyber Heights, H. No: 1, 99/64/30, Rohini Layout Rd, Madhapur, Hyderabad, Telangana 500018",
+        "phone": "+91 78159 24622",
+        "mapLink": "https://maps.google.com/?q=Cyber+Heights+Madhapur"
+      },
+      {
+        "branchId": "kukatpally",
+        "city": "Hyderabad",
+        "label": "Kukatpally",
+        "image": {
+          "src": "/assets/img/locations/kukatpally.webp",
+          "alt": "teksacademy Kukatpally branch"
+        },
+        "address": "2-22-293, Maruti Complex, Plot No 1, near KPHB Metro, Bhagya Nagar Colony, Kukatpally, Hyderabad, Telangana 500085",
+        "phone": "+91 86884 08352",
+        "mapLink": "https://maps.google.com/?q=Maruti+Complex+Kukatpally"
+      },
+      {
+        "branchId": "dilsukhnagar",
+        "city": "Hyderabad",
+        "label": "Dilsukhnagar",
+        "image": {
+          "src": "/assets/img/locations/dilsukhnagar.webp",
+          "alt": "teksacademy Dilsukhnagar branch"
+        },
+        "address": "5th Floor, Padmavathi Complex, H.No. 16, 11-477/3/2/1, Dilsukh Nagar Main Rd, above Poornima Furnitures, opp. Pillar No 1521, Hyderabad, Telangana 500060",
+        "phone": "+91 7815924700",
+        "mapLink": "https://maps.google.com/?q=Padmavathi+Complex+Dilsukhnagar"
+      },
+      {
+        "branchId": "mehdipatnam",
+        "city": "Hyderabad",
+        "label": "Mehdipatnam",
+        "image": {
+          "src": "/assets/img/locations/mehdipatnam.webp",
+          "alt": "teksacademy Mehdipatnam branch"
+        },
+        "address": "1st Floor, Safa Arcade, Asif Nagar, Mehdipatnam, Hyderabad, 500028",
+        "phone": "+91 98660 47567",
+        "mapLink": "https://maps.google.com/?q=Safa+Arcade+Mehdipatnam"
+      },
+      {
+        "branchId": "visakhapatnam",
+        "city": "Visakhapatnam",
+        "label": "Visakhapatnam",
+        "image": {
+          "src": "/assets/img/locations/visakhapatnam.webp",
+          "alt": "teksacademy Visakhapatnam branch"
+        },
+        "address": "2nd floor, Isnar Plaza, 47-14-18/8, Main Rd, Opp. HDFC Bank, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh 530016",
+        "phone": "+91 91333 08352",
+        "mapLink": "https://maps.google.com/?q=Isnar+Plaza+Visakhapatnam"
+      },
+      {
+        "branchId": "bangalore",
+        "city": "Bangalore",
+        "label": "Bangalore",
+        "image": {
+          "src": "/assets/img/locations/bangalore.webp",
+          "alt": "teksacademy Bangalore branch"
+        },
+        "address": "First floor, Udipi Vaibhav, Subbaiah Reddy Colony, Aswath Nagar, Marathahalli, Bengaluru, Karnataka 560037",
+        "phone": "+91 70754 63275",
+        "mapLink": "https://maps.google.com/?q=Udipi+Vaibhav+Marathahalli"
+      },
+      {
+        "branchId": "salem",
+        "city": "Salem",
+        "label": "Salem",
+        "image": {
+          "src": "/assets/img/locations/salem.webp",
+          "alt": "teksacademy Salem branch"
+        },
+        "address": "D. No B 26 Rajaji street Swarnapuri Salem - 636004 Tamilnadu",
+        "phone": "+91 97885 77788",
+        "mapLink": "https://maps.google.com/?q=Rajaji+street+Swarnapuri+Salem"
       }
     ]
   }
