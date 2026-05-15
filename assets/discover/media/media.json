@@ -7,21 +7,181 @@
         "label": "News Papers",
         "active": true,
         "icon": "newspaper",
-        "mediaCards": [ ]
+        "mediaCards": [
+          {
+            "id": 1,
+            "cardImage": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/newsmedia1.webp",
+            "alt": "teks academy media 1"
+          },
+          {
+            "id": 2,
+            "cardImage": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/newsmedia2.webp",
+            "alt": "teks academy media 2"
+          },
+          {
+            "id": 3,
+            "cardImage": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/newsmedia3.webp",
+            "alt": "teks academy media 3"
+          },
+          {
+            "id": 4,
+            "cardImage": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/newsmedia4.webp",
+            "alt": "teks academy media 4"
+          },
+          {
+            "id": 5,
+            "cardImage": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/newsmedia5.webp",
+            "alt": "teks academy media 5"
+          },
+          {
+            "id": 6,
+            "cardImage": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/newsmedia6.webp",
+            "alt": "teks academy media 6"
+          },
+          {
+            "id": 7,
+            "cardImage": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/newsmedia7.webp",
+            "alt": "teks academy media 7"
+          },
+          {
+            "id": 8,
+            "cardImage": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/newsmedia8.webp",
+            "alt": "teks academy media 8"
+          },
+          {
+            "id": 9,
+            "cardImage": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/newsmedia9.webp",
+            "alt": "teks academy media 9"
+          },
+          {
+            "id": 10,
+            "cardImage": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/newsmedia10.webp",
+            "alt": "teks academy media 10"
+          },
+          {
+            "id": 11,
+            "cardImage": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/newsmedia11.webp",
+            "alt": "teks academy media 11"
+          }
+        ]
       },
       {
         "id": "digital-media",
         "label": "Digital Media",
         "active": false,
         "icon": "mic",
-        "mediaCards": [ ]
+        "mediaCards": [
+          {
+            "id": 1,
+            "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/video1.webp",
+            "videoUrl": "https://www.youtube.com/embed/sRkGTzl9Sbg?si=Kd3HWjpFhXHxyDsg",
+            "alt": "teks academy courses"
+          },
+          {
+            "id": 2,
+            "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/video1.webp",
+            "videoUrl": "https://www.youtube.com/embed/5U8T7GzyQqw?si=_GTl5X60YsK1JCZr",
+            "alt": "teks academy at dilsuknagar"
+          },
+          {
+            "id": 3,
+            "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/video2.webp",
+            "videoUrl": "https://www.youtube.com/embed/L9s0LrhKz94?si=CLAS0Dr9iSBgkGyK",
+            "alt": "telugu now news channel"
+          },
+          {
+            "id": 4,
+            "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/video3.webp",
+            "videoUrl": "https://www.youtube.com/embed/ODgUnw2BJUY?si=7CHhVH2x7p8Atzsg",
+            "alt": "tv5 news channel"
+          },
+          {
+            "id": 5,
+            "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/video4.webp",
+            "videoUrl": "https://www.youtube.com/embed/okyW5H48auE?si=XXg8U88FtlosSKcp",
+            "alt": "abn news channel"
+          },
+          {
+            "id": 6,
+            "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/video5.webp",
+            "videoUrl": "https://www.youtube.com/embed/95zgphvePjo?si=CDxTT8538dasdNCQ",
+            "alt": "hmtv news channel"
+          },
+          {
+            "id": 7,
+            "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/maxresdefault.webp",
+            "videoUrl": "https://www.youtube.com/embed/fjT2GFMFjME?si=eK0GxugAw_BjAAj1",
+            "alt": "24 tv news channel"
+          },
+          {
+            "id": 8,
+            "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/video1.webp",
+            "videoUrl": "https://www.youtube.com/embed/gEI9_5P5DBw?si=YVjpDMNuYA_77OE7",
+            "alt": "abn news channel"
+          },
+          {
+            "id": 9,
+            "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/video1.webp",
+            "videoUrl": "https://www.youtube.com/embed/OsXdFWdHqR0?si=Xp9olFCPEbiCKEL8",
+            "alt": "v6 news channel"
+          }
+        ]
       },
       {
         "id": "influencer",
         "label": "Influencer",
         "active": false,
         "icon": "video",
-        "mediaCards": [ ]
+        "mediaCards": [
+          {
+            "id": 1,
+            "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/v1.webp",
+            "videoUrl": "https://www.youtube.com/embed/BQhP7zPTHPo?si=GUIpbUJg164JS3RG",
+            "alt": "about teks academy"
+          },
+          {
+            "id": 2,
+            "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/v2.webp",
+            "videoUrl": "https://www.youtube.com/embed/77YknYCZojs?si=xmezOpPRQDApaRgy",
+            "alt": "teks academy jobs"
+          },
+          {
+            "id": 3,
+            "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/v3.webp",
+            "videoUrl": "https://www.youtube.com/embed/mrxOqP5mkzA?si=Zz8lLYaSjOW8u3s-",
+            "alt": "best software training institute"
+          },
+          {
+            "id": 4,
+            "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/v4.webp",
+            "videoUrl": "https://www.youtube.com/watch?v=fwTfXIgroJQ",
+            "alt": "teks academy 100% placement support"
+          },
+          {
+            "id": 5,
+            "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/v5.webp",
+            "videoUrl": "https://www.youtube.com/embed/P83VBjbBGAc?si=0MEgwwneAwhgk6Z3",
+            "alt": "tekls academy software courses"
+          },
+          {
+            "id": 6,
+            "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/v6.webp",
+            "videoUrl": "https://www.youtube.com/embed/Dw0ra04AcFE?si=MRK88OzmmCR0T_85",
+            "alt": "best software training institute"
+          },
+          {
+            "id": 7,
+            "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/v7.webp",
+            "videoUrl": "https://www.youtube.com/embed/y3DdXD18mFY?si=SHqA0ARauRtCMPe1",
+            "alt": "teks academy"
+          },
+          {
+            "id": 8,
+            "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/v8.webp",
+            "videoUrl": "https://www.youtube.com/embed/9FtMTrx-ZNQ?si=VV0TVcwlHklV_qMd",
+            "alt": "teks acdemy -it and non it courses"
+          }
+        ]
       }
     ]
   }

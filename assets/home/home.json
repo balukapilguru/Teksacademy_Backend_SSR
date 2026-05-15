@@ -8,7 +8,28 @@
     "position": 1,
     "video": "/assets/videossection/glimpse_video_for_website.mp4",
     "thumbnail": "home/banner/bannerfinal.webp",
-    "subHeading": "Recognised by"
+    "subHeading": "Recognised by",
+    "offeredBy": {
+      "heading": ["Partnered With"],
+      "image": [
+        {
+          "src": "/assets/img/partners-images/linkedin.webp",
+          "alt": "linkedin"
+        },
+        {
+          "src": "/assets/img/partners-images/mumbai.webp",
+          "alt": "mumbai"
+        },
+        {
+          "src": "/assets/img/partners-images/palakkad.webp",
+          "alt": "palakkad"
+        },
+        {
+          "src": "/assets/img/partners-images/patna.webp",
+          "alt": "patna"
+        }
+      ]
+    }
   },
 
   "topScroll": {
