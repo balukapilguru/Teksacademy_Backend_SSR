@@ -86,10 +86,10 @@
           "id": "5",
           "name": "hassan-madani-aws-devops-mehdipatnam",
           "thumbnail": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/hassan-madani-aws-devops-mehdipatnam.webp",
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/hassan-madani-aws-devops-mehidipatnam.webp",
             "alt": "hassan-madani-aws-devops-mehdipatnam"
           },
-          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/hassan-madani-aws-devops-mehdipatnam-video.mp4"
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/hassan-madani-aws-devops-mehidipatnam-video.mp4"
         },
         {
           "id": "6",
@@ -533,70 +533,6 @@
           "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/pavan-chandra-datascience.mp4"
         },
         {
-          "id": 5,
-          "name": "Dt_tc_1",
-          "thumbnail": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Dt_tc_1.webp",
-            "alt": "vinaymodinikumar_datascience_in_teks_academy_tc_1"
-          }
-        },
-        {
-          "id": 6,
-          "name": "Dt_tc_2",
-          "thumbnail": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Dt_tc_2.webp",
-            "alt": "mandadhiganesh_datascience_in_teks_academy_tc_2"
-          }
-        },
-        {
-          "id": 7,
-          "name": "bharath_tc_Ds",
-          "thumbnail": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/bharath_tc_Ds.webp",
-            "alt": "bharathbandarupally_datascience_in_teks_academy_tc_Ds.webp"
-          }
-        },
-        {
-          "id": 8,
-          "name": "Dt_tc_4",
-          "thumbnail": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Dt_tc_4.webp",
-            "alt": "jonnalagaddapranvitha_datascience_in_teks_academy_tc_4"
-          }
-        },
-        {
-          "id": 7,
-          "name": "AWS_tc_1",
-          "thumbnail": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/AWS_tc_1.webp",
-            "alt": "rohith_ramagiri_aws+devops_in_teksacademy_tc_1"
-          }
-        },
-        {
-          "id": 8,
-          "name": "AWS_tc_2",
-          "thumbnail": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/AWS_tc_2.webp",
-            "alt": "g.chandini_aws+devops_in _teksacademy_tc_2"
-          }
-        },
-        {
-          "id": 9,
-          "name": "AWS_tc_3",
-          "thumbnail": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/AWS_tc_3.webp",
-            "alt": "rohithramagiri_aws+devops_in_teksacademytc_3"
-          }
-        },
-        {
-          "id": 10,
-          "name": "AWS_tc_4",
-          "thumbnail": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/AWS_tc_4.webp",
-            "alt": "saipriya_aws+devops_in_teksacademy_tc_4"
-          }
-        },
-        {
           "id": 2,
           "name": "sai_vivekananda_Dm",
           "thumbnail": {
@@ -883,17 +819,72 @@
             "alt": "sudheer_fullstack_java_in_teksacademy"
           },
           "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/sudheer_fj.mp4"
-        },
-        {
-          "id": "",
-          "name": "",
-          "thumbnail": {
-            "src": "",
-            "alt": ""
-          }
         }
       ],
-      "cards": [
+      "cards": [ {
+          "id": 5,
+          "name": "Dt_tc_1",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Dt_tc_1.webp",
+            "alt": "vinaymodinikumar_datascience_in_teks_academy_tc_1"
+          }
+        },
+        {
+          "id": 9,
+          "name": "AWS_tc_3",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/AWS_tc_3.webp",
+            "alt": "rohithramagiri_aws+devops_in_teksacademytc_3"
+          }
+        },
+        {
+          "id": 10,
+          "name": "AWS_tc_4",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/AWS_tc_4.webp",
+            "alt": "saipriya_aws+devops_in_teksacademy_tc_4"
+          }
+        },
+        {
+          "id": 7,
+          "name": "AWS_tc_1",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/AWS_tc_1.webp",
+            "alt": "rohith_ramagiri_aws+devops_in_teksacademy_tc_1"
+          }
+        },
+        {
+          "id": 8,
+          "name": "AWS_tc_2",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/AWS_tc_2.webp",
+            "alt": "g.chandini_aws+devops_in _teksacademy_tc_2"
+          }
+        },
+           {
+          "id": 6,
+          "name": "Dt_tc_2",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Dt_tc_2.webp",
+            "alt": "mandadhiganesh_datascience_in_teks_academy_tc_2"
+          }
+        },
+        {
+          "id": 7,
+          "name": "bharath_tc_Ds",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/bharath_tc_Ds.webp",
+            "alt": "bharathbandarupally_datascience_in_teks_academy_tc_Ds.webp"
+          }
+        },
+        {
+          "id": 8,
+          "name": "Dt_tc_4",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/Dt_tc_4.webp",
+            "alt": "jonnalagaddapranvitha_datascience_in_teks_academy_tc_4"
+          }
+        },
         {
           "id": 5,
           "name": "Sharath Chandra",
@@ -1335,38 +1326,6 @@
           }
         },
         {
-          "id": 1,
-          "name": "ba_le_p_1",
-          "thumbnail": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/ba_le_p_1.webp",
-            "alt": "Kalyan_business_analytics_in_teksacademy"
-          }
-        },
-        {
-          "id": 2,
-          "name": "ba_le_p_2",
-          "thumbnail": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/ba_le_p_2.webp",
-            "alt": "Srivan_business_analytics_in_teksacademy"
-          }
-        },
-        {
-          "id": 3,
-          "name": "ba_le_p_3",
-          "thumbnail": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/ba_le_p_3.webp",
-            "alt": "Vikranth_Kumar_business_analytics_in_teksacademy"
-          }
-        },
-        {
-          "id": 4,
-          "name": "ba_le_p_4",
-          "thumbnail": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/ba_le_p_4.webp",
-            "alt": "Jaligam_Prakash_business_analytics_in_teksacademy"
-          }
-        },
-        {
           "id": 8,
           "name": "Santosh",
           "thumbnail": {
@@ -1423,46 +1382,6 @@
           }
         },
         {
-          "id": 3,
-          "name": "cs_le_p_3",
-          "thumbnail": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/cs_le_p_3.webp",
-            "alt": "Kavya_cyber_security_in_teksacademy"
-          }
-        },
-        {
-          "id": 4,
-          "name": "cs_le_p_4",
-          "thumbnail": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/cs_le_p_4.webp",
-            "alt": "Anvesh_cyber_security_in_teksacademy"
-          }
-        },
-        {
-          "id": 1,
-          "name": "cs_le_p_1",
-          "thumbnail": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/cs_le_p_1.webp",
-            "alt": "Srika_cyber_security_in_teksacademy"
-          }
-        },
-        {
-          "id": 2,
-          "name": "cs_le_p_2",
-          "thumbnail": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/cs_le_p_2.webp",
-            "alt": "Aashrith_cyber_security_in_teksacademy"
-          }
-        },
-        {
-          "id": 3,
-          "name": "cs_le_p_3",
-          "thumbnail": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/cs_le_p_3.webp",
-            "alt": "Kavya_cyber_security_in_teksacademy"
-          }
-        },
-        {
           "id": 4,
           "name": "cs_le_p_4",
           "thumbnail": {
@@ -1501,24 +1420,6 @@
             "alt": "srija_fj"
           },
           "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/srija_intern.mp4"
-        },
-        {
-          "id": 8,
-          "name": "sai_kiran_sd",
-          "thumbnail": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/sai_kiran_sd.webp",
-            "alt": "sai_kiran_sd"
-          },
-          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Sai_Kiran_fp.mp4"
-        },
-        {
-          "id": 8,
-          "name": "sai_kiran_sd",
-          "thumbnail": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/sai_kiran_sd.webp",
-            "alt": "sai_kiran_sd"
-          },
-          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Sai_Kiran_fp.mp4"
         },
         {
           "id": 6,
@@ -1703,15 +1604,6 @@
           "videoUrl": ""
         },
         {
-          "id": 1,
-          "name": "vineeth_ft_fp",
-          "thumbnail": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/vineeth_ft_fp.webp",
-            "alt": "vineeth_ft_fj"
-          },
-          "videoUrl": ""
-        },
-        {
           "id": 2,
           "name": "dasari_kalyan_pc",
           "thumbnail": {
@@ -1825,15 +1717,6 @@
           "thumbnail": {
             "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/ishaan_sf_pc.webp",
             "alt": "sai_raghava_ft_fp"
-          },
-          "videoUrl": ""
-        },
-        {
-          "id": 2,
-          "name": "kavya_sf_pc",
-          "thumbnail": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/kavya_sf_pc.webp",
-            "alt": "ranjith_ft_sf"
           },
           "videoUrl": ""
         },
@@ -2035,15 +1918,7 @@
           },
           "videoUrl": ""
         },
-        {
-          "id": 3,
-          "name": "kavya_ae_pc",
-          "thumbnail": {
-            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/kavya_ae_pc.webp",
-            "alt": "kavya_ae"
-          },
-          "videoUrl": ""
-        },
+
         {
           "id": 4,
           "name": "ajay_ae_pc",

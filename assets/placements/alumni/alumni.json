@@ -2,13 +2,11 @@
   "alumniSection": {
     "position": 1,
     "title": "Alumni",
-
     "heroSection": {
       "image": {
-        "src": "/assets/alumni/alumni_hero.webp",
+        "src": "/assets/img/alumni/man_using_tech.webp",
         "alt": "Teks Academy Alumni"
       },
-
       "floatingCards": [
         {
           "id": 1,
@@ -29,7 +27,6 @@
           "progress": "80%"
         }
       ],
-
       "content": {
         "heading": "Teks Offers India’s No. 1 Alumni Network",
         "description": [
@@ -38,11 +35,3513 @@
         ]
       }
     },
-
     "networkSection": {
       "heading": "Our Global Alumni Network",
-
-      "alumniCards": []
+      "alumniCards": [
+        [
+          {
+            "id": 255,
+            "name": "Akshitha Battula",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/battula-akshitha-full-stack-python.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 256,
+            "name": "Nishitha",
+            "course": "AWS & DevOps Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/battu-nishitha-aws-devops.webp",
+              "alt": "AWS & DevOps Certification Course"
+            }
+          },
+          {
+            "id": 1,
+            "name": "Sai Ganesh",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/sai_ganesh1.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 206,
+            "name": "Deepika",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Deepika-kphb-FullStackPython.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 2,
+            "name": "Jekkula Goutham",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/jekkulagoutham.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 3,
+            "name": "Madhavi",
+            "course": "Data Science Certifcation Course ",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/madhavi.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 4,
+            "name": "Vishwa Teja",
+            "course": "Digital Marketing Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/vishwa_teja3.webp",
+              "alt": "Digital Marketing Certifcation Course"
+            }
+          },
+          {
+            "id": 5,
+            "name": "Nakka Prashanth",
+            "course": " Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/nakkaprashanth.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 6,
+            "name": "Bolledu Lalavanya",
+            "course": "SAP FICO Certifcation Course ",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/bolledulalavanya.webp",
+              "alt": "SAP FICO Certifcation Course"
+            }
+          },
+          {
+            "id": 7,
+            "name": "BVSL.Navyasri",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/bvslnavyasri.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 8,
+            "name": "Pambala Aravind",
+            "course": "AWS & Devops Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/pambalaaravind.webp",
+              "alt": "AWS & Devops Certifcation Course"
+            }
+          },
+          {
+            "id": 9,
+            "name": "Kukkadapu Sai kumar",
+            "course": "Sales Force Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/saikumar.webp",
+              "alt": "Sales Force Certifcation Course"
+            }
+          },
+          {
+            "id": 29,
+            "name": "Ojjella Mahesh Kumar",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/ojjellamaheshkumar.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 219,
+            "name": "Nagesh",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Nagesh-Hitechcity-DataScience.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 10,
+            "name": "Elka Manisha",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/elkamanisha.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 11,
+            "name": "Mohammed Abdul Shahid",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/mohammedabdulshahid.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 12,
+            "name": "Vinay Vardhan Uppari",
+            "course": "Testing Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/vinayvardhanuppari.webp",
+              "alt": "Testing Certifcation Course"
+            }
+          },
+          {
+            "id": 13,
+            "name": "Nampelli Sai Nishanth ",
+            "course": "Data Analytics Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/nampellisainishanth.webp",
+              "alt": "Data Analytics Certifcation Course"
+            }
+          },
+          {
+            "id": 14,
+            "name": "Takur Nithin Singh",
+            "course": "AWS & Devops Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/takurnithinsingh.webp",
+              "alt": "AWS & Devops Certifcation Course"
+            }
+          },
+          {
+            "id": 15,
+            "name": "Vallarapu Vijaya Venkata Naveen",
+            "course": " Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/vallarapuvijayavenkatanaveen.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 220,
+            "name": "Naveen",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Naveen-Hitechcity-FullStackJava.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 16,
+            "name": "CH Sai Srinath",
+            "course": "Sales Force Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/chsaisrinath.webp",
+              "alt": "Sales Force Certifcation Course"
+            }
+          },
+          {
+            "id": 202,
+            "name": "Archana",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Archana-Secunderabad-DataScience.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 17,
+            "name": "Archana Thallapelli",
+            "course": "AWS & Devops Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/archanathallapelli.webp",
+              "alt": "AWS & Devops Certifcation Course"
+            }
+          },
+          {
+            "id": 18,
+            "name": "Kodapgal Pramod Raj",
+            "course": "Data Science Certifcation Course ",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/kodapgalpramodraj.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 19,
+            "name": "Bantu kumasaswamy Rishitha",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/bantukumasaswamyrishitha.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 20,
+            "name": "Karumanchi Anusha",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/karumanchianusha.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 21,
+            "name": "M.Abdullah",
+            "course": "AutoCAD & BIM Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/m_abdullah4.webp",
+              "alt": "AutoCAD & BIM Certifcation Course"
+            }
+          },
+          {
+            "id": 22,
+            "name": "Myakala Sai Sudhir",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/myakalasaisudhir.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 23,
+            "name": "Veekshith",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/veekshith5.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 24,
+            "name": "Ramireddy Nandini",
+            "course": "Data Science Certifcation Course ",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/ramireddynandini.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 25,
+            "name": "Mallampalli Teja Babu",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/mallapamllitejababu.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 26,
+            "name": "Katla Saipriya",
+            "course": "Full Stack Python Certifcation Course ",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/katlasaipriya.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 27,
+            "name": "O.Anup",
+            "course": "Data Science Certifcation Course ",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/oanup.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 28,
+            "name": "Praveen Venkat pattapagalu",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/praveenvenkatpattapagalu.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 30,
+            "name": "Givya Ponthagandi",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/givyaponthagandi.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 31,
+            "name": "Durgam Sai Vivek",
+            "course": "Data Science Certifcation Course ",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/durgamsaivivek.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 32,
+            "name": "Goda Jaya Chandra Reddy",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/godajayachandrareddy.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 33,
+            "name": "Gudala Chandini",
+            "course": "AWS & Devops Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/gudalachandini.webp",
+              "alt": "AWS & Devops Certifcation Course"
+            }
+          },
+          {
+            "id": 34,
+            "name": "Devulapalli Raj Kumar ",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/devulapallirajkumar.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 35,
+            "name": "Chinnadandluru Saleem",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/chinnadandlurusaleem.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 36,
+            "name": "Koppela Vaishnavi",
+            "course": " Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/koppelavaishnavi.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 37,
+            "name": "Golla Vijay Kumar",
+            "course": "SAP FICO Certifcation Course ",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/gollavijaykumar.webp",
+              "alt": "SAP FICO Certifcation Course"
+            }
+          },
+          {
+            "id": 38,
+            "name": "D.Chandravadan",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/dchandravadan.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 39,
+            "name": "Numavath Jyothi",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/numavathjyothi.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 40,
+            "name": "Domala Supriya",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/domalasupriya.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 41,
+            "name": "Endravath Swapna",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/endravathswapna.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 42,
+            "name": "Shaik Parvez Pasha",
+            "course": "Testing Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/shaikparvezpasha.webp",
+              "alt": "Testing Certifcation Course"
+            }
+          },
+          {
+            "id": 43,
+            "name": "Undru Harsha Vardhan",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/undruharshavardhan.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 44,
+            "name": "B.Shirisha ",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/bshirisha.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 45,
+            "name": "Devagudi Siva Teja",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/devagudisivateja.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 46,
+            "name": "Gogineni Chetan Venkatakrishna",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/goginenichetanvenkatakrishna.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 47,
+            "name": "Bovilla Reddiah Reddy",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/bovillareddiahreddy.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 48,
+            "name": "Parsha Supriya",
+            "course": "AWS & Devops Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/parshasupriya.webp",
+              "alt": "AWS & Devops Certifcation Course"
+            }
+          },
+          {
+            "id": 227,
+            "name": "Sai Akhil Yadav",
+            "course": "Digital Marketing Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/SaiAkhilYadav-dilshuknagar-DigitalMarketing.webp",
+              "alt": "Digital Marketing Certification Course"
+            }
+          },
+          {
+            "id": 49,
+            "name": "Madisetty Premkumar",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/madisettypremkumar.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 50,
+            "name": "Lamba Kavya",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/lambakavya.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 51,
+            "name": "Rohith Ramagiri",
+            "course": "AWS & Devops Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/rohithramagiri.webp",
+              "alt": "AWS & Devops Certifcation Course"
+            }
+          },
+          {
+            "id": 52,
+            "name": "Boddu Madhavi",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/boddumadhavi.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 53,
+            "name": "Sharath Chandra",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/sharath_chandra2.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 54,
+            "name": "Pinnam Raju Teja Siva Surendra Varma ",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/pinnamrajuteajasivasurendravarma.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 55,
+            "name": "Vemula Soumya",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/vemulasoumya.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 56,
+            "name": "Anil Saitelagarapu",
+            "course": "AWS & Devops Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/anilsaitelagarapu.webp",
+              "alt": "AWS & Devops Certifcation Course"
+            }
+          },
+          {
+            "id": 57,
+            "name": "Yalla Manasa",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/yallamanasa.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 58,
+            "name": "Yalabaka Chandana",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/yalabakachandana.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 59,
+            "name": "Erugadhindla Sri Ramulu",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/erugadhindlasriramulu.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 60,
+            "name": "Thantepudi Vasanth",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/thantepudivasanth.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 61,
+            "name": "Kandula Rohith",
+            "course": "BIM Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/kandularohith.webp",
+              "alt": "BIM Certifcation Course"
+            }
+          },
+          {
+            "id": 62,
+            "name": "Anil kumar",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/anilkumar.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 63,
+            "name": "Zaid Ahmed Khan",
+            "course": "AWS & Devops Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/zaidahmedkhan.webp",
+              "alt": "AWS & Devops Certifcation Course"
+            }
+          },
+          {
+            "id": 215,
+            "name": "Maneesha",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Maneesha-Secunderabad-DataScience.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 64,
+            "name": "Medhini Dhori ",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/medhinidhori.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 65,
+            "name": "Mohammad Haneef Uddin",
+            "course": "AWS & Devops Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/mohammadhaneefuddin.webp",
+              "alt": "AWS & Devops Certifcation Course"
+            }
+          },
+          {
+            "id": 205,
+            "name": "Deekshith",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Deekshith-dilshuknagar-FullStackPython.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 66,
+            "name": "G.Tharun Kumar",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/gtharunkumar.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 67,
+            "name": "Modini Vinay Kumar",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/modinivinaykumar.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 68,
+            "name": "Srinivas Rao Kota",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/srinivasraokota.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 69,
+            "name": "B.R Sanjay Singh",
+            "course": "Digital Marketing Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/brsanjaysingh.webp",
+              "alt": "Digital Marketing Certifcation Course"
+            }
+          },
+          {
+            "id": 70,
+            "name": "Kommidi Nandini",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/kommidinandini.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 71,
+            "name": "Pulluri Harshith Kumar",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/pulluriharshithkumar.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 72,
+            "name": "Addagalla Mahendra Naga Venkat",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/addagallamahendranagavenkat.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 73,
+            "name": "Thalluri Manjula",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/thallurimanjula.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 74,
+            "name": "Pavuluri Narmada ",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/pavulurinarmada.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 75,
+            "name": "Dhadu Chandu",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/dhaduchandu.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 76,
+            "name": "Kunti Karunakar",
+            "course": "SAP FICO Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/kuntikarunakar.webp",
+              "alt": "SAP FICO Certifcation Course"
+            }
+          },
+          {
+            "id": 77,
+            "name": "Gonanhavi Komal Srivedh",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/gonanhavikomalsrivedh.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 78,
+            "name": "Valleboinasasi Priya",
+            "course": "AWS & Devops Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/valleboinasasipriya.webp",
+              "alt": "AWS & Devops Certifcation Course"
+            }
+          },
+          {
+            "id": 79,
+            "name": "Bantrothu Siva Prasad",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/bantrothusivaprasad.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 80,
+            "name": "Annaada Sulabhuvana Chandra",
+            "course": "AutoCAD & BIM Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/annaadasulabhuvanachandra.webp",
+              "alt": "AutoCAD & BIM Certifcation Course"
+            }
+          },
+          {
+            "id": 81,
+            "name": "M.Harshavardhan",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/mharshavardhan.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 82,
+            "name": "Varireddy Venkata Kiran Kumar Reddy",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/varireddyvenkatakirankumarkeddy.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 83,
+            "name": "Tiruveedula Sri Lavanya",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/tiruveedulasrilavanya.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 84,
+            "name": "Indravath Nandini ",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/indravathnandini.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 85,
+            "name": "Vadeghar Riya",
+            "course": "Data Analytics Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/vadegharriya.webp",
+              "alt": "Data Analytics Certifcation Course"
+            }
+          },
+          {
+            "id": 86,
+            "name": "Rekulapally Srikanth Reddy",
+            "course": "SAP FICO Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/rekulapallysrikanthreddy.webp",
+              "alt": "SAP FICO Certifcation Course"
+            }
+          },
+          {
+            "id": 87,
+            "name": "Kunarama Lakshmi",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/kunaramalakshmi.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 89,
+            "name": "Rathapuram Raju",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/rathapuramraju.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 90,
+            "name": "Konkayalasri Lakshmi",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/konkayalasrilakshmi.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 91,
+            "name": "Soumya Sagaiahgari",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/soumysragaiahgari.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 92,
+            "name": "Bulusu Sri Amarnath",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/bulususriamarnath.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 93,
+            "name": "Nethala Sharath Chandra",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/nethalasharathchandra.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 94,
+            "name": "Shaik Mohammad Jani ",
+            "course": "Data Analytics Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/shaikmohammadjani.webp",
+              "alt": "Data Analytics Certifcation Course"
+            }
+          },
+          {
+            "id": 95,
+            "name": "Mohamme Khaja Abdul Bari",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/mohammedkhajaabdulbari.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 228,
+            "name": "Sindhuja",
+            "course": "AWS Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Sindhuja-hitechcity-AWS.webp",
+              "alt": "AWS Certification Course"
+            }
+          },
+          {
+            "id": 96,
+            "name": "Gundapaneni Srihari",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/gundapanenisrihari.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 97,
+            "name": "Kandregula Sowmyasree",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/kandregulasowmyasree.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 98,
+            "name": "Ajit Jena",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/ajitjena.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 99,
+            "name": "Ulavapati krishna Vamsi ",
+            "course": "AWS & Devops Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/ulavapatikrishnavamsi.webp",
+              "alt": "AWS & Devops Certifcation Course"
+            }
+          },
+          {
+            "id": 100,
+            "name": "Nallamala Santhosh ",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/nallamalasanthosh.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 101,
+            "name": "U.Sasudarshan",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/usasudarshan.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 102,
+            "name": "Dusnamoni Neeraja",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/dusnamonineeraja.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 103,
+            "name": "Mohammad Sadullahfahed",
+            "course": "BIM Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/mohammadsadullahfahed.webp",
+              "alt": "BIM Certifcation Course"
+            }
+          },
+          {
+            "id": 104,
+            "name": "Bharath Bandarupally ",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/bharathbandarupally.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 105,
+            "name": "Samala Sheshipalreddy",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/samalasheshipalreddy.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 106,
+            "name": "Sai Kirankanugula",
+            "course": "AWS & Devops Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/saikirankanugula.webp",
+              "alt": "AWS & Devops Certifcation Course"
+            }
+          },
+          {
+            "id": 107,
+            "name": "Harish Babu Thinnavalli",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/harishbabuthinnavalli.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 108,
+            "name": "Madhuri Kukkala",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/madhurikukkala.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 109,
+            "name": "Akiti Kaveri ",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/akitikaveri.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 110,
+            "name": "Meka Kaveri",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/mekakaveri.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 111,
+            "name": "Mounika Todheti",
+            "course": "Sales Force Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/mounikatodheti.webp",
+              "alt": "Sales Force Certifcation Course"
+            }
+          },
+          {
+            "id": 112,
+            "name": "M Pranaykumar Yadav",
+            "course": "SAP FICO Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/mpranaykumaryadav.webp",
+              "alt": "SAP FICO Certifcation Course"
+            }
+          },
+          {
+            "id": 113,
+            "name": "G Sai Kanishk",
+            "course": "Revit Mep Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/gsaikanishk.webp",
+              "alt": "Revit Mep Certifcation Course"
+            }
+          },
+          {
+            "id": 114,
+            "name": "Daraveni Nikshitha ",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/daraveninikshitha.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 115,
+            "name": "Kanudla Suhasini",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/kanudlasuhasini.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 116,
+            "name": "Korem Deepak",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/koremdeepak.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 117,
+            "name": "M John Manohar",
+            "course": "Data Analytics Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/mjohnmanohar.webp",
+              "alt": "Data Analytics Certifcation Course"
+            }
+          },
+          {
+            "id": 225,
+            "name": "Ravi Shankar",
+            "course": "Data Analytics Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/RaviShankar-Ammerpet-DataAnalytics.webp",
+              "alt": "Data Analytics Certification Course"
+            }
+          },
+          {
+            "id": 118,
+            "name": "Boddu Sree Latha",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/boddusreelatha.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 119,
+            "name": "Marri Koushik Reddy",
+            "course": "Full Stack Python Certifcation Course ",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/marrikoushikreddy1.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 120,
+            "name": "Gaddamiddi Srinivas",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/gaddamiddisrinivas.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 121,
+            "name": "Pilli Srija",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/pillisrija.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 122,
+            "name": "Mandadi Ganesh",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/mandadiganesh.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 123,
+            "name": "CH.OM.Prakash ",
+            "course": "Digital Marketing Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/chomprakash.webp",
+              "alt": "Digital Marketing Certifcation Course"
+            }
+          },
+          {
+            "id": 124,
+            "name": "Mir Momin Ali",
+            "course": "Digital Marketing Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/mirmominali.webp",
+              "alt": "Digital Marketing Certifcation Course"
+            }
+          },
+          {
+            "id": 125,
+            "name": "Dhanavath Jeevan",
+            "course": "AutoCAD & Revit Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/dhanavathjeevan.webp",
+              "alt": "AutoCAD & Revit Certifcation Course"
+            }
+          },
+          {
+            "id": 126,
+            "name": " Palley Sai Divya",
+            "course": "SAP FICO Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/palleysaidivya.webp",
+              "alt": "SAP FICO Certifcation Course"
+            }
+          },
+          {
+            "id": 127,
+            "name": "Nanduri Veera Venkata Satya Sai Siva",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/nanduriveeravenkatasatyasaisiva.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 128,
+            "name": "kuppamanikanta",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/kuppamanikanta.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 129,
+            "name": "Nakka Rama  Chandrarao ",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/nakkaramachandrarao.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 130,
+            "name": "Md Sohail Khan",
+            "course": "BIM Certifcation Course & AutoCAD",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/mdsohailkhan.webp",
+              "alt": "BIM Certifcation Course & AutoCAD"
+            }
+          },
+          {
+            "id": 131,
+            "name": "Suprava Biswal",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/supravabiswal.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 132,
+            "name": "Siva Rama Krishna Mamillapalli",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/sivaramakrishnamamillapalli.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 133,
+            "name": "Md Ibrahim Ahmedkhan",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/mdibrahimahmedkhan.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 134,
+            "name": "Y.Sandeep",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/ysandeep.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 136,
+            "name": "Chamala Venkat Karthik",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/chamalavenkatkarthik.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 138,
+            "name": "Bhadrachalam Saikumar",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/bhadrachalamsaikumar.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 139,
+            "name": "Rajaka Gangadhar",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/rajakagangadhar.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 140,
+            "name": "Bodhati Siva Rambabu",
+            "course": "Digital Marketing Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/bodhatisivarambabu.webp",
+              "alt": "Digital Marketing Certifcation Course"
+            }
+          },
+          {
+            "id": 141,
+            "name": "Sayyad Rehamtunniesa",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/sayyadrehamtunniesa.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 142,
+            "name": "Karemgar  Vaibhav",
+            "course": "AWS & Devops Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/karemgarvaibhav.webp",
+              "alt": "AWS & Devops Certifcation Course"
+            }
+          },
+          {
+            "id": 143,
+            "name": "Tumma Krishna Nandini",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/tummakrishnanandini.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 144,
+            "name": "Munikuntla Sowmya",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/munikuntlasowmya.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 229,
+            "name": "Siva Kumar",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/SivaKumar-dilshuknagar-DataScience.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 145,
+            "name": "Shaik Asifa Kousar",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/shaikasifakousar.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 146,
+            "name": "Bokki Samkoteswara Rao",
+            "course": "Digital Marketing Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/bokkisamkoteswararao.webp",
+              "alt": "Digital Marketing Certifcation Course"
+            }
+          },
+          {
+            "id": 147,
+            "name": "Sanket Kesaria",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/sanketkesaria.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 148,
+            "name": "Malle Praveen Kumar Reddy",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/mallepraveenkumarreddy.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 149,
+            "name": "Mothkupally Jyothsna",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/mothkupallyjyothsna.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 150,
+            "name": "Gaddam Keerthi",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/gaddamkeerthi.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 151,
+            "name": "Booma Jessika",
+            "course": "Data Analytics Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/boomajessika.webp",
+              "alt": "Data Analytics Certifcation Course"
+            }
+          },
+          {
+            "id": 152,
+            "name": "Dodda Swathi Vijayalakshmi",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/doddaswathivijayalakshmi.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 154,
+            "name": "Mancharia Rohith Reddy",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/manchariarohithreddy.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 155,
+            "name": "Gayathri TL Varao ",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/gayathritlvarao.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 156,
+            "name": "Kopparthi Venkata Subba Reddy",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/kopparthivenkatasubbareddy.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 157,
+            "name": "G.Chandankumar",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/gchandankumar.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 188,
+            "name": "Singaram Rachana",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/singaramrachana.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 158,
+            "name": "T.Rajesh",
+            "course": "AutoCAD & Revit Certifcation Course Mep Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/trajesh.webp",
+              "alt": "AutoCAD & Revit Certifcation Course"
+            }
+          },
+          {
+            "id": 211,
+            "name": "Abdul Aziz",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/AbdulAziz-hitechcity-DataScience.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 232,
+            "name": "Teja Sri",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/TejaSri-Ameerpet-FullStackJava.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 159,
+            "name": "kulalamumaswamytejeshsai",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/kulalamumaswamytejeshsai.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 160,
+            "name": "Seelam Puja",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/seelampuja.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 161,
+            "name": "Dasari Sanjay",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/dasarisanjay.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 162,
+            "name": "Syed Adil Muqtar",
+            "course": "Digital Marketing Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/syedadilmuqtar.webp",
+              "alt": "Digital Marketing Certifcation Course"
+            }
+          },
+          {
+            "id": 163,
+            "name": "Kuntumalla KrishnaSai",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/kuntumallakrishnasai.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 164,
+            "name": "Yerva Sharath Chandra",
+            "course": "Python Backend Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/yervasharathchandra.webp",
+              "alt": "Python Backend Certifcation Course"
+            }
+          },
+          {
+            "id": 165,
+            "name": "Puli Lahari",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/pulilahari.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 166,
+            "name": "Annarapu Akshay",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/annarapuakshay.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 167,
+            "name": "Lohia Navjyoth Singh",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/lohianavjyothsingh.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 208,
+            "name": "Ganesh",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Ganesh-dilshuknagar-DataScience.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 168,
+            "name": "Maruvada Jaideep",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/maruvadajaideep.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 169,
+            "name": "Nibbaragandla Chandra Sekhar Reddy",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/nibbaragandlachandrasekharreddy.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 170,
+            "name": "K Vamsi Krishna",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/kvamsikrishna.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 171,
+            "name": "Kalla Rekha",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/kallarekha.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 172,
+            "name": "Karra Akash",
+            "course": "Sales Force Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/karraakash.webp",
+              "alt": "Sales Force Certifcation Course"
+            }
+          },
+          {
+            "id": 173,
+            "name": "Korra Vinay Kumar",
+            "course": "Digital Marketing Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/korravinaykumar.webp",
+              "alt": "Digital Marketing Certifcation Course"
+            }
+          },
+          {
+            "id": 174,
+            "name": "Syed Aiyjaz Shoaib Mohd",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/syedaiyjazshoaibmohd.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 175,
+            "name": "Pasam Jagadeesh",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/pasamjagadeesh.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 176,
+            "name": "Kancharla Danny Kumar",
+            "course": "AutoCAD+BIM Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/kancharladannykumar.webp",
+              "alt": "AutoCAD+BIM Certifcation Course"
+            }
+          },
+          {
+            "id": 177,
+            "name": "Nallala Tharuni",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/nallalatharuni.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 178,
+            "name": "Kommoju Chaitanya Sri Sai",
+            "course": "AutoCAD & 3ds MAX Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/kommojuchaitanyasrisai.webp",
+              "alt": "AutoCAD & 3ds MAX Certifcation Course"
+            }
+          },
+          {
+            "id": 179,
+            "name": "P.Vinaykumar",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/pvinaykumar.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 180,
+            "name": "Gaddala Suvarna Raju",
+            "course": "VLSI Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/gaddalasuvarnaraju.webp",
+              "alt": "VLSI Certifcation Course"
+            }
+          },
+          {
+            "id": 238,
+            "name": "Vyshnavi",
+            "course": "AWS Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Vyshnavi-hitechcity-AWS.webp",
+              "alt": "AWS Certification Course"
+            }
+          },
+          {
+            "id": 181,
+            "name": "Yanamoni Abhiram",
+            "course": "C+Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/yanamoniabhiram.webp",
+              "alt": "C+Python Certifcation Course"
+            }
+          },
+          {
+            "id": 182,
+            "name": "K.Aravind Kumar",
+            "course": "AutoCAD+BIM Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/karavindkumar.webp",
+              "alt": "AutoCAD+BIM Certifcation Course"
+            }
+          },
+          {
+            "id": 183,
+            "name": "Nikitha Musham",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/nikithamusham.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 184,
+            "name": "Jonnalagadda Pranvitha",
+            "course": "Data Analytics Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/jonnalagaddapranvitha.webp",
+              "alt": "Data Analytics Certifcation Course"
+            }
+          },
+          {
+            "id": 185,
+            "name": "Jinkala Saiteja",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/jinkalasaiteja.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 186,
+            "name": "Dagilla Dheeraj",
+            "course": "Advanced Excel+PGDCA Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/dagilladheeraj.webp",
+              "alt": "Advanced Excel+PGDCA Certifcation Course"
+            }
+          },
+          {
+            "id": 187,
+            "name": "Bhargavi Nellivalasa",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/bhargavinellivalasa.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 191,
+            "name": "Uppala Venkata Narasimha Rao",
+            "course": "VLSI Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/uppalavenkatanarasimharao.webp",
+              "alt": "VLSI Certifcation Course"
+            }
+          },
+          {
+            "id": 192,
+            "name": "Setti Saikumar",
+            "course": "Sales Force Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/settisaikumar.webp",
+              "alt": "Sales Force Certifcation Course"
+            }
+          },
+          {
+            "id": 193,
+            "name": "Althi Chandan",
+            "course": "AutoCAD+BIM Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/althichandan.webp",
+              "alt": "AutoCAD+BIM Certifcation Course"
+            }
+          },
+          {
+            "id": 194,
+            "name": "Munigelwar Divya",
+            "course": "AutoCAD+BIM Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/munigelwardivya.webp",
+              "alt": "AutoCAD+BIM Certifcation Course"
+            }
+          },
+          {
+            "id": 195,
+            "name": "Abrameni Archana",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/abrameniarchana.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 197,
+            "name": "Ravutla Ravalika",
+            "course": "VLSI Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/ravutlaravalika.webp",
+              "alt": "VLSI Certifcation Course"
+            }
+          },
+          {
+            "id": 198,
+            "name": "Rayudu Kalpana Sree",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/rayudukalpanasree.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 199,
+            "name": "Mopur Megha Varshini",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/mopurmeghavarshini.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 200,
+            "name": "R.Rishitha Reddy",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/rrishithareddy.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 201,
+            "name": "Anusha",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Anusha-Secunderabad-DataScience.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 203,
+            "name": "Arun Kumar",
+            "course": "Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/ArunKumar-Ammerpet-FullStackPython.webp",
+              "alt": "Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 204,
+            "name": "Basser",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Basser-hitechcity-DataScience.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 207,
+            "name": "Dinesh Kumar",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/DineshKumar-dilshuknagar-DataScience.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 209,
+            "name": "Hari Sai",
+            "course": "BIM, SketchUp, AutoCAD & 3ds Max Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/HariSai-Ammerpet-bim-sketchup-autocard-3dsmax.webp",
+              "alt": "BIM, SketchUp, AutoCAD & 3ds Max Course"
+            }
+          },
+          {
+            "id": 210,
+            "name": "Hema Latha",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/HemaLatha-Secunderabad-DataScience.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 212,
+            "name": "Akhil Sai Patel",
+            "course": "Data Science Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/AkhilSaiPatel-kukatpally-data-science.webp",
+              "alt": "Data Science Certifcation Course"
+            }
+          },
+          {
+            "id": 213,
+            "name": "Krithika",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Krithika-dilshuknagar-FullStackPython.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 214,
+            "name": "Lalit Mohan",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/LalitMohan-Ammerpet-DataScience.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 216,
+            "name": "Mohammed Ghouse",
+            "course": "PGDCA Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/MohammedGhouse-Mehadhipatnam-PGDCA.webp",
+              "alt": "PGDCA Certification Course"
+            }
+          },
+          {
+            "id": 217,
+            "name": "Mohammed Khaleel",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/MohammedKhaleel-hitechcity-DataScience.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 218,
+            "name": "Mohd Abdulah Musharraf",
+            "course": "BIM, STAAD Pro & ETABS Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/MohdAbdulahMusharraf-Ammerpet-bim-staadpro-eTabs.webp",
+              "alt": "BIM, STAAD Pro & ETABS Certification Course"
+            }
+          },
+          {
+            "id": 221,
+            "name": "Prabhakar",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Prabhakar-Ammerpet-DataScience.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 222,
+            "name": "Prasanna",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Prasanna-Secunderabad-DataScience.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 223,
+            "name": "Rama Krishna",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/RamaKrishna-Ammerpet-FullStackJava.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 224,
+            "name": "Ravi",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Ravi-Ammerpet-DataScience.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 230,
+            "name": "Sobiya Begum",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/SobiyaBegum-Secunderabad-DataScience.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 231,
+            "name": "Sumanth",
+            "course": "AWS Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Sumanth-dilshuknagar-AWS.webp",
+              "alt": "AWS Certification Course"
+            }
+          },
+          {
+            "id": 233,
+            "name": "Tejasri",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Tejasri-kphb-FullStackPthyon.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 234,
+            "name": "Vaishnavi",
+            "course": "Data Analytics Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Vaishnavi-Secunderabad-DataAnalytics.webp",
+              "alt": "Data Analytics Certification Course"
+            }
+          },
+          {
+            "id": 235,
+            "name": "Vaishnavi",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Vaishnavi-Secunderabad-DataScience.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 236,
+            "name": "Vasanth Reddy",
+            "course": "Data Analytics Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/VasanthReddy-kphb-DataAnalytics.webp",
+              "alt": "Data Analytics Certification Course"
+            }
+          },
+          {
+            "id": 237,
+            "name": "Vignesh",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Vignesh-Ammerpet-FullStackJava.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 239,
+            "name": "Yagna Sai",
+            "course": "BIM Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/YagnaSai-Secunderabad-BIM.webp",
+              "alt": "BIM Certification Course"
+            }
+          },
+          {
+            "id": 240,
+            "name": "Achuth Reddy",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/a_achuth_reddy_fullstack_java.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 241,
+            "name": "Anvesh",
+            "course": "Auto Cad Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/a_anvesh_autocad_revit.webp",
+              "alt": "Auto Cad Certification Course"
+            }
+          },
+          {
+            "id": 242,
+            "name": "Shravya",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/A_shravya_DATA_SCIENCE.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 243,
+            "name": "Srinu Nayak",
+            "course": "Auto Cad Mining Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/A_srinu_nayak_autocad_mining.webp",
+              "alt": "Auto Cad Mining Certification Course"
+            }
+          },
+          {
+            "id": 244,
+            "name": "Akhil",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/akhil-datascience.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 245,
+            "name": "Amaravarapu Kamalakar",
+            "course": "Digital Marketing Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/amaravarapu-kamalakar-digitalmarketing.webp",
+              "alt": "Digital Marketing Certification Course"
+            }
+          },
+          {
+            "id": 246,
+            "name": "Ankathi Pavan Kumar",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/ankathi-pavankumar-fullstackpython.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 247,
+            "name": "Naga Jyothi",
+            "course": "Sales Force Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/anukiruddipalle_nagajyothi_SALESFORCE.webp",
+              "alt": "Sales Force Certification Course"
+            }
+          },
+          {
+            "id": 248,
+            "name": "Ranjith Kumar",
+            "course": "Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/attineni-ranjithkumar-java.webp",
+              "alt": "Java Certification Course"
+            }
+          },
+          {
+            "id": 249,
+            "name": "Avinash",
+            "course": "Digital Marketing Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/avinash-digital-marketing.webp",
+              "alt": "Digital Marketing Certification Course"
+            }
+          },
+          {
+            "id": 250,
+            "name": "Deekshitha",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/avirneni-deekshitha-fullstackjava.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 251,
+            "name": "Maha Lakshmi",
+            "course": "Sales Force Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/avula_mahalakshmi_SALESFOCES.webp",
+              "alt": "Sales Force Certification Course"
+            }
+          },
+          {
+            "id": 252,
+            "name": "Sai Sujith",
+            "course": "C & C++ Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/B_saisujitreddy_C_C.webp",
+              "alt": "C & C++ Certification Course"
+            }
+          },
+          {
+            "id": 253,
+            "name": "Vidya Sree",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/bandla_vidyasree_fullstackpython.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 254,
+            "name": "Kishore",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/banothu-kishor-fullstackpython.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 257,
+            "name": "Bharath Chandra",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Beerelli_bharath_chandra_fullstackjava.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 258,
+            "name": "Prathyusha",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/bolka-prathyush-fullstackjava.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 259,
+            "name": "Jaya Prakash",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/boya-jayaprakash-fullstackjava.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 260,
+            "name": "Rohit Kumar",
+            "course": "AWS & DevOps Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/b-rohitkumar-aws-devops.webp",
+              "alt": "AWS & DevOps Certification Course"
+            }
+          },
+          {
+            "id": 261,
+            "name": "Swarana Latha",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Bushipaka_Swaranalatha_Fullstackjava.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 262,
+            "name": "Nandini",
+            "course": "AutoCAD & Bim Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/ch_nandini_autocad_bim.webp",
+              "alt": "AutoCAD & Bim Certification Course"
+            }
+          },
+          {
+            "id": 263,
+            "name": "Chaitanya",
+            "course": "Digital Marketing Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/chaitanya-digital-marketing.webp",
+              "alt": "Digital Marketing Certification Course"
+            }
+          },
+          {
+            "id": 264,
+            "name": "Chinnari",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Chinnari_kalyanam_fullstackjava.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 265,
+            "name": "Chitra",
+            "course": "Data Analytics Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/chitra-data-analytics.webp",
+              "alt": "Data Analytics Certification Course"
+            }
+          },
+          {
+            "id": 266,
+            "name": "Bharath",
+            "course": "Data Analytics Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/chiviki-bharath-chandra-dataanalylics.webp",
+              "alt": "Data Analytics Certification Course"
+            }
+          },
+          {
+            "id": 267,
+            "name": "Venkata Srinivasu",
+            "course": "AWS & Devops Certification course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/ch-venkatasrinivasu-aws-devops.webp",
+              "alt": "AWS & Devops Certification course"
+            }
+          },
+          {
+            "id": 268,
+            "name": "Teja Sri",
+            "course": "AWS & Devops Certification course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/deenamkonda-tejasri-aws-devops.webp",
+              "alt": "AWS & Devops Certification course"
+            }
+          },
+          {
+            "id": 269,
+            "name": "Durga Bhavani",
+            "course": "AWS & Devops Certification course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/deenomkonda-durgabhavani-aws-devops.webp",
+              "alt": "AWS & Devops Certification course"
+            }
+          },
+          {
+            "id": 270,
+            "name": "Sai Krishna Akhil",
+            "course": "AWS & Devops Certification course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/devireddy-saikrishnaakhil-aws-devop.webp",
+              "alt": "AWS & Devops Certification course"
+            }
+          },
+          {
+            "id": 271,
+            "name": "Pavan",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/dhage_pavan_fullstack_development_java.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 272,
+            "name": "Sai Phani Gokul",
+            "course": "AWS & Devops Certification course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/digivijay-saiphanigokul-aws-devop.webp",
+              "alt": "AWS & Devops Certification course"
+            }
+          },
+          {
+            "id": 273,
+            "name": "Likitha",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Donthiboyina_Likhitha_fullstackjava.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 274,
+            "name": "Verra Babu",
+            "course": "AWS & Devops Certification course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/d-veerabau-aws-devops.webp",
+              "alt": "AWS & Devops Certification course"
+            }
+          },
+          {
+            "id": 275,
+            "name": "Revanth",
+            "course": "3d's max Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/G_Revanth_JDSMAX_WITH_VRAY.webp",
+              "alt": "3d's max Certification Course"
+            }
+          },
+          {
+            "id": 276,
+            "name": "Amulya",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/gaddiparthi_amulya_fullstackpython.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 277,
+            "name": "Srinidhi",
+            "course": "Vlsi Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/gandhamsrinidhi_VLSI.webp",
+              "alt": "Vlsi Certification Course"
+            }
+          },
+          {
+            "id": 278,
+            "name": "Rama Devi",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/gowti-ramadevi-fullstackpython.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 279,
+            "name": "Rahul",
+            "course": "BIM Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Guddi_Rahul_BIM.webp",
+              "alt": "BIM Certification Course"
+            }
+          },
+          {
+            "id": 410,
+            "name": "Vishnu Vardhan",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Apathi-Vishnu-Vardhan-Full-Stack-Java.webp",
+              "alt": " Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 412,
+            "name": "Yuva Sai Raj",
+            "course": " Sap Fico Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/A-Yuva-Sai-Raj-Sap-Fico.webp",
+              "alt": " Sap Fico Certifcation Course"
+            }
+          },
+          {
+            "id": 413,
+            "name": "Nagaveni",
+            "course": "AWS & Devops Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Bapanapalli-Nagaveni-Aws-Devops.webp",
+              "alt": " AWS & Devops Certifcation Course"
+            }
+          },
+          {
+            "id": 414,
+            "name": "Varun Kumar",
+            "course": " Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Bathoju-Varun-Kumar-Full-Stack-Java.webp",
+              "alt": " Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 415,
+            "name": "Manoj Kumar",
+            "course": " Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Boya-Manoj-Kumar-Full-Stack-Java.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 416,
+            "name": "Lavanya",
+            "course": " Full Stack Python Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Bujagani-Lavanya-Full-Stack-Python.webp",
+              "alt": " Full Stack Python Certifcation Course"
+            }
+          },
+          {
+            "id": 418,
+            "name": "Anil Kumar",
+            "course": "Full Stack Java Certifcation Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Dandu-Anil-Kumar-Full-Stack-Java.webp",
+              "alt": "Full Stack Java Certifcation Course"
+            }
+          },
+          {
+            "id": 419,
+            "name": "Rahul Dumpeta",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Dumpeta-Rahul-Full-Stack-java.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 420,
+            "name": "Vyshnavi Eduru",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Eduru-Vyshnavi-Data-Science.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 421,
+            "name": "Swapna Gali",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Gali-Swapna-Full-Stack-Java.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 422,
+            "name": "Girisekhar Vutukuri",
+            "course": "AWS DevOps Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Girisekhar-Vutukuri-Aws-Devops.webp",
+              "alt": "AWS DevOps Certification Course"
+            }
+          },
+          {
+            "id": 423,
+            "name": "Vinay Gorre",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Gorre-Vinay-Full-Stack-Java.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 424,
+            "name": "Hunaif Khan",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Hunaif-Khan-Data-Science.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 425,
+            "name": "Jayanthi Jagannadha Sandeep",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Jayanthi-Jagannadha-Sandeep-Data-Science.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 426,
+            "name": "Akshaysai Kakkerla",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Kakkerla-Akshaysai-Full-Stack-Java.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 427,
+            "name": "Muniraja Kanchi",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Kanchi-Muniraja-Full-Stack-Python.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 428,
+            "name": "Sai Kiran Komma",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Komma-Sai-Kiran-Full-Stack-Java.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 429,
+            "name": "Revanth Reddy Konnela",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Konnela-Revanth-Reddy-Data-Science.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 430,
+            "name": "Kiran Koradala",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Koradala-Kiran-Full-Stack-Java.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 431,
+            "name": "Lalsahebgarifi roz Rafi",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Lalsahebgari-Firoz-Rafi-Full-Stack-Java.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 434,
+            "name": "Arun Mandla",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Mandla-Arun-Full-Stack-Java.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 435,
+            "name": "Lokesh Mangalu",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Mangalu-Lokesh-Data-Science.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 436,
+            "name": "Nagaswetha Mekala",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Mekala-Nagaswetha-Full-Stack-Python.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 437,
+            "name": "Abrar Ali Mohammed",
+            "course": "AWS DevOps Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Mohammed-Abrar-Ali-Aws-Devops.webp",
+              "alt": "AWS DevOps Certification Course"
+            }
+          },
+          {
+            "id": 438,
+            "name": "Rizwan Mohammed",
+            "course": "AWS DevOps Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Mohammed-Rizwan-Aws-Devops.webp",
+              "alt": "AWS DevOps Certification Course"
+            }
+          },
+          {
+            "id": 439,
+            "name": "Shargil Ahmed Mohammed",
+            "course": "AutoCAD BIM SketchUp Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Mohammed-Shargil-Ahmed-AutoCad-Bim-Sketchup.webp",
+              "alt": "AutoCAD BIM SketchUp Certification Course"
+            }
+          },
+          {
+            "id": 440,
+            "name": "Sindhuja Mora",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Mora-Sindhuja-Full-Stack-Java.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 441,
+            "name": "Naveeen Mupparapu",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Mupparapu-Naveen-Full-Stack-Python.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 442,
+            "name": "Naresh Kumar Chinthala",
+            "course": "Website Designing Certification Program",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Naresh-Kumar-Chinthala-Website-Designing-Certification-Programe.webp",
+              "alt": "Website Designing Certification Program"
+            }
+          },
+          {
+            "id": 443,
+            "name": "Pavan Malleswararao Pachigolla",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Pachigolla-Pavan-Malleswararoa-Full-Stack-Python.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 444,
+            "name": "Lavanya Pagadala",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Pagadala-Lavanya-Full-Stack-Java.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 445,
+            "name": "Philips G",
+            "course": "Website Designing Certification Program",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Philips-G-Website-Designing-Certification-Programe.webp",
+              "alt": "Website Designing Certification Program"
+            }
+          },
+          {
+            "id": 447,
+            "name": "Bharath Rajagiri",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Rajagiri-Bharath-Full-Stack-Java.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 448,
+            "name": "Srinivas Shinde",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Srinivas-Shinde-Data-Science.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 449,
+            "name": "Krishnasri Sravan Tadepalli",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Tadepalli-Krishnasri-Sravan-Data-Science.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 450,
+            "name": "Manivardhan Vandhanapu",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Vandhanapu-Manivardhan-Full-Stack-Java.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 451,
+            "name": "Swetha anjali Vanka",
+            "course": "AutoCAD 3Ds Max with V-Ray Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Vanka-Swwthanjali-AutoCad-3Dsmax-with-vray.webp",
+              "alt": "AutoCAD 3Ds Max with V-Ray Certification Course"
+            }
+          },
+          {
+            "id": 452,
+            "name": "Varshitha Madanala",
+            "course": "AWS DevOps Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Varshitha-Madanala-Aws-Devops.webp",
+              "alt": "AWS DevOps Certification Course"
+            }
+          },
+          {
+            "id": 453,
+            "name": "Giridhar Vatti Kulla",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Vatti-Kulla-Giridhar-Full-Stack-Python.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 454,
+            "name": "Raviteja Yarramsetti",
+            "course": "AWS DevOps Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Yarramsetti-Raviteja-Aws-Devops.webp",
+              "alt": "AWS DevOps Certification Course"
+            }
+          },
+          {
+            "id": 455,
+            "name": "Nithin Yemparala",
+            "course": "Data Analytics Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Yemparala-Nithin-data-Analytics.webp",
+              "alt": "Data Analytics Certification Course"
+            }
+          },
+          {
+            "id": 280,
+            "name": "Nikhitha",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/gudi_nikhitha_fullstackpython.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 281,
+            "name": "Mounika",
+            "course": "VLSI Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Gudipalli _mounika_VLSI.webp",
+              "alt": "VLSI Certification Course"
+            }
+          },
+          {
+            "id": 282,
+            "name": "Harshavardhini",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/harshavardhini-full-stack-python.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 283,
+            "name": "Hemanth",
+            "course": "Autocad Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/hemanth-autocad.webp",
+              "alt": "Autocad Certification Course"
+            }
+          },
+          {
+            "id": 284,
+            "name": "Hemanth Kumar",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/hemanth-kumar-data-science.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 285,
+            "name": "Pranaykumar",
+            "course": "Sketchup with Vray Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/indoori_pranaykumar_skethup_with_vray.webp",
+              "alt": "Sketchup with Vray Certification Course"
+            }
+          },
+          {
+            "id": 286,
+            "name": "Subramanyam",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/jangilishiva_subramanyam_fullstack_java.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 287,
+            "name": "Anil",
+            "course": "Sap Fico Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/k_anil_sapfico.webp",
+              "alt": "Sap Fico Certification Course"
+            }
+          },
+          {
+            "id": 288,
+            "name": "kaveri",
+            "course": "AWS And Devops Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/kandlakoya_kaveri_AWS_DEVOPS.webp",
+              "alt": "AWS And Devops Certification Course"
+            }
+          },
+          {
+            "id": 289,
+            "name": "Harika",
+            "course": "Sap Fico Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/kaniganti_harika_SAPFICO.webp",
+              "alt": "Sap Fico Certification Course"
+            }
+          },
+          {
+            "id": 290,
+            "name": "Padma",
+            "course": "BIM Sketchup Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/karanji_padma_autocad_BIM_skethchup.webp",
+              "alt": "BIM Sketchup Certification Course"
+            }
+          },
+          {
+            "id": 291,
+            "name": "Amosu",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Karasala_Amosu_DATA_SCIENCE.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 292,
+            "name": "karthik kumar",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/karthik-kumar-data-science.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 293,
+            "name": "Kavya",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/kavya-full-stack-java.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 294,
+            "name": "Keerthana",
+            "course": "Aws And Devops Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/keerthana-aws-devops.webp",
+              "alt": "Aws And Devops Certification Course"
+            }
+          },
+          {
+            "id": 296,
+            "name": "Vivek vardhan",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Kola_Vivek_vardhan_fullstackjava.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 297,
+            "name": "vishawantha reddy",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/kothireddy-vishawanthareddy-fullstackpython.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 298,
+            "name": "Sagar varma",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/k-sagarvarma-fullstackpython.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 299,
+            "name": "Sri sharan",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/kummari-srisharan-fullstackpython.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 300,
+            "name": "kunalaryan",
+            "course": "Sap Fico Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/kunalaryan-sapfico.webp",
+              "alt": "Sap Fico Certification Course"
+            }
+          },
+          {
+            "id": 301,
+            "name": "Ashok",
+            "course": "Data Analytics Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/kunchala-ashok-data-analytics.webp",
+              "alt": "Data Analytics Certification Course"
+            }
+          },
+          {
+            "id": 302,
+            "name": "Lakshman Kumar",
+            "course": "Data Analytics Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/lakshman-kumar-data-analytics.webp",
+              "alt": "Data Analytics Certification Course"
+            }
+          },
+          {
+            "id": 303,
+            "name": "Laskshmi Priya",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/laskshmipriya-fullstackpython.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 304,
+            "name": "Lavan kumar",
+            "course": "Aws And Devops Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/lavankumar-aws-devops.webp",
+              "alt": "Aws And Devops Certification Course"
+            }
+          },
+          {
+            "id": 305,
+            "name": "Manasa Reddy",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/M_manasareddy_fullstackjava.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 306,
+            "name": "pravalika",
+            "course": "VLSI Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/m_pravalika_vlsi.webp",
+              "alt": "VLSI Certification Course"
+            }
+          },
+          {
+            "id": 307,
+            "name": "Akshay Kumar",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/maddela-akshaykumar-fullstackjava.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 308,
+            "name": "Haritha",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Madugula_haritha_DATA_SCIENCE.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 309,
+            "name": "Mahendar",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/mahendar-full-stack-java.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 310,
+            "name": "Mainkanth",
+            "course": "Aws And Devops Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/mainkanth-aws-devops.webp",
+              "alt": "Aws And Devops Certification Course"
+            }
+          },
+          {
+            "id": 312,
+            "name": "Vaishnavi",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/malloju_vaishnavi_fullstackpython.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 313,
+            "name": "Jyothi",
+            "course": "Testing Manual Automation Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/manam_jyothi_TESTING_MANUAL_AUTOMATION.webp",
+              "alt": "Testing Manual Automation Certification Course"
+            }
+          },
+          {
+            "id": 314,
+            "name": "Manikanta",
+            "course": "Aws And Devops Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/manikanta-uppla-aws-devops.webp",
+              "alt": "Aws And Devops Certification Course"
+            }
+          },
+          {
+            "id": 315,
+            "name": "Saisree",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/manthangoud-saisree-datascience.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 317,
+            "name": "Sanjaykumar",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/margam-sanjaykumar-fullstackpython.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 318,
+            "name": "Bhavyasri Tulasi",
+            "course": "Aws And Devops Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/mathi_bhavyasri_tulasi_AWS_DEVOP.webp",
+              "alt": "Aws And Devops Certification Course"
+            }
+          },
+          {
+            "id": 319,
+            "name": "Fayaz",
+            "course": "Autocad Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/MD_fayaz_Autocad.webp",
+              "alt": "Autocad Certification Course"
+            }
+          },
+          {
+            "id": 320,
+            "name": "Suleman",
+            "course": "Autocad And Bim Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/md-suleman-autocad-bim.webp",
+              "alt": "Autocad And Bim Certification Course"
+            }
+          },
+          {
+            "id": 321,
+            "name": "Meghana",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/meghana-full-stack-java.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 322,
+            "name": "Mohammed Mufeeq",
+            "course": "Primavera Quantity Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/mohammed-mufeeq-primavera-quantity.webp",
+              "alt": "Primavera Quantity Certification Course"
+            }
+          },
+          {
+            "id": 323,
+            "name": "Asif",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/mohd_asif_DATA_science.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 324,
+            "name": "Udaykiran",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/momidi-udaykiran-fullstackpython.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 325,
+            "name": "Viswantha",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/mondi_viswantha_Data_science.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 326,
+            "name": "Yaswanth",
+            "course": "Aws And Devops Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/muppalla_yaswanth_aws_devops.webp",
+              "alt": "Aws And Devops Certification Course"
+            }
+          },
+          {
+            "id": 327,
+            "name": "Haripriya",
+            "course": "Aws And Devops Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/nalitham_haripriya_AWS_DEVOPS.webp",
+              "alt": "Aws And Devops Certification Course"
+            }
+          },
+          {
+            "id": 328,
+            "name": "Ajaykumar",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Nandikanti_ajaykumar_fullstackjava.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 329,
+            "name": "Nandini",
+            "course": "Full Stack java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/Nandini_mukurala_fullstackjava.webp",
+              "alt": "Full Stack java Certification Course"
+            }
+          },
+          {
+            "id": 330,
+            "name": "Nandini",
+            "course": "Sap-MM Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/nandini-sap-mm.webp",
+              "alt": "Sap-MM Certification Course"
+            }
+          },
+          {
+            "id": 331,
+            "name": "Shiva Krishna",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/narayanapuram_shiva_krishna_full_stack_python.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 332,
+            "name": "Naresh",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/naresh_bairagai_Fullstackjava.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 333,
+            "name": "Naveen Kumar",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/naveen-kumar-full-stack-java.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 334,
+            "name": "Navya",
+            "course": "Digital Marketing Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/navya_jain_digital_marketing.webp",
+              "alt": "Digital Marketing Certification Course"
+            }
+          },
+          {
+            "id": 335,
+            "name": "Nikhila",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/nikhila-data-science.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 336,
+            "name": "Nikhil",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/nikhil-data-science.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 337,
+            "name": "Nishant",
+            "course": "Aws And Devops Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/nishant-fatima-aws-devops.webp",
+              "alt": "Aws And Devops Certification Course"
+            }
+          },
+          {
+            "id": 338,
+            "name": "shravankumar",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/P_shravankumar_fullstackjava.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 339,
+            "name": "Sumanth",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/palanti_sumanth_DATA_science.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 340,
+            "name": "Uday Kiran",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/pamidimalla_udayakiran_fullstack_java.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 341,
+            "name": "Sai Priya",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/pattem_saipriya_fullstackpython.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 342,
+            "name": "Vinay",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/penke_vinay_fullstack_python.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 343,
+            "name": "Gangothri",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/pilli-gangothri-full-stack-python.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 344,
+            "name": "Poojitha",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/poojitha-bollina-full-stack-python.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 345,
+            "name": "Poojitha",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/poornima-full-stack-python.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 347,
+            "name": "Narendra",
+            "course": "Aws And Devops Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/prachi-narendra-ghonmode-aws-devops.webp",
+              "alt": "Aws And Devops Certification Course"
+            }
+          },
+          {
+            "id": 348,
+            "name": "Praveen",
+            "course": "Data Analytics Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/praveen-data-analytics.webp",
+              "alt": "Data Analytics Certification Course"
+            }
+          },
+          {
+            "id": 349,
+            "name": "Sreenuvas Reddy",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/R_sreenuvas_reddy_autocad_BIM_REVIT_SKETCHUP.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 350,
+            "name": "Rakesh",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/ragi-rakesh-full-stack-java.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 351,
+            "name": "Veerendhra",
+            "course": "Digital Marketing Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/ramancha-veerendhra-digitalmarketing.webp",
+              "alt": "Digital Marketing Certification Course"
+            }
+          },
+          {
+            "id": 352,
+            "name": "Ravalika",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/ravalika-ponnam-fullstackpython.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 353,
+            "name": "Ramya",
+            "course": "Data Science Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/S_ramya_DATASCIENCE.webp",
+              "alt": "Data Science Certification Course"
+            }
+          },
+          {
+            "id": 354,
+            "name": "Rishi kethan",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/S_Rishi_kethan_fullstackjava.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 355,
+            "name": "Viswantha",
+            "course": "Aws And Devops Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/S_sarathchandresh_reddy_AWSDEVOPS.webp",
+              "alt": "Aws And Devops Certification Course"
+            }
+          },
+          {
+            "id": 356,
+            "name": "Sreeja",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/s_sreeja_FULLSTACKJAVA.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          },
+          {
+            "id": 357,
+            "name": "Sahil Ahmed",
+            "course": "Data Analytics Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/sahil-ahmed-data-analytics.webp",
+              "alt": "Data Analytics Certification Course"
+            }
+          },
+          {
+            "id": 358,
+            "name": "Rakesh",
+            "course": "Full Stack Python Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/T_Hanti_rakesh_fullstackpython.webp",
+              "alt": "Full Stack Python Certification Course"
+            }
+          },
+          {
+            "id": 359,
+            "name": "Veerababu",
+            "course": "Aws And Devops Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/y-veerababu-aws-devops.webp",
+              "alt": "Aws And Devops Certification Course"
+            }
+          },
+          {
+            "id": 360,
+            "name": "Vidyavarthi",
+            "course": "Full Stack Java Certification Course",
+            "image": {
+              "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/alumni/vidyvarthi-full-stack-java.webp",
+              "alt": "Full Stack Java Certification Course"
+            }
+          }
+        ]
+      ]
     }
   }
 }

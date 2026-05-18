@@ -2,16 +2,13 @@
   "recruitersSection": {
     "position": 1,
     "title": "Recruiters",
-
     "heroSection": {
       "heading": "Become Hiring Partner with Us",
       "subHeading": "Build Your Future Workforce!",
-
       "description": [
         "Teks Academy bridges the gap between industry and talent with hands-on, job-ready training.",
         "29+ companies trust us for skilled hires in Full Stack, Data Science, GIS, and ERP Partner with us for free and access trained professionals from 30+ courses. Let’s build a future-ready, skilled workforce together!"
       ],
-
       "highlights": [
         {
           "id": 1,
@@ -31,11 +28,82 @@
         }
       ]
     },
-
     "recruitersCardsSection": {
       "position": 2,
-
-      "cards": []
+      "cards": [
+        {
+          "id": 2,
+          "name": "vijay_kumar",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/hr2.webp",
+            "alt": "vijay kumar video"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/HR1.mp4"
+        },
+        {
+          "id": 3,
+          "name": "akhilesh_kumar",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/hr5.webp",
+            "alt": "akhilesh kumar video"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/HR2.mp4"
+        },
+        {
+          "id": 4,
+          "name": "ashoka",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/hr4.webp",
+            "alt": "ashoka video"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/HR5.mp4"
+        },
+        {
+          "id": 5,
+          "name": "kavya",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/hr3.webp",
+            "alt": "kavay video"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/HR4.mp4"
+        },
+        {
+          "id": 6,
+          "name": "galactix_hr",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/galactixhr.webp",
+            "alt": "vijay kumar video"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/galactixvdo.mp4"
+        },
+        {
+          "id": 7,
+          "name": "genesys_infox_hr",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/ganesysinfoxhr.webp",
+            "alt": "akhilesh kumar video"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/genesysinfoxvdo.mp4"
+        },
+        {
+          "id": 8,
+          "name": "pavaman_aviation_hr",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/pavamanaviationhr.webp",
+            "alt": "ashoka video"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/pavamanaviationvdo.mp4"
+        },
+        {
+          "id": 9,
+          "name": "sdcms_hr",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/sdcmshr.webp",
+            "alt": "kavay video"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/sdcmsvdo.mp4"
+        }
+      ]
     }
   }
 }

@@ -18,7 +18,7 @@
         "slug": "full-stack-python-interview-questions",
         "description": "Master Python, Django, and REST API development.",
         "image": {
-          "src": "/assets/interview/full-stack-python.webp",
+          "src": "/assets/img/interview_question/python.webp",
           "alt": "Full Stack Python"
         },
         "button": {
@@ -32,7 +32,7 @@
         "slug": "full-stack-java-interview-questions",
         "description": "Become a Java expert with Spring Boot and Microservices.",
         "image": {
-          "src": "/assets/interview/full-stack-java.webp",
+          "src": "/assets/img/interview_question/fullstack.webp",
           "alt": "Full Stack Java"
         },
         "button": {
@@ -46,7 +46,7 @@
         "slug": "data-science-interview-questions",
         "description": "Learn AI, ML, Deep Learning, and Big Data Analytics.",
         "image": {
-          "src": "/assets/interview/data-science.webp",
+          "src": "/assets/img/interview_question/data_science.webp",
           "alt": "Data Science"
         },
         "button": {
@@ -60,7 +60,7 @@
         "slug": "digital-marketing-interview-questions",
         "description": "SEO, Google Ads, Social Media Marketing, and Analytics.",
         "image": {
-          "src": "/assets/interview/digital-marketing.webp",
+          "src": "/assets/img/interview_question/digital_Marketing.webp",
           "alt": "Digital Marketing"
         },
         "button": {
@@ -74,7 +74,7 @@
         "slug": "aws-devops-interview-questions",
         "description": "Master cloud computing with AWS, Docker, Kubernetes.",
         "image": {
-          "src": "/assets/interview/aws-devops.webp",
+          "src": "/assets/img/interview_question/aws_dev.webp",
           "alt": "AWS & DevOps"
         },
         "button": {
@@ -88,7 +88,7 @@
         "slug": "bim-interview-questions",
         "description": "Learn 3D modeling and construction management tools.",
         "image": {
-          "src": "/assets/interview/bim.webp",
+          "src": "/assets/img/interview_question/BIM.webp",
           "alt": "BIM"
         },
         "button": {
@@ -200,7 +200,7 @@
         "slug": "autocad-interview-questions",
         "description": "Master 2D drafting and 3D modeling for architecture and engineering.",
         "image": {
-          "src": "/assets/interview/autocad.webp",
+          "src": "/assets/img/interview_question/auto_cad.webp",
           "alt": "AutoCAD"
         },
         "button": {
@@ -214,7 +214,7 @@
         "slug": "revit-mep-interview-questions",
         "description": "Master BIM for architectural, structural, and MEP design.",
         "image": {
-          "src": "/assets/interview/revit-mep.webp",
+          "src": "/assets/img/interview_question/revit.webp",
           "alt": "Revit MEP"
         },
         "button": {
@@ -228,7 +228,7 @@
         "slug": "data-analytics-interview-questions",
         "description": "Data insights through analysis & visualization techniques.",
         "image": {
-          "src": "/assets/interview/data-analytics.webp",
+          "src": "/assets/img/interview_question/data_analytics.webp",
           "alt": "Data Analytics"
         },
         "button": {
