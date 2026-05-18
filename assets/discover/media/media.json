@@ -183,98 +183,100 @@
               "alt": "teks acdemy -it and non it courses"
             }
           ],
-          "instagram": [[
-  {
-    "id": 1,
-    "thumbnail": "/assets/img/mediaimg/in1.webp",
-    "videoUrl": "https://www.instagram.com/saikiranyedida/reel/CpzJ6qNJLZa/",
-    "alt": "the best sotware training institute -teks academy"
-  },
-  {
-    "id": 2,
-    "thumbnail": "/assets/img/mediaimg/in2.webp",
-    "videoUrl": "https://www.instagram.com/crazycherryboy/reel/Cq-ZbwgJmN2/",
-    "alt": "the best sotware training institute -teks academy"
-  },
-  {
-    "id": 3,
-    "thumbnail": "/assets/img/mediaimg/in3.webp",
-    "videoUrl": "https://www.instagram.com/kareena_naidu/reel/CtGiEEVtBmq/",
-    "alt": "the best sotware training institute -teks academy"
-  },
-  {
-    "id": 4,
-    "thumbnail": "/assets/img/mediaimg/in4.webp",
-    "videoUrl": "https://www.instagram.com/kareena_naidu/reel/CtGiEEVtBmq/",
-    "alt": "the best sotware training institute -teks academy"
-  },
-  {
-    "id": 5,
-    "thumbnail": "/assets/img/mediaimg/in5.webp",
-    "videoUrl": "https://www.instagram.com/iam.sudhakaran/reel/CwFs3CeNYEH/",
-    "alt": "the best sotware training institute -teks academy"
-  },
-  {
-    "id": 6,
-    "thumbnail": "/assets/img/mediaimg/in6.webp",
-    "videoUrl": "https://www.instagram.com/teja__jakkula/reel/C1ounV4hRxi/",
-    "alt": "the best sotware training institute -teks academy"
-  },
-  {
-    "id": 7,
-    "thumbnail": "/assets/img/mediaimg/in7.webp",
-    "videoUrl": "https://www.instagram.com/azhar_edutok/reel/DHTO1zjpNUp/",
-    "alt": "the best sotware training institute -teks academy"
-  },
-  {
-    "id": 8,
-    "thumbnail": "/assets/img/mediaimg/in8.webp",
-    "videoUrl": "https://www.instagram.com/arunakrithi/reel/C1HWslQJcn6/",
-    "alt": "the best sotware training institute -teks academy"
-  },
-  {
-    "id": 9,
-    "thumbnail": "/assets/img/mediaimg/in9.webp",
-    "videoUrl": "https://www.instagram.com/krishfactstelugu/reel/DF5QHZMNXMc/",
-    "alt": "the best sotware training institute -teks academy"
-  },
-  {
-    "id": 10,
-    "thumbnail": "/assets/img/mediaimg/in10.webp",
-    "videoUrl": "https://www.instagram.com/deeksha.jakkula/reel/DF2bYmVzkl2/",
-    "alt": "the best sotware training institute -teks academy"
-  },
-  {
-    "id": 11,
-    "thumbnail": "/assets/img/mediaimg/in11.webp",
-    "videoUrl": "https://www.instagram.com/techwiththarunn/reel/DDLvegay9PT/",
-    "alt": "the best sotware training institute -teks academy"
-  },
-  {
-    "id": 12,
-    "thumbnail": "/assets/img/mediaimg/in12.webp",
-    "videoUrl": "https://www.instagram.com/thetechdroid.telugu/reel/DC65oi-SqBs/",
-    "alt": "the best sotware training institute -teks academy"
-  },
-  {
-    "id": 13,
-    "thumbnail": "/assets/img/mediaimg/in13.webp",
-    "videoUrl": "https://www.instagram.com/hellovizag.in/reel/DC1TSDATyi1/",
-    "alt": "the best sotware training institute -teks academy"
-  },
-  {
-    "id": 14,
-    "thumbnail": "/assets/img/mediaimg/in14.webp",
-    "videoUrl": "https://www.instagram.com/yo.vizag/reel/DCgtufkPaz9/",
-    "alt": "the best sotware training institute -teks academy"
-  },
-  {
-    "id": 15,
-    "thumbnail": "/assets/img/mediaimg/in15.webp",
-    "videoUrl": "https://www.instagram.com/anildevara369/reel/DCWdEwBy7j3/",
-    "alt": "the best sotware training institute -teks academy"
-  }
-]]
+          "instagram": [
+            [
+              {
+                "id": 1,
+                "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/in1.webp",
+                "videoUrl": "https://www.instagram.com/saikiranyedida/reel/CpzJ6qNJLZa/",
+                "alt": "the best sotware training institute -teks academy"
+              },
+              {
+                "id": 2,
+                "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/in2.webp",
+                "videoUrl": "https://www.instagram.com/crazycherryboy/reel/Cq-ZbwgJmN2/",
+                "alt": "the best sotware training institute -teks academy"
+              },
+              {
+                "id": 3,
+                "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/in3.webp",
+                "videoUrl": "https://www.instagram.com/kareena_naidu/reel/CtGiEEVtBmq/",
+                "alt": "the best sotware training institute -teks academy"
+              },
+              {
+                "id": 4,
+                "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/in4.webp",
+                "videoUrl": "https://www.instagram.com/kareena_naidu/reel/CtGiEEVtBmq/",
+                "alt": "the best sotware training institute -teks academy"
+              },
+              {
+                "id": 5,
+                "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/in5.webp",
+                "videoUrl": "https://www.instagram.com/iam.sudhakaran/reel/CwFs3CeNYEH/",
+                "alt": "the best sotware training institute -teks academy"
+              },
+              {
+                "id": 6,
+                "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/in6.webp",
+                "videoUrl": "https://www.instagram.com/teja__jakkula/reel/C1ounV4hRxi/",
+                "alt": "the best sotware training institute -teks academy"
+              },
+              {
+                "id": 7,
+                "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/in7.webp",
+                "videoUrl": "https://www.instagram.com/azhar_edutok/reel/DHTO1zjpNUp/",
+                "alt": "the best sotware training institute -teks academy"
+              },
+              {
+                "id": 8,
+                "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/in8.webp",
+                "videoUrl": "https://www.instagram.com/arunakrithi/reel/C1HWslQJcn6/",
+                "alt": "the best sotware training institute -teks academy"
+              },
+              {
+                "id": 9,
+                "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/in9.webp",
+                "videoUrl": "https://www.instagram.com/krishfactstelugu/reel/DF5QHZMNXMc/",
+                "alt": "the best sotware training institute -teks academy"
+              },
+              {
+                "id": 10,
+                "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/in10.webp",
+                "videoUrl": "https://www.instagram.com/deeksha.jakkula/reel/DF2bYmVzkl2/",
+                "alt": "the best sotware training institute -teks academy"
+              },
+              {
+                "id": 11,
+                "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/in11.webp",
+                "videoUrl": "https://www.instagram.com/techwiththarunn/reel/DDLvegay9PT/",
+                "alt": "the best sotware training institute -teks academy"
+              },
+              {
+                "id": 12,
+                "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/in12.webp",
+                "videoUrl": "https://www.instagram.com/thetechdroid.telugu/reel/DC65oi-SqBs/",
+                "alt": "the best sotware training institute -teks academy"
+              },
+              {
+                "id": 13,
+                "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/in13.webp",
+                "videoUrl": "https://www.instagram.com/hellovizag.in/reel/DC1TSDATyi1/",
+                "alt": "the best sotware training institute -teks academy"
+              },
+              {
+                "id": 14,
+                "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/in14.webp",
+                "videoUrl": "https://www.instagram.com/yo.vizag/reel/DCgtufkPaz9/",
+                "alt": "the best sotware training institute -teks academy"
+              },
+              {
+                "id": 15,
+                "thumbnail": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/mediaimg/in15.webp",
+                "videoUrl": "https://www.instagram.com/anildevara369/reel/DCWdEwBy7j3/",
+                "alt": "the best sotware training institute -teks academy"
+              }
+            ]
+          ]
         }
       }
     ]
