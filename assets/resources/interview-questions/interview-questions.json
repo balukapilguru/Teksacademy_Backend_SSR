@@ -102,7 +102,7 @@
         "slug": "software-testing-interview-questions",
         "description": "Manual & Automation Testing, Selenium, JIRA, API Testing.",
         "image": {
-          "src": "/assets/interview/software-testing.webp",
+          "src": "/assets/img/interview_question/software-testing.webp",
           "alt": "Software Testing"
         },
         "button": {
@@ -116,7 +116,7 @@
         "slug": "vlsi-design-interview-questions",
         "description": "Learn ASIC, FPGA, and semiconductor design methodologies.",
         "image": {
-          "src": "/assets/interview/vlsi-design.webp",
+          "src": "/assets/img/interview_question/vlsi-design.webp",
           "alt": "VLSI Design"
         },
         "button": {
@@ -130,7 +130,7 @@
         "slug": "sap-fico-interview-questions",
         "description": "Master SAP Finance & Controlling for business applications.",
         "image": {
-          "src": "/assets/interview/sap-fico.webp",
+          "src": "/assets/img/interview_question/sap-fico.webp",
           "alt": "SAP FICO"
         },
         "button": {
@@ -144,7 +144,7 @@
         "slug": "salesforce-crm-interview-questions",
         "description": "Become a Salesforce admin & developer with Apex & LWC.",
         "image": {
-          "src": "/assets/interview/salesforce-crm.webp",
+          "src": "/assets/img/interview_question/salesforce-crm.webp",
           "alt": "Salesforce CRM"
         },
         "button": {
@@ -158,7 +158,7 @@
         "slug": "medical-coding-interview-questions",
         "description": "ICD-10, CPT, HCPCS coding for healthcare industry.",
         "image": {
-          "src": "/assets/interview/medical-coding.webp",
+          "src": "/assets/img/interview_question/medical-coding.webp",
           "alt": "Medical Coding"
         },
         "button": {
@@ -172,7 +172,7 @@
         "slug": "multimedia-interview-questions",
         "description": "Learn graphic design, 3D animation, and video editing.",
         "image": {
-          "src": "/assets/interview/multimedia.webp",
+          "src": "/assets/img/interview_question/multimedia.webp",
           "alt": "Multimedia"
         },
         "button": {
@@ -186,7 +186,7 @@
         "slug": "advanced-excel-interview-questions",
         "description": "Master Excel formulas, Pivot Tables, Macros, and VBA.",
         "image": {
-          "src": "/assets/interview/advanced-excel.webp",
+          "src": "/assets/img/interview_question/advanced-excel.webp",
           "alt": "Advanced Excel"
         },
         "button": {
@@ -242,7 +242,7 @@
         "slug": "sap-mm-interview-questions",
         "description": "SAP MM handles procurement and inventory management processes.",
         "image": {
-          "src": "/assets/interview/sap-mm.webp",
+          "src": "/assets/img/interview_question/sap-mm.webp",
           "alt": "SAP MM"
         },
         "button": {
@@ -256,7 +256,7 @@
         "slug": "cyber-security-interview-questions",
         "description": "Learn system, network, and application security practices.",
         "image": {
-          "src": "/assets/interview/cyber-security.webp",
+          "src": "/assets/img/interview_question/cyber-security.webp",
           "alt": "Cyber Security"
         },
         "button": {
@@ -270,7 +270,7 @@
         "slug": "generative-ai-interview-questions",
         "description": "Learn AI models that generate text, images, and audio.",
         "image": {
-          "src": "/assets/interview/generative-ai.webp",
+          "src": "/assets/img/interview_question/generative-ai.webp",
           "alt": "Generative AI"
         },
         "button": {
@@ -284,7 +284,7 @@
         "slug": "business-analytics-interview-questions",
         "description": "Learn business data analysis and decision-making techniques.",
         "image": {
-          "src": "/assets/interview/business-analytics.webp",
+          "src": "/assets/img/interview_question/business-analytics.webp",
           "alt": "Business Analytics"
         },
         "button": {
@@ -298,7 +298,7 @@
         "slug": "bfsi-interview-questions",
         "description": "Learn banking, securities, mutual funds, and digital banking concepts.",
         "image": {
-          "src": "/assets/interview/bfsi.webp",
+          "src": "/assets/img/interview_question/bfsi.webp",
           "alt": "BFSI Interview Prep"
         },
         "button": {
@@ -312,7 +312,7 @@
         "slug": "pmp-interview-questions",
         "description": "Master PMP interview questions and project management concepts.",
         "image": {
-          "src": "/assets/interview/pmp.webp",
+          "src": "/assets/img/interview_question/pmp.webp",
           "alt": "PMP Interview Prep"
         },
         "button": {

@@ -1393,8 +1393,27 @@
     },
     {
       "title": "Placed Students",
-      "videoCards": [
+      "videoCards": [  
         {
+          "id": 7,
+          "name": "suman-polai",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/suman-polai-java-developer.webp",
+            "alt": "suman-polai"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/suman-polai-java-developer-video.mp4"
+        },
+        {
+          "id": 7,
+          "name": "ravi-kumar",
+          "thumbnail": {
+            "src": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/ravi-kumar-digital-marketing.webp",
+            "alt": "ravi-kumar"
+          },
+          "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/img/success_Stories/ravi-kumar-digital-marketing-video.mp4"
+        },
+        {
+        
           "id": 7,
           "name": "Prasad_python",
           "thumbnail": {
@@ -1403,6 +1422,7 @@
           },
           "videoUrl": "https://teksacademynewwebsite.s3.ap-south-1.amazonaws.com/assets/success_stories_videos/Prasad_fp.mp4"
         },
+
         {
           "id": 5,
           "name": "Santhosha_sd",

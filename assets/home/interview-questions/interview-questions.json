@@ -4,112 +4,178 @@
     {
       "title": "Full Stack Python",
       "description": "Master Python, Django, and REST API development.",
-      "link": "/interview-questions/full-stack-python"
+     "image": {
+          "src": "/assets/img/interview_question/python.webp",
+          "alt": "Full Stack Python"
+        }
     },
     {
       "title": "Full Stack Java",
       "description": "Become a Java expert with Spring Boot and Microservices.",
-      "link": "/interview-questions/full-stack-java"
+       "image": {
+          "src": "/assets/img/interview_question/fullstack.webp",
+          "alt": "Full Stack Java"
+        }
     },
     {
       "title": "Data Science",
       "description": "Learn AI, ML, Deep Learning, and Big Data Analytics.",
-      "link": "/interview-questions/data-science"
+     "image": {
+          "src": "/assets/img/interview_question/data_science.webp",
+          "alt": "Data Science"
+        }
     },
     {
       "title": "Digital Marketing",
       "description": "SEO, Google Ads, Social Media Marketing, and Analytics.",
-      "link": "/interview-questions/digital-marketing"
+     "image": {
+          "src": "/assets/img/interview_question/digital_Marketing.webp",
+          "alt": "Digital Marketing"
+        }
     },
     {
       "title": "AWS & DevOps",
       "description": "Master cloud computing with AWS, Docker, and Kubernetes.",
-      "link": "/interview-questions/aws-devops"
+      "image": {
+          "src": "/assets/img/interview_question/aws_dev.webp",
+          "alt": "AWS & DevOps"
+        }
     },
     {
       "title": "BIM",
       "description": "Learn 3D modeling and construction management tools.",
-      "link": "/interview-questions/bim"
+      "image": {
+          "src": "/assets/img/interview_question/BIM.webp",
+          "alt": "BIM"
+        }
     },
     {
       "title": "Software Testing",
       "description": "Manual & Automation Testing, Selenium, JIRA, API Testing.",
-      "link": "/interview-questions/software-testing"
+       "image": {
+          "src": "/assets/img/interview_question/software_tools.webp",
+          "alt": "Software Testing"
+        }
     },
     {
       "title": "VLSI Design",
       "description": "Learn ASIC, FPGA, and semiconductor design methodologies.",
-      "link": "/interview-questions/vlsi-design"
+      "image": {
+          "src": "/assets/img/interview_question/VLSI.webp",
+          "alt": "VLSI Design"
+        }
     },
     {
       "title": "SAP FICO",
       "description": "Master SAP Finance & Controlling for business applications.",
-      "link": "/interview-questions/sap-fico"
+     "image": {
+          "src": "/assets/img/interview_question/sap.webp",
+          "alt": "SAP FICO"
+        }
     },
     {
       "title": "Salesforce CRM",
       "description": "Become a Salesforce admin & developer with Apex & LWC.",
-      "link": "/interview-questions/salesforce-crm"
+       "image": {
+          "src": "/assets/img/interview_question/salesforce.webp",
+          "alt": "Salesforce CRM"
+        }
     },
     {
       "title": "Medical Coding",
       "description": "ICD-10, CPT, HCPCS coding for healthcare industry.",
-      "link": "/interview-questions/medical-coding"
+       "image": {
+          "src": "/assets/img/interview_question/medical_coding.webp",
+          "alt": "Medical Coding"
+        }
     },
     {
       "title": "Multimedia",
       "description": "Learn graphic design, 3D animation, and video editing.",
-      "link": "/interview-questions/multimedia"
+     "image": {
+          "src": "/assets/img/interview_question/multimedia.webp",
+          "alt": "Multimedia"
+        }
     },
     {
       "title": "Advanced Excel",
       "description": "Master Excel formulas, Pivot Tables, Macros, and VBA.",
-      "link": "/interview-questions/advanced-excel"
+    "image": {
+          "src": "/assets/img/interview_question/excel_data.webp",
+          "alt": "Advanced Excel"
+        }
     },
     {
       "title": "AutoCAD",
       "description": "Master 2D drafting and 3D modeling for architecture and engineering.",
-      "link": "/interview-questions/autocad"
+     "image": {
+          "src": "/assets/img/interview_question/auto_cad.webp",
+          "alt": "AutoCAD"
+        }
     },
     {
       "title": "Revit MEP",
       "description": "Master BIM for architectural, structural, and MEP design.",
-      "link": "/interview-questions/revit-mep"
+     "image": {
+          "src": "/assets/img/interview_question/revit.webp",
+          "alt": "Revit MEP"
+        }
     },
     {
       "title": "Data Analytics",
       "description": "Data insights through analysis & visualization using key findings.",
-      "link": "/interview-questions/data-analytics"
+       "image": {
+          "src": "/assets/img/interview_question/data_analytics.webp",
+          "alt": "Data Analytics"
+        }
     },
     {
       "title": "SAP MM",
       "description": "SAP MM is a module in SAP ERP that handles procurement and inventory management.",
-      "link": "/interview-questions/sap-mm"
+      "image": {
+          "src": "/assets/img/interview_question/sap.webp",
+          "alt": "Sap MM"
+        }
     },
     {
       "title": "Cyber Security",
       "description": "Cyber security refers to the practice of protecting systems and networks.",
-      "link": "/interview-questions/cyber-security"
+     "image": {
+          "src": "/assets/img/interview_question/shield.webp",
+          "alt": "Cyber Security"
+        }
     },
     {
       "title": "Generative AI",
       "description": "Generative AI refers to algorithms that can create content such as text, images, and audio.",
-      "link": "/interview-questions/generative-ai"
+     "image": {
+          "src": "/assets/img/interview_question/ai.webp",
+          "alt": "Generative AI"
+        }
     },
     {
       "title": "Business Analytics",
       "description": "Business analytics is the process of using data and statistical analysis.",
-      "link": "/interview-questions/business-analytics"
+      "image": {
+          "src": "/assets/img/interview_question/chart.webp",
+          "alt": "Business Analytics"
+        }
     },
     {
       "title": "BFSI Interview Prep",
       "description": "Learn key concepts of Banking, Securities, Mutual Funds, and Digital Banking.",
-      "link": "/interview-questions/bfsi-interview-prep"
+      "image": {
+          "src": "/assets/img/interview_question/chart.webp",
+          "alt": "BFSI Interview Prep"
+        }
     },
     {
       "title": "PMP Interview Prep",
       "description": "Master common PMP interview questions for your next project management role.",
-      "link": "/interview-questions/pmp-interview-prep"
+      "image": {
+          "src": "/assets/img/interview_question/chart.webp",
+          "alt":"PMP Interview Prep"
+        }
     }
   ]
 }
